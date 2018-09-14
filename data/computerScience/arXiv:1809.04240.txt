@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1809.04240] Bayes-ToMoP: A Fast Detection and Best Response Algorithm Towards
+  Sophisticated Opponents</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="Bayes-ToMoP: A Fast Detection and Best Response Algorithm Towards Sophisticated Opponents" />
+<meta name="citation_author" content="Yang, Tianpei" />
+<meta name="citation_author" content="Meng, Zhaopeng" />
+<meta name="citation_author" content="Hao, Jianye" />
+<meta name="citation_author" content="Zhang, Chongjie" />
+<meta name="citation_author" content="Zheng, Yan" />
+<meta name="citation_date" content="2018/09/12" />
+<meta name="citation_online_date" content="2018/09/13" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1809.04240" />
+<meta name="citation_arxiv_id" content="1809.04240" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/cs/recent">cs</a> &gt; arXiv:1809.04240</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1809.04240"
+        dc:identifier="http://arxiv.org/abs/1809.04240"
+        dc:title="Bayes-ToMoP: A Fast Detection and Best Response Algorithm Towards
+  Sophisticated Opponents"
+        trackback:ping="http://arxiv.org/trackback/1809.04240" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1809.04240" accesskey="f">PDF</a></li>
+<li><a href="/format/1809.04240">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">cs.MA</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.04240&amp;context=cs.MA&amp;function=prev" accesskey="p" title="previous in cs.MA (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.04240&amp;context=cs.MA&amp;function=next" accesskey="n" title="next in cs.MA (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/cs.MA/new">new</a>&nbsp;| <a href="/list/cs.MA/recent">recent</a>&nbsp;| <a href="/list/cs.MA/1809">1809</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1809.04240?context=cs">cs</a>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1809.04240">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04240%26title%3DBayes-ToMoP%253A%2520A%2520Fast%2520Detection%2520and%2520Best%2520Response%2520Algorithm%2520Towards%250A%2520%2520Sophisticated%2520Opponents%26authors%3D&amp;v=61e47e8e" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04240%26description%3DBayes-ToMoP%253A%2520A%2520Fast%2520Detection%2520and%2520Best%2520Response%2520Algorithm%2520Towards%250A%2520%2520Sophisticated%2520Opponents&amp;v=5528e5ec" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04240&amp;v=971eefc1" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04240%26description%3DBayes-ToMoP%253A%2520A%2520Fast%2520Detection%2520and%2520Best%2520Response%2520Algorithm%2520Towards%250A%2520%2520Sophisticated%2520Opponents&amp;v=b33d98f7" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04240%26title%3DBayes-ToMoP%253A%2520A%2520Fast%2520Detection%2520and%2520Best%2520Response%2520Algorithm%2520Towards%250A%2520%2520Sophisticated%2520Opponents&amp;v=4f9c52da" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04240%26title%3DBayes-ToMoP%253A%2520A%2520Fast%2520Detection%2520and%2520Best%2520Response%2520Algorithm%2520Towards%250A%2520%2520Sophisticated%2520Opponents&amp;v=c2a958c3" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04240&amp;v=bf7435ec" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Computer Science > Multiagent Systems</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+Bayes-ToMoP: A Fast Detection and Best Response Algorithm Towards  Sophisticated Opponents</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/cs?searchtype=author&query=Yang%2C+T">Tianpei Yang</a>, 
+<a href="/search/cs?searchtype=author&query=Meng%2C+Z">Zhaopeng Meng</a>, 
+<a href="/search/cs?searchtype=author&query=Hao%2C+J">Jianye Hao</a>, 
+<a href="/search/cs?searchtype=author&query=Zhang%2C+C">Chongjie Zhang</a>, 
+<a href="/search/cs?searchtype=author&query=Zheng%2C+Y">Yan Zheng</a></div>
+<div class="dateline">(Submitted on 12 Sep 2018 (<a href="/abs/1809.04240v1">v1</a>), last revised 13 Sep 2018 (this version, v2))</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> Multiagent algorithms often aim to accurately predict the behaviors of other
+agents and find a best response during interactions accordingly. Previous works
+usually assume an opponent uses a stationary strategy or randomly switches
+among several stationary ones. However, in practice, an opponent may exhibit
+more sophisticated behaviors by adopting more advanced strategies, e.g., using
+a bayesian reasoning strategy. This paper presents a novel algorithm called
+Bayes-ToMoP which can efficiently detect and handle opponents using either
+stationary or higher-level reasoning strategies. Bayes-ToMoP also supports the
+detection of previous unseen policies and learning a best response policy
+accordingly. Deep Bayes-ToMoP is proposed by extending Bayes-ToMoP with DRL
+techniques. Experimental results show both Bayes-ToMoP and deep Bayes-ToMoP
+outperform the state-of-the-art approaches when faced with different types of
+opponents in two-agent competitive games.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Multiagent Systems (cs.MA)</span></td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1809.04240">arXiv:1809.04240</a> [cs.MA]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1809.04240v2">arXiv:1809.04240v2</a> [cs.MA]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Tianpei Yang [<a href="https://arxiv.org/show-email/106c6220/1809.04240">view email</a>]
+<br />
+<b><a href="/abs/1809.04240v1">[v1]</a></b> Wed, 12 Sep 2018 03:07:01 GMT  (334kb,D)<br />
+<b>[v2]</b> Thu, 13 Sep 2018 07:46:44 GMT  (334kb,D)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1809.04240">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

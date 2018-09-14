@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<!-- ChartBeat -->
+		<script type="text/javascript">
+			var _sf_async_config = _sf_async_config || {};
+			/** CONFIGURATION START **/
+			_sf_async_config.uid = 65623; // ACCOUNT NUMBER
+			_sf_async_config.domain = 'gazetadopovo.com.br'; // DOMAIN
+			_sf_async_config.flickerControl = false;
+			_sf_async_config.useCanonical = true;
+			/** CONFIGURATION END **/
+			var _sf_startpt = (new Date()).getTime();
+		</script>
+		<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+		<!-- /ChartBeat -->			
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		<meta name="google-site-verification" content="BClrniu2iMSr-RsUMx-ijkDIYULrcMpYHz3Kvkin0fU" />
+				
+		<title>Página não encontrada | Viver Bem</title>
+		<!-- Publicidade -->
+		<script>
+			var idBlocoAnuncio = "/7601/gp-viver-bem/home";
+			var urlPublicidade = "//www.gazetadopovo.com.br/viver-bem/wp-content/themes/viverbem/js/publicidade.js?v=91"; 
+		</script>
+		<!-- END Publicidade -->
+		
+<!-- This site is optimized with the Yoast SEO plugin v7.5.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<link rel="canonical" href="https://www.gazetadopovo.com.br/viver-bem/" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Página não encontrada | Viver Bem" />
+<meta property="og:url" content="https://www.gazetadopovo.com.br/viver-bem/" />
+<meta property="og:site_name" content="Viver Bem" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//tracker-static.gazetadopovo.com.br' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.gazetadopovo.com.br\/viver-bem\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://www.gazetadopovo.com.br/viver-bem/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css'  href='//www.gazetadopovo.com.br/viver-bem/wp-content/themes/viverbem/css/all2.css?ver=91' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css'  href='https://www.gazetadopovo.com.br/viver-bem/wp-content/plugins/newsletter/style.css?ver=5.4.8' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.gazetadopovo.com.br/viver-bem/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='//www.gazetadopovo.com.br/viver-bem/wp-content/plugins/gazeta-toolbar/public/js/jquery-no-conflict.js?ver=4.9.5'></script>
+<script type='text/javascript'>
+var GP_TOOLBARS_ENVIRONMENT = 'PROD';
+</script>
+<script type='text/javascript' src='https://tracker-static.gazetadopovo.com.br/v1/GazetaDoPovoSDK.js?ver=4.9.5'></script>
+<script type='text/javascript' src='https://tracker-static.gazetadopovo.com.br/toolbars/dist/GazetaDoPovoToolbar.gz?ver=4.9.5'></script>
+<script type='text/javascript' src='https://tracker-static.gazetadopovo.com.br/libs/pageEvents/events-page.min.gz?ver=4.9.5'></script>
+<script type='text/javascript' src='https://www.gazetadopovo.com.br/viver-bem/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//www.gazetadopovo.com.br/viver-bem/wp-content/themes/viverbem/js/all.js?ver=91'></script>
+<link rel='https://api.w.org/' href='https://www.gazetadopovo.com.br/viver-bem/wp-json/' />
+			<script>
+				var fbpixel = null;
+			</script>
+				<link rel="stylesheet" type="text/css" href="https://apps.gazetadopovo.com.br/barra-grpcom/c-nav-barra-grpcom_min.css"/>
+
+	</head>
+			<body>
+			<!-- Dados Estruturados: Searchbox -->
+		<script type="application/ld+json">
+			{
+				"@context": "http://schema.org",
+				"@type": "WebSite",
+				"name": "Viver Bem",
+				"url": "https://www.gazetadopovo.com.br/viver-bem/",
+				"potentialAction": {
+					"@type": "SearchAction",
+					"target": "https://www.gazetadopovo.com.br/viver-bem/?s={search_term_string}",
+					"query-input": "required name=search_term_string"
+				}
+			}
+		</script>
+		<!-- /Dados Estruturados: Searchbox -->		
+		<script type="text/javascript">
+			var $ = jQuery.noConflict();
+			$(document).ready(function () {
+			}(jQuery));
+		</script>
+		<!-- Navegg -->
+		<script id="navegg" type="text/javascript" src="//tag.navdmp.com/tm38609.js" async></script>
+		<!-- END Navegg -->
+
+		<!-- BEGIN WebView -->
+		<link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/tracker-static.gazetadopovo.com.br/toolbars/terceiros/assets/c-barra-terceiros.min.css?date=20180508"/>
+
+<section id="gp-barra-terceiros" class="c-barra-terceiros">
+    <nav class="navega">
+        <ul class="navega-fixo">
+            <li>
+                <a href="https://www.gazetadopovo.com.br" title="Gazeta do Povo">
+                    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 353.61 59.53" class="logotipo-gazeta desktop">
+                        <path d="M359.12,67.69c-2.4,0-2.4-.48-2.4-17.9s0-17.82,2.4-17.82,2.48,0.47,2.48,17.82,0,17.9-2.48,17.9m0,11.59c5.26,0,8.64-.79,10.51-2.76,3.6-3.78,3.75-11.9,3.75-27,0-13.33-.15-21.92-3.68-26.26-1.88-2.29-5.33-3.47-10.59-3.47s-8.71,1.18-10.66,3.63c-3.46,4.42-3.61,13-3.61,26.1,0,13.8.15,22.39,3.83,26.65,1.88,2.13,5.26,3.16,10.44,3.16m-37.18-.15h15.24l8-58.82H333.36L330.89,45l-1.13,14.82L328.56,45,326,20.31H314ZM300,67.69c-2.4,0-2.4-.48-2.4-17.9S297.62,32,300,32s2.48,0.47,2.48,17.82,0,17.9-2.48,17.9m0,11.59c5.25,0,8.64-.79,10.51-2.76,3.6-3.78,3.75-11.9,3.75-27,0-13.33-.15-21.92-3.68-26.26-1.88-2.29-5.33-3.47-10.59-3.47s-8.71,1.18-10.66,3.63c-3.45,4.42-3.61,13-3.61,26.1,0,13.8.15,22.39,3.83,26.65,1.88,2.13,5.25,3.16,10.44,3.16m-31.15-29V31.9h2c2.1,0,2.18,1.65,2.18,9.38,0,7.41-.07,9-2.18,9h-2ZM257.23,78.73h11.64V61.62h3.53c11.11,0,12.24-8.6,12.24-21.29s-1.12-20-12.76-20H257.22V78.73h0Zm-23.57-11c-2.4,0-2.4-.48-2.4-17.9s0-17.82,2.4-17.82,2.48,0.47,2.48,17.82,0,17.9-2.48,17.9m0,11.59c5.26,0,8.64-.79,10.51-2.76,3.6-3.78,3.76-11.9,3.76-27,0-13.33-.15-21.92-3.68-26.26-1.88-2.29-5.33-3.47-10.59-3.47s-8.71,1.18-10.66,3.63c-3.46,4.42-3.6,13-3.6,26.1,0,13.8.15,22.39,3.83,26.65,1.88,2.13,5.26,3.16,10.44,3.16M201.59,68.09V31.5h1.73c3,0,3,2.36,3,18.29s0,18.29-3,18.29h-1.73ZM189.95,78.73h14.79c5,0,8-1,10-3.47,3.38-4,3.38-12.06,3.38-25.78,0-12.69,0-20.66-3-25-2-2.92-5-4.18-10.36-4.18H189.95V78.73ZM164.58,54.52l1.13-12.3,1.13,12.3,0.68,6h-3.6ZM150.16,78.73H161.8l0.75-6.86h6.23l0.83,6.86h12.16l-9-58.81H159.1Zm-15.49,0h11.79V32.13h7.06V20.31H127.84V32.13h6.83v46.6h0Zm-29.23,0H127V67.38h-9.91V55.15h9.69V43.41h-9.69V32.29H127v-12H105.44V78.73Zm-26.25,0h24.93V67.38H92l11.64-36.5V20.31H79.87v12H91.13L79.19,69.43v9.3ZM61.59,54.52l1.13-12.3,1.13,12.3,0.68,6h-3.6ZM47.18,78.73H58.81l0.75-6.86H65.8l0.83,6.86H78.79l-9-58.81H56.11ZM34.27,79c5.18,0,8-1.1,9.76-2.84,2.7-2.92,3.38-8,3.38-15.93V42.86H33.07V54.29H37v7c0,6.07,0,7.41-2.78,7.41s-2.85-2.6-2.85-18.92c0-16.64,0-17.9,4.58-17.9a40.14,40.14,0,0,1,7.43.79L45.69,21a51.5,51.5,0,0,0-11-1.1c-5.18,0-9.31,1.18-11.26,3.63-3.6,4.34-3.6,12.69-3.6,25.94,0,14.9.15,22.86,4.13,27,1.88,2,4.35,2.52,10.36,2.52" transform="translate(-19.78 -19.75)"></path>
+                    </svg>
+                    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 58.11 42.52" class="logotipo-gazeta mobile">
+                        <polygon points="29.59 3.94 29.59 0.14 21.31 0.14 21.31 4.45 25.25 4.45 21.08 17.78 21.08 21.12 29.76 21.12 29.76 17.05 25.53 17.05 29.59 3.94"></polygon>
+                        <polygon points="47.76 4.39 47.76 0.14 47.43 0.14 38.79 0.14 38.79 4.39 41.19 4.39 41.19 21.12 45.3 21.12 45.3 4.39 47.43 4.39 47.76 4.39"></polygon>
+                        <path d="M15.24,0h-2.3L9.82,21.12h4.06l.25-2.47h2.18l.3,2.47h4.23L17.7,0Zm0,14.57h-.62l.23-2.15L15.24,8V8l.39,4.39.23,2.15Z"></path>
+                        <path d="M4.64,12.34H6v2.51c0,2.2,0,2.68-1,2.68s-1-.93-1-6.8,0-6.41,1.6-6.41a14.19,14.19,0,0,1,2.6.28L9,.4A17,17,0,0,0,5.18,0C3.38,0,1.95.42,1.26,1.31,0,2.86,0,5.87,0,10.63c0,5.32.06,8.19,1.45,9.7.65.7,1.53.9,3.61.9,1.81,0,2.8-.4,3.41-1,.93-1,1.17-2.88,1.17-5.71V8.25h-5Z"></path>
+                        <polygon points="30.71 21.12 38.23 21.12 38.23 17.05 34.77 17.05 34.77 12.65 38.15 12.65 38.15 8.44 34.77 8.44 34.77 4.45 38.23 4.45 38.23 0.14 30.71 0.14 30.71 21.12"></polygon>
+                        <path d="M52.51,0H50.2L47.43,18.87l-.34,2.26h4.06l.26-2.47h2.16l.3,2.47h4.23L55,0Zm0,14.57h-.62l.23-2.15L52.51,8V8l.41,4.4.23,2.15Z"></path>
+                        <path d="M26.1,23.9H21.61V42.36h3.57V36.95h1.08c3.41,0,3.75-2.72,3.75-6.72S29.67,23.9,26.1,23.9Zm-.27,9.46h-.64V27.57h.64c.63,0,.64.55.64,3S26.45,33.35,25.82,33.36Z"></path>
+                        <path d="M13.82,23.73h0c-1.63,0-2.67.37-3.26,1.14C9.47,26.27,9.43,29,9.43,33.13c0,4.34,0,7.05,1.18,8.41.58.67,1.6,1,3.19,1h0c1.62,0,2.64-.25,3.22-.86,1.11-1.2,1.15-3.76,1.15-8.53,0-4.22,0-6.93-1.12-8.3C16.49,24.1,15.43,23.73,13.82,23.73Zm0,15.13h0c-.73,0-.73-.15-.73-5.65s0-5.61.73-5.61h0c.75,0,.75.18.75,5.61S14.57,38.86,13.82,38.86Z"></path>
+                        <path d="M35,23.73h0c-1.63,0-2.67.37-3.26,1.14-1.07,1.4-1.11,4.11-1.11,8.26,0,4.34,0,7.05,1.18,8.41.58.67,1.6,1,3.19,1h0c1.62,0,2.64-.25,3.22-.86,1.11-1.2,1.15-3.76,1.15-8.53,0-4.22,0-6.93-1.12-8.3C37.64,24.1,36.59,23.73,35,23.73Zm0,15.13h0c-.73,0-.73-.15-.73-5.65s0-5.61.73-5.61h0c.75,0,.75.18.75,5.61S35.72,38.86,35,38.86Z"></path>
+                        <polygon points="44.75 31.7 44.4 36.37 44.03 31.7 43.25 23.9 39.57 23.9 42.01 42.48 46.69 42.48 49.13 23.9 45.51 23.9 44.75 31.7"></polygon>
+                        <path d="M57,24.83c-.58-.73-1.63-1.1-3.23-1.1h0c-1.64,0-2.67.37-3.27,1.14-1.05,1.4-1.11,4.11-1.11,8.26,0,4.34.05,7.05,1.18,8.41.58.67,1.62,1,3.2,1h0c1.6,0,2.63-.25,3.2-.86,1.11-1.2,1.16-3.76,1.16-8.53C58.11,28.91,58.06,26.2,57,24.83Zm-3.23,14h0c-.74,0-.74-.15-.74-5.65s0-5.61.74-5.61h0c.74,0,.74.18.74,5.61S54.48,38.86,53.74,38.86Z"></path>
+                        <path d="M4.53,23.9H0V42.36H4.53c1.53,0,2.46-.33,3.05-1.1,1-1.27,1-3.82,1-8.13,0-4,0-6.53-.92-7.9C7.08,24.3,6.16,23.9,4.53,23.9ZM4.29,39a.81.81,0,0,1-.19,0H3.56V27.44h.73c.73.12.73,1.12.73,5.75S5,38.85,4.29,39Z"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.gazetadopovo.com.br/populares" title="Populares">
+                    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 23.8 21.9" class="ico-barra ico-populares">
+                        <polygon points="5.9,13.5 0,8.3 0.9,7.3 6,11.9 22.5,1.7 23.1,2.8"></polygon>
+                        <polygon points="22.1,7.6 20.9,7.3 22.2,2.5 17.8,1.2 18.2,0 23.8,1.6"></polygon>
+                        <rect x="0.9" y="14" width="1.3" height="7.9"></rect>
+                        <rect x="5.3" y="16.2" width="1.3" height="5.7"></rect>
+                        <rect x="9.7" y="14" width="1.3" height="7.9"></rect>
+                        <rect x="14.2" y="11.7" width="1.3" height="10.3"></rect>
+                        <rect x="18.6" y="9.4" width="1.3" height="12.6"></rect>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.gazetadopovo.com.br/obsessoes" title="ObsessÃµes">
+                    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 15.8 24.7" class="ico-barra ico-obsessoes">
+                        <path d="M15.8,15.1l0-0.7c-0.1-3.2-2-5.8-4.7-7V1.3H12V0h-0.9H4.8H3.8v1.3h0.9v6.1C2,8.6,0.1,11.2,0,14.4l0,0.7h7.3v9.6h1.3v-9.6 H15.8z M6.1,7V1.3h3.7V7c0,0,0,0,0,0C9.5,6.9,9.2,6.9,9,6.8c0,0-0.1,0-0.1,0c-0.3,0-0.6-0.1-0.9-0.1c-0.3,0-0.6,0-0.9,0.1 c0,0-0.1,0-0.1,0C6.6,6.9,6.3,6.9,6.1,7C6.1,7,6.1,7,6.1,7z M5.3,8.6l0.3-0.1c1.5-0.6,3.1-0.6,4.6,0l0.3,0.1c2.1,0.9,3.7,2.8,4,5.2 H1.4C1.7,11.4,3.2,9.5,5.3,8.6z"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.gazetadopovo.com.br/ultimas" title="Ãšltimas">
+                    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 22 22" class="ico-barra ico-ultimas">
+                        <polygon points="11.6,10.8 11.6,3.4 10.3,3.4 10.3,11.3 15.8,16.6 16.7,15.6 "></polygon>
+                        <path d="M11,1.3c5.3,0,9.7,4.4,9.7,9.7s-4.4,9.7-9.7,9.7S1.3,16.3,1.3,11S5.7,1.3,11,1.3 M11,0C4.9,0,0,4.9,0,11 s4.9,11,11,11s11-4.9,11-11S17.1,0,11,0L11,0z"></path>
+                    </svg>
+                </a>
+            </li>
+        </ul>
+        <ul id="navega-login" class="navega-login"></ul>
+        <div id ="box-usuario" class="box-usuario"></div>
+    </nav>
+</section>
+
+<!-- notifications -->
+<style type="text/css">body{margin:0;padding:0}.gp-header~.notifications__barra-gp{margin:-30px 0 35px}.notifications__{position:relative}.notifications__ .notifications__box{display:none;background-color:#da3333;text-align:center;line-height:110%}.notifications__ .notifications__close,.notifications__container{display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}.notifications__ .notifications__close{height:22px;width:95px;cursor:pointer;font-size:14px;line-height:0;border:1px solid rgba(255,255,255,.3);margin:10px 0}.notifications__ .notifications__close:hover{background-color:rgba(255,255,255,.2)}.notifications__ b,.notifications__ dfn,.notifications__ i,.notifications__ p{font:initial;font-family:Source Sans Pro,sans-serif;color:#fff;font-size:14px;text-decoration:none}.notifications__ a,.notifications__ u{font:initial;font-family:Source Sans Pro,sans-serif;color:#fff;font-size:14px}.notifications__ dfn{font-style:normal}.notifications__ p{margin:0;padding:0}.notifications__ a{text-decoration:none;border-bottom:1px dotted #fff}.notifications__ a:hover{border-bottom:1px solid #fff}.notifications__ b{font-weight:700}.notifications__ i{font-style:italic}.notifications__ u{text-decoration:underline}.notifications__container{margin-right:auto;margin-left:auto;padding:10px 20px 0;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}@media (min-width:768px){.notifications__container{width:750px}}@media (min-width:992px){.notifications__container{width:970px}}@media (min-width:1200px){.notifications__container{width:1170px}}</style>
+<div class="notifications__ notifications__barra-gp" style="display:none;"><div class="notifications__box" id="notifications__1" style="display: block;"><dfn class="notifications__container"></dfn></div></div>
+<script type="text/javascript">var notifications=[],page=1,total=0;function getNotifications__(){GazetaDoPovo.Notifications.getActiveList().then(i=>{console.log(i),total=(notifications=i).length,page=1,total>0&&(console.log("total > 0"),$(".notifications__barra-gp").toggle(),notifications__(),enableCloseMessage__())})}function enableCloseMessage__(){$(".notifications__").on("click",".notifications__close",function(){GazetaDoPovo.Notifications.close(notifications[0].id).then(()=>{notifications.shift(),$("#notifications__"+$(".notifications__close").data("id")).slideUp(function(){notifications.length>0&&notifications__()})}).catch(function(){})})}function notifications__(){date=new Date(notifications[0].date),d=date.toLocaleString("pt-BR"),btn=page!=total?page+" / "+total+" - Pr&oacute;ximo":"Fechar",message=notifications[0].message,null==message.match(/^<p>/g)&&(message=$("<p>").html(message),message=message[0].outerHTML),html='<div class="notifications__box" id="notifications__'+notifications[0].id+'"><dfn class="notifications__container"><p>'+d.slice(0,-3)+"</p>"+message+'<dfn class="notifications__close" data-id="'+notifications[0].id+'">'+btn+"</dfn></dfn></div>",$(".notifications__").html(html),$(".notifications__  .notifications__box").slideDown(),page++}GazetaDoPovo.Account.isLogged()&&getNotifications__();</script>
+		<!-- END WebView -->
+
+		<!-- Facebook -->
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3&appId=387313271473557";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<!-- END Facebook -->
+
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WSPVJF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WSPVJF');</script>
+		<!-- END Google Tag Manager -->
+
+		<!-- Sociabilização -->
+				<!-- END Sociabilização -->
+		
+		<!-- Facebook -->
+		<div id="fb-root"></div>
+		<script>
+			(function(d){
+				var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+				if (d.getElementById(id)) {return;}
+				js = d.createElement('script'); js.id = id; js.async = true;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				ref.parentNode.insertBefore(js, ref);
+			}(document));
+			// FB SDK
+			window.fbAsyncInit = function() {
+				FB.init({
+					appId: '177965385645114',
+					version: 'v2.0',
+					cookie: true,
+					status: true,
+					xfbml: true,
+					oauth: true
+				});
+			}
+		</script>
+		<!-- END Facebook -->
+
+				<div class="c-publi c-publi-premium pos-mod-8">
+			<div id="pos-mod-8"></div>
+		</div>
+
+		<!-- MENU FIXO -->
+		<div class="fullWidth vb_menu_off vb_menu_fixo ">
+			<section class="container_6  clearfix">
+				<div class="grid_2 vb_fixo_logo_categoria">
+					<a href="https://www.gazetadopovo.com.br/viver-bem"><img class="logo" itemprop="logo" src="//www.gazetadopovo.com.br/viver-bem/wp-content/themes/viverbem/images/viverbem-logo.png" alt="Viver Bem" width="100"/></a>
+				</div>
+					<div class="grid_2">&nbsp;</div>
+						<div class="grid_2">
+					<ul class="vb_menu_icones">
+						<li>
+							
+			<form action="https://www.gazetadopovo.com.br/viver-bem" class="search-form" id="searchform" method="get" role="search">
+			   <label>
+				   <input type="search" title="busca" name="s" value="" placeholder="busca..." class="search-field vb_busca_icone">                                   
+				   <span class="vb_busca_icone screen-reader-text"></span>
+			   </label>
+			   <input type="submit" value="ok" class="search-submit">
+			</form>						</li>
+						<li><a class="vb_menu_icone more_fixo" href="#">&nbsp;</a></li>
+					</ul>
+				</div>
+			</section>
+		</div>
+		<!-- FIM MENU FIXO -->
+		<header id='header_decoracao' class="vb_bg_cinza container_6 fullWidth">
+			<section class="container_6  center vb_header clearfix">
+				<div class="grid_2">
+									</div>
+
+										<div class="grid_2 vb_logo">
+					<div itemscope itemtype="https://www.gazetadopovo.com.br/viver-bem">
+					  <a itemprop="url" href="https://www.gazetadopovo.com.br/viver-bem" class="logo_home">Viver Bem</a>
+					</div>
+				</div>
+							<div class="grid_2">
+					<ul class="vb_menu_icones">
+						<li>
+							
+			<form action="https://www.gazetadopovo.com.br/viver-bem" class="search-form" id="searchform" method="get" role="search">
+			   <label>
+				   <span class="screen-reader-text"></span>
+				   <input type="search" title="busca" name="s" value="" placeholder="busca..." class="search-field">
+			   </label>
+			   <input type="submit" value="ok" class="search-submit">
+			</form>						</li>
+						<li><a class="vb_menu_icone more" href="#">&nbsp;</a></li>					</ul>
+				</div>
+				<ul id="menu-pagina_inicial" class="grid_6 vb_menu menu"><li id="menu-item-174561" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174561 vb_saude-e-bem-estar vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/saude-e-bem-estar/" data-banner="vb_saude-e-bem-estar">Saúde e Bem-Estar</a></li>
+<li id="menu-item-2514" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2514 vb_comportamento vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/comportamento/" data-banner="vb_comportamento">Comportamento</a></li>
+<li id="menu-item-174366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174366 vb_moda-e-beleza vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/moda-e-beleza/" data-banner="vb_moda-e-beleza">Moda e beleza</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2519 vb_turismo vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/turismo/" data-banner="vb_turismo">Turismo</a></li>
+<li id="menu-item-2511" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2511 vb_animal vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/animal/" data-banner="vb_animal">Animal</a></li>
+<li id="menu-item-234142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234142"><a href="https://www.gazetadopovo.com.br/viver-bem/cachorro-do-ano/">Cachorro do Ano</a></li>
+<li id="menu-item-198686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198686"><a title="Marcos Piangers" href="https://www.gazetadopovo.com.br/viver-bem/marcos-piangers/">Piangers</a></li>
+<li id="menu-item-218448" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-218448 vb_especial-patrocinado vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/especial-patrocinado/" data-banner="vb_especial-patrocinado">Especial Patrocinado</a></li>
+<li class="vb_mais"><a class="more" href="#">Mais</a><span class="icon"></span></li></ul>			</section>
+		</header>
+		<nav class="container_6 clearfix vb_menu_aberto ">
+			<div class="grid_6">
+				<div class="vb_menu_categorias">
+					<ul id="menu-pagina_inicial-1" class="grid_6 vb_menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174561 vb_saude-e-bem-estar vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/saude-e-bem-estar/" data-banner="vb_saude-e-bem-estar">Saúde e Bem-Estar</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2514 vb_comportamento vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/comportamento/" data-banner="vb_comportamento">Comportamento</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174366 vb_moda-e-beleza vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/moda-e-beleza/" data-banner="vb_moda-e-beleza">Moda e beleza</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2519 vb_turismo vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/turismo/" data-banner="vb_turismo">Turismo</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2511 vb_animal vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/animal/" data-banner="vb_animal">Animal</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-234142"><a href="https://www.gazetadopovo.com.br/viver-bem/cachorro-do-ano/">Cachorro do Ano</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198686"><a title="Marcos Piangers" href="https://www.gazetadopovo.com.br/viver-bem/marcos-piangers/">Piangers</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-218448 vb_especial-patrocinado vb_banner"><a href="https://www.gazetadopovo.com.br/viver-bem/especial-patrocinado/" data-banner="vb_especial-patrocinado">Especial Patrocinado</a></li>
+</ul>					<ul class="vb_menu_publicacoes vb_menu">
+						<li class="leiatb"><span>Leia também</span>
+							<a href="https://gazetadopovo.com.br/bomgourmet">
+								<img src="//www.gazetadopovo.com.br/viver-bem/wp-content/themes/viverbem/images/logo_bomgourmet.png" width="109" alt="Bom Gourmet" />
+							</a>
+						</li>
+						<li class="vb_haus">
+							<span>Leia mais</span>
+							<a href="https://www.gazetadopovo.com.br/haus/">
+								<img src="//www.gazetadopovo.com.br/viver-bem/wp-content/themes/viverbem/images/logo_haus.png" width="60" alt="Haus" />
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<!-- VOLTAR AO TOPO -->
+		<div class="voltar_topo"></div>
+		<!-- VOLTAR AO TOPO -->
+			<div class="sliderContainer fullWidth clearfix">
+					<img src="https://www.gazetadopovo.com.br/viver-bem/wp-content/themes/viverbem/images/vb_bg_404.jpg" />
+				<section class="container_6 center clearfix">
+					<ul class="grid_6 vb_breadcrumb"><li><a href="https://www.gazetadopovo.com.br">Gazeta do Povo</a></li><li><a href="https://www.gazetadopovo.com.br/viver-bem">Viver Bem</a></li></ul>					<div class="grid_6">
+						<h2 class="vb_categoria">erro 404</h2>
+					</div>
+					<div class="grid_4 push_1 clearfix">	
+						<p> Desculpe, essa página não está disponível.</p>
+						<p>O link que você seguiu pode estar quebrado ou a página pode ter sido removida.</p>
+						<a class="vb_comunique_erro" href="https://www.gazetadopovo.com.br/faleconosco" target="_blank"><span class="leia"> <strong>!</strong> comunique um erro &raquo;</span></a>
+					</div>
+				</section>
+			</div>
+			
+			<section class="container_6 center clearfix" id="1">
+				<div class="vb_publicidade c-publi-premium">
+					<div class="c-publi">
+						<div id="pos-1"></div>
+					</div>
+				</div>
+			</section><span id='tracker-data'
+                    data-site='viver-bem'
+                    data-article=''
+                    data-section='error'>
+              </span>				<!-- BEGIN WebView -->
+				<!-- Rodapé -->
+		<footer class="fullWidth center vb_footer">
+				<ul>
+					<li>
+						<span>Assine o RSS</span>
+						<a href="https://www.gazetadopovo.com.br/viver-bem/feed/"><span title="RSS" id="rss"></span></a>
+					</li>
+					<li>
+						<span>Compartilhe</span>
+						<a target="_blank" href="//www.facebook.com/share.php?u=https://www.gazetadopovo.com.br/viver-bem"><span title="Compartilhe no Facebook" id="compartilhe_fb"></span></a>
+						<a target="_blank" href="//twitter.com/intent/tweet?url=https://www.gazetadopovo.com.br/viver-bem&amp;text=Viver Bem"><span title="Compartilhe no Twitter" id="compartilhe_tt"></span></a>
+						<a target="_blank" href="//www.tumblr.com/share/link?url=https://www.gazetadopovo.com.br/viver-bem&amp;name=Viver Bem&amp;description=Notícias e dicas sobre maternidade, filhos, festas, animais, turismo,  moda e beleza, comportamento e muito mais no Viver Bem, da Gazeta do Povo"><span title="Compartilhe no Tumblr" id="compartilhe_tb"></span></a>
+						<a href="whatsapp://send?text=https://www.gazetadopovo.com.br/viver-bem"><span title="Compartilhe no Whatsapp" id="compartilhe_wa"></span></a>
+					</li>
+					<li>
+						<span>Todas as notícias</span>
+						<a href="https://www.gazetadopovo.com.br/viver-bem/arquivo/"><span title="Totas as notícias" id="todas_noticias"></span></a>
+					</li>
+				</ul>
+				<ul id="menu-rodape" class="container_6"><li id="menu-item-107235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107235"><a href="http://midiakitgazetajornais.com.br/">Anuncie</a></li>
+<li id="menu-item-106692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106692"><a href="https://www.gazetadopovo.com.br/faleconosco/">Entre em Contato</a></li>
+<li id="menu-item-162248" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-162248"><a href="https://www.gazetadopovo.com.br/expediente/">Expediente</a></li>
+</ul>		</footer>
+		<div class="fullWidth center vb_footer_logo">
+			<a href="https://www.gazetadopovo.com.br/viver-bem"><img src="//www.gazetadopovo.com.br/viver-bem/wp-content/themes/viverbem/images/viverbem-logo-branca.png" width="97" height="21" alt="Viver Bem"/></a>
+		</div>
+		<div class="container_6 vb_barragrpcom">
+			<div class="grid_6">
+				<nav id="c-nav-barra-grpcom" class="c-nav-barra-grpcom">
+	<ul>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:grpcom" target="_blank" title="GRPCOM" href="http://www.grpcom.com.br/" class="grpcom"><span>GRPCOM - Grupo Paranaense de Comunica&ccedil;&atilde;o</span></a></li>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:gazeta-jornais" title="Gazeta do Povo Jornais" class="gazetajornais"><span>Gazeta do Povo Jornais</span></a></li>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:gazeta" target="_blank" title="Gazeta do Povo" href="https://www.gazetadopovo.com.br/" class="gazeta"><span>Gazeta do Povo</span></a></li>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:tribuna" target="_blank" title="Tribuna" href="https://www.tribunapr.com.br/" class="tribuna"><span>Tribuna</span></a></li>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:sempre-familia" target="_blank" title="Sempre Família" href="https://www.semprefamilia.com.br/" class="semprefamilia"><span>Sempre Fam&aicute;lia</span></a></li>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:rpctv" target="_blank" title="RPC TV" href="http://redeglobo.globo.com/rpc/" class="rpctv"><span>RPC</span></a></li>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:hdview" target="_blank" title="HDView" href="http://www.grpcom.com.br/unidades/hdview.html" class="hdview"><span>HDView</span></a></li>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:98fm" target="_blank" title="98 FM" href="http://www.98fmcuritiba.com.br/" class="noventaeoitofm"><span>98 FM</span></a></li>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:mundo-livre" target="_blank" title="Mundo Livre FM" href="http://www.mundolivrefm.com.br/rede/" class="mundolivre"><span>Mundo Livre FM</span></a></li>
+		<li><a data-tracking-gtm="clickEvent" data-tracking-action="materia:rodape:click" data-tracking-label="sites-grupo:instituto" target="_blank" title="Instituto GRPCOM" href="http://www.institutogrpcom.org.br/" class="instituto"><span>Instituto GRPCOM</span></a></li>
+	</ul>
+</nav>
+			</div>
+		</div>
+				<!-- END WebView -->
+
+			
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":[],"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.gazetadopovo.com.br/viver-bem/wp-content/plugins/newsletter/subscription/validate.js?ver=5.4.8'></script>
+<script type='text/javascript' src='https://www.gazetadopovo.com.br/viver-bem/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
+
+	
+		<!-- ChartBeat -->
+	<script type='text/javascript'>
+		var _sf_async_config = _sf_async_config || {};
+		/** CONFIGURATION START **/
+		_sf_async_config.sections = '/viver-bem'; //CHANGE THIS
+		_sf_async_config.authors = ''; //CHANGE THIS
+
+		/* CONFIGURATION END */
+		(function () {
+			function loadChartbeat() {
+				window._sf_endpt = (new Date()).getTime();
+				var e = document.createElement('script');
+				e.setAttribute('language', 'javascript');
+				e.setAttribute('type', 'text/javascript');
+				e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+				document.body.appendChild(e);
+			}
+			loadChartbeat();
+		})();
+	</script>
+	<!-- /ChartBeat -->
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced (Page is 404) 
+
+Served from: www.gazetadopovo.com.br @ 2018-09-14 15:39:35 by W3 Total Cache
+-->

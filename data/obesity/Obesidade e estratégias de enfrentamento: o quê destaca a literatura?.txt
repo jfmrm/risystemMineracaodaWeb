@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scielo.php?script=sci_arttext&amp;pid=S1645-00862016000300013&amp;sa=U&amp;ved=0ahUKEwiDwojfxbrdAhWBxpAKHbCGBxc4HhAWCDQwBg&amp;usg=AOvVaw2A1XBIsKcNTcB5upLh08Tt was not found on this server.</p>
+<hr>
+<address>Apache/2.2.3 (CentOS) Server at <a href="mailto:it@rae.mec.pt">www.scielo.mec.pt</a> Port 80</address>
+</body></html>

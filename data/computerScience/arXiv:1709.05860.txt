@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1709.05860] Microscopy Cell Segmentation via Adversarial Neural Networks</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="Microscopy Cell Segmentation via Adversarial Neural Networks" />
+<meta name="citation_author" content="Arbelle, Assaf" />
+<meta name="citation_author" content="Raviv, Tammy Riklin" />
+<meta name="citation_date" content="2017/09/18" />
+<meta name="citation_online_date" content="2018/09/13" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1709.05860" />
+<meta name="citation_arxiv_id" content="1709.05860" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/cs/recent">cs</a> &gt; arXiv:1709.05860</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1709.05860"
+        dc:identifier="http://arxiv.org/abs/1709.05860"
+        dc:title="Microscopy Cell Segmentation via Adversarial Neural Networks"
+        trackback:ping="http://arxiv.org/trackback/1709.05860" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1709.05860" accesskey="f">PDF</a></li>
+<li><a href="/format/1709.05860">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">cs.CV</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1709.05860&amp;context=cs.CV&amp;function=prev" accesskey="p" title="previous in cs.CV (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1709.05860&amp;context=cs.CV&amp;function=next" accesskey="n" title="next in cs.CV (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/cs.CV/new">new</a>&nbsp;| <a href="/list/cs.CV/recent">recent</a>&nbsp;| <a href="/list/cs.CV/1709">1709</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1709.05860?context=cs">cs</a>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1709.05860">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="dblp">
+<h3><a href="http://www.informatik.uni-trier.de/~ley/db/">DBLP</a> - CS Bibliography</h3><div class="list">
+<a href="http://www.informatik.uni-trier.de/~ley/db/journals/corr/corr1709.html#abs-1709-05860" title="listing on DBLP">listing</a> | <a href="http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1709-05860" title="DBLP bibtex record">bibtex</a>
+</div>
+<div class="list">
+<a href="http://dblp.uni-trier.de/search/author?author=Assaf%20Arbelle" title="DBLP author search">Assaf Arbelle</a><br />
+<a href="http://dblp.uni-trier.de/search/author?author=Tammy%20Riklin%20Raviv" title="DBLP author search">Tammy Riklin Raviv</a><br />
+</div>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1709.05860%26title%3DMicroscopy%2520Cell%2520Segmentation%2520via%2520Adversarial%2520Neural%2520Networks%26authors%3D&amp;v=24452804" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1709.05860%26description%3DMicroscopy%2520Cell%2520Segmentation%2520via%2520Adversarial%2520Neural%2520Networks&amp;v=38f2e8fc" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1709.05860&amp;v=6f77246e" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1709.05860%26description%3DMicroscopy%2520Cell%2520Segmentation%2520via%2520Adversarial%2520Neural%2520Networks&amp;v=18ef7e76" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1709.05860%26title%3DMicroscopy%2520Cell%2520Segmentation%2520via%2520Adversarial%2520Neural%2520Networks&amp;v=2b1bb7d5" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1709.05860%26title%3DMicroscopy%2520Cell%2520Segmentation%2520via%2520Adversarial%2520Neural%2520Networks&amp;v=9a6fcce3" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1709.05860&amp;v=0b5f7559" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Computer Science > Computer Vision and Pattern Recognition</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+Microscopy Cell Segmentation via Adversarial Neural Networks</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/cs?searchtype=author&query=Arbelle%2C+A">Assaf Arbelle</a>, 
+<a href="/search/cs?searchtype=author&query=Raviv%2C+T+R">Tammy Riklin Raviv</a></div>
+<div class="dateline">(Submitted on 18 Sep 2017 (<a href="/abs/1709.05860v1">v1</a>), last revised 13 Sep 2018 (this version, v4))</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> We present a novel method for cell segmentation in microscopy images which is
+inspired by the Generative Adversarial Neural Network (GAN) approach. Our
+framework is built on a pair of two competitive artificial neural networks,
+with a unique architecture, termed Rib Cage, which are trained simultaneously
+and together define a min-max game resulting in an accurate segmentation of a
+given image. Our approach has two main strengths, similar to the GAN, the
+method does not require a formulation of a loss function for the optimization
+process. This allows training on a limited amount of annotated data in a weakly
+supervised manner. Promising segmentation results on real fluorescent
+microscopy data are presented. The code is freely available at:
+<a href="https://github.com/arbellea/DeepCellSeg.git">this https URL</a>
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Comments:
+</td>
+<td class="tablecell comments mathjax">Accepted to IEEE International Symposium on Biomedical Imaging (ISBI) 2018</td>
+</tr>
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Computer Vision and Pattern Recognition (cs.CV)</span></td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1709.05860">arXiv:1709.05860</a> [cs.CV]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1709.05860v4">arXiv:1709.05860v4</a> [cs.CV]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Assaf Arbelle [<a href="https://arxiv.org/show-email/a133db0d/1709.05860">view email</a>]
+<br />
+<b><a href="/abs/1709.05860v1">[v1]</a></b> Mon, 18 Sep 2017 10:55:31 GMT  (232kb,D)<br />
+<b><a href="/abs/1709.05860v2">[v2]</a></b> Sun, 4 Feb 2018 20:16:56 GMT  (241kb,D)<br />
+<b><a href="/abs/1709.05860v3">[v3]</a></b> Wed, 6 Jun 2018 11:20:53 GMT  (316kb,D)<br />
+<b>[v4]</b> Thu, 13 Sep 2018 05:59:52 GMT  (241kb,D)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1709.05860">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

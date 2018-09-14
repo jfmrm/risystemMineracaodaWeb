@@ -1,0 +1,451 @@
+	
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Fator de risco cardiovascular: a obesidade entre crianças e adolescentes nas macrorregiões brasileiras | Guimarães Junior | RBONE - Revista Brasileira de Obesidade, Nutrição e Emagrecimento</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Fator de risco cardiovascular: a obesidade entre crianças e adolescentes nas macrorregiões brasileiras" />
+			<meta name="keywords" content="Obesidade; Escolares; Crianças; Sobrepeso" />
+	
+	
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+
+	<meta name="DC.Contributor.Sponsor" xml:lang="pt" content=""/>
+	<meta name="DC.Creator.PersonalName" content="Marcelo dos Santos Guimarães Junior"/>
+	<meta name="DC.Creator.PersonalName" content="Amanda Silva Fraga"/>
+	<meta name="DC.Creator.PersonalName" content="Thiago Batista Araújo"/>
+	<meta name="DC.Creator.PersonalName" content="Mário César Carvalho Tenório"/>
+	<meta name="DC.Date.created" scheme="ISO8601" content="2018-02-06"/>
+	<meta name="DC.Date.dateSubmitted" scheme="ISO8601" content="2017-07-17"/>
+	<meta name="DC.Date.issued" scheme="ISO8601" content="2018-02-06"/>
+	<meta name="DC.Date.modified" scheme="ISO8601" content="2018-02-06"/>
+	<meta name="DC.Description" xml:lang="pt" content=" Introdução: A obesidade é uma desordem nutricional considerada atualmente um dos principais problemas de saúde pública do mundo. Estudos indicam que indivíduos que apresentam excesso de gordura corporal possuem maior risco de desenvolver doenças crônicas como cardiopatias, acidente vascular encefálico, hipertensão, dislipidemias, diabetes melito, aterosclerose, entre outras. Normalmente, essas doenças são encontradas em adultos, porém estão sendo cada vez mais diagnosticadas em crianças e adolescentes. Objetivo: Demonstrar os valores de sobrepeso e obesidade de escolares nas macrorregiões brasileiras. Métodos: Foi realizada uma revisão sistemática de estudos transversais publicados em periódicos nacionais indexados. As buscas foram realizadas nas bases de dados: Scielo, Bireme, Lilacs, Google acadêmico. Os descritores utilizados foram: Obesidade e crianças; Obesidade e escola; Sobrepeso e obesidade em escolares; Sobrepeso e Obesidade em estudantes. Resultados: Foram selecionados 42 artigos, porém, foram incluídos 25 artigos no estudo, sendo seis artigos da Região Sudeste, cinco da Região Nordeste, quatro da Região Sul, dois da Região Centro-Oeste e três da Região Norte. Num total foram avaliados 27.625 crianças e adolescentes com a faixa etária entre 5 a 19 anos de escolas públicas e particulares. O estudo com o menor número de participantes incluiu 147 estudantes, enquanto o de maior número incluiu 10.882 alunos. Nosso trabalho demonstrou que os valores de prevalência são diferentes por região, indo de 7,4% a 29,5% na região norte, na região centro-oeste foi encontrado 21,1% dos meninos e 22,9% das meninas com sobrepeso, na região nordeste a prevalência total foi de 19,5% a 30% de sobrepeso e obesidade, respectivamente, a maior prevalência na região sudeste foi de 41,3% e na região sul as prevalências de sobrepeso e obesidade encontradas foram de 24,6% a menor e 43,8% a maior. Conclusão: Concluímos que a prevalência de obesidade é diferente nas macrorregiões brasileiras e que este resultado pode ser explicado pelas diferenças de cultura de cada local. Entretanto, novos estudos devem ser delineados para verificar os fatores de risco para a obesidade em cada região.      ABSTRACT     Cardiovascular risk factor: obesity between children and adolescents in the brazilian macroregions   Introduction: Obesity is a nutritional disorder currently considered one of the world&#039;s leading public health problems. Studies indicate that individuals with excess body fat have a higher risk of developing chronic diseases such as heart disease, stroke, hypertension, dyslipidemia, diabetes mellitus, atherosclerosis, among others. Usually, these diseases are found in adults, but are increasingly being diagnosed in children and adolescents. Aim: To demonstrate the values of overweight and obesity of schoolchildren in Brazilian macro regions. Methods: A systematic review of cross - sectional studies published in national indexed journals was carried out. The searches were performed in the databases: Scielo, Bireme, Lilacs, Google academic. The descriptors used were: Obesity and children; Obesity and school; Overweight and obesity in schoolchildren; Overweight and Obesity in students. Results: 42 articles were selected; however, 25 articles were included in the study, six articles from the Southeast Region, five from the Northeast Region, four from the South Region, two from the Midwest and three from the North Region. A total of 27,625 children and adolescents aged between 5 and 19 years of public and private schools were evaluated. The study with the lowest number of participants included 147 students, while the largest study included 10,882 students. Our work showed that the prevalence values are different by region, ranging from 7.4% to 29.5% in the north region, in the center-west region were found 21.1% of boys and 22.9% of overweight girls, in the northeast region the total prevalence was 19.5% to 30% of overweight and obesity, respectively, the highest prevalence in the southeast region was 41.3% and in the southern region the prevalences of overweight and obesity were 24, 6% lower and 43.8% higher. Conclusion: We conclude that the prevalence of obesity is different in the Brazilian macro regions and that this result can be explained by the differences of culture of each place. However, further studies should be designed to ascertain the risk factors for obesity in each region. "/>
+	<meta name="DC.Format" scheme="IMT" content="application/pdf"/>
+	<meta name="DC.Identifier" content="670"/>
+	<meta name="DC.Identifier.pageNumber" content="132-142"/>
+	<meta name="DC.Identifier.URI" content="http://www.rbone.com.br/index.php/rbone/article/view/670"/>
+	<meta name="DC.Language" scheme="ISO639-1" content="pt"/>
+	<meta name="DC.Rights" content=" Autores que publicam neste periódico concordam com os seguintes termos:   Autores mantém os direitos autorais e concedem ao periódico o direito de primeira publicação, com o trabalho simultaneamente licenciado sob a  Creative Commons Attribution License  que permitindo o compartilhamento do trabalho com reconhecimento da autoria do trabalho e publicação inicial neste periódico.  Autores têm autorização para assumir contratos adicionais separadamente, para distribuição não-exclusiva da versão do trabalho publicada neste periódico (ex.: publicar em repositório institucional ou como capítulo de livro), com reconhecimento de autoria e publicação inicial neste periódico.  Autores têm permissão e são estimulados a publicar e distribuir seu trabalho online (ex.: em repositórios institucionais ou na sua página pessoal) a qualquer ponto antes ou durante o processo editorial, já que isso pode gerar alterações produtivas, bem como aumentar o impacto e a citação do trabalho publicado (Veja  O Efeito do Acesso Livre ).  "/>
+	<meta name="DC.Source" content="RBONE - Revista Brasileira de Obesidade, Nutrição e Emagrecimento"/>
+	<meta name="DC.Source.ISSN" content="1981-9919"/>
+	<meta name="DC.Source.Issue" content="69"/>	<meta name="DC.Source.URI" content="http://www.rbone.com.br/index.php/rbone"/>
+	<meta name="DC.Source.Volume" content="12"/>						<meta name="DC.Subject" xml:lang="pt" content="Obesidade"/>
+								<meta name="DC.Subject" xml:lang="pt" content="Escolares"/>
+								<meta name="DC.Subject" xml:lang="pt" content="Crianças"/>
+								<meta name="DC.Subject" xml:lang="pt" content="Sobrepeso"/>
+				<meta name="DC.Title" content="Fator de risco cardiovascular: a obesidade entre crianças e adolescentes nas macrorregiões brasileiras"/>
+		<meta name="DC.Type" content="Text.Serial.Journal"/>
+	<meta name="DC.Type.articleType" content="Artigos Científicos - Original"/>
+		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="RBONE - Revista Brasileira de Obesidade, Nutrição e Emagrecimento"/>
+	<meta name="citation_issn" content="1981-9919"/>
+        <meta name="citation_author" content="Marcelo dos Santos Guimarães Junior"/>
+        <meta name="citation_author_institution" content="Faculdade Social da Bahia (FSBA)"/>
+        <meta name="citation_author" content="Amanda Silva Fraga"/>
+        <meta name="citation_author_institution" content="Escola Bahiana de Medicina e Saúde Pública (EBMSP)"/>
+        <meta name="citation_author" content="Thiago Batista Araújo"/>
+        <meta name="citation_author_institution" content="Faculdade Social da Bahia (FSBA)"/>
+        <meta name="citation_author" content="Mário César Carvalho Tenório"/>
+        <meta name="citation_author_institution" content="Faculdade Social da Bahia (FSBA)"/>
+<meta name="citation_title" content="Fator de risco cardiovascular: a obesidade entre crianças e adolescentes nas macrorregiões brasileiras"/>
+
+	<meta name="citation_date" content="2018/02/06"/>
+
+	<meta name="citation_volume" content="12"/>
+	<meta name="citation_issue" content="69"/>
+
+	<meta name="citation_firstpage" content="132-142"/>
+	<meta name="citation_abstract_html_url" content="http://www.rbone.com.br/index.php/rbone/article/view/670"/>
+	<meta name="citation_language" content="pt"/>
+						<meta name="citation_keywords" xml:lang="pt" content="Obesidade"/>
+								<meta name="citation_keywords" xml:lang="pt" content="Escolares"/>
+								<meta name="citation_keywords" xml:lang="pt" content="Crianças"/>
+								<meta name="citation_keywords" xml:lang="pt" content="Sobrepeso"/>
+									<meta name="citation_pdf_url" content="http://www.rbone.com.br/index.php/rbone/article/download/670/517"/>
+				
+
+	<link rel="stylesheet" href="http://www.rbone.com.br/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="http://www.rbone.com.br/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="http://www.rbone.com.br/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="http://www.rbone.com.br/styles/compiled.css" type="text/css" />
+	<link rel="stylesheet" href="http://www.rbone.com.br/styles/articleView.css" type="text/css" />
+	
+	
+	
+	<link rel="stylesheet" href="http://www.rbone.com.br/styles/sidebar.css" type="text/css" />	<link rel="stylesheet" href="http://www.rbone.com.br/styles/leftSidebar.css" type="text/css" />		
+	
+	<!-- Base Jquery -->
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='http://www.rbone.com.br/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='http://www.rbone.com.br/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.4");
+			google.load("jqueryui", "1.8.6");
+		}
+	</script>
+	
+	<script type="text/javascript">
+		$(function(){
+			fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+		});
+	</script>
+
+	<!-- Compiled scripts -->
+			
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="http://www.rbone.com.br/js/pages/search/SearchFormHandler.js"></script>
+<script type="text/javascript" src="http://www.rbone.com.br/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="http://www.rbone.com.br/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>	
+	
+	<link rel="alternate" type="application/atom+xml" title="RBONE - Revista Brasileira de Obesidade, Nutrição e Emagrecimento (atom+xml)" href="http://www.rbone.com.br/index.php/rbone/gateway/plugin/WebFeedGatewayPlugin/atom" />
+	<link rel="alternate" type="application/rdf+xml" title="RBONE - Revista Brasileira de Obesidade, Nutrição e Emagrecimento (rdf+xml)" href="http://www.rbone.com.br/index.php/rbone/gateway/plugin/WebFeedGatewayPlugin/rss" />
+	<link rel="alternate" type="application/rss+xml" title="RBONE - Revista Brasileira de Obesidade, Nutrição e Emagrecimento (rss+xml)" href="http://www.rbone.com.br/index.php/rbone/gateway/plugin/WebFeedGatewayPlugin/rss2" />
+	<script type="text/javascript" src="http://www.rbone.com.br/js/relatedItems.js"></script>
+	<script type="text/javascript" src="http://www.rbone.com.br/js/inlinePdf.js"></script>
+	<script type="text/javascript" src="http://www.rbone.com.br/js/pdfobject.js"></script>
+
+</head>
+<body>
+
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<h1>
+	<img src="http://www.rbone.com.br/public/journals/1/pageHeaderTitleImage_pt_BR.png" width="1030" height="191" alt="Cabeçalho da página" />
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+					<div id="leftSidebar">
+				<div class="block" id="sidebarUser">
+			<span class="blockTitle">Usuário</span>
+	
+						<form method="post" action="http://www.rbone.com.br/index.php/rbone/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Login</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Senha</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Lembrar usuário</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Acesso" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div><div class="block" id="sidebarLanguageToggle">
+	<span class="blockTitle">Idioma</span>
+	<form action="#">
+		<select size="1" name="locale" onchange="location.href=('http://www.rbone.com.br/index.php/rbone/user/setLocale/NEW_LOCALE?source=%2Findex.php%2Frbone%2Farticle%2Fview%2F670%26sa%3DU%26ved%3D0ahUKEwi60v7fxbrdAhUFf5AKHRWEBTg4MhAWCDAwBQ%26usg%3DAOvVaw0JKluNYxozmnxh5ocNgkwP'.replace('NEW_LOCALE', this.options[this.selectedIndex].value))" class="selectMenu"><option label="English" value="en_US">English</option>
+<option label="Español" value="es_ES">Español</option>
+<option label="Português (Brasil)" value="pt_BR" selected="selected">Português (Brasil)</option>
+<option label="Português (Portugal)" value="pt_PT">Português (Portugal)</option>
+</select>
+	</form>
+</div>
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Conteúdo da revista</span>
+
+	<span class="blockSubtitle">Pesquisa</span>
+	<form id="simpleSearchForm" method="post" action="http://www.rbone.com.br/index.php/rbone/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" />
+								</td>
+			</tr>
+			<tr>
+				<td><select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="Todos" value="query">Todos</option>
+<option label="Autor" value="authors">Autor</option>
+<option label="Título" value="title">Título</option>
+<option label="Resumo" value="abstract">Resumo</option>
+<option label="Termos indexados" value="indexTerms">Termos indexados</option>
+<option label="Texto Completo" value="galleyFullText">Texto Completo</option>
+
+				</select></td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Pesquisar" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Procurar</span>
+	<ul>
+		<li><a href="http://www.rbone.com.br/index.php/rbone/issue/archive">Por Edição</a></li>
+		<li><a href="http://www.rbone.com.br/index.php/rbone/search/authors">Por Autor</a></li>
+		<li><a href="http://www.rbone.com.br/index.php/rbone/search/titles">Por título</a></li>
+		
+			</ul>
+	</div>
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Tamanho de fonte</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Informações</span>
+	<ul>
+		<li><a href="http://www.rbone.com.br/index.php/rbone/information/readers">Para leitores</a></li>		<li><a href="http://www.rbone.com.br/index.php/rbone/information/authors">Para Autores</a></li>		<li><a href="http://www.rbone.com.br/index.php/rbone/information/librarians">Para Bibliotecários</a></li>	</ul>
+</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Palavras-chave</span>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Adolescentes"><span style="font-size: 83,474576271186%;">Adolescentes</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Alimenta%C3%A7%C3%A3o"><span style="font-size: 79,661016949153%;">Alimentação</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Antropometria"><span style="font-size: 82,627118644068%;">Antropometria</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Atividade%20f%C3%ADsica"><span style="font-size: 87,28813559322%;">Atividade física</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Cirurgia%20bari%C3%A1trica"><span style="font-size: 88,983050847458%;">Cirurgia bariátrica</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Composi%C3%A7%C3%A3o%20corporal"><span style="font-size: 83,050847457627%;">Composição corporal</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Crian%C3%A7as"><span style="font-size: 82,627118644068%;">Crianças</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Dieta"><span style="font-size: 80,084745762712%;">Dieta</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Educa%C3%A7%C3%A3o%20nutricional"><span style="font-size: 79,661016949153%;">Educação nutricional</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Emagrecimento"><span style="font-size: 83,050847457627%;">Emagrecimento</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Escolares"><span style="font-size: 79,237288135593%;">Escolares</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Estado%20nutricional"><span style="font-size: 89,830508474576%;">Estado nutricional</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Exerc%C3%ADcio%20f%C3%ADsico"><span style="font-size: 81,779661016949%;">Exercício físico</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=H%C3%A1bitos%20alimentares"><span style="font-size: 81,779661016949%;">Hábitos alimentares</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=IMC"><span style="font-size: 84,745762711864%;">IMC</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Imagem%20corporal"><span style="font-size: 80,084745762712%;">Imagem corporal</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Nutri%C3%A7%C3%A3o"><span style="font-size: 85,169491525424%;">Nutrição</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Obesidade"><span style="font-size: 174,57627118644%;">Obesidade</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Obesidade%20infantil"><span style="font-size: 81,35593220339%;">Obesidade infantil</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Sobrepeso"><span style="font-size: 94,915254237288%;">Sobrepeso</span></a>
+			<a href="http://www.rbone.com.br/index.php/rbone/search?subject=Tratamento"><span style="font-size: 80,084745762712%;">Tratamento</span></a>
+	</div><div class="block" id="sidebarWebFeed">
+	<span class="blockTitle">Edição atual</span>
+	<a href="http://www.rbone.com.br/index.php/rbone/gateway/plugin/WebFeedGatewayPlugin/atom">
+	<img src="http://www.rbone.com.br/plugins/generic/webFeed/templates/images/atom10_logo.gif" alt="Logo Atom" border="0" /></a>
+	<br/>
+	<a href="http://www.rbone.com.br/index.php/rbone/gateway/plugin/WebFeedGatewayPlugin/rss2">
+	<img src="http://www.rbone.com.br/plugins/generic/webFeed/templates/images/rss20_logo.gif" alt="Logo RSS2" border="0" /></a>
+	<br/>
+	<a href="http://www.rbone.com.br/index.php/rbone/gateway/plugin/WebFeedGatewayPlugin/rss">
+	<img src="http://www.rbone.com.br/plugins/generic/webFeed/templates/images/rss10_logo.gif" alt="Logo RSS1" border="0" /></a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('http://www.rbone.com.br/index.php/rbone/help')">Ajuda do sistema</a>
+</div>
+
+<div class="block" id="sidebarRTAuthorBios">
+	<span class="blockTitle">
+					Sobre os autores
+			</span>
+		<div id="authorBio">
+	<p>
+		<em>Marcelo dos Santos Guimarães Junior</em><br />
+						Faculdade Social da Bahia (FSBA)		<br/>Brasil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div id="authorBio">
+	<p>
+		<em>Amanda Silva Fraga</em><br />
+						Escola Bahiana de Medicina e Saúde Pública (EBMSP)		<br/>Brasil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div id="authorBio">
+	<p>
+		<em>Thiago Batista Araújo</em><br />
+						Faculdade Social da Bahia (FSBA)		<br/>Brasil	</p>
+
+	<p></p>
+	</div>
+	<div class="separator"></div>
+		<div id="authorBio">
+	<p>
+		<em>Mário César Carvalho Tenório</em><br />
+						Faculdade Social da Bahia (FSBA)		<br/>Brasil	</p>
+
+	<p></p>
+	</div>
+	
+	</div>
+
+			</div>
+					</div>
+
+<div id="main">
+
+<div id="navbar">
+	<ul class="menu">
+		<li id="home"><a href="http://www.rbone.com.br/index.php/rbone/index">Capa</a></li>
+		<li id="about"><a href="http://www.rbone.com.br/index.php/rbone/about">Sobre</a></li>
+
+					<li id="login"><a href="http://www.rbone.com.br/index.php/rbone/login">Acesso</a></li>
+							<li id="register"><a href="http://www.rbone.com.br/index.php/rbone/user/register">Cadastro</a></li>
+												<li id="search"><a href="http://www.rbone.com.br/index.php/rbone/search">Pesquisa</a></li>
+		
+					<li id="current"><a href="http://www.rbone.com.br/index.php/rbone/issue/current">Atual</a></li>
+			<li id="archives"><a href="http://www.rbone.com.br/index.php/rbone/issue/archive">Anteriores</a></li>
+		
+					<li id="announcements"><a href="http://www.rbone.com.br/index.php/rbone/announcement">Notícias</a></li>
+				
+
+									<li class="navItem" id="navItem-0"><a href="http://www.rbone.com.br/index.php/rbone/announcement/view/2">LINKS</a></li>
+												<li class="navItem" id="navItem-1"><a href="http://www.rbone.com.br/index.php/rbone/announcement/view/3">QUALIS PERIÓDICOS</a></li>
+												<li class="navItem" id="navItem-2"><a href="http://www.rbone.com.br/index.php/rbone/announcement/view/6">FATOR DE IMPACTO</a></li>
+												<li class="navItem" id="navItem-3"><a href="http://www.rbone.com.br/index.php/rbone/announcement/view/1">BASES DE DADOS INDEXADAS</a></li>
+												<li class="navItem" id="navItem-4"><a href="http://www.rbone.com.br/index.php/rbone/announcement/view/5">BASES INDEXADORAS</a></li>
+												<li class="navItem" id="navItem-5"><a href="http://www.rbone.com.br/index.php/rbone/announcement/view/7">UNIVERSIDADES INDEXADAS</a></li>
+												<li class="navItem" id="navItem-6"><a href="http://www.rbone.com.br/index.php/rbone/announcement/view/8">ÉTICA EM PUBLICAÇÃO</a></li>
+																					</ul>
+</div>
+
+<div id="breadcrumb">
+	<a href="http://www.rbone.com.br/index.php/rbone/index" target="_parent">Capa</a> &gt;
+	<a href="http://www.rbone.com.br/index.php/rbone/issue/view/76" target="_parent">v. 12, n. 69 (2018)</a> &gt;	<a href="http://www.rbone.com.br/index.php/rbone/article/view/670%26sa%3DU%26ved%3D0ahUKEwi60v7fxbrdAhUFf5AKHRWEBTg4MhAWCDAwBQ%26usg%3DAOvVaw0JKluNYxozmnxh5ocNgkwP/0" class="current" target="_parent">Guimarães Junior</a>
+</div>
+
+<div id="content">
+
+	<div id="topBar">
+					</div>
+		
+	<div id="articleTitle"><h3>Fator de risco cardiovascular: a obesidade entre crianças e adolescentes nas macrorregiões brasileiras</h3></div>
+	<div id="authorString"><em>Marcelo dos Santos Guimarães Junior, Amanda Silva Fraga, Thiago Batista Araújo, Mário César Carvalho Tenório</em></div>
+	<br />
+			<div id="articleAbstract">
+		<h4>Resumo</h4>
+		<br />
+		<div><p>Introdução: A obesidade é uma desordem nutricional considerada atualmente um dos principais problemas de saúde pública do mundo. Estudos indicam que indivíduos que apresentam excesso de gordura corporal possuem maior risco de desenvolver doenças crônicas como cardiopatias, acidente vascular encefálico, hipertensão, dislipidemias, diabetes melito, aterosclerose, entre outras. Normalmente, essas doenças são encontradas em adultos, porém estão sendo cada vez mais diagnosticadas em crianças e adolescentes. Objetivo: Demonstrar os valores de sobrepeso e obesidade de escolares nas macrorregiões brasileiras. Métodos: Foi realizada uma revisão sistemática de estudos transversais publicados em periódicos nacionais indexados. As buscas foram realizadas nas bases de dados: Scielo, Bireme, Lilacs, Google acadêmico. Os descritores utilizados foram: Obesidade e crianças; Obesidade e escola; Sobrepeso e obesidade em escolares; Sobrepeso e Obesidade em estudantes. Resultados: Foram selecionados 42 artigos, porém, foram incluídos 25 artigos no estudo, sendo seis artigos da Região Sudeste, cinco da Região Nordeste, quatro da Região Sul, dois da Região Centro-Oeste e três da Região Norte. Num total foram avaliados 27.625 crianças e adolescentes com a faixa etária entre 5 a 19 anos de escolas públicas e particulares. O estudo com o menor número de participantes incluiu 147 estudantes, enquanto o de maior número incluiu 10.882 alunos. Nosso trabalho demonstrou que os valores de prevalência são diferentes por região, indo de 7,4% a 29,5% na região norte, na região centro-oeste foi encontrado 21,1% dos meninos e 22,9% das meninas com sobrepeso, na região nordeste a prevalência total foi de 19,5% a 30% de sobrepeso e obesidade, respectivamente, a maior prevalência na região sudeste foi de 41,3% e na região sul as prevalências de sobrepeso e obesidade encontradas foram de 24,6% a menor e 43,8% a maior. Conclusão: Concluímos que a prevalência de obesidade é diferente nas macrorregiões brasileiras e que este resultado pode ser explicado pelas diferenças de cultura de cada local. Entretanto, novos estudos devem ser delineados para verificar os fatores de risco para a obesidade em cada região.</p><p> </p><p><strong>ABSTRACT</strong> </p><p><strong>Cardiovascular risk factor: obesity between children and adolescents in the brazilian macroregions</strong></p><p>Introduction: Obesity is a nutritional disorder currently considered one of the world's leading public health problems. Studies indicate that individuals with excess body fat have a higher risk of developing chronic diseases such as heart disease, stroke, hypertension, dyslipidemia, diabetes mellitus, atherosclerosis, among others. Usually, these diseases are found in adults, but are increasingly being diagnosed in children and adolescents. Aim: To demonstrate the values of overweight and obesity of schoolchildren in Brazilian macro regions. Methods: A systematic review of cross - sectional studies published in national indexed journals was carried out. The searches were performed in the databases: Scielo, Bireme, Lilacs, Google academic. The descriptors used were: Obesity and children; Obesity and school; Overweight and obesity in schoolchildren; Overweight and Obesity in students. Results: 42 articles were selected; however, 25 articles were included in the study, six articles from the Southeast Region, five from the Northeast Region, four from the South Region, two from the Midwest and three from the North Region. A total of 27,625 children and adolescents aged between 5 and 19 years of public and private schools were evaluated. The study with the lowest number of participants included 147 students, while the largest study included 10,882 students. Our work showed that the prevalence values are different by region, ranging from 7.4% to 29.5% in the north region, in the center-west region were found 21.1% of boys and 22.9% of overweight girls, in the northeast region the total prevalence was 19.5% to 30% of overweight and obesity, respectively, the highest prevalence in the southeast region was 41.3% and in the southern region the prevalences of overweight and obesity were 24, 6% lower and 43.8% higher. Conclusion: We conclude that the prevalence of obesity is different in the Brazilian macro regions and that this result can be explained by the differences of culture of each place. However, further studies should be designed to ascertain the risk factors for obesity in each region.</p></div>
+		<br />
+		</div>
+	
+			<div id="articleSubject">
+		<h4>Palavras-chave</h4>
+		<br />
+		<div>Obesidade; Escolares; Crianças; Sobrepeso</div>
+		<br />
+		</div>
+	
+				
+			<div id="articleFullText">
+		<h4>Texto completo:</h4>
+									<a href="http://www.rbone.com.br/index.php/rbone/article/view/670/517" class="file" target="_parent">PDF</a>
+														</div>
+	
+			<div id="articleCitations">
+		<h4>Referências</h4>
+		<br />
+		<div>
+							<p>-Abrantes, M. M.; Lamounier, J. A.; Colosimo, E. A. Prevalência de sobrepeso e obesidade em crianças e adolescentes das regiões Sudeste e Nordeste. J pediatr. Vol. 78. Num. 4. p. 335-340. 2002.</p>
+							<p>-Albuquerque, L.; e colaboradores. Relação da obesidade com o comportamento alimentar e o estilo de vida de escolares brasileiros. Nutrición clínica y dietética hospitalaria. Vol. 36. Num. 1. p. 17-23. 2016.</p>
+							<p>-Balaban, G.; Silva, G. A. P. Prevalência de sobrepeso e obesidade em crianças e adolescentes de uma escola da rede privada de Recife. J Pediatr. Vol. 77. Num. 2. p. 96-100. 2001.</p>
+							<p>-Baruki, S. B. S.; e colaboradores. Associação entre estado nutricional e atividade física em escolares da Rede Municipal de Ensino em Corumbá-MS. Revista Brasileira de Medicina do Esporte. Vol. 12. Num. 2. p. 90-94. 2006.</p>
+							<p>-Brasil, L. M. P.; Fisberg, M.; Maranhão, H. S. Excesso de peso de escolares em região do Nordeste Brasileiro: contraste entre as redes de ensino pública e privada. Revista Brasileira de Saúde Materno Infantil. Vol. 7. Núm. 4. p. 405-412. 2007.</p>
+							<p>-Campos, L. A.; Leite, Á. J. M.; Almeida, P. C. Prevalência de sobrepeso e obesidade em adolescentes escolares do município de Fortaleza, Brasil. Rev. bras. saúde matern. Infant. Vol. 7. Num. 2. p. 183-190. 2007.</p>
+							<p>-Cesar, D. J.; De Viana, A. L. P.; Agudelo, E. A. B. Prevalência da obesidade e sobrepeso em escolares do ensino fundamental I de uma escola particular na cidade de Rio Branco-AC. South American Journal of Basic Education, Technical and Technological. Vol. 1. Num. 1. 2014.</p>
+							<p>-Cintra, D. E.; Ropolle, E. R.; Pauli, J. R. Obesidade e diabetes: fisiopatologia e sinalização celular. São Paulo. Sarvier. 2011.</p>
+							<p>-Conti, M. A.; Frutuoso, M. F. P.; Gambardella, A. M. D. Excesso de peso e insatisfação corporal em adolescentes. Rev. Nutr. Vol. 18. Num. 4. p. 491-497. 2005.</p>
+							<p>-Correa, T. A. F.; e colaboradores. Estado nutricional e consumo alimentar de adolescentes de uma escola municipal de Botucatu, SP. Revista Simbio-Logias. Vol. 1. Num. 1. 2008</p>
+							<p>-Costa, R. F.; Cintra, I. P.; Fisberg, M. Prevalência de sobrepeso e obesidade em escolares da cidade de Santos, SP. Arquivos Brasileiros de Endocrinologia &amp; Metabologia. 2006.</p>
+							<p>-Da Silva, J. E. F.; Giorgetti, K. Suzan; Colosio, R. C. Obesidade e sedentarismo como fatores de risco para doenças cardiovasculares em crianças e adolescentes de escolas públicas de Maringá, PR. Saúde e Pesquisa. Vol. 2. Num. 1. p. 41-51. 2009.</p>
+							<p>-De Mello, E. D.; Luft, V. C.; Meyer, F. Obesidade infantil: como podemos ser eficazes. J Pediatr. Vol. 80. Num. 3. p. 173-182. 2004.</p>
+							<p>-Farias, E. S.; e colaboradores. Estado nutricional de escolares em Porto Velho, Rondônia. Revista de nutrição. Vol. 21. Núm. 4. 2008.</p>
+							<p>-Fisberg, M. Atualização em obesidade na infância e na adolescência. In: Atualização em obesidade na infância e na adolescência. Atheneu. 2005.</p>
+							<p>-Fisberg, M. Obesidade na infância e adolescência. Revista brasileira de Educação Física e Esporte. Vol. 20. p. 163-164. 2006.</p>
+							<p>-Giugliano, R.; Carneiro, E. C. Fatores associados à obesidade em escolares. J Pediatr. Vol. 80. Num. 1. p. 17-22. 2004.</p>
+							<p>-Guimaraes, I. C. B.; Guimarães, A. C. Síndrome Metabólica na infância e adolescência. Um fator maior de risco cardiovascular. Revista Baiana de Saúde Pública. Vol. 30. Num. 2. 2014.</p>
+							<p>-Hochman, B.; e colaboradores. Desenhos de pesquisa. Acta Cirúrgica Brasileira. 2005.</p>
+							<p>-Instituto Brasileiro de Geografia e Estatística. Pesquisa de orçamentos familiares 2008-2009: antropometria e estado nutricional de crianças, adolescentes e adultos no Brasil. Rio de Janeiro: IBGE. 2010.</p>
+							<p>-Leão, L. S. C S. Prevalência de obesidade em escolares de Salvador, Bahia. Arq Bras Endocrinol Metab. Vol. 47. Num. 2. 2003.</p>
+							<p>-Magalhães, V. C.; Mendonça, G. A. S. Prevalência e fatores associados a sobrepeso e obesidade em adolescentes de 15 a 19 anos das regiões Nordeste e Sudeste do Brasil, 1996 a 1997. Cad Saúde Pública. Vol. 19. Num. s1. 2003.</p>
+							<p>-Malinski, M. P.; Voser, R. C. Sobrepeso e obesidade em jovens escolares. Arquivos de Ciências da Saúde. Vol. 23. Num. 1. p. 68-72. 2016.</p>
+							<p>-Malta, D. C.; e colaboradores. Evolução anual da prevalência de excesso de peso e obesidade em adultos nas capitais dos 26 estados brasileiros e no Distrito Federal entre 2006 e 2012. Rev Bras Epidemiol. Vol. 17. Supl. 1. 2014.</p>
+							<p>-Ministério da Saúde, Vigitel Brasil 2015 Saúde Suplementar: vigilância de fatores de risco e proteção para doenças crônicas por inquérito telefônico [recurso eletrônico] / Ministério da Saúde, Agência Nacional de Saúde Suplementar. Brasília: Ministério da Saúde, 2017.</p>
+							<p>-Ministério da Saúde. Portal da Saúde. Excesso de peso atinge 52,3% da população do Sudeste. 2015. Disponível em: . Acesso em: 03/09/2016.</p>
+							<p>-Miranda, J. M. Q.; e colaboradores. Prevalência de sobrepeso e obesidade infantil em instituições de ensino: públicas vs. privadas. Rev. bras. med. Esporte. Vol. 21. Num. 2. p. 104-107. 2015.</p>
+							<p>-Monego, E. T.; Jardim, P. C. B. V. Determinantes de risco para doenças cardiovasculares em escolares. Arq Bras Cardiol. Vol. 87. Num. 1. p. 37-45. 2006.</p>
+							<p>-Neves, O. M. D.; e colaboradores. Antropometria de escolares ao ingresso no ensino fundamental na cidade de Belém, Pará, 2001. Rev. Bras. Saude Mater. Infant. Vol. 6. Num. 1. p. 39-46. 2006.</p>
+							<p>-Nicklas, T. A.; e colaboradores. Position of the American Dietetic Association: nutrition guidance for healthy children ages 2 to 11 years. Journal of the American Dietetic Association. Vol. 108. Num. 6. p. 1038. 2008.</p>
+							<p>-Pardo, I. M.; e colaboradores. Prevalência de excesso de peso entre estudantes de ensino fundamental de escola pública e privada em Sorocaba, São Paulo, Brasil. Revista Brasileira de Medicina de Família e Comunidade. Vol. 8. Num. 26. p.43-50. 2013.</p>
+							<p>-Pereira, F. N.; e colaboradores. Body weight perception and associated factors in students from Espírito Santo, Brazil; Journal of Human Growth and Development. Vol. 23. Num. 2. p.170-176. 2013.</p>
+							<p>-Rech, D. C.; e colaboradores. As políticas públicas e o enfrentamento da obesidade no brasil: uma revisão reflexiva. Revista de Epidemiologia e Controle de Infecção. Vol. 1. Num. 1. 2016.</p>
+							<p>-Ribeiro, R. Q. C.; e colaboradores. Fatores adicionais de risco cardiovascular associados ao excesso de peso em crianças e adolescentes: o estudo do coração de Belo Horizonte. Arq. Bras. Cardiol. Vol. 86. Num. 6. p. 408-418. 2006.</p>
+							<p>-Sampaio, R. F.; Mancini, M. C. Estudos de revisão sistemática: um guia para síntese criteriosa da evidência científica. Rev. bras. fisioter. Vol. 11. Num. 1. p. 83-89. 2007.</p>
+							<p>-Silva Júnior, L. M.; e colaboradores. Prevalence of excess weight and associated factors in adolescents of private schools of an Amazonic urban area, Brazil. Revista Paulista de Pediatria. Vol. 30. Num. 2. p. 217-222. 2012.</p>
+							<p>-Soar, C.; Vasconcelos, F. A. G.; Assis, M. A. A. Waist-hip ratio and waist circumference associated with body mass index in a study with schoolchildren. Cadernos de Saúde Pública. Vol. 20. Num. 6. p. 1609-1616. 2004.</p>
+							<p>-Souza, M.; e colaboradores. Estado nutricional, idade e sexo influenciam os níveis de atividade física de escolares?. Revista Brasileira de Atividade Física &amp; Saúde. Vol. 20. Num. 6. p. 598. 2015.</p>
+							<p>-Souza, M. P. S.; Bennemann, R. M. Antropometria e estado nutricional de escolares adolescentes do ensino fundamental da rede municipal de ensino da cidade de Maringá-PR no ano de 2011. VIII EPCC – Encontro Internacional de Produção Científica Cesumar. Editora CESUMAR, 2011.</p>
+							<p>-SBP, Sociedade Brasileira de Pediatria. Obesidade na infância e adolescência – Manual de Orientação. Departamento Científico de Nutrologia. 2ª edição. São Paulo. SBP. 2012. 142 p.</p>
+							<p>-Suñé, F. R.; e colaboradores. Prevalência e fatores associados para sobrepeso e obesidade em escolares de uma cidade no Sul do Brasil [Prevalence of overweight and obesity and associated factors among schoolchildren in a southern Brazilian city]. Cad Saúde Pública. Vol. 23. Num. 6. p. 1361-1371. 2007.</p>
+							<p>-Tenório, M. C. C.; e colaboradores. Continuous or interval training and inflammatory response in obese women. International Journal of Cardiovascular Sciences. Vol. 28. Num. 4. p. 282-289. 2015.</p>
+							<p>-Tenório, M. C. C.; Fraga, A. S.; de Sá, C. K. C.; Ladeia, A. M. T. Inflamação subclínica e doença cardiovascular na obesidade: o papel do exercício físico contínuo e intervalado como tratamento. RBPFEX-Revista Brasileira de Prescrição e Fisiologia do Exercício. Vol. 10. Num. 61. p. 692-704. 2016. Disponível em: </p>
+							<p>-World Health Organization. Obesity: preventing and managing the global epidemic. Report of a who Consultation. Tech Rep Ser. Vol. 894. i-xii. p. 1-253. 2000.</p>
+					</div>
+		<br />
+		</div>
+	
+
+
+<div class="separator"></div>
+
+<h3>Apontamentos</h3>
+
+<ul class="plain">
+				<li>Não há apontamentos.</li>
+	</ul>
+
+
+
+<!-- Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-13091060-5";
+urchinTracker();
+</script>
+<!-- /Google Analytics -->
+
+<br /><br />
+<a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img src="http://i.creativecommons.org/l/by-nc/3.0/80x15.png" alt="Creative Commons License" /></a> Todo o conteúdo deste periódico, exceto onde está identificado, está licenciado sob uma <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license" target="_blank">Licença Creative Commons</a><p>RBONE - Revista Brasileira de Obesidade, Nutrição e Emagrecimento</p><p><a href="http://www.ibpefex.com.br/" target="_blank">IBPEFEX</a> - Instituto Brasileiro de Pesquisa e Ensino em Fisiologia do Exercício</p><p>Editor-Chefe: Francisco Navarro. E-mail para contato: <a href="mailto:francisconavarro@uol.com.br" target="_blank">aqui</a></p><p>Editor Gerente: <a href="mailto:francisconunesnavarro@gmail.com" target="_blank">Francisco Nunes Navarro</a>. E-mail para contato:<a href="mailto:francisconunesnavarro@gmail.com" target="_blank">aqui</a></p><p> </p>
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+
+
+</div> <!-- container -->
+</body>
+</html>

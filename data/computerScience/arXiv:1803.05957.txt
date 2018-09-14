@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1803.05957] Interplay of Probabilistic Shaping and the Blind Phase Search Algorithm</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="Interplay of Probabilistic Shaping and the Blind Phase Search Algorithm" />
+<meta name="citation_author" content="Mello, Darli A. A." />
+<meta name="citation_author" content="Barbosa, Fabio A." />
+<meta name="citation_author" content="Reis, Jacklyn D." />
+<meta name="citation_doi" content="10.1109/JLT.2018.2869245" />
+<meta name="citation_date" content="2018/03/15" />
+<meta name="citation_online_date" content="2018/09/12" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1803.05957" />
+<meta name="citation_arxiv_id" content="1803.05957" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/eess/recent">eess</a> &gt; arXiv:1803.05957</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1803.05957"
+        dc:identifier="http://arxiv.org/abs/1803.05957"
+        dc:title="Interplay of Probabilistic Shaping and the Blind Phase Search Algorithm"
+        trackback:ping="http://arxiv.org/trackback/1803.05957" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1803.05957" accesskey="f">PDF</a></li>
+<li><a href="/ps/1803.05957">PostScript</a></li>
+<li><a href="/format/1803.05957">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">eess.SP</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1803.05957&amp;context=eess.SP&amp;function=prev" accesskey="p" title="previous in eess.SP (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1803.05957&amp;context=eess.SP&amp;function=next" accesskey="n" title="next in eess.SP (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/eess.SP/new">new</a>&nbsp;| <a href="/list/eess.SP/recent">recent</a>&nbsp;| <a href="/list/eess.SP/1803">1803</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1803.05957?context=cs">cs</a><br />
+<span class="subclass"><a href="/abs/1803.05957?context=cs.IT">cs.IT</a></span><br />
+<a href="/abs/1803.05957?context=eess">eess</a><br />
+<a href="/abs/1803.05957?context=math">math</a>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1803.05957">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05957%26title%3DInterplay%2520of%2520Probabilistic%2520Shaping%2520and%2520the%2520Blind%2520Phase%2520Search%2520Algorithm%26authors%3D&amp;v=a897e78f" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05957%26description%3DInterplay%2520of%2520Probabilistic%2520Shaping%2520and%2520the%2520Blind%2520Phase%2520Search%2520Algorithm&amp;v=d597b668" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05957&amp;v=44022e20" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05957%26description%3DInterplay%2520of%2520Probabilistic%2520Shaping%2520and%2520the%2520Blind%2520Phase%2520Search%2520Algorithm&amp;v=e8054b69" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05957%26title%3DInterplay%2520of%2520Probabilistic%2520Shaping%2520and%2520the%2520Blind%2520Phase%2520Search%2520Algorithm&amp;v=c3b70986" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05957%26title%3DInterplay%2520of%2520Probabilistic%2520Shaping%2520and%2520the%2520Blind%2520Phase%2520Search%2520Algorithm&amp;v=2cd9ba74" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05957&amp;v=1aecacd4" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Electrical Engineering and Systems Science > Signal Processing</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+Interplay of Probabilistic Shaping and the Blind Phase Search Algorithm</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/eess?searchtype=author&query=Mello%2C+D+A+A">Darli A. A. Mello</a>, 
+<a href="/search/eess?searchtype=author&query=Barbosa%2C+F+A">Fabio A. Barbosa</a>, 
+<a href="/search/eess?searchtype=author&query=Reis%2C+J+D">Jacklyn D. Reis</a></div>
+<div class="dateline">(Submitted on 15 Mar 2018 (<a href="/abs/1803.05957v1">v1</a>), last revised 12 Sep 2018 (this version, v4))</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> Probabilistic shaping (PS) is a promising technique to approach the Shannon
+limit using typical constellation geometries. However, the impact of PS on the
+chain of signal processing algorithms of a coherent receiver still needs
+further investigation. In this work we study the interplay of PS and phase
+recovery using the blind phase search (BPS) algorithm, which is widely used in
+optical communications systems. We first investigate a supervised phase search
+(SPS) algorithm as a theoretical upper bound on the BPS performance, assuming
+perfect decisions. It is shown that PS influences the SPS algorithm, but its
+impact can be alleviated by moderate noise rejection window sizes. On the other
+hand, BPS is affected by PS even for long windows because of correlated
+erroneous decisions in the phase recovery scheme. The simulation results also
+show that the capacity-maximizing shaping is near to the BPS worst-case
+situation for square-QAM constellations, causing potential implementation
+penalties.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Comments:
+</td>
+<td class="tablecell comments mathjax">Accepted for publication in the next available issue of the IEEE/OSA Journal of Lightwave Technology (<a href="https://ieeexplore.ieee.org/document/8457202/">this https URL</a>)</td>
+</tr>
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Signal Processing (eess.SP)</span>; Information Theory (cs.IT)</td>
+</tr>
+<tr>
+<td class="tablecell label">
+<abbr title="Digital Object Identifier">DOI</abbr>:
+</td>
+<td class="tablecell doi"><a href="/ct?url=http%3A%2F%2Fdx.doi.org%2F10%252E1109%2FJLT%252E2018%252E2869245&amp;v=57ca9664">10.1109/JLT.2018.2869245</a></td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1803.05957">arXiv:1803.05957</a> [eess.SP]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1803.05957v4">arXiv:1803.05957v4</a> [eess.SP]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Fabio Barbosa [<a href="https://arxiv.org/show-email/087a8fb7/1803.05957">view email</a>]
+<br />
+<b><a href="/abs/1803.05957v1">[v1]</a></b> Thu, 15 Mar 2018 19:18:02 GMT  (374kb,D)<br />
+<b><a href="/abs/1803.05957v2">[v2]</a></b> Wed, 28 Mar 2018 11:20:53 GMT  (451kb,D)<br />
+<b><a href="/abs/1803.05957v3">[v3]</a></b> Thu, 5 Jul 2018 12:48:50 GMT  (525kb,D)<br />
+<b>[v4]</b> Wed, 12 Sep 2018 18:08:48 GMT  (705kb)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1803.05957">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

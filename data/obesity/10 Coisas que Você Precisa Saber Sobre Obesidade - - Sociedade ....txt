@@ -1,0 +1,762 @@
+
+
+
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml'
+      lang='pt-br'
+      xmlns:og='http://ogp.me/ns#'>
+	<head>
+
+		<title>404 - Sociedade Brasileira de Endocrinologia e Metabologia</title>
+		 <meta name="referrer" content="origin">
+
+		<meta name="description" content='No site da Sociedade Brasileira de Endocrinologia você tem informações sobre obesidade, diabetes, diabetes tipo 1 e diabetes tipo 2, tireoide, hipotireoidismo, hipertireoidismo, crescimento, tratamentos hormonais, hormônios, crescimentos e outras doenças endócrinas' />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="verify-v1" content="rvzvSJP7KE3JH0vJbIFemdul4npn2Ul0M6yuZ4Ubdlo=" />
+        <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+		<link href="/static/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+		<!-- Bootstrap -->
+		<link href="/static/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="/static/css/2018.css" rel="stylesheet" media="screen">
+		<link href="/static/css/category2018.css" rel="stylesheet" media="screen">
+		<link href="/static/css/paginator2018.css" rel="stylesheet" media="screen">
+		<link href="/static/css/media-query2018.css" rel="stylesheet" media="screen">
+		<link href="/static/css/login2018.css" rel="stylesheet" media="screen">
+		
+		
+	</head>
+	<body>
+		
+		<a href="#" class="icon-menu"></a>
+        <ul class="menu-mobile">
+            
+            
+                <li class="menu-list">
+                    <p class="name"><span>&nbsp;</span>Sobre a SBEM</p>
+                    <ul class="submenu-mobile">
+                    
+                        <li class="submenu-item">
+                            <a href="/anuidade/" aria-label='Anuidade 2018'>
+                            Anuidade 2018
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/como-se-associar/" aria-label='Como se Associar'>
+                            Como se Associar
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/sbem-associados/" aria-label='Associados'>
+                            Associados
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/congressos-brasileiros/" aria-label='Congressos Brasileiros'>
+                            Congressos Brasileiros
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/comissoes/" aria-label='Comissões'>
+                            Comissões
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/departamentos/" aria-label='Departamentos'>
+                            Departamentos
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/Estatutos/" aria-label='Estatutos'>
+                            Estatutos
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/diretoria/" aria-label='Diretoria'>
+                            Diretoria
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/sbem-estrutura/" aria-label='Estrutura da SBEM'>
+                            Estrutura da SBEM
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/nossa-historia/" aria-label='Nossa História'>
+                            Nossa História
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/nossos-valores/" aria-label='Nossos Valores'>
+                            Nossos Valores
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/premios-sbem/" aria-label='Prêmios SBEM'>
+                            Prêmios SBEM
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/publicacoes-da-sbem/" aria-label='Publicações da SBEM'>
+                            Publicações da SBEM
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/manual-de-identidade-corporativa/" aria-label='Manual de Identidade Corporativa'>
+                            Manual de Identidade Corporativa
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/perfil-da-sbem/" aria-label='Perfil e História'>
+                            Perfil e História
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/regionais-SBEM/" aria-label='Regionais'>
+                            Regionais
+                            </a>
+                        </li>
+                    
+                    </ul>
+                </li>
+            
+                <li class="menu-list">
+                    <p class="name"><span>&nbsp;</span>Para Profissionais</p>
+                    <ul class="submenu-mobile">
+                    
+                        <li class="submenu-item">
+                            <a href="/aem/" aria-label='Archives of Endocrinology and Metabolism'>
+                            Archives of Endocrinology and Metabolism
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/area_cientifica/" aria-label='Área Científica'>
+                            Área Científica
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/publicacoes-cientificas-online/" aria-label='Publicações Científicas - Endocrine Society'>
+                            Publicações Científicas - Endocrine Society
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/duvidas/" aria-label='Perguntas Frequentes'>
+                            Perguntas Frequentes
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/webmeetings-sbem/" aria-label='WebMeetings'>
+                            WebMeetings
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/eventos-medicos-principais/" aria-label='Eventos Médicos'>
+                            Eventos Médicos
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/servicos-credenciados/" aria-label='Serviços Credenciados'>
+                            Serviços Credenciados
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/diretrizes-da-sbem/" aria-label='Diretrizes da SBEM'>
+                            Diretrizes da SBEM
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/titulo-de-especialista/" aria-label='Título de Especialista'>
+                            Título de Especialista
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/comunicados-oficiais/" aria-label='Comunicados Oficiais'>
+                            Comunicados Oficiais
+                            </a>
+                        </li>
+                    
+                    </ul>
+                </li>
+            
+                <li class="menu-list">
+                    <p class="name"><span>&nbsp;</span>Para o Público</p>
+                    <ul class="submenu-mobile">
+                    
+                        <li class="submenu-item">
+                            <a href="/procure-um-medico/" aria-label='Procure um médico'>
+                            Procure um médico
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/areas-da-endocrinologia/" aria-label='Campos de Atuação da Endocrinologia'>
+                            Campos de Atuação da Endocrinologia
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/cuidados-com-saude/" aria-label='Cuidados com a Saúde'>
+                            Cuidados com a Saúde
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/recebas-boletins-online/" aria-label='Receba os Boletins Online'>
+                            Receba os Boletins Online
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/campanhas-publicas/" aria-label='Campanhas Públicas'>
+                            Campanhas Públicas
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/teste-seu-imc/" aria-label='Teste seu Índice de Massa Corporal'>
+                            Teste seu Índice de Massa Corporal
+                            </a>
+                        </li>
+                    
+                    </ul>
+                </li>
+            
+                <li class="menu-list">
+                    <p class="name"><span>&nbsp;</span>Sala de Notícias</p>
+                    <ul class="submenu-mobile">
+                    
+                        <li class="submenu-item">
+                            <a href="/Folha-da-SBEM/" aria-label='Folha da SBEM'>
+                            Folha da SBEM
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/noticias-cientificas/" aria-label='Notícias Científicas'>
+                            Notícias Científicas
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/noticias-institucionais/" aria-label='Notícias Institucionais'>
+                            Notícias Institucionais
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/noticias/" aria-label='Notícias'>
+                            Notícias
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/noticias-das-regionais/" aria-label='Notícias das Regionais'>
+                            Notícias das Regionais
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/sbem-na-midia/" aria-label='SBEM na Mídia'>
+                            SBEM na Mídia
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/sbem-reporter/" aria-label='Cobertura de Eventos'>
+                            Cobertura de Eventos
+                            </a>
+                        </li>
+                    
+                        <li class="submenu-item">
+                            <a href="/expediente/" aria-label='Expediente'>
+                            Expediente
+                            </a>
+                        </li>
+                    
+                    </ul>
+                </li>
+            
+                <li class="menu-list">
+                    
+                        <p class="name">
+                            <span>&nbsp;</span> <a href="/associado/login/" class="login" aria-label='login'>Login</a>
+                        </p>
+                    
+                </li>
+            <li>
+
+            </li>
+        </ul>
+
+		<header>
+			<div class="line"></div>
+			<div class="container">
+					<div class="fmthead">
+					<div class="col-lg-3">
+						<a href="/" aria-label='Página inicial'>
+							<img src="/static/images/logo.png" class="fmtSBEMlogo" alt='sbem logo'>
+						</a>
+					</div>
+					<div class="col-lg-9">
+						<div class="menu">
+                            
+                            
+                                <div class="menu-list">
+                                    <span class="menu-nome">Sobre a SBEM</span>
+                                    <ul class="submenu">
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/anuidade/" aria-label='Anuidade 2018'>
+                                            Anuidade 2018
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/sbem-associados/" aria-label='Associados'>
+                                            Associados
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/congressos-brasileiros/" aria-label='Congressos Brasileiros'>
+                                            Congressos Brasileiros
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/Estatutos/" aria-label='Estatutos'>
+                                            Estatutos
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/sbem-estrutura/" aria-label='Estrutura da SBEM'>
+                                            Estrutura da SBEM
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/nossa-historia/" aria-label='Nossa História'>
+                                            Nossa História
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/nossos-valores/" aria-label='Nossos Valores'>
+                                            Nossos Valores
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/premios-sbem/" aria-label='Prêmios SBEM'>
+                                            Prêmios SBEM
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/publicacoes-da-sbem/" aria-label='Publicações da SBEM'>
+                                            Publicações da SBEM
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                        
+                                    
+                                    </ul>
+                                </div>
+                            
+                                <div class="menu-list">
+                                    <span class="menu-nome">Para Profissionais</span>
+                                    <ul class="submenu">
+                                    
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/area_cientifica/" aria-label='Área Científica'>
+                                            Área Científica
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/duvidas/" aria-label='Perguntas Frequentes'>
+                                            Perguntas Frequentes
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/eventos-medicos-principais/" aria-label='Eventos Médicos'>
+                                            Eventos Médicos
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/servicos-credenciados/" aria-label='Serviços Credenciados'>
+                                            Serviços Credenciados
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/titulo-de-especialista/" aria-label='Título de Especialista'>
+                                            Título de Especialista
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/comunicados-oficiais/" aria-label='Comunicados Oficiais'>
+                                            Comunicados Oficiais
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                    </ul>
+                                </div>
+                            
+                                <div class="menu-list">
+                                    <span class="menu-nome">Para o Público</span>
+                                    <ul class="submenu">
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/procure-um-medico/" aria-label='Procure um médico'>
+                                            Procure um médico
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/areas-da-endocrinologia/" aria-label='Campos de Atuação da Endocrinologia'>
+                                            Campos de Atuação da Endocrinologia
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/cuidados-com-saude/" aria-label='Cuidados com a Saúde'>
+                                            Cuidados com a Saúde
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/recebas-boletins-online/" aria-label='Receba os Boletins Online'>
+                                            Receba os Boletins Online
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/campanhas-publicas/" aria-label='Campanhas Públicas'>
+                                            Campanhas Públicas
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/teste-seu-imc/" aria-label='Teste seu Índice de Massa Corporal'>
+                                            Teste seu Índice de Massa Corporal
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                    </ul>
+                                </div>
+                            
+                                <div class="menu-list">
+                                    <span class="menu-nome">Sala de Notícias</span>
+                                    <ul class="submenu">
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/Folha-da-SBEM/" aria-label='Folha da SBEM'>
+                                            Folha da SBEM
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/noticias-cientificas/" aria-label='Notícias Científicas'>
+                                            Notícias Científicas
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/noticias-institucionais/" aria-label='Notícias Institucionais'>
+                                            Notícias Institucionais
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/noticias/" aria-label='Notícias'>
+                                            Notícias
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/sbem-na-midia/" aria-label='SBEM na Mídia'>
+                                            SBEM na Mídia
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/sbem-reporter/" aria-label='Cobertura de Eventos'>
+                                            Cobertura de Eventos
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                        
+                                        <li class="submenu-item">
+                                            <a href="/expediente/" aria-label='Expediente'>
+                                            Expediente
+                                            </a>
+                                        </li>
+                                        
+                                    
+                                    </ul>
+                                </div>
+                            
+                            <li class="login-menu">
+								
+							    	<a href="#" class="login" aria-label='login'>Login</a>
+							    
+							    <div class="login-tooltip">
+				                	<div class="login-navigation">
+
+
+
+<form method="post" action="/associado/login/">
+    <label for="usuario">Usuário:</label>
+    <input name="login" type="text" size="12" />
+    <label for="senha">Senha:</label>
+    <input name="senha" type="password" size="6" />
+
+    <input class="botao-entrar" type="submit" value="ENTRAR" />
+</form>
+
+<div class="esqueci-minha-senha">
+    <a href="/associado/esqueci_minha_senha/">Esqueci minha senha</a>
+</div>
+
+<p class="quero-me-associar"><a href="/como-se-associar/">QUERO SER UM ASSOCIADO</a></p>
+
+
+</div>
+
+				                </div>
+                            </li>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<div id="#body">
+			<div class="container">
+		 		<div class="col-lg-12 search">
+		            <form action="/resultados-da-pesquisa-google/" method="GET">
+					    <img src="/static/images/search.png" alt='buscar'>
+			            <input type="text" name="q" class="texto" aria-label='Encontre' placeholder="Procure no site">
+		                <input type="hidden" name="uf">
+		                <input type="hidden" name="cidade">
+		                <input type="hidden" name="_mostrar" value="Buscar">
+		            </form>
+			    </div>
+		   	</div>
+			
+<div class="container">
+	<div class="row">
+<div class="col-lg-12 materia">
+<h1>
+Página não encontrada
+</h1>
+<p>A URL não existe.</p>
+</div></div></div>
+
+		</div>
+		<footer>
+		    <div class="container">
+                <div class="col-lg-5">
+                    <ul>
+                        <li>
+                        	<a href="https://endocrino.org.br/privacidade/" aria-label='Política de Privacidade'>Política de Privacidade</a>
+                        </li>
+                        <li>
+                        	<a href="https://endocrino.org.br/termos-de-uso/" aria-label='Termos de uso'>Termos de Uso</a>
+                        </li>
+                        <li>
+                        	<a href="https://endocrino.org.br/expediente/" aria-label='Expediente'>Expediente</a>
+                        </li>
+                        <li>
+                        	<a href="http://www.dcpress.com.br/" aria-label='Produção de Conteúdo' target="_blank">Produção de Conteúdo</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-7 footer-area">
+                    <p>©2018 Sociedade Brasileira de Endocrinologia e Metabologia - SBEM CNPJ: 42.567.289/0001-75<br/>End. Rua Humaitá, 85 - 5º andar Humaitá/RJ CEP 22261-000 - Tel: 21 2579 0312</p>
+                </div>
+            </div>
+		</footer>
+		<script type="text/javascript" src="/static/js/jquery-1.9.1.min.js"></script>
+        <script>
+
+			    var menu_button = $('.icon-menu');
+			    var arrow_button = $('.menu-mobile .menu-list .name');
+
+			    $(menu_button).click(function(e) {
+			        e.preventDefault();
+			        $('.menu-mobile').toggleClass('active');
+			        $('body').toggleClass('active');
+			    });
+
+			    var activeMenu = function(e) {
+			      e.preventDefault();
+			        var $elem = $('.submenu-mobile', $(this).parent());
+			        var active = $elem.hasClass('active');
+
+			        $('.submenu-mobile').removeClass('active');
+
+			        if (active)
+			            $elem.removeClass('active');
+			        else
+			            $elem.addClass('active');
+			    }
+
+			    $(arrow_button).click(activeMenu);
+        var id;
+        $('.menu-list').mouseout(function(){
+            $('.submenu').removeClass('show');
+            $('.login-tooltip').removeClass('show');
+        });
+        $('.menu-list').mouseover(function(){
+            $('.submenu').removeClass('show');
+            $('.login-tooltip').removeClass('show');
+
+            $('.submenu', $(this)).addClass('show');
+        });
+        $('.login').mouseout(function(){
+            $('.submenu').removeClass('show');
+            $('.login-tooltip').removeClass('show');
+        });
+        $('.login').hover(function(){
+            $('.login-tooltip').removeClass('show');
+            $('.submenu').removeClass('show');
+
+        	$('.login-tooltip').addClass('show');
+        });
+        </script>
+		
+        
+		<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=2646083; 
+var sc_invisible=1; 
+var sc_security="98899fe6"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web counter"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/2646083/0/98899fe6/1/" alt="web
+counter"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2060971-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	</body>
+</html>

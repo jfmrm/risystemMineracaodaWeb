@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1809.04966] Real-Time Lightweight Chaotic Encryption for 5G IoT Enabled Lip-Reading
+  Driven Secure Hearing-Aid</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="Real-Time Lightweight Chaotic Encryption for 5G IoT Enabled Lip-Reading Driven Secure Hearing-Aid" />
+<meta name="citation_author" content="Adeel, Ahsan" />
+<meta name="citation_author" content="Ahmad, Jawad" />
+<meta name="citation_author" content="Hussain, Amir" />
+<meta name="citation_date" content="2018/09/13" />
+<meta name="citation_online_date" content="2018/09/13" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1809.04966" />
+<meta name="citation_arxiv_id" content="1809.04966" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/cs/recent">cs</a> &gt; arXiv:1809.04966</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1809.04966"
+        dc:identifier="http://arxiv.org/abs/1809.04966"
+        dc:title="Real-Time Lightweight Chaotic Encryption for 5G IoT Enabled Lip-Reading
+  Driven Secure Hearing-Aid"
+        trackback:ping="http://arxiv.org/trackback/1809.04966" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1809.04966" accesskey="f">PDF</a></li>
+<li><a href="/format/1809.04966">Other formats</a></li>
+</ul>
+<div class="abs-license"><a href="http://creativecommons.org/licenses/by/4.0/" title="Rights to this article"><img src="/icons/licenses/by-4.0.png"/></a></div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">cs.CR</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.04966&amp;context=cs.CR&amp;function=prev" accesskey="p" title="previous in cs.CR (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.04966&amp;context=cs.CR&amp;function=next" accesskey="n" title="next in cs.CR (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/cs.CR/new">new</a>&nbsp;| <a href="/list/cs.CR/recent">recent</a>&nbsp;| <a href="/list/cs.CR/1809">1809</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1809.04966?context=cs">cs</a>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1809.04966">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04966%26title%3DReal-Time%2520Lightweight%2520Chaotic%2520Encryption%2520for%25205G%2520IoT%2520Enabled%2520Lip-Reading%250A%2520%2520Driven%2520Secure%2520Hearing-Aid%26authors%3D&amp;v=c5d49ccc" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04966%26description%3DReal-Time%2520Lightweight%2520Chaotic%2520Encryption%2520for%25205G%2520IoT%2520Enabled%2520Lip-Reading%250A%2520%2520Driven%2520Secure%2520Hearing-Aid&amp;v=42bcaaf3" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04966&amp;v=b804b822" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04966%26description%3DReal-Time%2520Lightweight%2520Chaotic%2520Encryption%2520for%25205G%2520IoT%2520Enabled%2520Lip-Reading%250A%2520%2520Driven%2520Secure%2520Hearing-Aid&amp;v=58314c0b" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04966%26title%3DReal-Time%2520Lightweight%2520Chaotic%2520Encryption%2520for%25205G%2520IoT%2520Enabled%2520Lip-Reading%250A%2520%2520Driven%2520Secure%2520Hearing-Aid&amp;v=e5a739f5" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04966%26title%3DReal-Time%2520Lightweight%2520Chaotic%2520Encryption%2520for%25205G%2520IoT%2520Enabled%2520Lip-Reading%250A%2520%2520Driven%2520Secure%2520Hearing-Aid&amp;v=3075886b" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04966&amp;v=86a4348e" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Computer Science > Cryptography and Security</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+Real-Time Lightweight Chaotic Encryption for 5G IoT Enabled Lip-Reading  Driven Secure Hearing-Aid</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/cs?searchtype=author&query=Adeel%2C+A">Ahsan Adeel</a>, 
+<a href="/search/cs?searchtype=author&query=Ahmad%2C+J">Jawad Ahmad</a>, 
+<a href="/search/cs?searchtype=author&query=Hussain%2C+A">Amir Hussain</a></div>
+<div class="dateline">(Submitted on 13 Sep 2018)</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> Existing audio-only hearing-aids are known to perform poorly in noisy
+situations where overwhelming noise is present. Next-generation audio-visual
+(lip-reading driven) hearing-aids stand as a major enabler to realise more
+intelligible audio. However, high data rate, low latency, low computational
+complexity, and privacy are some of the major bottlenecks to the successful
+deployment of such advanced hearing aids. To address these challenges, we
+envision an integration of 5G Cloud-Radio Access Network, Internet of Things
+(IoT), and strong privacy algorithms to fully benefit from the possibilities
+these technologies have to offer. The envisioned 5G IoT enabled secure
+audio-visual (AV) hearing-aid transmits the encrypted compressed AV information
+and receives encrypted enhanced reconstructed speech in real-time which fully
+addresses cybersecurity attacks such as location privacy and eavesdropping. For
+security implementation, a real-time lightweight AV encryption is utilized. For
+speech enhancement, the received AV information in the cloud is used to filter
+noisy audio using both deep learning and analytical acoustic modelling
+(filtering based approach). To offload the computational complexity and
+real-time optimization issues, the framework runs deep learning and big data
+optimization processes in the background on the cloud. Specifically, in this
+work, three key contributions are reported: (1) 5G IoT enabled secure
+audio-visual hearing-aid framework that aims to achieve a round-trip latency up
+to 5ms with 100 Mbps datarate (2) Real-time lightweight audio-visual encryption
+(3) Lip-reading driven deep learning approach for speech enhancement in the
+cloud. The critical analysis in terms of both speech enhancement and AV
+encryption demonstrate the potential of the envisioned technology in acquiring
+high-quality speech reconstruction and secure mobile AV hearing aid
+communication.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Cryptography and Security (cs.CR)</span></td>
+</tr>
+<tr>
+<td class="tablecell label">
+<abbr title="Association of Computing Machinery Classification">ACM</abbr>&nbsp;classes:
+</td>
+<td class="tablecell acm-classes">D.4.6; C.2; I.2; I.2.7; I.2.6</td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1809.04966">arXiv:1809.04966</a> [cs.CR]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1809.04966v1">arXiv:1809.04966v1</a> [cs.CR]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Ahsan Adeel [<a href="https://arxiv.org/show-email/6fe54c2c/1809.04966">view email</a>]
+<br />
+<b>[v1]</b> Thu, 13 Sep 2018 13:53:01 GMT  (4160kb,D)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1809.04966">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

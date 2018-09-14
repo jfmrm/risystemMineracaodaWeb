@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1809.04717] Achieving Low-Latency Mobile Edge Computing by Uplink and Downlink
+  Decoupled Access in HetNets</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="Achieving Low-Latency Mobile Edge Computing by Uplink and Downlink Decoupled Access in HetNets" />
+<meta name="citation_author" content="Al-Shuwaili, Ali" />
+<meta name="citation_author" content="Lawey, Ahmed" />
+<meta name="citation_date" content="2018/09/13" />
+<meta name="citation_online_date" content="2018/09/13" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1809.04717" />
+<meta name="citation_arxiv_id" content="1809.04717" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/cs/recent">cs</a> &gt; arXiv:1809.04717</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1809.04717"
+        dc:identifier="http://arxiv.org/abs/1809.04717"
+        dc:title="Achieving Low-Latency Mobile Edge Computing by Uplink and Downlink
+  Decoupled Access in HetNets"
+        trackback:ping="http://arxiv.org/trackback/1809.04717" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1809.04717" accesskey="f">PDF</a></li>
+<li><a href="/ps/1809.04717">PostScript</a></li>
+<li><a href="/format/1809.04717">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">cs.NI</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.04717&amp;context=cs.NI&amp;function=prev" accesskey="p" title="previous in cs.NI (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.04717&amp;context=cs.NI&amp;function=next" accesskey="n" title="next in cs.NI (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/cs.NI/new">new</a>&nbsp;| <a href="/list/cs.NI/recent">recent</a>&nbsp;| <a href="/list/cs.NI/1809">1809</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1809.04717?context=cs">cs</a>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1809.04717">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04717%26title%3DAchieving%2520Low-Latency%2520Mobile%2520Edge%2520Computing%2520by%2520Uplink%2520and%2520Downlink%250A%2520%2520Decoupled%2520Access%2520in%2520HetNets%26authors%3D&amp;v=5378eed0" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04717%26description%3DAchieving%2520Low-Latency%2520Mobile%2520Edge%2520Computing%2520by%2520Uplink%2520and%2520Downlink%250A%2520%2520Decoupled%2520Access%2520in%2520HetNets&amp;v=39cf3d11" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04717&amp;v=b2cc3e98" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04717%26description%3DAchieving%2520Low-Latency%2520Mobile%2520Edge%2520Computing%2520by%2520Uplink%2520and%2520Downlink%250A%2520%2520Decoupled%2520Access%2520in%2520HetNets&amp;v=1b3754b5" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04717%26title%3DAchieving%2520Low-Latency%2520Mobile%2520Edge%2520Computing%2520by%2520Uplink%2520and%2520Downlink%250A%2520%2520Decoupled%2520Access%2520in%2520HetNets&amp;v=4a97ef2d" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04717%26title%3DAchieving%2520Low-Latency%2520Mobile%2520Edge%2520Computing%2520by%2520Uplink%2520and%2520Downlink%250A%2520%2520Decoupled%2520Access%2520in%2520HetNets&amp;v=537ee69e" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.04717&amp;v=dd419235" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Computer Science > Networking and Internet Architecture</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+Achieving Low-Latency Mobile Edge Computing by Uplink and Downlink  Decoupled Access in HetNets</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/cs?searchtype=author&query=Al-Shuwaili%2C+A">Ali Al-Shuwaili</a>, 
+<a href="/search/cs?searchtype=author&query=Lawey%2C+A">Ahmed Lawey</a></div>
+<div class="dateline">(Submitted on 13 Sep 2018)</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> Despite the physical proximity of computationally-enhanced Base Stations
+(BSs) in Mobile Edge Computing (MEC) systems, achieving an end-to-end
+low-latency for computations offloading is still a critical design problem.
+This is because the offloading of computational tasks via the MEC or cloudlet
+servers entails the use of uplink and downlink radio links that are usually
+assumed to be coupled to a single BS. However, for heterogeneous networks, a
+new architectural paradigm whereby uplink and downlink are not associated with
+the same BS is proposed and seen to provide gains in network throughput.
+Motivated by such gains, and by using typical results from stochastic geometry,
+we formulate the offloading latency for the MEC-based scheme with decoupled
+UL/DL association, or decoupled access, and compare its performance to the
+conventional coupled or single association scheme. Despite the extra backhaul
+delay necessary for the communication between the two serving BSs in UL and DL,
+the MEC-based offloading scheme with decoupled association is still capable of
+providing a fairly lower offloading latency as compared to the conventional
+offloading scheme with coupled association.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Comments:
+</td>
+<td class="tablecell comments mathjax">8 pages, 5 figures. Submitted</td>
+</tr>
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Networking and Internet Architecture (cs.NI)</span></td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1809.04717">arXiv:1809.04717</a> [cs.NI]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1809.04717v1">arXiv:1809.04717v1</a> [cs.NI]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Ali Al-Shuwaili [<a href="https://arxiv.org/show-email/535129d4/1809.04717">view email</a>]
+<br />
+<b>[v1]</b> Thu, 13 Sep 2018 00:21:07 GMT  (248kb)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1809.04717">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

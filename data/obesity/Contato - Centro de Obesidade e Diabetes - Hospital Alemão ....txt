@@ -1,0 +1,507 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/x-icon" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="57x57" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/favicon-16x16.png">
+    <link rel="manifest" href="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/manifest.json">
+   <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/icones/ms-icon-144x144.png">
+	<meta name="theme-color" content="#6ebe9f">
+	
+	<link rel="pingback" href="">
+	<!--[if lt IE 9]>
+		<script src=https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js></script>
+		<script src=https://oss.maxcdn.com/respond/1.4.2/respond.min.js></script>
+	<![endif]--> 
+
+	<title>Página não encontrada - Centro de Obesidade e Diabetes - Hospital Alemão Oswaldo Cruz</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Página não encontrada - Centro de Obesidade e Diabetes - Hospital Alemão Oswaldo Cruz" />
+<meta property="og:site_name" content="Centro de Obesidade e Diabetes - Hospital Alemão Oswaldo Cruz" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Página não encontrada - Centro de Obesidade e Diabetes - Hospital Alemão Oswaldo Cruz" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/centrodeobesidadeediabetes.org.br\/","name":"Centro de Obesidade e Diabetes","potentialAction":{"@type":"SearchAction","target":"http:\/\/centrodeobesidadeediabetes.org.br\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":false,"sameAs":[],"@id":"#organization","name":"Hospital Alem\u00e3o Oswaldo Cruz","logo":"http:\/\/centrodeobesidadeediabetes.org.br\/wp-content\/uploads\/2016\/10\/logo_haoc.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/centrodeobesidadeediabetes.org.br\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://centrodeobesidadeediabetes.org.br/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='centro-obesidade-style-wp-css'  href='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/css/lib/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owlcarousel-css'  href='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/css/lib/owl.carousel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='centro-obesidade-font-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700%2C600' type='text/css' media='all' />
+<link rel='stylesheet' id='centro-obesidade-style-css'  href='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/css/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/js/lib/jquery.min.js'></script>
+<link rel='https://api.w.org/' href='http://centrodeobesidadeediabetes.org.br/wp-json/' />
+<link rel="icon" href="http://centrodeobesidadeediabetes.org.br/wp-content/uploads/2017/09/cropped-icone-oswaldo-cruz-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://centrodeobesidadeediabetes.org.br/wp-content/uploads/2017/09/cropped-icone-oswaldo-cruz-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://centrodeobesidadeediabetes.org.br/wp-content/uploads/2017/09/cropped-icone-oswaldo-cruz-180x180.png" />
+<meta name="msapplication-TileImage" content="http://centrodeobesidadeediabetes.org.br/wp-content/uploads/2017/09/cropped-icone-oswaldo-cruz-270x270.png" />
+	
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MNJZXJ');</script>
+<!-- End Google Tag Manager -->	
+		
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31239042-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-31239042-3');
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '286838201853450');
+  fbq('track', 'Lead');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=286838201853450&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+</head>
+<body class="error404 hfeed">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MNJZXJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<header>
+		<div class="header-top visible-lg visible-md">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5">
+						<ul class="contact-info -header">
+																	<li class="item"><a href="tel:1135490401"><a class="tel1135490401" href="tel:+551135490401">(11) 3549-0401</a></a></li>
+																<li class="item">
+								<a href="/agende-uma-consulta" class="content-button -secondary -small">Agende uma consulta</a>
+							</li>
+						</ul>
+					</div>
+					<div class="col-md-7 -align-right">
+						<nav class="top-nav -header">
+							<ul class="list">
+									                                		<li class="top-nav-item"><a href="https://hospitaloswaldocruz.org.br/" class="link" title="Sobre o Hospital"target="_blank">Sobre o Hospital</a></li>
+	                                		                                		<li class="top-nav-item"><a href="/como-chegar/" class="link" title="Como Chegar">Como Chegar</a></li>
+	                                		                                		<li class="top-nav-item"><a href="/assessoria-de-imprensa/" class="link" title="Imprensa">Imprensa</a></li>
+	                                								</ul>
+						</nav>
+						<nav class="social-nav -header">
+							<ul class="list">
+								<li class="social-nav-item"><a href="https://www.facebook.com/HospitalAlemaoOswaldoCruz" target="_blank" class="link -facebook" title="Visite nosso Facebook"><span class="icon-facebook"></span></a></li>
+								<li class="social-nav-item"><a href="https://www.youtube.com/user/HospitalOswaldoCruz" target="_blank" class="link -youtube" title="Visite nosso Youtube"><span class="icon-youtube"></span></a></li>
+								<li class="social-nav-item"><a href="https://twitter.com/hospitalalemao" target="_blank" class="link -twitter" title="Visite nosso Twitter"><span class="icon-twitter"></span></a></li>
+								<li class="social-nav-item"><a href="https://www.linkedin.com/company/958423?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A958423%2Cidx%3A3-2-4%2CtarId%3A1461939353595%2Ctas%3Aoswaldo%20cruz" target="_blank" class="link -linkedin" title="Visite nosso LinkedIn"><span class="icon-linkedin"></span></a></li>
+								<li class="social-nav-item"><a href="https://www.instagram.com/hospitalalemaooswaldocruz/" target="_blank" class="link -instagram" title="Visite nosso Instagram"><span class="icon-instagram"></span></a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header-content">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-9">
+														<a href="http://centrodeobesidadeediabetes.org.br/" rel="home" title="Centro de Obesidade e Diabetes - Hospital Alemão Oswaldo Cruz" class="header-logo">
+									<img src="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/logo_obesidade.png" class="image" alt="Centro de Obesidade e Diabetes - Hospital Alemão Oswaldo Cruz">
+								</a>
+						
+						<button class="button-menu js-active-menu hidden-md hidden-lg">
+							<span class="line"></span><span class="line"></span><span class="line"></span>
+						</button>
+					</div>
+					<div class="col-md-3 visible-md visible-lg">
+						<form action="/">
+							<div class="form-group search-header -button">
+								<input type="text" class="form-control terms  -button" name="s" value="" placeholder="Buscar">
+								<button type="submit" class="button -darken" title="Buscar"><span class="icon-search"></span></button>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+		<nav class="header-nav">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="navigation">
+							<li class="nav-item hidden-md hidden-lg">
+								<a href="javascript:void(0);" class="link -close js-close-menu">&times;</a>
+								<a href="https://www.linkedin.com/company/958423?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A958423%2Cidx%3A3-2-4%2CtarId%3A1461939353595%2Ctas%3Aoswaldo%20cruz" class="link -social" target="_blank" title="Visite nosso LinkedIn">
+									<span class="icon-linkedin"></span>
+								</a>
+								<a href="https://twitter.com/hospitalalemao" class="link -social" target="_blank" title="Visite nosso Twitter">
+									<span class="icon-twitter"></span>
+								</a>
+								<a href="https://www.youtube.com/user/HospitalOswaldoCruz" class="link -social" target="_blank" title="Visite nosso Youtube">
+									<span class="icon-youtube"></span>
+								</a>
+								<a href="https://pt-br.facebook.com/HospitalAlemaoOswaldoCruz" class="link -social" target="_blank" title="Visite nosso Facebook">
+									<span class="icon-facebook"></span>
+								</a>
+								<a href="https://www.instagram.com/hospitalalemaooswaldocruz/" class="link -social" target="_blank" title="Visite nosso Instagram">
+									<span class="icon-instagram"></span>
+								</a>
+							</li>
+							<li class="nav-item hidden-md hidden-lg">
+								<form action="#">
+									<div class="form-group search-header">
+										<input type="text" class="form-control terms" name="s">
+										<button type="submit" class="button"><span class="icon-search"></span></button>
+									</div>
+								</form>
+							</li>
+							                                		<li class="nav-item hidden-md hidden-lg"><a href="https://hospitaloswaldocruz.org.br/" class="link">Sobre o Hospital</a></li>
+                                	                                		<li class="nav-item hidden-md hidden-lg"><a href="/como-chegar/" class="link">Como Chegar</a></li>
+                                	                                		<li class="nav-item hidden-md hidden-lg"><a href="/assessoria-de-imprensa/" class="link">Imprensa</a></li>
+                                												<li class="nav-item -has-children">
+										                            			<a href="http://centrodeobesidadeediabetes.org.br/institucional/infraestrutura-e-certificacoes/" class="link " title="Institucional">Institucional</a>
+                            																<a href="#" class="hidden-lg hidden-md openmenu"><span class="icon-arrow-next"></span></a>
+                        							<ul class="sub-nav">
+                            					                                					<li class="subitem">
+                                						<a href="/institucional/infraestrutura-e-certificacoes/" class="link " title="Infraestrutura e Certificações">Infraestrutura e Certificações</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="/institucional/educacao-e-pesquisa/" class="link " title="Educação e Pesquisa">Educação e Pesquisa</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/parceria/" class="link " title="Parceira Track&#038;Field® Run Series">Parceira Track&#038;Field® Run Series</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="/noticias/" class="link " title="Notícias">Notícias</a>
+                            						</li>
+                            					                        							</ul>
+                            					                        			</li>
+                            												<li class="nav-item">
+										                            			<a href="/convenios/" class="link " title="Convênios">Convênios</a>
+                            			                        			</li>
+                            												<li class="nav-item -has-children">
+										                            			<a href="/equipe-multidisciplinar/" class="link " title="Equipe Multidisciplinar">Equipe Multidisciplinar</a>
+                            																<a href="#" class="hidden-lg hidden-md openmenu"><span class="icon-arrow-next"></span></a>
+                        							<ul class="sub-nav">
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/equipe-multidisciplinar/enfermagem/" class="link " title="Enfermagem">Enfermagem</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/equipe-multidisciplinar/equipe-medica/" class="link " title="Equipe Médica">Equipe Médica</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/equipe-multidisciplinar/nutricao/" class="link " title="Nutrição">Nutrição</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/equipe-multidisciplinar/psicologia/" class="link " title="Psicologia">Psicologia</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/referenciar-pacientes/" class="link " title="Referenciar Pacientes">Referenciar Pacientes</a>
+                            						</li>
+                            					                        							</ul>
+                            					                        			</li>
+                            												<li class="nav-item -has-children">
+										                            			<a href="http://centrodeobesidadeediabetes.org.br/servicos-e-tratamentos/" class="link " title="Serviços e Tratamentos">Serviços e Tratamentos</a>
+                            																<a href="#" class="hidden-lg hidden-md openmenu"><span class="icon-arrow-next"></span></a>
+                        							<ul class="sub-nav">
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/servicos-e-tratamentos/consultas-clinicas-e-diagnostico/" class="link " title="Consultas Clínicas e Diagnóstico">Consultas Clínicas e Diagnóstico</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/servicos-e-tratamentos/cirurgias-bariatricas-e-metabolicas/" class="link " title="Cirurgias Bariátricas e Metabólicas">Cirurgias Bariátricas e Metabólicas</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/servicos-e-tratamentos/acompanhamento-interdisciplinar/" class="link " title="Acompanhamento Interdisciplinar">Acompanhamento Interdisciplinar</a>
+                            						</li>
+                            					                        							</ul>
+                            					                        			</li>
+                            												<li class="nav-item -has-children">
+										                            			<a href="http://centrodeobesidadeediabetes.org.br/tudo-sobre-obesidade/tratamento-da-obesidade/" class="link " title="Tudo sobre Obesidade">Tudo sobre Obesidade</a>
+                            																<a href="#" class="hidden-lg hidden-md openmenu"><span class="icon-arrow-next"></span></a>
+                        							<ul class="sub-nav">
+                            					                                					<li class="subitem">
+                                						<a href="/tudo-sobre-obesidade/tratamento-da-obesidade/" class="link " title="Tratamento da Obesidade">Tratamento da Obesidade</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="/tudo-sobre-obesidade/calculadora-de-imc/" class="link " title="Calculadora de IMC">Calculadora de IMC</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="/tudo-sobre-obesidade/faq/" class="link " title="FAQ">FAQ</a>
+                            						</li>
+                            					                        							</ul>
+                            					                        			</li>
+                            												<li class="nav-item -has-children">
+										                            			<a href="http://centrodeobesidadeediabetes.org.br/tudo-sobre-diabetes/tratamento-do-diabetes/" class="link " title="Tudo sobre Diabetes">Tudo sobre Diabetes</a>
+                            																<a href="#" class="hidden-lg hidden-md openmenu"><span class="icon-arrow-next"></span></a>
+                        							<ul class="sub-nav">
+                            					                                					<li class="subitem">
+                                						<a href="/tudo-sobre-diabetes/tratamento-do-diabetes/" class="link " title="Tratamento do Diabetes">Tratamento do Diabetes</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="/tudo-sobre-diabetes/cirurgia-metabolica/" class="link " title="Cirurgia Metabólica">Cirurgia Metabólica</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/tudo-sobre-diabetes/uma-epidemia-chamada-diabetes/" class="link " title="Uma Epidemia Chamada Diabetes">Uma Epidemia Chamada Diabetes</a>
+                            						</li>
+                            					                        							</ul>
+                            					                        			</li>
+                            												<li class="nav-item -has-children">
+										                            			<a href="http://centrodeobesidadeediabetes.org.br/contato/" class="link " title="Contato">Contato</a>
+                            																<a href="#" class="hidden-lg hidden-md openmenu"><span class="icon-arrow-next"></span></a>
+                        							<ul class="sub-nav">
+                            					                                					<li class="subitem">
+                                						<a href="http://centrodeobesidadeediabetes.org.br/contato/agende-uma-consulta/" class="link " title="Agende uma Consulta">Agende uma Consulta</a>
+                            						</li>
+                            					                                					<li class="subitem">
+                                						<a href="http://haoc.com.br/hospital/Paginas/trabalhe_conosco/Trabalhe_conosco.aspx" class="link " title="Trabalhe Conosco"target="_blank">Trabalhe Conosco</a>
+                            						</li>
+                            					                        							</ul>
+                            					                        			</li>
+                            							</ul>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</header>
+
+	<div id="content">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="content-header">
+					<div class="row">
+						<div class="col-md-6 col-sm-5"></div>
+						<div class="col-md-6 col-sm-7">
+	<div class="content-share">
+		<span class="hidden-xs">Compartilhar:</span>
+		<ul class="share-list">
+			<li class="item"><a href="#" title="Compartilhar via e-mail" class="link -email js-social" data-social="email"><span class="icon-mail"></span></a></li>
+			<li class="item"><a href="#" title="Compartilhar no Facebook" class="link -facebook js-social" data-social="facebook"><span class="icon-facebook"></span></a></li>
+			<li class="item"><a href="#" title="Compartilhar no Twitter" class="link -twitter js-social" data-social="twitter"><span class="icon-twitter"></span></a></li>
+			<li class="item"><a href="#" title="Compartilhar no Google+" class="link -gplus js-social" data-social="gplus"><span class="icon-gplus"></span></a></li>
+			
+			
+			
+			
+			
+			<li class="item">
+			        <a href="whatsapp://send?text=Confira a matéria: centrodeobesidadeediabetes.org.br/contato/&sa=U&ved=0ahUKEwiDwojfxbrdAhWBxpAKHbCGBxc4HhAWCCQwAw&usg=AOvVaw3p8RgbQIHQX1CgJr17JiXq" title="whatsapp" class="link -whatsapp js-social" data-social="whatsapp"><span class="icon-whatsapp"></span></a>
+			        
+            </li>
+			<li class="item">
+<a href="whatsapp://send?text=Confira a matéria: centrodeobesidadeediabetes.org.br/contato/&sa=U&ved=0ahUKEwiDwojfxbrdAhWBxpAKHbCGBxc4HhAWCCQwAw&usg=AOvVaw3p8RgbQIHQX1CgJr17JiXq" class="link js-social" data-social="whatsapp" title="whatsapp">
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+				<div class="site-content box">
+					<h1 class="title-404">Página não encontrada</h1>
+					<p>Verifique se o endereço informado na URL não está errado, ou tente fazer uma busca pela página desejada.</p>
+
+					<div class="row">
+						<div class="col-md-6 col-md-offset-3">
+							<form action="/">
+								<div class="form-group -button">
+									<input type="text" class="form-control terms -button" name="s" value=""">
+									<button type="submit" class="button" title="Buscar"><span class="icon-search"></span></button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 col-sm-5"></div>
+			<div class="col-md-6 col-sm-7">
+	<div class="content-share">
+		<span class="hidden-xs">Compartilhar:</span>
+		<ul class="share-list">
+			<li class="item"><a href="#" title="Compartilhar via e-mail" class="link -email js-social" data-social="email"><span class="icon-mail"></span></a></li>
+			<li class="item"><a href="#" title="Compartilhar no Facebook" class="link -facebook js-social" data-social="facebook"><span class="icon-facebook"></span></a></li>
+			<li class="item"><a href="#" title="Compartilhar no Twitter" class="link -twitter js-social" data-social="twitter"><span class="icon-twitter"></span></a></li>
+			<li class="item"><a href="#" title="Compartilhar no Google+" class="link -gplus js-social" data-social="gplus"><span class="icon-gplus"></span></a></li>
+			
+			
+			
+			
+			
+			<li class="item">
+			        <a href="whatsapp://send?text=Confira a matéria: centrodeobesidadeediabetes.org.br/contato/&sa=U&ved=0ahUKEwiDwojfxbrdAhWBxpAKHbCGBxc4HhAWCCQwAw&usg=AOvVaw3p8RgbQIHQX1CgJr17JiXq" title="whatsapp" class="link -whatsapp js-social" data-social="whatsapp"><span class="icon-whatsapp"></span></a>
+			        
+            </li>
+			<li class="item">
+<a href="whatsapp://send?text=Confira a matéria: centrodeobesidadeediabetes.org.br/contato/&sa=U&ved=0ahUKEwiDwojfxbrdAhWBxpAKHbCGBxc4HhAWCCQwAw&usg=AOvVaw3p8RgbQIHQX1CgJr17JiXq" class="link js-social" data-social="whatsapp" title="whatsapp">
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+
+
+<div class="container">
+	<div class="row box">
+		<article class="col-md-4"><a href="/tudo-sobre-diabetes/cirurgia-metabolica/"  class="content-featured -crosslink -medium -single -bgtop" title="Cirurgia Metabólica"><span class="shadow"></span><span class="shadowhover"></span><img src="http://centrodeobesidadeediabetes.org.br/wp-content/uploads/2016/09/cirurgias-406x170.jpg" class="image" alt="Cirurgia Metabólica"><div class="content"><h1 class="title">Cirurgia Metabólica</h1></div></a></article><article class="col-md-4"><a href="/contato/agende-uma-consulta/"  class="content-featured -crosslink -medium -single -bgtop" title="Agende uma Consulta"><span class="shadow"></span><span class="shadowhover"></span><img src="http://centrodeobesidadeediabetes.org.br/wp-content/uploads/2017/08/agende-uma-consulta-crosslink-500x170.jpg" class="image" alt="Agende uma Consulta"><div class="content"><h1 class="title">Agende uma Consulta</h1></div></a></article><article class="col-md-4"><a href="/noticias/"  class="content-featured -crosslink -medium -single -bgtop" title="Veja todas as nossas matérias sobre diabetes e obesidade"><span class="shadow"></span><span class="shadowhover"></span><img src="http://centrodeobesidadeediabetes.org.br/wp-content/uploads/2016/09/diabetes-obesidade-410x170.png" class="image" alt="Veja todas as nossas matérias sobre diabetes e obesidade"><div class="content"><h1 class="title">Veja todas as nossas matérias sobre diabetes e obesidade</h1></div></a></article>	</div>
+</div>	</div>
+
+	<div class="container-fluid">
+		<div class="row crosslink-footer">
+			<div class="col-md-7 col-sm-6 -nopadding">
+				<img src="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/centro-obesidade-diabetes.jpg" class="image" alt="Centro de Obesidade e Diabetes" title="Centro de Obesidade e Diabetes">
+			</div>
+			<div class="col-md-5 col-sm-6 -nopadding">
+				<div class="crosslink-info">			<div class="textwidget"><h2 class="title">Centro Especializado em Obesidade e Diabetes</h2>
+<p class="info">R. Cincinato Braga, 37 &#8211; 5º Andar<br />
+Bela Vista / São Paulo &#8211; SP 01333-010<br />
+Tel.: <a href="tel:+551135490401">(11) 3549-0401</a></p>
+<p class="info"><a class="link" title="Como chegar" href="/como-chegar/">Como chegar</a> <a class="link" title="Agende uma consulta" href="/contato/agende-uma-consulta/">Agende uma consulta</a></p>
+</div>
+		</div>			</div>
+		</div>
+	</div>
+	<footer>
+		<div class="social-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-7">
+						<nav class="social-nav -footer">
+							<ul class="list">
+								<li class="social-nav-item"><a href="https://www.facebook.com/HospitalAlemaoOswaldoCruz" class="link -facebook" target="_blank" title="Visite nosso Facebook"><span class="icon-facebook"></span></a></li>
+								<li class="social-nav-item"><a href="https://www.youtube.com/user/HospitalOswaldoCruz" class="link -youtube" target="_blank" title="Visite nosso Youtube"><span class="icon-youtube"></span></a></li>
+								<li class="social-nav-item"><a href="https://twitter.com/hospitalalemao" class="link -twitter" target="_blank" title="Visite nosso Twitter"><span class="icon-twitter"></span></a></li>
+								<li class="social-nav-item"><a href="https://www.linkedin.com/company/958423?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A958423%2Cidx%3A3-2-4%2CtarId%3A1461939353595%2Ctas%3Aoswaldo%20cruz" class="link -linkedin" target="_blank" title="Visite nosso LinkedIn"><span class="icon-linkedin"></span></a></li>
+								<li class="social-nav-item"><a href="https://www.instagram.com/hospitalalemaooswaldocruz/" target="_blank" class="link -instagram" title="Visite nosso Instagram"><span class="icon-instagram"></span></a></li>
+							</ul>
+						</nav>
+					</div>
+					<div class="col-md-5 contactinfo-container -alignright">
+						Fale conosco: 
+						<ul class="contact-info -footer">
+																	<li class="item"><a href="tel:01135490401"><a class="tel1135490401" href="tel:+551135490401">(11) 3549-0401</a></a></li>
+															</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="site-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<nav class="footer-navigation col-md-9 row">
+							<ul class="list">
+									                                		<li class="item"><a href="http://centrodeobesidadeediabetes.org.br/institucional/infraestrutura-e-certificacoes/" class="link" title="Institucional">Institucional</a></li>
+	                                		                                		<li class="item"><a href="/convenios/" class="link" title="Convênios">Convênios</a></li>
+	                                		                                		<li class="item"><a href="/equipe-multidisciplinar/" class="link" title="Equipe Multidisciplinar">Equipe Multidisciplinar</a></li>
+	                                		                                		<li class="item"><a href="http://centrodeobesidadeediabetes.org.br/servicos-e-tratamentos/" class="link" title="Serviços e Tratamentos">Serviços e Tratamentos</a></li>
+	                                		                                		<li class="item"><a href="http://centrodeobesidadeediabetes.org.br/tudo-sobre-obesidade/tratamento-da-obesidade/" class="link" title="Tudo sobre Obesidade">Tudo sobre Obesidade</a></li>
+	                                		                                		<li class="item"><a href="http://centrodeobesidadeediabetes.org.br/tudo-sobre-diabetes/tratamento-do-diabetes/" class="link" title="Tudo sobre Diabetes">Tudo sobre Diabetes</a></li>
+	                                		                                		<li class="item"><a href="http://centrodeobesidadeediabetes.org.br/contato/" class="link" title="Contato">Contato</a></li>
+	                                		                                		<li class="item"><a href="https://hospitaloswaldocruz.org.br/" class="link" title="Sobre o Hospital"target="_blank">Sobre o Hospital</a></li>
+	                                		                                		<li class="item"><a href="/como-chegar/" class="link" title="Como Chegar">Como Chegar</a></li>
+	                                		                                		<li class="item"><a href="/assessoria-de-imprensa/" class="link" title="Imprensa">Imprensa</a></li>
+	                                								</ul>
+						</nav>
+						<div class="crosslink-info col-md-3">
+						   <div class="info"><a class="content-button -secondary -small -info-footer" title="Agende uma consulta" href="/agende-uma-consulta/">Agende uma consulta <span class="icon-arrow-next"></span></a></div>
+						</div>
+					</div>
+					<div class=" -aligncenter">
+						<div class="certicate-container col-md-3 certificados">
+							<h2 class="title">Certificados:</h2>
+							<ul class="certicate-list">
+								<li class="item">
+									<img src="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/certificado-asbs.png" class="image" alt="Bariatric Surgery Center of Excellence" title="Bariatric Surgery Center of Excellence">
+								</li>
+								<li class="item">
+									<img src="http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/images/certificado-pci.png" class="image" alt="Joint Commission International" title="Joint Commission International">
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 -aligncenter footer-copy">
+						<p class="footer-info">&copy; 2016 Hospital Alemão Oswaldo Cruz • Todos os diretos reservados • <a class="tel1135490401" href="tel:+551135490401">(11) 3549-0401</a> </p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/centrodeobesidadeediabetes.org.br\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Verifique se voc\u00ea n\u00e3o \u00e9 um rob\u00f4."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/js/navigation.js'></script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/js/lib/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/js/lib/owl.carousel.min.js'></script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/js/lib/social-share.js'></script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/js/lib/jquery.maskedinput.min.js'></script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/js/lib/validacao.js'></script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-content/themes/haoc-obesidade-diabetes/js/scripts.js'></script>
+<script type='text/javascript' src='http://centrodeobesidadeediabetes.org.br/wp-includes/js/wp-embed.min.js'></script>
+
+</body>
+</html>

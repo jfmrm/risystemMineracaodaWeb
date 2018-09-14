@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="pt" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="pt" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="pt" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="pt" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="pt" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<link rel="alternate" href="https://www.cochrane.org/ms/CD001871/intervensi-intervensi-untuk-mencegah-obesiti-dalam-golongan-kanak-kanak." hreflang="ms" />
+<link rel="alternate" href="https://www.cochrane.org/ru/CD001871/vmeshatelstva-dlya-profilaktiki-ozhireniya-u-detey" hreflang="ru" />
+<link rel="alternate" href="https://www.cochrane.org/fr/CD001871/interventions-pour-la-prevention-de-lobesite-infantile" hreflang="fr" />
+<link rel="alternate" href="https://www.cochrane.org/hr/CD001871/intervencije-za-sprjecavanje-pretilosti-u-djece" hreflang="hr" />
+<link rel="alternate" href="https://www.cochrane.org/ta/CD001871/kulllntaikll-uttl-prumnnn-tttukkum-murraikll" hreflang="ta" />
+<link rel="alternate" href="https://www.cochrane.org/pl/CD001871/interwencje-ukierunkowane-na-zapobieganie-rozwojowi-otylosci-wsrod-dzieci" hreflang="pl" />
+<link rel="alternate" href="https://www.cochrane.org/zh-hans/CD001871/er-tong-fei-pang-de-yu-fang-cuo-shi" hreflang="zh-hans" />
+<link rel="alternate" href="https://www.cochrane.org/zh-hant/CD001871/er-tong-fei-pang-zheng-yu-fang-zhi-jie-ru-fang-shi" hreflang="zh-hant" />
+<link rel="alternate" href="https://www.cochrane.org/de/CD001871/interventionen-zur-praevention-von-adipositas-bei-kindern" hreflang="de" />
+<link rel="alternate" href="https://www.cochrane.org/es/CD001871/intervenciones-para-prevenir-la-obesidad-infantil" hreflang="es" />
+<meta property="og:image" content="https://www.cochrane.org/sites/all/themes/zen_cochrane/images/cochrane_logo_400.jpg" />
+<link rel="canonical" href="/pt/CD001871/intervencoes-para-a-prevencao-da-obesidade-infantil" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta property="og:title" content="Intervenções para a prevenção da obesidade infantil" />
+<meta name="twitter:card" content="summary" />
+<meta name="DC.DOI" content="10.1002/14651858.CD001871.pub3" />
+<meta name="citation_doi" content="10.1002/14651858.CD001871.pub3" />
+<link rel="alternate" href="https://www.cochrane.org/CD001871/PUBHLTH_interventions-for-preventing-obesity-in-children" hreflang="en" />
+  <title>Intervenções para a prevenção da obesidade infantil | Cochrane</title>
+  <!-- For IE 9 and below. ICO should be 32x32 pixels in size -->
+  <!--[if IE]><link rel="shortcut icon" href="/sites/default/files/icons/favicon.ico"><![endif]-->
+  <!-- Touch Icons - iOS and Android 2.1+ 180x180 pixels in size. --> 
+  <link rel="apple-touch-icon-precomposed" href="/sites/default/files/icons/cochrane-icon.png">
+  <!-- Firefox, Chrome, Safari, IE 11+ and Opera. 196x196 pixels in size. -->
+  <link rel="icon" href="/sites/default/files/icons/cochrane-icon.png">
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+  <link type="text/css" rel="stylesheet" href="https://www.cochrane.org/sites/default/files/public/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cochrane.org/sites/default/files/public/css/css_RJzktkbKM6l24mzNYtYBIDt6bvsdsFW9H_VcmY5p5TU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cochrane.org/sites/default/files/public/css/css_qQjK3b_-BbVN81sGLO-zH5qitjc07fJObmI6lUE6R1U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,600italic,700,700italic&amp;subset=latin,latin-ext" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cochrane.org/sites/default/files/public/css/css_BDm4S-qgJaCKWN5OLLHctCnsxHXkAvQ-QPHxKhQmBpg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.cochrane.org/sites/default/files/public/css/css_I78uexmMcYtppe5Bk8K4OaWnAYMtf9v_ebJGlYzOAC0.css" media="print" />
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+    <!-- <PageMap><DataObject type="document"><Attribute name="type">Review</Attribute></DataObject></PageMap> --></head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-30361 node-type-review i18n-pt section-cd001871" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <!--div id="bar-top-1"></div>
+  <div id="bar-top-2"></div-->
+  <div id="top-nav-wrapper"><div id="top-nav"><div id="top-nav-inner">
+          <h3 class="element-invisible">Língua:</h3>
+      <div id="language-switcher">
+        <ul>
+          <li id="lang-active"><span class="active">Português</span></li>
+          <li id="lang-de"><a href="/de/CD001871/interventionen-zur-praevention-von-adipositas-bei-kindern">Deutsch</a></li>
+          <li id="lang-en"><a href="/CD001871/PUBHLTH_interventions-for-preventing-obesity-in-children">English</a></li>
+          <li id="lang-es"><a href="/es/CD001871/intervenciones-para-prevenir-la-obesidad-infantil">Español</a></li>
+          <li id="lang-fr"><a href="/fr/CD001871/interventions-pour-la-prevention-de-lobesite-infantile">Français</a></li>
+          <li id="lang-hr"><a href="/hr/CD001871/intervencije-za-sprjecavanje-pretilosti-u-djece">Hrvatski</a></li>
+          <li id="lang-ms"><a href="/ms/CD001871/intervensi-intervensi-untuk-mencegah-obesiti-dalam-golongan-kanak-kanak.">Bahasa Malaysia</a></li>
+          <li id="lang-pl"><a href="/pl/CD001871/interwencje-ukierunkowane-na-zapobieganie-rozwojowi-otylosci-wsrod-dzieci">Polski</a></li>
+          <li id="lang-ru"><a href="/ru/CD001871/vmeshatelstva-dlya-profilaktiki-ozhireniya-u-detey">Русский</a></li>
+          <li id="lang-ta"><a href="/ta/CD001871/kulllntaikll-uttl-prumnnn-tttukkum-murraikll">தமிழ்</a></li>
+          <li id="lang-zh-hans"><a href="/zh-hans/CD001871/er-tong-fei-pang-de-yu-fang-cuo-shi">简体中文</a></li>
+          <li id="lang-zh-hant"><a href="/zh-hant/CD001871/er-tong-fei-pang-zheng-yu-fang-zhi-jie-ru-fang-shi">繁體中文</a></li>
+        </ul>
+      </div>
+      <div id="jst-language-more">Mais línguas disponíveis</div>
+      <div id="jst-language-less">Mostre menos línguas</div>
+    
+          <nav class="header__secondary-menu" id="secondary-menu" role="navigation">
+        <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/pt/media" class="menu__link">Mídia</a></li>
+<li class="menu__item is-collapsed collapsed"><a href="/pt/contact" class="menu__link">Fale conosco</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://community.cochrane.org/" title="Você já é um membro? Encontre mais informações na Comunidade Cochrane." target="_blank" class="menu__link">Comunidade</a></li>
+<li class="menu__item is-leaf last leaf"><a href="https://account.cochrane.org/" title="" class="menu__link">Minha conta</a></li>
+</ul>      </nav>
+      </div></div></div>
+
+  <header class="header" id="header" role="banner">
+
+          <a href="/pt" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.cochrane.org/sites/default/files/public/cochrane-57.png" alt="Home" class="header__logo-image" /></a>
+    
+          <div class="header__name-and-slogan" id="name-and-slogan">
+                  <h1 class="header__site-name" id="site-name">
+            <a href="/pt" title="Home" class="header__site-link" rel="home"><span>Cochrane</span></a>
+          </h1>
+        
+                  <div class="header__site-slogan" id="site-slogan">
+            <div class="slogan-line slogan-line-1">Evidências confiáveis.</div>
+            <div class="slogan-line slogan-line-2">Decisões bem informadas.</div>
+            <div class="slogan-line slogan-line-3">Melhor saúde.</div>
+</div>
+              </div>
+    
+    <div id="small-nav">
+      <div id="small-menu">
+        <div class="navicon-line"></div>
+        <div class="navicon-line"></div>
+        <div class="navicon-line"></div>
+      </div>
+      <div id="small-search">
+      </div>
+    </div>
+
+    <div id="top-search">
+      <form class="search-form" action="/pt/CD001871/intervencoes-para-a-prevencao-da-obesidade-infantil" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label class="element-invisible" for="edit-keys">Entre palavras </label>
+ <input class="cochrane-autocomplete unprocessed sl-search-input as-keys form-text" placeholder="Busca..." type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" />
+</div>
+<input class="translate as-submit form-submit" type="submit" id="edit-submit" name="op" value="Buscar" /><input type="hidden" name="get" value="[]" />
+<input type="hidden" name="detach_auto_language_filter" value="0" />
+</div><input type="hidden" name="form_build_id" value="form-jhJ2zJGCYV--afxIk0gDNov1wmtS8blWmJIFGAltRlg" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+</div></form>    </div>
+    
+      </header>
+
+  <div id="main"><div id="main-inner">
+        <div id="content-wrapper"><div id="content" class="column clearfix" role="main">
+                  <a id="main-content"></a>
+                    <h1 class="page__title title notranslate" id="page-title">Intervenções para a prevenção da obesidade infantil</h1>                        <div id="content-inner">
+                                
+
+
+<article class="node-30361 node node-review view-mode-full clearfix" about="/pt/CD001871/intervencoes-para-a-prevencao-da-obesidade-infantil" typeof="schema:Review">
+
+      <header>
+                  <span property="schema:name itemReviewed dc:title" content="Intervenções para a prevenção da obesidade infantil" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-field-summary-body field-type-text-long field-label-hidden"><div class="field-items notranslate"><div class="field-item even" property="schema:summary schema:description"><p>A obesidade infantil pode causar problemas sociais, psicológicos de saúde além de estar associada com obesidade e problemas de saúde na vida adulta. O surgimento da obesidade está relacionado com a atividade física e nutrição. Para prevenir a obesidade, 55 estudos internacionais avaliaram programas que tentaram modificar a alimentação ou a atividade física. Apesar de muitos estudos terem melhorado a alimentação ou a atividade física das crianças até certo ponto, apenas alguns estudos conseguiram mostrar algum efeito destes programas sobre os níveis de adiposidade dessas crianças. Quando os resultados dos estudos foram combinados, pudemos ver que estes programas fizeram uma diferença positiva, mas também observamos a existência de uma grande variação entre os achados dos estudos e não foi possível esclarecer a causa para essa variação. Os resultados também podem terem sido  enviesados pela falta de pequenos estudos com resultados negativos. Tentamos descobrir porque alguns programas funcionam melhor do que outros, e se haveria algum perigo para as crianças que participaram dos programas.  Apesar de poucos estudos terem avaliado os possíveis riscos dos programas, os resultados sugerem que as estratégias para prevenção da obesidade infantil não aumentam problemas de imagem corporal, não aumentam a probabilidade de comportamentos alimentares não saudáveis, nem aumentam a taxa de crianças desnutridas ou de atitudes não saudáveis relacionadas ao próprio peso. É importante realizar mais estudos em crianças bem jovens e em adolescentes para se descobrir mais sobre a prevenção da obesidade nestes grupos etários. Também é importante verificar por quanto tempo os efeitos destas intervenções duram. Precisamos desenvolver meios para garantir que os resultados das pesquisas venham a beneficiar todas as crianças através da incorporação das atividades efetivas nas práticas diárias nos lares, nas escolas, nas creches, no sistema de saúde e em toda a comunidade.</p></div></div></div><div tabindex="7" class="required-fields group-abstract"><div class="field field-name-field-abstract-conclusion field-type-text-long field-label-above">
+      <div class="field-label">Conclusão dos autores:&nbsp;</div>
+    <div class="field-items">
+          <div class="field-item notranslate even"><p>Encontramos fortes evidências indicando efeitos benéficos dos programas de prevenção de obesidade infantil sobre o IMC, especialmente nos programas dirigidos a crianças de 6-12 anos de idade. Entretanto estes achados devem ser interpretados com cautela devido à heterogeneidade inexplicável e a probabilidade de existir um viés decorrente de estudos com pequena casuística. Os estudos incluídos nesta revisão tinham programas com uma grande variedade de componentes. Apesar de não conseguirmos identificar quais dos componentes abaixo mais contribuíram para os efeitos benéficos observados, nossa síntese indica que as seguintes políticas e estratégias parecem ser promissoras:</p>
+<p>·         um currículo escolar que inclua alimentação saudável, atividade física e imagem corporal</p>
+<p>·         mais sessões de atividade física e de desenvolvimento de  habilidades motoras fundamentais  ao longo da semana escolar</p>
+<p>·         melhora na qualidade nutricional dos alimentos fornecidos nas escolas</p>
+<p>·         ambientes e práticas culturais que incentivem as crianças a comerem alimentos mais saudáveis e a serem fisicamente ativas ao longo de cada dia</p>
+<p>·         apoio para os professores e outros funcionários para a implementação de estratégias e atividades de promoção de saúde (por ex. atividades de desenvolvimento e capacitação profissional)</p>
+<p>·         apoio dos pais e atividades em casa que encorajem a criança a ser fisicamente ativa, a comer alimentos mais nutritivos e a gastar menos tempo com atividades em frente das telas da televisão, do computador e de jogos eletrônicos.</p>
+<p>Porém, ainda é necessário melhorar o desenho dos estudos e das análises. Os estudos também precisam avaliar fatores relacionados a processos e a implementação, incluir desfechos relacionados com medidas de equidade e desfechos à longo prazo, assim como possíveis efeitos adversos e custos das intervenções.</p>
+<p>As pesquisas sobre a prevenção da obesidade infantil precisam progredir no sentido de identificar como os componentes efetivos da intervenção podem ser incorporados dentro dos sistemas de saúde, de educação e de cuidados e como podem alcançar impactos sustentáveis a longo prazo.</p></div>
+      </div>
+  <div id="abstract-read-more">Leia o resumo na íntegra...</div>
+</div>
+<div class="field field-name-field-abstract-background field-type-text-long field-label-above"><div class="field-label">Contexto:&nbsp;</div><div class="field-items notranslate"><div class="field-item even"><p>A prevenção da obesidade infantil é uma prioridade internacional de saúde pública devido ao seu impacto significante sobre doenças agudas e crônicas, sobre a  saúde geral, sobre o desenvolvimento e o bem-estar. Tem havido um aumento na base de evidências internacionais sobre estratégias que podem ser usadas por governos, comunidades e famílias para prevenir a obesidade e promover a saúde infantil. Porém ainda existem incertezas nessa área.</p></div></div></div><div class="field field-name-field-abstract-objectives field-type-text-long field-label-above"><div class="field-label">Objetivos:&nbsp;</div><div class="field-items notranslate"><div class="field-item even"><p>Esta revisão atualizou a revisão Cochrane anterior sobre prevenção da obesidade infantil e avaliou a efetividade de intervenções para prevenir a obesidade infantil medida através de mudanças no Índice de Massa Corporal (IMC). Como objetivos secundários, foram avaliadas as características dos programas e das estratégias para responder as perguntas “O que funciona para quem, porque e com qual custo?”</p></div></div></div><div class="field field-name-field-abstract-search-strategy field-type-text-long field-label-above"><div class="field-label">Estratégia de busca:&nbsp;</div><div class="field-items notranslate"><div class="field-item even"><p>As buscas foram refeitas nas bases CENTRAL, MEDLINE, EMBASE, PsychINFO e CINAHL em Março de 2010 e também buscamos websites relevantes. Incluímos artigos escritos em outros idiomas além do inglês e entramos em contatos com especialistas da área.</p></div></div></div><div class="field field-name-field-abstract-criteria field-type-text-long field-label-above"><div class="field-label">Critérios de seleção:&nbsp;</div><div class="field-items notranslate"><div class="field-item even"><p>Esta revisão incluiu estudos de prevenção da obesidade infantil que utilizaram um desenho controlado (com ou sem randomização).  Os estudos foram incluídos quando avaliaram as intervenções, políticas ou programas por pelo menos 12 semanas. Se os estudos fossem randomizados por aglomerados (clusters), pelo menos 6 clusters eram necessários.</p></div></div></div><div class="field field-name-field-abstract-data-collection field-type-text-long field-label-above"><div class="field-label">Coleta dos dados e análises:&nbsp;</div><div class="field-items notranslate"><div class="field-item even"><p>Dois revisores extraíram os dados e analisaram de forma independente o risco de viés dos estudos incluídos. Foram extraídos dados sobre a implementação da intervenção, seus custos, equidade e desfechos.  Os desfechos foram agrupados quanto à mensuração de medidas de adiposidade, atividade física (PA) ou dieta. Os desfechos adversos também foram coletados. Foi feita uma metanálise utilizando o IMC disponível ou valores do IMC padronizado (zIMC), com análise de subgrupos por faixa etária entre 0-5, 6-12, 13-18 anos de idade, correspondendo aos estágios do desenvolvimento infantil.</p></div></div></div><div class="field field-name-field-abstract-main-results field-type-text-long field-label-above"><div class="field-label">Resultados principais:&nbsp;</div><div class="field-items notranslate"><div class="field-item even"><p>Esta revisão incluiu um total de 55 estudos (sendo que 36 desses estudos vieram desta atualização). A maioria dos estudos incluiu crianças entre 6 a 12 anos. A metanálise incluiu 37 estudos com 27.946 crianças e demonstrou que os programas eram efetivos para reduzir a adiposidade. Porém, nem todas as intervenções foram efetivas e a  heterogeneidade foi alta (I<sup>2</sup> = 82%). Em geral, as crianças do grupo intervenção tiveram uma diferença média padronizada da adiposidade (medida como IMC ou zIMC) de -0.15kg/m2 (intervalo de confiança de 95% (IC): -0.21 a -0.09). Os efeitos da intervenção por subgrupos de idade foram: -0.26kg/m2 (IC 95%: -0.53 a 0.00) para crianças de 0-5 anos, -0.15kg/m2 (IC 95% -0.23 a -0.08) para crianças de 6-12 anos e -0.09kg/m2 (IC 95% -0.20 a 0.03) para crianças de 13-18 anos. A heterogeneidade foi evidente nas três faixas etárias e não foi justificada pela presença ou ausência de randomização ou pelo tipo, duração ou local da intervenção. Apenas 8 estudos relataram efeitos adversos. As intervenções não produziram desfechos adversos como práticas alimentares não saudáveis ou aumento na prevalência de crianças desnutridas ou com problemas de imagem corporal. As intervenções não parecem ter aumentado desigualdades de saúde; porém este desfecho foi avaliado em poucos estudos.</p></div></div></div></div><div style="display:none">
+  <!-- Text for Javascript, see template.php -->
+  <div id="jst-tools">Tools</div>
+  <div id="jst-information">Information</div>
+</div>
+  
+  
+</article>
+<div id="block-addtoany-addtoany-button" class="block block-addtoany even">
+
+      
+  <span class="a2a_kit a2a_kit_size_32 a2a_target addtoany_list" id="da2a_1">
+      <a class="a2a_button_facebook" title="Share with Facebook"></a>
+<a class="a2a_button_twitter" title="Share with Twitter"></a>
+<a class="a2a_button_whatsapp" title="Share with WhatsApp"></a>
+<a class="a2a_button_email" title="Write an email about this page"></a>
+      <a class="a2a_dd addtoany_share_save" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.cochrane.org%2Fpt%2FCD001871%2Fintervencoes-para-a-prevencao-da-obesidade-infantil&amp;title=Interven%C3%A7%C3%B5es%20para%20a%20preven%C3%A7%C3%A3o%20da%20obesidade%20infantil"><img src="/sites/all/themes/zen_cochrane/images/social/addtoany-plus.png" alt="Share/Save"/></a>
+      
+    </span>
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if(window.da2a)da2a.script_load();
+//--><!]]>
+</script>
+</div>
+<div id="block-apachesolr-search-mlt-001" class="block block-apachesolr-search last odd">
+
+        <h2 class="block__title block-title">Você pode também ter interesse em:</h2>
+    
+  <div class="notranslate"><div class="item-list"><ul><li class="first"><a href="/pt/CD011779/como-melhorar-implementacao-de-politicas-para-alimentacao-saudavel-atividade-fisica-eou-prevencao-da">Como melhorar a implementação de políticas para alimentação saudável, atividade física e/ou prevenção da obesidade em creches.</a></li>
+<li><a href="/pt/CD006062/perda-de-peso-para-a-prevencao-primaria-de-acidente-vascular-cerebral-em-adultos-com-sobrepeso-e-obesidade">Perda de peso para a prevenção primária de acidente vascular cerebral em adultos com sobrepeso e obesidade</a></li>
+<li><a href="/pt/CD003817/exercicios-para-pessoas-com-sobrepeso-ou-obesidade">Exercícios para pessoas com sobrepeso ou obesidade</a></li>
+<li><a href="/pt/CD003641/cirurgia-para-obesidade">Cirurgia para obesidade</a></li>
+<li class="last"><a href="/pt/CD005105/dietas-de-baixo-indice-glicemico-ou-pobres-em-carboidratos-para-sobrepeso-e-obesidade">Dietas de baixo índice glicêmico ou pobres em carboidratos para sobrepeso e obesidade</a></li>
+</ul></div></div>
+
+</div>
+              </div>
+
+              <aside class="sidebars">
+            <section class="region region-sidebar-first column sidebar">
+    <div id="block-cck-blocks-field-version-published" class="block block-cck-blocks first odd">
+
+      
+  <div class="field field-name-field-version-published field-type-date field-label-above">
+      <div class="field-label">Publicada:&nbsp;</div>
+    <div class="field-item">
+    <span class="date-display-single" property="schema:dtreviewed" datatype="xsd:dateTime" content="2011-12-07T00:00:00+01:00">7 Dezembro 2011</span>  </div>
+</div>
+
+</div>
+<div id="block-cck-blocks-field-authors" class="block block-cck-blocks even">
+
+      
+  <div class="field field-name-field-authors field-type-text field-label-above">
+  <div class="field-label">Autores:&nbsp;</div>
+  <div class="field-items notranslate">
+    Waters E, de Silva-Sanigorski A, Burford BJ, Brown T, Campbell KJ, Gao Y, Armstrong R, Prosser L, Summerbell CD  </div>
+</div>
+
+</div>
+<div id="block-cck-blocks-field-entity" class="block block-cck-blocks odd">
+
+      
+  <div class="field field-name-field-entity field-type-text field-label-above clearfix">
+      <div class="field-label">Grupo de Revisão Principal:&nbsp;</div>
+    <div class="field-items notranslate">
+  <a href="http://www.ph.cochrane.org" target="_blank">Public Health Group</a></div>
+</div>
+
+</div>
+<div id="block-cck-blocks-field-doi" class="block block-cck-blocks even">
+
+      
+  <div id="library-link-review">
+  <a href="https://doi.org/10.1002/14651858.CD001871.pub3" target="_blank">
+    <div class="line1">Veja a revisão completa em</div>
+    <div class="line2">a Biblioteca Cochrane</div>    <div class="library-arrow">&#x25BA;</div>
+  </a>
+</div>
+
+</div>
+<div id="article-actions" class="block">
+  <ul>
+          <li class="active" tabindex="21"><a href="#print" id="print-link" target="_blank"><div class="icon icon-print">&nbsp;</div><div class="label"><div class="label-inner">Imprimir</div></div></a></li>
+          <li class="active expandable citation" tabindex="23"><div class="icon icon-cite">&nbsp;</div><div class="label"><div class="label-inner">Citação</div></div><div id="citation"><div class="inner notranslate">Waters E, de Silva-Sanigorski A, Hall BJ, Brown T, Campbell KJ, Gao Y, Armstrong R, Prosser L, Summerbell CD. Interventions for preventing obesity in children. Cochrane Database of Systematic Reviews 2011, Issue 12. Art. No.: CD001871. DOI: 10.1002/14651858.CD001871.pub3</div></div></li>
+    </ul>
+</div>
+
+  </section>
+            <section class="region region-sidebar-second column sidebar">
+    <div id="block-block-40" class="block block-block first odd">
+  <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+  <div data-badge-type="1" data-doi="10.1002/14651858.CD001871.pub3" data-hide-no-mentions="true" class="altmetric-embed"></div>
+  <div class="altmetric-link"><a href="http://www.altmetric.com/details.php?domain=www.cochrane.org&doi=10.1002/14651858.CD001871.pub3" target="_blank">Quem está falando sobre esse artigo?</a></div>
+</div>
+<div id="block-block-51" class="block block-block even notranslate">
+
+      
+  <div><a href="/pt/translation"><img src="/sites/default/files/public/uploads/images/adblock-translations/portuguese.jpg" alt="Envolva-se com as traduções para o português" title="Envolva-se com as traduções para o português" width="192" height="192" /></a></div>
+</div>
+<div id="block-block-14" class="block block-block last odd">
+
+      
+  <div><a href="/pt/evidence" class="button-blue">Nossa evidência em saúde - como ela pode ajuda-lo?</a></div>
+</div>
+  </section>
+        </aside>
+      
+      </div></div>
+
+    <div id="main-navigation-wrapper"><div id="navigation">
+
+              <nav id="main-menu" role="navigation" tabindex="-1">
+          <ul class="menu"><li class="menu__item is-collapsed first collapsed"><a href="/pt/evidence" class="menu__link">Nossas evidências</a></li>
+<li class="menu__item is-collapsed collapsed"><a href="/pt/about-us" class="menu__link">Quem somos</a></li>
+<li class="menu__item is-collapsed collapsed"><a href="/pt/join-cochrane" class="menu__link">Junte-se à Cochrane</a></li>
+<li class="menu__item is-collapsed last collapsed"><a href="/pt/news" class="menu__link">Notícias e empregos</a></li>
+</ul>        </nav>
+        <div id="cochrane-library-link">
+          <a href="http://www.cochranelibrary.com/" target="_blank">
+            <div class="library-link">Biblioteca Cochrane</div>
+            <div class="library-arrow">&#x25BA;</div>
+          </a>
+        </div>
+      
+      
+    </div></div>
+
+  </div></div>
+
+    <footer id="footer" class="region region-footer">
+    <div id="block-block-5" class="block block-block first odd">
+
+        <h2 class="block__title block-title"><span>Nossos patrocinadores e parceiros</span></h2>
+    
+  <div class="glide">
+    <div class="glide__track" data-glide-el="track">
+      <ul class="glide__slides">
+        <li class="glide__slide"><span><img alt="National Institute for Health Research" title="National Institute for Health Research" src="/sites/all/themes/zen_cochrane/images/partners/nihr.png"/></span></li>
+        <li class="glide__slide"><span><img alt="National Institutes of Health" title="National Institutes of Health" src="/sites/all/themes/zen_cochrane/images/partners/nih.png"/></span></li>
+        <li class="glide__slide"><span><img alt="National Health and Medical Research Council" title="National Health and Medical Research Council" src="/sites/all/themes/zen_cochrane/images/partners/nhmrc.png"/></span></li>
+        <li class="glide__slide"><span><img alt="AllTrials" title="AllTrials" src="/sites/all/themes/zen_cochrane/images/partners/alltrials.png"/></span></li>
+        <li class="glide__slide"><span><img alt="Campbell Collaboration" title="Campbell Collaboration" src="/sites/all/themes/zen_cochrane/images/partners/campbell.png"/></span></li>
+        <li class="glide__slide"><span><img alt="Epistemonikos" title="Epistemonikos" src="/sites/all/themes/zen_cochrane/images/partners/epistemonikos.png"/></span></li>
+        <li class="glide__slide"><span><img alt="Guidelines International Network" title="Guidelines International Network" src="/sites/all/themes/zen_cochrane/images/partners/gin.png"/></span></li>
+        <li class="glide__slide"><span><img alt="Wikipedia" title="Wikipedia" src="/sites/all/themes/zen_cochrane/images/partners/wikipedia.png"/></span></li>
+        <!-- <li class="glide__slide"><span style="color: #008dc9; font-weight: 600; font-size: 1.3em;">World Health<br>Organization</span></li> -->
+        <li class="glide__slide"><span><img alt="Wiley" title="Wiley" src="/sites/all/themes/zen_cochrane/images/partners/wiley.png"/></span></li>
+      </ul>
+    </div>
+    <div class="glide__arrows" data-glide-el="controls">
+      <button class="glide__arrow glide__arrow--prev" data-glide-dir="<">◄</button>
+      <button class="glide__arrow glide__arrow--next" data-glide-dir=">">►</button>
+    </div>
+  </div>
+  <div class="more"><a href="/pt/node/54584">Veja mais</a></div>
+
+</div>
+<div id="block-block-10" class="block block-block even">
+  <div id="meta-nav" class="menu-open">
+    <div id="meta-logo">Cochrane</div>
+    <nav id="meta-menu">
+      <ul>
+        <li class="has-children">
+          <a href="#about-cochrane" name="about-cochrane">Sobre a Cochrane</a>
+          <ul>
+            <li><a href="/pt">Cochrane.org</a></li>
+            <li><a href="/pt/about-us">Quem somos</a></li>
+            <li><a href="/pt/get-involved">Participe</a></li>
+            <li><a href="https://consumers.cochrane.org/" target="_blank">Rede dos Consumidores</a></li>
+            <li><a href="/pt/about-us/our-partners-and-funders">Parceiros</a></li>
+            <li><a href="https://colloquium.cochrane.org/" target="_blank">Colóquio</a></li>
+            <li><a href="/pt/news">No noticiário</a></li>
+          </ul>
+        </li>
+        <li class="has-children">
+          <a href="#publications" name="publications">Publicações</a>
+          <ul>
+            <li class="has-children">
+              <a href="https://www.cochranelibrary.com/" target="_blank">Biblioteca Cochrane</a>              <ul>
+                <li><a href="https://www.cochranelibrary.com/" target="_blank">Homepage da Biblioteca</a></li>
+				<li><a href="https://www.cochranelibrary.com/cdsr/about-cdsr" target="_blank">Cochrane Reviews (CDSR)</a></li>
+				<li><a href="https://www.cochranelibrary.com/central" target="_blank">Trials (CENTRAL)</a></li>
+				<li><a href="https://www.cochranelibrary.com/cca" target="_blank">Respostas Clínicas Cochrane</a></li>
+              </ul>
+            </li>
+            <li><a href="https://www.cochranelibrary.com/about/cochrane-library-app" target="_blank">Cochrane Library App</a></li>
+            <li><a href="https://www.cochranelibrary.com/cdsr/journal-club" target="_blank">Journal Club</a></li>
+            <li><a href="/pt/evidence/podcasts">Podcasts</a></li>
+          </ul>
+        </li>
+        <li class="has-children break">
+          <a href="#community" name="community">Comunidade</a>
+          <ul>
+            <li><a href="https://community.cochrane.org/" target="_blank">Comunidade</a></li>
+            <li><a href="https://archie.cochrane.org/" target="_blank">Log-in do Archie</a></li>
+            <li><a href="https://training.cochrane.org/" target="_blank">Treinamento e apoio</a></li>
+            <li><a href="https://methods.cochrane.org/" target="_blank">Métodos</a></li>
+            <li><a href="https://community.cochrane.org/tools" target="_blank">Software</a></li>
+            <li><a href="/pt/about-us/jobs">Empregos e oportunidades</a></li>
+          </ul>
+        </li>
+        <li class="has-children">
+          <a href="#contact" name="contact">Fale conosco</a>
+          <ul>
+            <li><a href="/pt/contact">Perguntas gerais</a></li>
+			<li><a href="https://www.cochranelibrary.com/help/contact-us" target="_blank">Cochrane Library support</a></li>
+            <li><a href="https://community.cochrane.org/organizational-info/people/cet-teams/chief-executive-officer-s-office/team" target="_blank">Diretor Executivo</a></li>
+            <li><a href="https://community.cochrane.org/organizational-info/people/cet-teams/cochrane-editorial-unit/team" target="_blank">Editor-Chefe</a></li>
+            <li><a href="/pt/about-us/our-global-community">Grupos Cochrane</a></li>
+            <li><a href="/pt/media">Mídia</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+    <div id="meta-social">
+      <a href="/rss"><img alt="RSS" title="RSS" width="20" height="20" src="/sites/all/themes/zen_cochrane/images/social/rss-white.png"></a>
+      <a href="https://twitter.com/CochraneCollab" target="_blank"><img alt="Twitter" title="Twitter" width="20" height="20" src="/sites/all/themes/zen_cochrane/images/social/twitter-white.png"></a>
+      <a href="https://plus.google.com/107778812455965393163" target="_blank"><img alt="Google" title="Google" width="20" height="20" src="/sites/all/themes/zen_cochrane/images/social/google-white.png"></a>
+      <a href="https://cochraneblogshots.tumblr.com/" target="_blank"><img alt="tumblr." title="tumblr." width="20" height="20" src="/sites/all/themes/zen_cochrane/images/social/tumblr-white.png"></a>
+      <a href="https://www.facebook.com/groups/63721740498/" target="_blank"><img alt="Facebook" title="Facebook" width="20" height="20" src="/sites/all/themes/zen_cochrane/images/social/facebook-white.png"></a>
+      <a href="https://www.youtube.com/user/CochraneCollab" target="_blank"><img alt="YouTube" title="YouTube" width="20" height="20" src="/sites/all/themes/zen_cochrane/images/social/youtube-white.png"></a>
+    </div>
+    <div id="site-slogan-footer">
+      <div class="slogan-line slogan-line-1">Evidências confiáveis.</div>
+      <div class="slogan-line slogan-line-2">Decisões bem informadas.</div>
+      <div class="slogan-line slogan-line-3">Melhor saúde.</div>
+    </div>
+    <div style="clear: both"> </div>
+  </div>
+</div>
+<div id="block-block-6" class="block block-block odd">
+  <div id="copyright">Copyright &copy; 2018 The Cochrane Collaboration</div>
+  <div id="disclaimer"><a href="/pt/index">Índice</a> | <a href="/pt/disclaimer">Aviso legal</a> | <a href="/pt/privacy">Privacidade</a> | <a href="/pt/disclaimer#cookies-policy">Política Cookie</a></div>
+</div>
+<div id="cookie-warning" style="display: none;">Usamos cookies para melhorar sua experiência em nosso site <a href="#" class="cookie-button close">OK</a> <a href="http://community.cochrane.org/organizational-info/resources/policies/data-policy#appendix-b" target="_blank" class="cookie-button">Mais informações</a></div>
+<!-- block 13 -->
+<script>
+(function(h,e,a,t,m,p) {
+m=e.createElement(a);m.async=!0;m.src=t;
+p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
+})(window,document,'script','https://u.heatmap.it/log.js');
+</script>
+  </footer>
+
+</div>
+
+  <script src="https://www.cochrane.org/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script src="https://www.cochrane.org/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.cochrane.org/misc/drupal.js?pf18no"></script>
+<script src="https://www.cochrane.org/sites/all/libraries/jquery.placeholder/jquery.placeholder.min.js?v=2.0"></script>
+<script src="https://www.cochrane.org/sites/all/modules/jquery_placeholder/jquery_placeholder.js?v=2.0"></script>
+<script src="https://www.cochrane.org/sites/default/files/public/languages/pt_dOP-llPe_NLqYBa6v2jPEwWO_vHR5pWb8krem0VqDrM.js?pf18no"></script>
+<script src="https://www.cochrane.org/sites/all/modules/custom/cochrane_reviews/js/cochrane_autocomplete.min.js?pf18no"></script>
+<script src="https://www.cochrane.org/sites/all/modules/custom/cochrane_reviews/jquery-autocomplete/jquery.autocomplete.min.js?pf18no"></script>
+<script src="https://www.cochrane.org/sites/all/modules/google_analytics/googleanalytics.js?pf18no"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-3576063-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://www.cochrane.org/sites/all/modules/field_group/field_group.js?pf18no"></script>
+<script>window.a2a_config=window.a2a_config||{};window.da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='https://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){da2a.script_ready=true;if(da2a.html_done)da2a.init();},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};(function ($){Drupal.behaviors.addToAny = {attach: function (context, settings) {if (context !== document && window.da2a) {if(da2a.script_ready)a2a.init_all('page');da2a.script_load();}}}})(jQuery);a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.templates=a2a_config.templates||{};a2a_config.no_3p=1;</script>
+<script src="https://www.cochrane.org/sites/all/themes/zen_cochrane/js/jquery.infinitescroll.min.js?pf18no"></script>
+<script src="https://www.cochrane.org/sites/all/themes/zen_cochrane/js/glide.min.js?pf18no"></script>
+<script src="https://www.cochrane.org/sites/all/themes/zen_cochrane/js/script.min.js?pf18no"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"pt\/","ajaxPageState":{"theme":"zen_cochrane","theme_token":"JIXWO20IQaW9a7YDHJZYHr4JdvX0Y4foTwcymgSVpZo","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/jquery.placeholder\/jquery.placeholder.min.js":1,"sites\/all\/modules\/jquery_placeholder\/jquery_placeholder.js":1,"public:\/\/languages\/pt_dOP-llPe_NLqYBa6v2jPEwWO_vHR5pWb8krem0VqDrM.js":1,"sites\/all\/modules\/custom\/cochrane_reviews\/js\/cochrane_autocomplete.min.js":1,"sites\/all\/modules\/custom\/cochrane_reviews\/jquery-autocomplete\/jquery.autocomplete.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/field_group\/field_group.js":1,"2":1,"sites\/all\/themes\/zen_cochrane\/js\/jquery.infinitescroll.min.js":1,"sites\/all\/themes\/zen_cochrane\/js\/glide.min.js":1,"sites\/all\/themes\/zen_cochrane\/js\/script.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/cochrane_reviews\/js\/cochrane_autocomplete.css":1,"sites\/all\/modules\/custom\/cochrane_reviews\/jquery-autocomplete\/jquery.autocomplete.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lexicon\/css\/lexicon.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"\/\/fonts.googleapis.com\/css?family=Source+Sans+Pro:400,400italic,600,600italic,700,700italic\u0026subset=latin,latin-ext":1,"sites\/all\/themes\/zen_cochrane\/system.menus.css":1,"sites\/all\/themes\/zen_cochrane\/system.messages.css":1,"sites\/all\/themes\/zen_cochrane\/system.theme.css":1,"sites\/all\/themes\/zen_cochrane\/css\/normalize.css":1,"sites\/all\/themes\/zen_cochrane\/css\/responsive.css":1,"sites\/all\/themes\/zen_cochrane\/css\/components\/misc.css":1,"sites\/all\/themes\/zen_cochrane\/css\/styles.css":1,"sites\/all\/themes\/zen_cochrane\/css\/glide.core.min.css":1,"sites\/all\/themes\/zen_cochrane\/css\/print.css":1}},"cochrane_autocomplete":{"path":"\/pt\/autocomplete"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"jquery_placeholder":{"edit-keys":{"selector":"#edit-keys"}},"urlIsAjaxTrusted":{"\/pt\/CD001871\/intervencoes-para-a-prevencao-da-obesidade-infantil":true},"field_group":{"hidden":"full","html-element":"full"}});</script>
+  <script>da2a.targets=[
+{title:"Interven\u00e7\u00f5es para a preven\u00e7\u00e3o da obesidade infantil",url:"https:\/\/www.cochrane.org\/pt\/CD001871\/intervencoes-para-a-prevencao-da-obesidade-infantil"}];
+da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_load();</script>
+</body>
+</html>

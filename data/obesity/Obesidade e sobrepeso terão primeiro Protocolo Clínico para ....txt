@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-br" dir="ltr"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt-br" dir="ltr"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt-br" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="pt-br" dir="ltr"> <!--<![endif]-->
+<head>
+    <!-- Google Tag Manager -->
+     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+       })(window,document,'script','dataLayer','GTM-N9GV4MG');</script>
+     <!-- End Google Tag Manager -->
+    <!--[if lt IE 9]>
+    <script src="/templates/padraogoverno01/js/html5shiv.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="/templates/padraogoverno01/css/custom.css?version=19" type='text/css'/>
+    <link rel="stylesheet" href="/templates/padraogoverno01/bootstrap/css/bootstrap.min.css" type='text/css'/>
+    <link rel="stylesheet" href="/templates/padraogoverno01/css/template-azul.css" type='text/css'/>
+    		<link rel="stylesheet" href="/templates/padraogoverno01/css/icones-bmp-azul.css" type='text/css'/>
+		    <link rel="stylesheet" href="/templates/padraogoverno01/font-awesome/css/font-awesome.min.css" type='text/css'/>
+    <!--[if lt IE 10]>
+    <link rel="stylesheet" href="/templates/padraogoverno01/css/ie.css" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/templates/padraogoverno01/css/ie8.css" />
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/templates/padraogoverno01/css/ie7.css" />
+    <link rel="stylesheet" href="/font-awesome/css/font-awesome-ie7.min.css" />
+    <![endif]-->
+        <base href="http://portalms.saude.gov.br/noticias/agencia-saude/44310-obesidade-e-sobrepeso-terao-primeiro-protocolo-clinico-para-tratamento&amp;sa=U&amp;ved=0ahUKEwjhue3dxbrdAhVJfZAKHdOrB0cQFghGMAg&amp;usg=AOvVaw075QC6-n1v_99MhkWxUYFO" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="obesidade, sobrepreso" />
+	<meta name="description" content="Ministério da Saúde criou enquete para iniciar documento que vai aprimorar o atendimento em obesidade e sobrepeso na atenção básica e especializada " />
+	<title>Obesidade e sobrepeso terão primeiro Protocolo Clínico para tratamento</title>
+	<link href="http://portalms.saude.gov.br/component/search/?Itemid=4014&amp;catid=44310&amp;id=44310&amp;format=opensearch" rel="search" title="Pesquisar Ministério da Saúde - Portal da Saúde" type="application/opensearchdescription+xml" />
+	<link href="/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js?9b81426a1126fadfae4c4b0d1bd12fa1" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?9b81426a1126fadfae4c4b0d1bd12fa1" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?9b81426a1126fadfae4c4b0d1bd12fa1" type="text/javascript"></script>
+	<script src="/plugins/system/bdthemes_shortcodes/js/shortcode-ultimate.js" type="text/javascript"></script>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?9b81426a1126fadfae4c4b0d1bd12fa1" type="text/javascript"></script>
+	<script type="text/javascript">
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});
+	</script>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="google-site-verification" content="01kp6xUMSp1oFKdKXoabh6nCiRFwdc7MyaK-_yzN5rY" />
+    <meta name="generator" content="Governo Federal" />
+    <meta name="COPYRIGHT" content="Copyright © Ministério da Saúde. Todos os direitos reservados"/>
+    <meta name="AUTHOR" content="Ministério da Saúde"/>
+    <link href="http://portalms.saude.gov.br/noticias/agencia-saude/44310-obesidade-e-sobrepeso-terao-primeiro-protocolo-clinico-para-tratamento&sa=U&ved=0ahUKEwjhue3dxbrdAhVJfZAKHdOrB0cQFghGMAg&usg=AOvVaw075QC6-n1v_99MhkWxUYFO" rel="canonical" />
+    <link rel="shortcut icon" type="image/ico" href="/templates/padraogoverno01/favicon.png" />
+        		<link href='http://portalms.saude.gov.br/templates/padraogoverno01/css/fontes.css'  rel='stylesheet' type='text/css'>
+		            <link rel="stylesheet" href="/templates/padraogoverno01/css/portalsaude.css" type='text/css'/>
+    <script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "http://portalms.saude.gov.br/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "http://portalms.saude.gov.br/busca?searchword={search_term}",
+"query-input": "required name=search_term"
+}
+}
+</script>
+</head>
+<body itemscope itemtype="http://schema.org/MedicalWebPage"   >
+    <!-- Google Tag Manager (noscript) -->
+     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9GV4MG"
+     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+     <!-- End Google Tag Manager (noscript) -->
+
+    <a class="hide" id="topo" href="#accessibility">Ir direto para menu de acessibilidade.</a>
+    <noscript>
+      <div class="error minor-font">
+        Seu navegador de internet está sem suporte à JavaScript. Por esse motivo algumas funcionalidades do site podem não estar acessíveis.
+      </div>
+    </noscript>
+    <!--[if lt IE 7]><center><strong>Atenção, a versão de seu navegador não é compatível com este sítio. Atualize seu navegador.</strong></center><![endif]-->
+            <div class="layout">
+        <header>
+            <div class="container">
+                <div class="row-fluid accessibility-language-actions-container">
+                    <div class="span6 accessibility-container">
+                        <ul id="accessibility">
+                            <li>
+                                <a accesskey="1" href="#content" id="link-conteudo">
+                                    Ir para o conte&uacute;do
+                                    <span>1</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a accesskey="2" href="#navigation" id="link-navegacao">
+                                    Ir para o menu
+                                    <span>2</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a accesskey="3" href="#portal-searchbox" id="link-buscar">
+                                    Ir para a busca
+                                    <span>3</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a accesskey="4" href="#footer" id="link-rodape">
+                                    Ir para o rodap&eacute;
+                                    <span>4</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- fim div.span6 -->
+                    <div class="span6 language-and-actions-container">
+                        		<h2 class="hide">Opções de acessibilidade</h2>
+		
+<ul class="pull-right" id="portal-siteactions">
+<li class="item-140"><a href="/acessibilidade" accesskey="5" >Acessibilidade</a></li><li class="item-141 toggle-contraste"><a class="toggle-contraste" href="#"  accesskey="6" >Alto contraste</a></li><li class="item-142"><a href="/mapa-do-site" accesskey="7" >Mapa do site</a></li></ul>
+	
+                    </div>
+                    <!-- fim div.span6 -->
+                </div>
+                <!-- fim .row-fluid -->
+                <div class="row-fluid">
+                    <div id="logo" class="span8">
+                        <a href="http://portalms.saude.gov.br/" title="Saúde">
+                            <span class="portal-title-1">Ministério da</span>
+                            <span class="portal-title corto">Saúde</span>
+                            <span class="portal-description"></span>
+                        </a>
+                    </div>
+                    <!-- fim .span8 -->
+                    <div class="span4">
+                        	<div id="portal-searchbox" class="row">
+    	<h2 class="hidden">Buscar no portal</h2>
+    	<div itemscope itemtype="http://schema.org/WebSite">
+<meta itemprop="url" content="http://portalms.saude.gov.br/" />
+<form  itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction"  action="/noticias/agencia-saude" method="post" class="pull-right">
+ 	<fieldset>
+        <legend class="hide">Busca</legend>
+        <div class="input-append">
+        	<label for="portal-searchbox-field" class="hide">Busca: </label>
+                 <meta itemprop="target" content="http://portalms.saude.gov.br/busca?searchword={searchword}"/>
+        	<input itemprop="query-input" type="text" id="portal-searchbox-field" class="searchField" placeholder="Buscar no portal" title="Buscar no portal" name="searchword">       
+            <button type="submit" class="btn searchButton"><span class="hide">Buscar</span><i class="icon-search"></i></button>
+		</div>
+		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="4014" />
+	</fieldset>
+</form>
+</div>    </div>
+		<div id="social-icons" class="row">
+    	<h2 class="hidden">Redes Sociais</h2>
+    	
+<ul class="pull-right">
+<li class="portalredes-item item-138"><a href="https://www.facebook.com/minsaude" target="_blank" rel="noopener noreferrer"><i class="icon-facebook-sign"><span>Facebook</span></i></a></li><li class="portalredes-item item-136"><a href="http://twitter.com/minsaude" target="_blank" rel="noopener noreferrer"><i class="icon-twitter-sign"><span>Twitter</span></i></a></li><li class="portalredes-item item-137"><a href="http://www.youtube.com/minsaudebr" target="_blank" rel="noopener noreferrer"><i class="icon-youtube"><span>YouTube</span></i></a></li><li class="portalredes-item item-637"><a href="https://instagram.com/minsaude/" target="_blank" rel="noopener noreferrer"><i class="icon-instagram"><span> Instagram</span></i></a></li><li class="portalredes-item item-228"><a href="https://soundcloud.com/ministeriodasaude" target="_blank" rel="noopener noreferrer"><i class="icon-cloud"><span>Sound Cloud</span></i></a></li><li class="portalredes-item item-139"><a href="https://www.flickr.com/photos/ministeriodasaude/albums" target="_blank" rel="noopener noreferrer"><i class="icon-flickr"><span>Flickr</span></i></a></li><li class="portalredes-item item-225"><a href="https://www.linkedin.com/company/ministeriodasaude/" ><i class="icon-linkedin"><span>Linkedin</span></i></a></li></ul>
+    </div>
+	
+                    </div>
+                    <!-- fim .span4 -->
+                </div>
+                <!-- fim .row-fluid -->
+            </div>
+            <!-- fim div.container -->
+            <div class="sobre">
+                <div class="container">
+                    	<nav class="menu-servicos pull-right">
+        <h2 class="hide">Serviços</h2>
+        
+<ul>
+<li class="item-271"><a href="http://datasus.saude.gov.br/sistemas-e-aplicativos" class="aplicativos" target="_blank" rel="noopener noreferrer">Sistemas</a></li><li class="item-132"><a href="/fale-conosco" >Contatos</a></li><li class="item-135"><a href="/comunicacao-e-imprensa" >Comunicação e Imprensa</a></li><li class="item-638 parent"><a href="/assessoria-de-imprensa" >Assessoria de Imprensa</a></li></ul>
+<span class="hide">Fim do menu de serviços</span>
+    </nav>
+	
+                </div>
+                <!-- .container -->
+            </div>
+            <!-- fim .sobre -->
+        </header>
+        <main>
+            <div class="container">
+                	<div class="row-fluid">
+		<section>
+						
+
+<div class="custom hide-mobile"  >
+	<p><a href="/acoes-e-programas/vacinacao/vacine-se" target="_blank" rel="noopener noreferrer"><img src="http://portalarquivos2.saude.gov.br/images/png/2018/agosto/03/banner-vacinacao-3.png " alt="Vacine-se" title="Vacine-se" /></a></p>
+<!--<p><a href="http://saude.gov.br/vacinahpv/" rel="noreferrer"><img src="/images/2018/banner/Vacinacao_HPV.png" alt="Vacinacao HPV" title="Vacine-se" /></a></p>--></div>
+		</section>
+	</div>
+		<div class="row-fluid">
+		<section>
+						
+<div class="rastro-navegacao row-flutuante  hide-mobile">
+  <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+    <span class="showHere">Você está aqui: </span><li><a href="/" class="pathway">Página inicial</a></li> <span class="separator"> &gt; </span> <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemscope itemtype="http://schema.org/Thing" itemprop="item" href="/noticias?readmore_limit=200&amp;show_subcategory_content=-1" class="pathway">
+					<span itemprop="name">Últimas notícias</span></a>
+					<meta itemprop="position" content="1" />
+				 </li> <span class="separator"> &gt; </span> <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+					<a itemscope itemtype="http://schema.org/Thing" itemprop="item" href="/noticias/agencia-saude" class="pathway">
+					<span itemprop="name">Agência Saúde</span></a>
+					<meta itemprop="position" content="2" />
+				 </li> <span class="separator"> &gt; </span> <li itemprop="itemListElement" itemscope Itemtype="http://schema.org/ListItem">
+		        <span itemscope itemtype="http://schema.org/Thing" itemprop="item">
+					<span itemprop="name">Obesidade e sobrepeso terão primeiro Protocolo Clínico para tratamento</span>
+					<meta itemprop="position" content="3" />
+				</span>
+			 </li>  </ol>
+</div>		</section>
+	</div>
+	
+                <div class="row-fluid">
+                                        <div id="navigation" class="span3">
+                        <a href="#" class="visible-phone visible-tablet mainmenu-toggle btn"><i class="icon-list"></i>&nbsp;Menu</a>
+                        <section id="navigation-section">
+                            <span class="hide">Início do menu principal</span>
+                            	<nav class="menu-de-apoio span9">
+		<h2 class="hide">Menu de Relevância </h2>
+		<ul class="menuspan9">
+<li class="item-3993 parent"><a href="/institucional/o-ministerio" >Institucional</a></li><li class="item-4685"><a href="/acoes-e-programas" >Ações e Programas</a></li><li class="item-772 parent"><a href="/sistema-unico-de-saude" >SUS</a></li><li class="item-3178"><a href="http://blog.saude.gov.br/" target="_blank" rel="noopener noreferrer">Blog da Saúde</a></li><li class="item-269 active parent"><a href="/noticias" >Últimas notícias</a></li></ul>
+	</nav>
+		<nav class="assuntos span9">
+		<h2 >Assuntos <i class="icon-chevron-down visible-phone visible-tablet pull-right"></i></h2>
+		
+<ul>
+<li class="item-838 parent"><a href="/atencao-especializada-e-hospitalar" >Atenção Especializada e Hospitalar</a></li><li class="item-837"><a href="/atencao-basica" >Atenção Básica</a></li><li class="item-3046 parent"><a href="/assistencia-farmaceutica" >Assistência Farmacêutica</a></li><li class="item-788 parent"><a href="/ciencia-e-tecnologia-e-complexo-industrial" >Ciência e Tecnologia e Complexo Industrial</a></li><li class="item-3037 parent"><a href="/gestao-do-sus" >Gestão do SUS</a></li><li class="item-2897 parent"><a class="fixed" href="/vigilancia-em-saude" >Vigilância em Saúde</a></li><li class="item-3349 parent"><a href="/participacao-e-controle-social" >Participação e Controle Social</a></li><li class="item-3040 parent"><a href="/promocao-da-saude" >Promoção da Saúde</a></li><li class="item-1017 parent"><a href="/repasses-financeiros" >Repasses financeiros</a></li><li class="item-786 parent"><a href="/saude-para-voce" >Saúde para Você</a></li><li class="item-155 parent"><a href="/saude-indigena" >Saúde Indígena</a></li><li class="item-785"><a href="/saude-de-a-z" >Saúde de A a Z</a></li><li class="item-777 parent"><a href="/trabalho-educacao-e-qualificacao" >Trabalho, Educação e Qualificação</a></li><li class="item-4591"><a href="/politica-nacional-de-saude-mental-alcool-e-outras-drogas" >Política Nacional de Saúde Mental, Álcool e Outras Drogas</a></li></ul>
+	</nav>
+		<nav class=" span9">
+		<h2 >Saúde no Brasil  <i class="icon-chevron-down visible-phone visible-tablet pull-right"></i></h2>
+		
+<ul>
+<li class="item-3099"><a href="/dados-e-indicadores-da-saude" >Dados e Indicadores da Saúde</a></li><li class="item-792"><a href="/boletins-epidemiologicos" >Boletins epidemiológicos</a></li><li class="item-4193"><a href="/protocolos-e-diretrizes" >Protocolos e Diretrizes</a></li></ul>
+	</nav>
+		<nav class="sobre span9 ">
+		<h2 >Acesso à Informação <i class="icon-chevron-down visible-phone visible-tablet pull-right"></i></h2>
+		
+<ul>
+<li class="item-707 parent"><a href="/institucional/o-ministerio" >Institucional</a></li><li class="item-391 parent"><a href="/acoes-e-programas" >Ações e Programas</a></li><li class="item-4215 parent"><a href="/agenda-das-autoridades" >Agenda das Autoridades</a></li><li class="item-3975"><a href="/auditorias" >Auditorias</a></li><li class="item-3974"><a href="/audiencias-e-consultas-publicas" >Chamamentos, Audiências e Consultas Públicas </a></li><li class="item-4394"><a href="/concursos-e-selecoes" >Concursos e seleções </a></li><li class="item-3978"><a href="/convenios-e-repasses" >Convênios e Repasses</a></li><li class="item-118"><a href="/despesas" > Despesas</a></li><li class="item-119"><a href="/informacoes-classificadas" >Informações classificadas</a></li><li class="item-4112 parent"><a href="/legislacao-da-saude" >Legislação da Saúde</a></li><li class="item-725"><a href="/licitacoes-e-contratos" >Licitações e contratos</a></li><li class="item-3990"><a href="/servidores" >Servidores</a></li><li class="item-304 parent"><a href="/servico-de-informacao-ao-cidadao-sic" >Serviço de Informação ao Cidadão (SIC)</a></li><li class="item-4218"><a href="/relatorio-de-gestao" >Relatório de Gestão</a></li><li class="item-4414"><a href="/sei" >Sistema Eletrônico de Informações (SEI)</a></li></ul>
+	</nav>
+		<nav class="central-conteudos span9 ">
+		<h2 >Central de conteúdos <i class="icon-chevron-down visible-phone visible-tablet pull-right"></i></h2>
+		
+<ul>
+<li class="item-149"><a class="aplicativos" href="/aplicativos" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-mobile-phone icon-light"><span class="hide">&nbsp;</span></i></span>
+Aplicativos</a></li><li class="item-4018"><a class="infograficos" href="/apresentacoes" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-volume-up icon-light"><span class="hide">&nbsp;</span></i></span>
+Apresentações </a></li><li class="item-4020"><a class="audios" href="/webradio" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-volume-up icon-light"><span class="hide">&nbsp;</span></i></span>
+Áudios</a></li><li class="item-4686"><a class="campanhas" href="http://www.saude.gov.br/campanhas" target="_blank" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-file-text  icon-light"><span class="hide">&nbsp;</span></i></span>
+Campanhas</a></li><li class="item-277"><a class="publicacoes" href="http://www.saude.gov.br/bvs" target="_blank" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-file-text  icon-light"><span class="hide">&nbsp;</span></i></span>
+Biblioteca</a></li><li class="item-590"><a class="imagens" href="https://www.flickr.com/photos/ministeriodasaude/albums" title="Galeria de Imagens" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-picture icon-light"><span class="hide">&nbsp;</span></i></span>
+Imagens</a></li><li class="item-146"><a class="videos" href="https://www.youtube.com/watch?v=aFk1vUNKr0w&amp;list=PL_rQTI99G4P_cDhUB8MrLJMqX_-vurpRu" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-play icon-light"><span class="hide">&nbsp;</span></i></span>
+Vídeos</a></li></ul>
+	</nav>
+	
+                            <span class="hide">Fim do menu principal</span>
+                        </section>
+                    </div>
+                    <!-- fim #navigation.span3 -->
+                                        <div id="content" class="span9 internas">
+                        <section id="content-section">
+                            <span class="hide">Início do conteúdo da página</span>
+
+                            
+                            
+                                                                <div class="row-fluid">
+                                    
+                                    
+                                </div>
+                                
+                                                                <div class="row-fluid">
+                                                                            
+
+<div class="item-page">
+
+
+	<h1 class="documentFirstHeading" itemprop="about">
+			Obesidade e sobrepeso terão primeiro Protocolo Clínico para tratamento		</h1>
+
+	<ul class="actions">
+					</ul>
+
+
+
+<div class="content-header-options-1 row-fluid">
+	<div class="documentByLine span7">
+												<span class="documentAuthor">Escrito por <strong>victor.araujo</strong></span>
+						<span class="separator">|</span>		
+		
+					<span class="documentPublished">
+				Publicado: Quinta, 06 de Setembro de 2018, 17h23			</span>
+			<span class="separator">|</span>		
+					<span itemprop="lastReviewed"  content="2018-09-06" class="documentModified"> 
+				Última atualização em Quinta, 06 de Setembro de 2018, 17h58			</span>
+					
+		
+               <div >
+														<div class="pull-left googleplus">
+
+<div class="g-plusone" data-size="medium" data-annotation="bubble"></div>
+ 
+</div>
+
+<div class="pull-left twitter">
+ <!-- botão twitter -->
+ <a href="https://twitter.com/share" class="twitter-share-button" data-via="minsaude" data-lang="pt">Tweetar</a>
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+ <!-- fim botão twitter -->	
+</div>
+
+<div class="pull-left facebook">
+ <!-- botão facebook -->
+ <div class="fb-like" data-href="http://www.saude.gov.br" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div>
+ <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.10&appId=343943812426295";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</div>                     
+			
+</div>	
+	
+		
+	</div>
+			<div class="btns-social-like span5 hide">
+                        <a href="http://portalms.saude.gov.br/assessoria-de-imprensa/cadastro  " class="btn-agencia"><b>@</b> Receba em seu email</span></a>
+			<a href="http://portalms.saude.gov.br/fakenews"><img src="/images/png/2018/setembro/12/311x63-banner-portal-fake-news---vers--o-final.png" /></a>
+		</div>
+	</div>
+<!-- fim .content-header-options-1 -->
+
+
+
+
+		<p><em>Ministério da Saúde criou enquete para iniciar discussão de documento que vai aprimorar o atendimento de obesidade e sobrepeso na atenção básica e especializada no SUS</em></p>
+<p><img src="/images/obesidade.jpg" width="100%" height="100%" /></p>
+<p>A obesidade e o sobrepeso, doenças que afetam milhões de brasileiros e boa parte da população mundial, terá o seu primeiro Protocolo Clínico e Diretrizes Terapêuticas (PCDT). A formulação do documento está sendo feita em conjunto com a sociedade civil, profissionais de saúde e população. Para isso, o Ministério da Saúde publicou em seu Portal, uma enquete e está colhendo sugestões e contribuições até o dia 11 de setembro. O objetivo é que o Protocolo reúna recomendações para a assistência à saúde de usuários adultos portadores de sobrepeso e obesidade, atendidos na atenção básica e especializada no Sistema Único de Saúde (SUS).</p>
+<blockquote>
+<ul>
+<li><a href="http://portalms.saude.gov.br/noticias/agencia-saude/43604-apesar-de-obesidade-em-alta-pesquisa-mostra-brasileiros-mais-saudaveis">Com obesidade em alta, pesquisa mostra brasileiros iniciando vida mais saudável</a></li>
+<li><a href="http://portalms.saude.gov.br/noticias/agencia-saude/44010-universidades-terao-ate-r-10-milhoes-para-prevenir-e-controlar-a-obesidade">Universidades terão até R$ 10 milhões para prevenir e controlar a obesidade</a></li>
+</ul>
+</blockquote>
+<p>Para a coordenadora geral de Alimentação e Nutrição do Ministério da Saúde, Michele Lessa, o documento ajudará a pasta na implementação efetiva das políticas públicas para o controle destas doenças. “A participação de todos é importante neste momento, pois os usuários do sistema serão os beneficiados com atendimentos qualificados, recomendações adequadas e uma conduta terapêutica assertiva”, ressaltou.</p>
+<p>O documento é instrumento para prevenção e controle da obesidade e do sobrepeso no país, já que para deter o crescimento dessas doenças na população adulta, por meio de políticas de saúde, é fundamental que os profissionais de saúde desenvolvam suas práticas de atenção à saúde com base nas melhores evidências científicas disponíveis. Neste contexto, o Protocolo confere segurança e efetividade clínica, de modo organizado e acessível aos profissionais de saúde.</p>
+<p>Segundo a Organização Mundial de Saúde (OMS), a obesidade e o sobrepeso quase triplicaram desde 1975. Em 2016, mais de 1,9 bilhão de adultos, com 18 anos ou mais, apresentavam excesso de peso. Destes, mais de 650 milhões eram obesos. No Brasil, dados da Pesquisa de Vigilância de Fatores de Risco e Proteção para Doenças crônicas por Inquérito Telefônico (Vigitel), de 2017, trouxeram que quase 1 em cada 5 brasileiros (18,9%) estão obesos e que mais da metade da população das capitais brasileiras (54,0%) estão com excesso de peso.</p>
+<p>Para participar da enquete do PCDT de sobrepeso e obesidade acesse a enquete <a href="http://conitec.gov.br/enquetes">AQUI</a></p>
+<h2><strong>ENQUETES</strong></h2>
+<p>A alternativa de possibilitar a participação da Sociedade por enquete, possibilita &nbsp;maior publicidade e transparência ao trabalho de elaboração de Protocolos Clínicos e Diretrizes Terapêuticas (PCDT) desenvolvido pela CONITEC.</p>
+<p>Elas são disponibilizadas como consulta prévia, ainda na primeira etapa de construção do PCDT, para &nbsp;captar sugestões com base em uma proposta inicial e, consequentemente, melhorar, a partir de aspectos que podem não ter sido considerados e que fazem parte do cotidiano das pessoas. “Dessa forma, a participação popular será considerada desde o início do processo de elaboração do PCDT, e não apenas na Consulta Pública para deliberação final, o que aumenta a chance de refletir a realidade e de seu uso pelos profissionais”, completa Michele.</p>
+<h2><strong>ALIMENTAÇÃO SAUDÁVEL CONTRA A OBESIDADE</strong></h2>
+<p>O incentivo para uma alimentação saudável e balanceada e a prática de atividades físicas é prioridade do Governo Federal.&nbsp;O Ministério da Saúde adotou internacionalmente metas para frear o crescimento do excesso de peso e obesidade no país. O Brasil &nbsp;assumiu, no âmbito da Década de Nutrição da ONU o compromisso deter o crescimento da obesidade na população adulta até 2019, por meio de políticas intersetoriais de saúde e segurança alimentar e nutricional; reduzir o consumo regular de refrigerante e suco artificial em pelo menos 30% na população adulta, até 2019; e ampliar em no mínimo de 17,8% o percentual de adultos que consomem frutas e hortaliças regularmente até 2019.</p>
+<p>Outra ação para a promoção da alimentação saudável foi a publicação do Guia Alimentar para a População Brasileira. Reconhecida mundialmente pela abordagem integral da promoção à nutrição adequada, a publicação orienta a população com recomendações sobre alimentação saudável e consumo de alimentos in natura ou minimamente processados.</p>
+<p><strong><em>Por Vitor Maciel, da Agência Saúde<br /></em></strong><strong>Atendimento à imprensa<br /></strong><strong>(61) 3315-3580</strong></p>
+
+	
+
+<a href="http://saude.gov.br/fakenews"><img src="https://saudebrasilportal.com.br/images/saude-sem-fake-news-rodape2.jpg"></a>
+</div>
+<div class="below-content">
+		<div class="line">
+		registrado em:
+			<span><a class="link-categoria" rel="tag" href="/noticias/agencia-saude/909-galeria-de-ministros">Galeria de Ministros </a></span><span class="separator">,</span><span><a class="link-categoria" rel="tag" href="/noticias/agencia-saude/659-noticias">Notícias </a></span><span class="separator">,</span><span><a class="link-categoria" rel="tag" href="/noticias/agencia-saude">Agência Saúde</a></span>	</div>
+	
+        	<div class="line">
+		Assunto(s):
+		        	    	<div class="tags">
+																	<span class="tag-163 tag-list0">
+					<a href="/component/tags/tag/sas" class="label label-info">
+						SAS					</a>
+				</span>&nbsp;
+																				<span class="tag-307 tag-list1">
+					<a href="/component/tags/tag/obesidade" class="label label-info">
+						Obesidade					</a>
+				</span>&nbsp;
+						</div>
+	</div>
+	
+	
+</div>
+
+                                                                    </div>
+                                
+                                                                <div class="row-fluid">
+                                    
+                                    <script>
+jQuery.noConflict();
+(function($) {	        
+	// link direto
+	$("li a.itemclose").siblings('ul').hide();	
+	$('li.current').parents ('ul').show()
+	$('li.current > ul').show();
+    
+	// link morto 
+	$("nav li.parent a.expansible").siblings('ul').hide();
+    $('li.current').parents ('ul').show();
+	$("nav li.parent a.expansible").click(function(){		
+		$(this).toggleClass('open');
+		$(this).siblings('ul').slideToggle( 400 );
+		return false;
+	})
+})(jQuery);	
+</script>
+                                </div>
+                                
+                            
+                            <span class="hide">Fim do conteúdo da página</span>
+                        </section>
+                    </div>
+                    <!-- fim #content.span9 -->
+                </div>
+                <!-- fim .row-fluid -->
+            </div>
+            <!-- fim .container -->
+        </main>
+        <footer>
+            <div class="footer-atalhos">
+                <div class="container">
+                    <div class="pull-right voltar-ao-topo"><a href="#portal-siteactions"><i class="icon-chevron-up"></i>&nbsp;Voltar para o topo</a></div>
+                </div>
+            </div>
+            <div class="container container-menus">
+                <div id="footer" class="row footer-menus">
+                    <span class="hide">Início da navegação de rodapé</span>
+                    
+		<div class="">
+			<nav class="row  span12 container-rodape nav">
+								
+
+<div class="custom span12 container-rodape"  >
+	<div class="span3"><!-- START: Modules Anywhere -->		<div class="moduletableassuntos">
+							<h3>Assuntos</h3>
+						
+<ul>
+<li class="item-838 parent"><a href="/atencao-especializada-e-hospitalar" >Atenção Especializada e Hospitalar</a></li><li class="item-837"><a href="/atencao-basica" >Atenção Básica</a></li><li class="item-3046 parent"><a href="/assistencia-farmaceutica" >Assistência Farmacêutica</a></li><li class="item-788 parent"><a href="/ciencia-e-tecnologia-e-complexo-industrial" >Ciência e Tecnologia e Complexo Industrial</a></li><li class="item-3037 parent"><a href="/gestao-do-sus" >Gestão do SUS</a></li><li class="item-2897 parent"><a class="fixed" href="/vigilancia-em-saude" >Vigilância em Saúde</a></li><li class="item-3349 parent"><a href="/participacao-e-controle-social" >Participação e Controle Social</a></li><li class="item-3040 parent"><a href="/promocao-da-saude" >Promoção da Saúde</a></li><li class="item-1017 parent"><a href="/repasses-financeiros" >Repasses financeiros</a></li><li class="item-786 parent"><a href="/saude-para-voce" >Saúde para Você</a></li><li class="item-155 parent"><a href="/saude-indigena" >Saúde Indígena</a></li><li class="item-785"><a href="/saude-de-a-z" >Saúde de A a Z</a></li><li class="item-777 parent"><a href="/trabalho-educacao-e-qualificacao" >Trabalho, Educação e Qualificação</a></li><li class="item-4591"><a href="/politica-nacional-de-saude-mental-alcool-e-outras-drogas" >Política Nacional de Saúde Mental, Álcool e Outras Drogas</a></li></ul>
+		</div>
+	<!-- END: Modules Anywhere --></div>
+<div class="span3"><!-- START: Modules Anywhere -->		<div class="moduletableassuntos">
+							<h3>Institucional</h3>
+						
+<ul>
+<li class="item-842"><a href="/o-ministro" >O Ministro</a></li><li class="item-3941"><a href="/agenda-das-autoridades" >Agenda de Autoridades</a></li><li class="item-3940"><a href="/quem-e-quem" >Quem é quem </a></li><li class="item-4017"><a href="/historia-do-ministerio" >História do Ministério</a></li><li class="item-3936"><a href="/estrutura-e-competencias" >Estrutura e competências</a></li><li class="item-1011"><a href="/galeria-de-ministros" >Galeria de Ministros</a></li><li class="item-843 parent"><a class="expansible" href="/" >Secretarias</a></li><li class="item-3026 parent"><a class="expansible" href="/" >Órgãos vinculados</a></li><li class="item-3024"><a class="expansible" href="/assessoria-internacional" >Assessoria  de Assuntos Internacionais (AISA)</a></li><li class="item-3061"><a href="/consultoria-juridica" >Consultoria Jurídica (Conjur)</a></li><li class="item-3939"><a href="/secretarias-estaduais" >Secretarias Estaduais</a></li><li class="item-3033 parent"><a class="expansible" href="/" >Órgãos colegiados</a></li><li class="item-844"><a href="/hospitais-federais" >Hospitais Federais</a></li><li class="item-3942"><a href="/fale-conosco" >Atendimento ao cidadão</a></li><li class="item-4648"><a href="/institucional/o-ministerio/#organograma" >Organograma</a></li></ul>
+		</div>
+	<!-- END: Modules Anywhere --></div>
+<div class="span3"><!-- START: Modules Anywhere -->		<div class="moduletableassuntos">
+							<h3>Saúde no Brasil</h3>
+						
+<ul>
+<li class="item-3099"><a href="/dados-e-indicadores-da-saude" >Dados e Indicadores da Saúde</a></li><li class="item-792"><a href="/boletins-epidemiologicos" >Boletins epidemiológicos</a></li><li class="item-4193"><a href="/protocolos-e-diretrizes" >Protocolos e Diretrizes</a></li></ul>
+		</div>
+	<!-- END: Modules Anywhere --> <!-- START: Modules Anywhere -->		<div class="moduletable">
+							<h3>Acesso à Informação</h3>
+						
+<ul>
+<li class="item-707 parent"><a href="/institucional/o-ministerio" >Institucional</a></li><li class="item-391 parent"><a href="/acoes-e-programas" >Ações e Programas</a></li><li class="item-4215 parent"><a href="/agenda-das-autoridades" >Agenda das Autoridades</a></li><li class="item-3975"><a href="/auditorias" >Auditorias</a></li><li class="item-3974"><a href="/audiencias-e-consultas-publicas" >Chamamentos, Audiências e Consultas Públicas </a></li><li class="item-4394"><a href="/concursos-e-selecoes" >Concursos e seleções </a></li><li class="item-3978"><a href="/convenios-e-repasses" >Convênios e Repasses</a></li><li class="item-118"><a href="/despesas" > Despesas</a></li><li class="item-119"><a href="/informacoes-classificadas" >Informações classificadas</a></li><li class="item-4112 parent"><a href="/legislacao-da-saude" >Legislação da Saúde</a></li><li class="item-725"><a href="/licitacoes-e-contratos" >Licitações e contratos</a></li><li class="item-3990"><a href="/servidores" >Servidores</a></li><li class="item-304 parent"><a href="/servico-de-informacao-ao-cidadao-sic" >Serviço de Informação ao Cidadão (SIC)</a></li><li class="item-4218"><a href="/relatorio-de-gestao" >Relatório de Gestão</a></li><li class="item-4414"><a href="/sei" >Sistema Eletrônico de Informações (SEI)</a></li></ul>
+		</div>
+	<!-- END: Modules Anywhere --> <!-- START: Modules Anywhere -->		<div class="moduletable">
+							<h3>Serviços</h3>
+						
+<ul>
+<li class="item-271"><a href="http://datasus.saude.gov.br/sistemas-e-aplicativos" class="aplicativos" target="_blank" rel="noopener noreferrer">Sistemas</a></li><li class="item-132"><a href="/fale-conosco" >Contatos</a></li><li class="item-135"><a href="/comunicacao-e-imprensa" >Comunicação e Imprensa</a></li><li class="item-638 parent"><a href="/assessoria-de-imprensa" >Assessoria de Imprensa</a></li></ul>
+		</div>
+	<!-- END: Modules Anywhere --></div>
+<div class="span3"><!-- START: Modules Anywhere -->		<div class="moduletable">
+							<h3>Central de conteúdos</h3>
+						
+<ul>
+<li class="item-149"><a href="/aplicativos" class="aplicativos">Aplicativos</a></li><li class="item-4018"><a href="/apresentacoes" class="infograficos">Apresentações </a></li><li class="item-4020"><a href="/webradio" class="audios">Áudios</a></li><li class="item-4686"><a href="http://www.saude.gov.br/campanhas" class="campanhas" target="_blank" rel="noopener noreferrer">Campanhas</a></li><li class="item-277"><a href="http://www.saude.gov.br/bvs" class="publicacoes" target="_blank" rel="noopener noreferrer">Biblioteca</a></li><li class="item-590"><a href="https://www.flickr.com/photos/ministeriodasaude/albums" title="Galeria de Imagens" class="imagens">Imagens</a></li><li class="item-146"><a href="https://www.youtube.com/watch?v=aFk1vUNKr0w&amp;list=PL_rQTI99G4P_cDhUB8MrLJMqX_-vurpRu" class="videos">Vídeos</a></li></ul>
+		</div>
+	<!-- END: Modules Anywhere -->
+<div class="moduletable">
+<h2>Redes Sociais</h2>
+<ul>
+<li class="item-136"><a href="http://twitter.com/minsaude">Twitter</a></li>
+<li class="item-137"><a href="http://www.youtube.com/minsaudebr">YouTube</a></li>
+<li class="item-138"><a href="https://www.facebook.com/minsaude">Facebook</a></li>
+<li class="item-139"><a href="https://www.flickr.com/photos/ministeriodasaude/albums">Flickr</a></li>
+<li class="item-637"><a href="https://instagram.com/minsaude/"> Instagram</a></li>
+</ul>
+</div>
+<!-- START: Modules Anywhere -->		<div class="moduletable">
+							<h3>Navegação</h3>
+						
+<ul>
+<li class="item-140"><a href="/acessibilidade" >Acessibilidade</a></li><li class="item-141"><a href="#" class="toggle-contraste">Alto contraste</a></li><li class="item-142"><a href="/mapa-do-site" >Mapa do site</a></li></ul>
+		</div>
+	<!-- END: Modules Anywhere --></div></div>
+			</nav>
+		</div>
+
+	<script>
+jQuery.noConflict();
+jQuery(document).ready(function($){
+			$('a').click(function () {
+                                var inUrl = window.location.href; 
+				var href = $(this).attr('href');
+				var title = $('title').text();
+				  _gaq.push(['_trackEvent', 'Clicks', title +' na url:' + inUrl , href +' na url:' + inUrl ]);
+					  
+				});
+
+		});
+</script>  <script>
+			jQuery.noConflict();
+			(function($) {	        
+			$('a').each(function() {
+                   if (this.hostname != "portalms.saude.gov.br" && this.hostname != "www.saude.gov.br" && this.hostname != "portalms.saude.gov") {
+					   	$(this).attr('target','_blank');								
+				    }
+				})
+			})(jQuery);	
+		</script>  <script>
+			jQuery.noConflict();
+			(function($) {	        
+			     $('.ui-accordion a .readmorelink').parents('.ui-accordion-header').addClass('readmorelink');
+			})(jQuery);			
+		</script>  <script>
+			jQuery.noConflict();
+(function($) {	 
+	$("blockquote").prepend('<span>Itens relacionados</span>');	
+})(jQuery);			
+		</script> <script>
+			jQuery.noConflict();
+			(function($) {	        
+			$('a').each(function() {
+                   if (this.hostname == "estacaobvs.saude.gov.br") {
+		$(this).attr('href','#404');								
+				    }
+				})
+			})(jQuery);	
+		</script> <script>	
+			jQuery.noConflict();
+			(function($) {	        
+			  $(".control-label .hasPopover").removeClass('hasPopover').show();
+			})(jQuery);	
+	
+  
+    </script>  
+                    <span class="hide">Fim da navegação de rodapé</span>
+                </div>
+                <!-- fim .row -->
+            </div>
+            <!-- fim .container -->
+            <div class="footer-logos">
+                <div class="container">
+                                            <a href="http://www.acessoainformacao.gov.br/" class="logo-acesso pull-left"><img src="/templates/padraogoverno01/images/acesso-a-informacao.png" alt="Acesso a Informação"></a>
+                                                        </div>
+            </div>
+            <div class="footer-ferramenta">
+                <div class="container">
+                    Copyright &copy; Ministério da Saúde. Todos os direitos reservados 2013 / 2018  -> <a href="/templates/padraogoverno01/releaseNotes.html" title="Versão do Sistema." alt="Versão do Sistema.">Versão do Sistema</a>
+<div class="pull-right voltar-ao-topo"><a href="#portal-siteactions"><i class="icon-chevron-up"></i>&nbsp;Voltar para o topo</a></div>
+                </div>
+            </div>
+            <div class="footer-atalhos visible-phone">
+                <div class="container">
+                    <span class="hide">Fim do conteúdo da página</span>
+                    <div class="pull-right voltar-ao-topo"><a href="#portal-siteactions"><i class="icon-chevron-up"></i>&nbsp;Voltar para o topo</a></div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- fim div#wrapper -->
+    <!-- scripts principais do template -->
+    		<script src="/templates/padraogoverno01/bootstrap/js/bootstrap.min.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+	    <script src="/templates/padraogoverno01/js/jquery.cookie.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+	    <script src="/templates/padraogoverno01/js/template.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+		                <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-12452499-1']);
+          _gaq.push(['_trackPageview']);
+                              (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+        <!-- debug -->
+    
+    <div id="custom_debug"></div>
+    
+    <!--custom_debug -->
+            <script src="/templates/padraogoverno01/js/jquery-portalsaude.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+    
+</body>
+</html>

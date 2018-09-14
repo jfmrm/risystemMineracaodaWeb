@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="pt-BR"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_bottom_nav_header html_menu_left html_slim html_header_sticky_disabled html_header_shrinking_disabled html_mobile_menu_phone html_disabled html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled ">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Page not found - Caros Ouvintes</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - Caros Ouvintes" />
+<meta property="og:site_name" content="Caros Ouvintes" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found - Caros Ouvintes" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Caros Ouvintes &raquo;" href="http://www2.carosouvintes.org.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Caros Ouvintes &raquo;" href="http://www2.carosouvintes.org.br/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www2.carosouvintes.org.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=d05f105036728cf907a9f00c17abafe0"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style type="text/css">
+.powerpress_player .wp-audio-shortcode { max-width: 400px; }
+</style>
+<link rel='stylesheet' id='colorbox-theme1-css'  href='http://www2.carosouvintes.org.br/wp-content/plugins/jquery-colorbox/themes/theme1/colorbox.css?ver=4.6.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='advpsStyleSheet-css'  href='http://www2.carosouvintes.org.br/wp-content/plugins/advanced-post-slider/advps-style.css?ver=d05f105036728cf907a9f00c17abafe0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www2.carosouvintes.org.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold/style.css?ver=d05f105036728cf907a9f00c17abafe0' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-grid-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold/css/grid.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold/css/base.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold/css/layout.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold/css/shortcodes.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-media-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-print-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold/css/print.css?ver=1' type='text/css' media='print' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='http://www2.carosouvintes.org.br/wp-content/uploads/dynamic_avia/enfold_child.css?ver=592d674c5019a' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold/css/custom.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-style-css'  href='http://www2.carosouvintes.org.br/wp-content/themes/enfold-child/style.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='http://www2.carosouvintes.org.br/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14' type='text/css' media='all' />
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jQueryColorboxSettingsArray = {"jQueryColorboxVersion":"4.6.2","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"false","colorboxSlideshowAuto":"false","colorboxScalePhotos":"false","colorboxPreloading":"false","colorboxOverlayClose":"false","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"fechar","colorboxNext":"pr\u00f3xima","colorboxPrevious":"anterior","colorboxSlideshowStart":"iniciar apresenta\u00e7\u00e3o","colorboxSlideshowStop":"parar apresenta\u00e7\u00e3o","colorboxCurrent":"Imagem {current} de {total}","colorboxXhrError":"This content failed to load.","colorboxImgError":"This image failed to load.","colorboxImageMaxWidth":"false","colorboxImageMaxHeight":"false","colorboxImageHeight":"false","colorboxImageWidth":"false","colorboxLinkHeight":"false","colorboxLinkWidth":"false","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"","autoHideFlash":"","autoColorbox":"true","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.4.33'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/plugins/advanced-post-slider/js/advps.frnt.script.js?ver=d05f105036728cf907a9f00c17abafe0'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js?ver=d05f105036728cf907a9f00c17abafe0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var samAjax = {"ajaxurl":"http:\/\/www2.carosouvintes.org.br\/wp-content\/plugins\/simple-ads-manager-master\/sam-ajax.php","loadurl":"http:\/\/www2.carosouvintes.org.br\/wp-content\/plugins\/simple-ads-manager-master\/sam-ajax-loader.php","load":"","mailer":"1","clauses":"YTo0OntzOjI6IldDIjtzOjE3OToiKElGKHNhLmFkX3VzZXJzID0gMCwgVFJVRSwgKHNhLmFkX3VzZXJzX3VucmVnID0gMSkpKSBBTkQgKChzYS52aWV3X3R5cGUgPSAxKSBPUiAoc2Eudmlld190eXBlID0gMCBBTkQgKHNhLnZpZXdfcGFnZXMrMCAmIDY0KSkpIEFORCAoc2EuYWRfY2F0cyA9IDApICBBTkQgKHNhLmFkX2F1dGhvcnMgPSAwKSAgICAgICAiO3M6MzoiV0NUIjtzOjM2MjoiIEFORCBJRihzYS5hZF9zY2hlZHVsZSwgQ1VSREFURSgpIEJFVFdFRU4gc2EuYWRfc3RhcnRfZGF0ZSBBTkQgc2EuYWRfZW5kX2RhdGUsIFRSVUUpIEFORCBJRihzYS5saW1pdF9oaXRzLCBzYS5oaXRzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAwKSwgVFJVRSkgQU5EIElGKHNhLmxpbWl0X2NsaWNrcywgc2EuY2xpY2tzX2xpbWl0ID4gKFNFTEVDVCBJRk5VTEwoQ09VTlQoKiksIDApIEZST00gd3Bfc2FtX3N0YXRzIHNzIFdIRVJFIHNzLmlkID0gc2EuaWQgQU5EIHNzLmV2ZW50X3R5cGUgPSAxKSwgVFJVRSkiO3M6MzoiV0NXIjtzOjgwOiIgQU5EIElGKHNhLmFkX3dlaWdodCA+IDAsIChzYS5hZF93ZWlnaHRfaGl0cyoxMC8oc2EuYWRfd2VpZ2h0KjEwMDApKSA8IDEsIEZBTFNFKSI7czo0OiJXQzJXIjtzOjIyOiJBTkQgKHNhLmFkX3dlaWdodCA+IDApIjt9","doStats":"1","container":"sam-container","place":"sam-place","ad":"sam-ad","wap":"L2hvbWUvcHJvZnRwZC93d3cyQGNhcm9zb3V2aW50ZXMub3JnLmJyL3dwLWxvYWQucGhw"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/plugins/simple-ads-manager-master/js/sam-layout.min.js?ver=2.10.0.130'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/themes/enfold/js/avia-compat.js?ver=2'></script>
+<link rel='https://api.w.org/' href='http://www2.carosouvintes.org.br/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.carosouvintes.org.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www2.carosouvintes.org.br/wp-includes/wlwmanifest.xml" /> 
+
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Compartilhar",
+	Save: "Salvar",
+	Subscribe: "Inscrever",
+	Email: "Email",
+	Bookmark: "Favoritos",
+	ShowAll: "Mostrar tudo",
+	ShowLess: "Mostrar menos",
+	FindServices: "Procurar serviço(s)",
+	FindAnyServiceToAddTo: "Encontrar rapidamente qualquer serviço para",
+	PoweredBy: "Serviço fornecido por",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Adicionar aos favoritos",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Adicionar a favoritos",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;"
+};
+
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<meta property="fb:app_id" content="425437367568259"/><script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+    <style type="text/css" media="screen">
+      div.printfriendly a, div.printfriendly a:link, div.printfriendly a:hover, div.printfriendly a:visited {
+        text-decoration: none;
+        border: none;
+      }
+    </style>
+           <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 0px 0px 0px 0px;
+            position: relative;
+            z-index: 1000;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            font-size: 14px;
+            color: #6D9F00;
+            vertical-align: bottom;
+          }
+          .printfriendly a {
+            box-shadow:none;
+          }
+          .printfriendly a:hover {
+            cursor: pointer;
+          }
+          .printfriendly a img  {
+            border: none;
+            padding:0;
+            margin-right: 6px;
+            box-shadow: none;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+          }
+          .printfriendly a span{
+            vertical-align: bottom;
+          }
+          .pf-alignleft {
+            float: left;
+          }
+          .pf-alignright {
+            float: right;
+          }
+          div.pf-aligncenter {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+          }
+        </style>
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www2.carosouvintes.org.br/?wordfence_lh=1&hid=A1F0FC96F33C81B65DAC32DD2DF17D14');
+</script><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Caros Ouvintes RSS2 Feed" href="http://www2.carosouvintes.org.br/feed/" />
+<link rel="pingback" href="http://www2.carosouvintes.org.br/xmlrpc.php" />
+<!--[if lt IE 9]><script src="http://www2.carosouvintes.org.br/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+
+<style type="text/css">
+.avatar {vertical-align:middle; margin-right:5px;}
+.credit {font-size: 50%;}
+</style>
+		
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 3.8
+Installed: enfold
+AviaFramework Version: 4.6
+AviaBuilder Version: 0.9.1
+- - - - - - - - - - -
+ChildTheme: Enfold Child
+ChildTheme Version: 1.0
+ChildTheme Installed: enfold
+
+ML:256-PU:68-PLA:19
+WP:4.8.1
+Updates: disabled
+-->
+
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+src: url('http://www2.carosouvintes.org.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+src: url('http://www2.carosouvintes.org.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
+url('http://www2.carosouvintes.org.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
+url('http://www2.carosouvintes.org.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
+url('http://www2.carosouvintes.org.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44323405-1', 'auto');
+  ga('send', 'pageview');
+
+</script>    <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
+</head>
+
+
+
+
+<body id="top" class="error404 stretched helvetica-neue-websave _helvetica_neue no_sidebar_border" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_bottom_nav_header av_menu_left av_slim av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_header_border_disabled'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+<a id="advanced_menu_toggle" href="#" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><a id="advanced_menu_hide" href="#" 	aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a>		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><div class='helper-manter'><span style='float: right;margin-top: -66px;height: 10px;font-size: 11px;color: grey;''>Mantenedor</span><div id='c1869_1_4' class='sam-container sam-place' data-sam='0'><a  id='a89_1' class='sam_ad' href='http://ricmais.com.br/sc/' target='_blank'><img src='http://www.carosouvintes.org.br/blog/wp-content/uploads/RIC_mantenedor.png'  alt='Grupo RIC'  /></a></div><div id='c5555_0_1' class='sam-container sam-place' data-sam='0'><img src='http://www.carosouvintes.org.br/blog/wp-content/uploads/mantenedores1.png'  alt=''  /></div><div id='c2654_0_2' class='sam-container sam-place' data-sam='0'><img src='http://www.carosouvintes.org.br/blog/wp-content/uploads/mantenedores1.png'  alt=''  /></div></div><strong class='logo'><a href='http://www2.carosouvintes.org.br/'><img height='100' width='300' src='http://www2.carosouvintes.org.br/wp-content/uploads/logo-caros-ouvintes.png' alt='Caros Ouvintes' /></a></strong><div class="fb-like" data-href="https://www.facebook.com/institutocarosouvintes/?fref=ts" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false"></div></div></div><div id='header_main_alternate' class='container_wrap'><div class='container'><nav class='main_menu' data-selectname='Selecione uma página'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-44058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-1"><a href="http://www2.carosouvintes.org.br/instituto/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Instituto</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-44062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www2.carosouvintes.org.br/instituto/historia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">História</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-44063" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www2.carosouvintes.org.br/instituto/historia/ata-de-fundacao/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Ata de Fundação</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-44059" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www2.carosouvintes.org.br/instituto/diretoria-e-conselhos/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Diretoria e Conselhos</span></a></li>
+	<li id="menu-item-44060" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www2.carosouvintes.org.br/instituto/equipe/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Equipe</span></a></li>
+	<li id="menu-item-44061" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www2.carosouvintes.org.br/instituto/estatuto/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Estatuto</span></a></li>
+	<li id="menu-item-60118" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.carosouvintes.org.br/blog/wp-content/uploads/midia-kit-abril-2016.pdf" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Anuncie</span></a></li>
+</ul>
+</li>
+<li id="menu-item-47204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-2"><a href="http://www2.carosouvintes.org.br/quero-participar-mantenedor/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Quero Participar</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-47202" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www2.carosouvintes.org.br/quero-participar-mantenedor/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Mantenedor</span></a></li>
+	<li id="menu-item-62559" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www2.carosouvintes.org.br/participe/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Conte sua história!</span></a></li>
+</ul>
+</li>
+<li id="menu-item-44038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-top-level menu-item-top-level-3"><a href="http://www2.carosouvintes.org.br/categoria/noticia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Notícia</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-44388" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/noticia/radio-noticia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Rádio</span></a></li>
+	<li id="menu-item-44401" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/noticia/tv-noticia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">TV</span></a></li>
+	<li id="menu-item-44385" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/noticia/midia-impressa-caros-ouvintes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Mídia Impressa</span></a></li>
+	<li id="menu-item-44386" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/noticia/tecnologia-caros-ouvintes/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Tecnologia</span></a></li>
+	<li id="menu-item-44387" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/noticia/geral-noticia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Geral</span></a></li>
+</ul>
+</li>
+<li id="menu-item-44039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-top-level menu-item-top-level-4"><a href="http://www2.carosouvintes.org.br/categoria/memoria/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Memória</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-44040" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/memoria/astros-e-estrelas/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Astros e Estrelas</span></a></li>
+	<li id="menu-item-44042" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/memoria/entrevistas/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Entrevistas</span></a></li>
+	<li id="menu-item-44044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a href="http://www2.carosouvintes.org.br/categoria/memoria/radio-memoria/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Rádio</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-44045" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/memoria/radio-memoria/radio-brasileiro/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Rádio Brasileiro</span></a></li>
+		<li id="menu-item-44046" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/memoria/radio-memoria/radio-catarinense/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Rádio Catarinense</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-44043" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/memoria/midia-impressa/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Mídia Impressa</span></a></li>
+	<li id="menu-item-44047" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/memoria/televisao/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Televisão</span></a></li>
+	<li id="menu-item-52149" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/memoria/propaganda-memoria/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Propaganda</span></a></li>
+	<li id="menu-item-44041" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/memoria/cinema-memoria/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Cinema</span></a></li>
+</ul>
+</li>
+<li id="menu-item-44048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-top-level menu-item-top-level-5"><a href="http://www2.carosouvintes.org.br/categoria/cronica/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Crônica</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-44049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-top-level menu-item-top-level-6"><a href="http://www2.carosouvintes.org.br/categoria/academidia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Academídia</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-44050" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/academidia/artigo/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Artigo</span></a></li>
+	<li id="menu-item-44051" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/academidia/dissertacao/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Dissertação</span></a></li>
+	<li id="menu-item-44053" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/academidia/tcc-academidia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">TCC</span></a></li>
+	<li id="menu-item-44054" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/academidia/tese/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Tese</span></a></li>
+	<li id="menu-item-54695" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/academidia/museu-virtual-do-radio/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Museu Virtual do Rádio</span></a></li>
+	<li id="menu-item-44052" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www2.carosouvintes.org.br/categoria/academidia/formacao-profissional-academidia/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Formação Profissional</span></a></li>
+</ul>
+</li>
+<li id="menu-item-44055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-top-level menu-item-top-level-7"><a href="http://www2.carosouvintes.org.br/categoria/audioteca/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Audioteca</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-44066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-top-level menu-item-top-level-8"><a href="http://www2.carosouvintes.org.br/categoria/agenda/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Agenda</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-44037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-9"><a href="http://www2.carosouvintes.org.br/contato/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Contato</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special">
+							<a href="?s=" data-avia-search-tooltip="
+
+&lt;form action=&quot;http://www2.carosouvintes.org.br/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Pesquisa' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Pesquisa</span></a>
+	        		   </li></ul></div></nav></div> </div> 		<!-- end container_wrap-->
+		</div>
+		
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='0'>
+
+	<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title'>Erro 404 - página não encontrada</h1></div></div>
+
+		<div class='container_wrap container_wrap_first main_color sidebar_right'>
+			
+						
+			<div class='container'>
+
+				<main class='template-page content av-content-small alpha units'  role="main" itemprop="mainContentOfPage" >
+
+
+                    <div class="entry entry-content-wrapper clearfix" id='search-fail'>
+                    
+<p class='entry-content'><strong>Nada encontrado</strong><br/>
+
+Desculpe, mas a página que você está buscando não existe. Utilize a busca abaixo.</p>
+
+
+<form action="http://www2.carosouvintes.org.br/" id="searchform" method="get" class="">
+	<div>
+		<input type="submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello" />
+		<input type="text" id="s" name="s" value="" placeholder='Pesquisa' />
+			</div>
+</form>
+
+
+<div class='hr_invisible'></div>
+
+<section class="404_recommendation">
+    <p>Para melhores resultados, siga as instruções abaixo:</p>
+    <ul class='borderlist-not'>
+        <li>Cuide a ortografia;</li>
+        <li>Procure por palavras similares;</li>
+        <li>Utilize mais de uma palavra-chave;</li>
+    </ul>
+
+    <div class='hr_invisible'></div>
+
+    <h3 class=''>Confira abaixo nossos posts</h3>
+
+    <div class="widget avia_combo_widget"><div class='tabcontainer border_tabs top_tab tab_initial_open tab_initial_open__1'><div class="tab first_tab active_tab widget_tab_popular"><span>Popular</span></div><div class='tab_content active_tab_content'><ul class="news-wrap"><li class="news-content post-format-standard"><a class='news-link' title='Dicas para ser um bom locutor' href='http://www2.carosouvintes.org.br/dicas-para-ser-um-bom-locutor/'><span class='news-thumb '><img width="36" height="20" src="http://www2.carosouvintes.org.br/wp-content/uploads/radio.png" class="attachment-widget size-widget colorbox-560  wp-post-image" alt="" /></span><strong class='news-headline'>Dicas para ser um bom locutor<span class='news-time'>08/07/2014 - 17:20</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Cicero Augusto, da loteria esportiva à astrologia' href='http://www2.carosouvintes.org.br/cicero-augusto-da-loteria-esportiva-a-astrologia/'><span class='news-thumb '><img width="36" height="23" src="http://www2.carosouvintes.org.br/wp-content/uploads/laf-040607.jpg" class="attachment-widget size-widget colorbox-4284  wp-post-image" alt="" srcset="http://www2.carosouvintes.org.br/wp-content/uploads/laf-040607.jpg 400w, http://www2.carosouvintes.org.br/wp-content/uploads/laf-040607-200x128.jpg 200w, http://www2.carosouvintes.org.br/wp-content/uploads/laf-040607-300x192.jpg 300w, http://www2.carosouvintes.org.br/wp-content/uploads/laf-040607-172x111.jpg 172w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Cicero Augusto, da loteria esportiva à astrologia<span class='news-time'>03/06/2007 - 07:55</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Paulo Josué e a Rádio Caiçara' href='http://www2.carosouvintes.org.br/paulo-josue-e-a-radio-caicara/'><span class='news-thumb '><img width="33" height="36" src="http://www2.carosouvintes.org.br/wp-content/uploads/laf-181107-01.jpg" class="attachment-widget size-widget colorbox-4592  wp-post-image" alt="" srcset="http://www2.carosouvintes.org.br/wp-content/uploads/laf-181107-01.jpg 188w, http://www2.carosouvintes.org.br/wp-content/uploads/laf-181107-01-180x200.jpg 180w, http://www2.carosouvintes.org.br/wp-content/uploads/laf-181107-01-100x111.jpg 100w" sizes="(max-width: 33px) 100vw, 33px" /></span><strong class='news-headline'>Paulo Josué e a Rádio Caiçara<span class='news-time'>18/11/2007 - 19:20</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Arlindo Sassi e os 25 anos do Love Songs' href='http://www2.carosouvintes.org.br/arlindo-sassi-e-os-25-anos-do-love-songs/'><span class='news-thumb '><img width="36" height="36" src="http://www2.carosouvintes.org.br/wp-content/uploads/arlindo-sassi-love-songs-36x36.jpg" class="attachment-widget size-widget colorbox-13175  wp-post-image" alt="" srcset="http://www2.carosouvintes.org.br/wp-content/uploads/arlindo-sassi-love-songs-36x36.jpg 36w, http://www2.carosouvintes.org.br/wp-content/uploads/arlindo-sassi-love-songs-180x180.jpg 180w, http://www2.carosouvintes.org.br/wp-content/uploads/arlindo-sassi-love-songs-120x120.jpg 120w, http://www2.carosouvintes.org.br/wp-content/uploads/arlindo-sassi-love-songs-450x450.jpg 450w, http://www2.carosouvintes.org.br/wp-content/uploads/arlindo-sassi-love-songs-150x150.jpg 150w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Arlindo Sassi e os 25 anos do Love Songs<span class='news-time'>14/09/2009 - 07:14</span></strong></a></li></ul></div><div class="tab widget_tab_recent"><span>Recente</span></div><div class='tab_content'><ul class="news-wrap"><li class="news-content post-format-standard"><a class='news-link' title='Vídeos do 28º Congresso Brasileiro de Radiodifusão já podem ser vistos' href='http://www2.carosouvintes.org.br/videos-do-28o-congresso-brasileiro-de-radiodifusao-ja-podem-ser-vistos/'><span class='news-thumb '><img width="36" height="36" src="http://www2.carosouvintes.org.br/wp-content/uploads/congresso-radiofusao-abert-36x36.png" class="attachment-widget size-widget colorbox-66583  wp-post-image" alt="" srcset="http://www2.carosouvintes.org.br/wp-content/uploads/congresso-radiofusao-abert-36x36.png 36w, http://www2.carosouvintes.org.br/wp-content/uploads/congresso-radiofusao-abert-180x180.png 180w, http://www2.carosouvintes.org.br/wp-content/uploads/congresso-radiofusao-abert-120x120.png 120w, http://www2.carosouvintes.org.br/wp-content/uploads/congresso-radiofusao-abert-450x450.png 450w, http://www2.carosouvintes.org.br/wp-content/uploads/congresso-radiofusao-abert-150x150.png 150w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Vídeos do 28º Congresso Brasileiro de Radiodifusão já...<span class='news-time'>13/09/2018 - 20:02</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Inscrições abertas para o oitava edição do Prêmio ACIF de Jornalismo' href='http://www2.carosouvintes.org.br/inscricoes-abertas-para-o-oitava-edicao-do-premio-acif-de-jornalismo/'><span class='news-thumb '><img width="36" height="36" src="http://www2.carosouvintes.org.br/wp-content/uploads/premio-acif-jornalismo-36x36.png" class="attachment-widget size-widget colorbox-66576  wp-post-image" alt="" srcset="http://www2.carosouvintes.org.br/wp-content/uploads/premio-acif-jornalismo-36x36.png 36w, http://www2.carosouvintes.org.br/wp-content/uploads/premio-acif-jornalismo-180x180.png 180w, http://www2.carosouvintes.org.br/wp-content/uploads/premio-acif-jornalismo-120x120.png 120w, http://www2.carosouvintes.org.br/wp-content/uploads/premio-acif-jornalismo-450x450.png 450w, http://www2.carosouvintes.org.br/wp-content/uploads/premio-acif-jornalismo-150x150.png 150w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Inscrições abertas para o oitava edição do Prêmio ACIF...<span class='news-time'>13/09/2018 - 19:43</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Conheça detalhes dos 70 anos de história da Rádio Jaraguá' href='http://www2.carosouvintes.org.br/conheca-detalhes-dos-70-anos-de-historia-da-radio-jaragua/'><span class='news-thumb '><img width="36" height="36" src="http://www2.carosouvintes.org.br/wp-content/uploads/radio-jaragua-dtq-36x36.png" class="attachment-widget size-widget colorbox-66567  wp-post-image" alt="" srcset="http://www2.carosouvintes.org.br/wp-content/uploads/radio-jaragua-dtq-36x36.png 36w, http://www2.carosouvintes.org.br/wp-content/uploads/radio-jaragua-dtq-180x180.png 180w, http://www2.carosouvintes.org.br/wp-content/uploads/radio-jaragua-dtq-120x120.png 120w, http://www2.carosouvintes.org.br/wp-content/uploads/radio-jaragua-dtq-450x450.png 450w, http://www2.carosouvintes.org.br/wp-content/uploads/radio-jaragua-dtq-150x150.png 150w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Conheça detalhes dos 70 anos de história da Rádio Ja...<span class='news-time'>13/09/2018 - 11:55</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Não basta ser pai' href='http://www2.carosouvintes.org.br/nao-basta-ser-pai/'><span class='news-thumb '><img width="36" height="36" src="http://www2.carosouvintes.org.br/wp-content/uploads/nao-basta-ser-pai-tem-que-participar-36x36.jpg" class="attachment-widget size-widget colorbox-66562  wp-post-image" alt="" srcset="http://www2.carosouvintes.org.br/wp-content/uploads/nao-basta-ser-pai-tem-que-participar-36x36.jpg 36w, http://www2.carosouvintes.org.br/wp-content/uploads/nao-basta-ser-pai-tem-que-participar-180x180.jpg 180w, http://www2.carosouvintes.org.br/wp-content/uploads/nao-basta-ser-pai-tem-que-participar-120x120.jpg 120w, http://www2.carosouvintes.org.br/wp-content/uploads/nao-basta-ser-pai-tem-que-participar-450x450.jpg 450w, http://www2.carosouvintes.org.br/wp-content/uploads/nao-basta-ser-pai-tem-que-participar-150x150.jpg 150w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Não basta ser pai<span class='news-time'>12/09/2018 - 11:20</span></strong></a></li></ul></div><div class="tab widget_tab_comments"><span>Comentários</span></div><div class='tab_content'><ul class="news-wrap"><li class="news-content"><a class='news-link' title='arlindo-sassi-love-songs' href='http://www2.carosouvintes.org.br/arlindo-sassi-e-os-25-anos-do-love-songs/arlindo-sassi-love-songs/comment-page-1/#comment-459222'><span class='news-thumb'></span><strong class='news-headline'>grande arlindo sassi me chama no zap amigo 81 9 8895 7451...<span class='news-time'>08/08/2018 - 15:20 por Rogerio Lins De Andrade</span></strong></a></li><li class="news-content"><a class='news-link' title='O centenário de Pedro Raymundo' href='http://www2.carosouvintes.org.br/o-centenario-de-pedro-raymundo/comment-page-1/#comment-458959'><span class='news-thumb'></span><strong class='news-headline'>eu sou neta do Pedro Raymundo,a gente nunca esquece as músicas...<span class='news-time'>16/07/2018 - 19:43 por Sonia Sampaio Raymundo</span></strong></a></li><li class="news-content"><a class='news-link' title='O centenário de Pedro Raymundo' href='http://www2.carosouvintes.org.br/o-centenario-de-pedro-raymundo/comment-page-1/#comment-458958'><span class='news-thumb'></span><strong class='news-headline'>eu adora o meu avô é Pedro Raymundo,ele era uma pessoa...<span class='news-time'>16/07/2018 - 19:40 por Sonia Sampaio Raymundo</span></strong></a></li><li class="news-content"><a class='news-link' title='O programa Manuel da Nóbrega' href='http://www2.carosouvintes.org.br/o-programa-manuel-da-nobrega/comment-page-1/#comment-458870'><span class='news-thumb'></span><strong class='news-headline'>Eu era molecote e ouvia em casa. Minhas tias Cida e Cecília...<span class='news-time'>06/07/2018 - 12:54 por paulo duarte</span></strong></a></li></ul></div><div class="tab last_tab widget_tab_tags"><span>Tags</span></div><div class='tab_content tagcloud'><a href="http://www2.carosouvintes.org.br/tag/astros2/" class="tag-cloud-link tag-link-7209 tag-link-position-1" style="font-size: 12px;">astros2</a>
+<a href="http://www2.carosouvintes.org.br/tag/blumenau/" class="tag-cloud-link tag-link-815 tag-link-position-2" style="font-size: 12px;">Blumenau</a>
+<a href="http://www2.carosouvintes.org.br/tag/brasil/" class="tag-cloud-link tag-link-576 tag-link-position-3" style="font-size: 12px;">Brasil</a>
+<a href="http://www2.carosouvintes.org.br/tag/capa/" class="tag-cloud-link tag-link-7286 tag-link-position-4" style="font-size: 12px;">capa</a>
+<a href="http://www2.carosouvintes.org.br/tag/cinema/" class="tag-cloud-link tag-link-1401 tag-link-position-5" style="font-size: 12px;">cinema</a>
+<a href="http://www2.carosouvintes.org.br/tag/comunicacao/" class="tag-cloud-link tag-link-22 tag-link-position-6" style="font-size: 12px;">Comunicação</a>
+<a href="http://www2.carosouvintes.org.br/tag/cronica/" class="tag-cloud-link tag-link-9953 tag-link-position-7" style="font-size: 12px;">Crônica</a>
+<a href="http://www2.carosouvintes.org.br/tag/curitiba/" class="tag-cloud-link tag-link-525 tag-link-position-8" style="font-size: 12px;">curitiba</a>
+<a href="http://www2.carosouvintes.org.br/tag/deivison-pereira/" class="tag-cloud-link tag-link-6944 tag-link-position-9" style="font-size: 12px;">Deivison Pereira</a>
+<a href="http://www2.carosouvintes.org.br/tag/destaque/" class="tag-cloud-link tag-link-7169 tag-link-position-10" style="font-size: 12px;">Destaque</a>
+<a href="http://www2.carosouvintes.org.br/tag/esporte/" class="tag-cloud-link tag-link-744 tag-link-position-11" style="font-size: 12px;">esporte</a>
+<a href="http://www2.carosouvintes.org.br/tag/ethevaldo-siqueira/" class="tag-cloud-link tag-link-1741 tag-link-position-12" style="font-size: 12px;">Ethevaldo Siqueira</a>
+<a href="http://www2.carosouvintes.org.br/tag/florianopolis/" class="tag-cloud-link tag-link-435 tag-link-position-13" style="font-size: 12px;">Florianópolis</a>
+<a href="http://www2.carosouvintes.org.br/tag/foto/" class="tag-cloud-link tag-link-1367 tag-link-position-14" style="font-size: 12px;">foto</a>
+<a href="http://www2.carosouvintes.org.br/tag/futebol/" class="tag-cloud-link tag-link-133 tag-link-position-15" style="font-size: 12px;">futebol</a>
+<a href="http://www2.carosouvintes.org.br/tag/gente/" class="tag-cloud-link tag-link-100 tag-link-position-16" style="font-size: 12px;">gente</a>
+<a href="http://www2.carosouvintes.org.br/tag/historia/" class="tag-cloud-link tag-link-280 tag-link-position-17" style="font-size: 12px;">História</a>
+<a href="http://www2.carosouvintes.org.br/tag/humor/" class="tag-cloud-link tag-link-18 tag-link-position-18" style="font-size: 12px;">humor</a>
+<a href="http://www2.carosouvintes.org.br/tag/internet/" class="tag-cloud-link tag-link-392 tag-link-position-19" style="font-size: 12px;">internet</a>
+<a href="http://www2.carosouvintes.org.br/tag/jornalismo/" class="tag-cloud-link tag-link-207 tag-link-position-20" style="font-size: 12px;">jornalismo</a>
+<a href="http://www2.carosouvintes.org.br/tag/jornalista/" class="tag-cloud-link tag-link-1109 tag-link-position-21" style="font-size: 12px;">jornalista</a>
+<a href="http://www2.carosouvintes.org.br/tag/literatura/" class="tag-cloud-link tag-link-9952 tag-link-position-22" style="font-size: 12px;">Literatura</a>
+<a href="http://www2.carosouvintes.org.br/tag/livro/" class="tag-cloud-link tag-link-144 tag-link-position-23" style="font-size: 12px;">livro</a>
+<a href="http://www2.carosouvintes.org.br/tag/locutor/" class="tag-cloud-link tag-link-104 tag-link-position-24" style="font-size: 12px;">locutor</a>
+<a href="http://www2.carosouvintes.org.br/tag/mundo-digital/" class="tag-cloud-link tag-link-3249 tag-link-position-25" style="font-size: 12px;">Mundo Digital</a>
+<a href="http://www2.carosouvintes.org.br/tag/midia/" class="tag-cloud-link tag-link-54 tag-link-position-26" style="font-size: 12px;">mídia</a>
+<a href="http://www2.carosouvintes.org.br/tag/midia-caros-ouvintes/" class="tag-cloud-link tag-link-1886 tag-link-position-27" style="font-size: 12px;">mídia</a>
+<a href="http://www2.carosouvintes.org.br/tag/musica/" class="tag-cloud-link tag-link-1009 tag-link-position-28" style="font-size: 12px;">música</a>
+<a href="http://www2.carosouvintes.org.br/tag/na-cadeira-do-barbeiro/" class="tag-cloud-link tag-link-6878 tag-link-position-29" style="font-size: 12px;">Na cadeira do barbeiro</a>
+<a href="http://www2.carosouvintes.org.br/tag/ondas-curtas/" class="tag-cloud-link tag-link-398 tag-link-position-30" style="font-size: 12px;">Ondas Curtas</a>
+<a href="http://www2.carosouvintes.org.br/tag/onu/" class="tag-cloud-link tag-link-509 tag-link-position-31" style="font-size: 12px;">ONU</a>
+<a href="http://www2.carosouvintes.org.br/tag/pesquisa-caros-ouvintes/" class="tag-cloud-link tag-link-793 tag-link-position-32" style="font-size: 12px;">pesquisa</a>
+<a href="http://www2.carosouvintes.org.br/tag/pesquisa/" class="tag-cloud-link tag-link-676 tag-link-position-33" style="font-size: 12px;">pesquisa</a>
+<a href="http://www2.carosouvintes.org.br/tag/publicidade-caros-ouvintes/" class="tag-cloud-link tag-link-1102 tag-link-position-34" style="font-size: 12px;">publicidade</a>
+<a href="http://www2.carosouvintes.org.br/tag/publicidade/" class="tag-cloud-link tag-link-232 tag-link-position-35" style="font-size: 12px;">publicidade</a>
+<a href="http://www2.carosouvintes.org.br/tag/radialista/" class="tag-cloud-link tag-link-328 tag-link-position-36" style="font-size: 12px;">radialista</a>
+<a href="http://www2.carosouvintes.org.br/tag/radiodifusao/" class="tag-cloud-link tag-link-105 tag-link-position-37" style="font-size: 12px;">radiodifusão</a>
+<a href="http://www2.carosouvintes.org.br/tag/revista/" class="tag-cloud-link tag-link-19 tag-link-position-38" style="font-size: 12px;">Revista</a>
+<a href="http://www2.carosouvintes.org.br/tag/radio-catarinense/" class="tag-cloud-link tag-link-9948 tag-link-position-39" style="font-size: 12px;">Rádio Catarinense</a>
+<a href="http://www2.carosouvintes.org.br/tag/radio/" class="tag-cloud-link tag-link-98 tag-link-position-40" style="font-size: 12px;">Rádio Catarinense</a>
+<a href="http://www2.carosouvintes.org.br/tag/radio-guaruja/" class="tag-cloud-link tag-link-1316 tag-link-position-41" style="font-size: 12px;">Rádio Guarujá</a>
+<a href="http://www2.carosouvintes.org.br/tag/sc/" class="tag-cloud-link tag-link-774 tag-link-position-42" style="font-size: 12px;">sc</a>
+<a href="http://www2.carosouvintes.org.br/tag/tecnologia/" class="tag-cloud-link tag-link-108 tag-link-position-43" style="font-size: 12px;">tecnologia</a>
+<a href="http://www2.carosouvintes.org.br/tag/televisao/" class="tag-cloud-link tag-link-9944 tag-link-position-44" style="font-size: 12px;">Televisão</a>
+<a href="http://www2.carosouvintes.org.br/tag/tv/" class="tag-cloud-link tag-link-325 tag-link-position-45" style="font-size: 12px;">tv</a></div></div></div></section>
+                    </div>
+
+				<!--end content-->
+				</main>
+
+				<aside class='sidebar sidebar_right  alpha units'  role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" ><div class='inner_sidebar extralight-border'><section id="simple_ads_manager_ad_widget-3" class="widget clearfix simple_ads_manager_ad_widget"><div id='c3905_12_5' class='sam-container sam-ad'><a  id='a3905_12' class='sam_ad' href='http://www2.carosouvintes.org.br/download-e-book-astros-e-estrelas-da-midia-catarinense-volume-1/' target='_blank' ><img src='http://www2.carosouvintes.org.br/wp-content/uploads/cta-250-ebook-1.png'  alt='e-book Astros e Estrelas da Mídia SC'  /></a></div><span class="seperator extralight-border"></span></section><BR/><div id='c2614_2_6' class='sam-container sam-ad'><a  id='a2614_2' class='sam_ad' href='http://unetvale.com.br/' target='_blank' ><img src='http://www.carosouvintes.org.br/blog/wp-content/uploads/BANNER-UNETVALE.png'  alt='Unetvale'  /></a></div><br/><div id='c4597_7_7' class='sam-container sam-ad'><a  id='a4597_7' class='sam_ad' href='http://www.exatacon.com.br/' target='_blank' ><img src='http://www.carosouvintes.org.br/blog/wp-content/plugins/sam-images/banner-exata-contabilidade.png'  alt='Exata Contabilidade'  /></a></div><BR/><div id='c1555_13_6' class='sam-container sam-ad'><a  id='a1555_13' class='sam_ad' href='https://goo.gl/x9yRwk' target='_blank' ><img src='http://www.carosouvintes.org.br/blog/wp-content/uploads/infomidia-marketing-digital.png'  alt='Infomídia Comunicação e Marketing Digital'  /></a></div><section id="execphp-3" class="widget clearfix widget_execphp">			<div class="execphpwidget">	<a href="http://www.carosouvintes.org.br/categoria/memoria/astros-e-estrelas/"><h2>Astros e Estrelas em Destaque</h2></a><br/>
+   <a href="http://www2.carosouvintes.org.br/so-para-falar-de-la-barca/" title="Só para falar de &#8220;La Barca&#8221;&#8230;" >
+   <img width="108" height="134" src="http://www2.carosouvintes.org.br/wp-content/uploads/roberto_cantoral.jpg" class="attachment-250x250 size-250x250 colorbox-4646  wp-post-image" alt="" srcset="http://www2.carosouvintes.org.br/wp-content/uploads/roberto_cantoral.jpg 108w, http://www2.carosouvintes.org.br/wp-content/uploads/roberto_cantoral-89x111.jpg 89w" sizes="(max-width: 108px) 100vw, 108px" />   </a>
+     <h3><a href="http://www2.carosouvintes.org.br/so-para-falar-de-la-barca/" rel="bookmark" title="Permanent Link to Só para falar de &#8220;La Barca&#8221;&#8230;">Só para falar de &#8220;La Barca&#8221;&#8230;</a></h3>
+</div>
+		<span class="seperator extralight-border"></span></section><section id="avia_fb_likebox-2" class="widget clearfix avia_fb_likebox"><div class='av_facebook_widget_wrap ' ><div class="fb-page" data-width="500" data-href="https://www.facebook.com/institutocarosouvintes/?fref=ts" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"></div></div></div><span class="seperator extralight-border"></span></section></div></aside>
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+
+
+						<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_fourth  first el_before_av_one_fourth'><section id="text-2" class="widget clearfix widget_text"><h3 class="widgettitle">Caros Ouvintes</h3>			<div class="textwidget"><p>O Instituto Caros Ouvintes é uma instituição de utilidade pública dedicada à difusão dos aspectos históricos, culturais e sociais de interesse coletivo no âmbito da comunicação social em Santa Catarina.  <a href="http://www2.carosouvintes.org.br/instituto/">Saiba mais.</a></p>
+</div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="nav_menu-3" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Instituto</h3><div class="menu-institucional-rodape-container"><ul id="menu-institucional-rodape" class="menu"><li id="menu-item-62627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62627"><a href="http://www2.carosouvintes.org.br/quero-participar-mantenedor/">Quero Participar</a></li>
+<li id="menu-item-44638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44638"><a href="http://www2.carosouvintes.org.br/instituto/diretoria-e-conselhos/">Diretoria e Conselhos</a></li>
+<li id="menu-item-44476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44476"><a href="http://www2.carosouvintes.org.br/instituto/equipe/">Equipe</a></li>
+<li id="menu-item-44473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44473"><a href="http://www2.carosouvintes.org.br/contato/">Contato</a></li>
+<li id="menu-item-60107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60107"><a href="http://www.carosouvintes.org.br/blog/wp-content/uploads/midia-kit-abril-2016.pdf">Anuncie</a></li>
+</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="nav_menu-5" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Matérias</h3><div class="menu-conteudo-rodape-container"><ul id="menu-conteudo-rodape" class="menu"><li id="menu-item-44640" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44640"><a href="http://www2.carosouvintes.org.br/categoria/noticia/">Notícia</a></li>
+<li id="menu-item-44644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44644"><a href="http://www2.carosouvintes.org.br/categoria/memoria/">Memória</a></li>
+<li id="menu-item-44645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44645"><a href="http://www2.carosouvintes.org.br/categoria/memoria/astros-e-estrelas/">Astros e Estrelas</a></li>
+<li id="menu-item-44643" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44643"><a href="http://www2.carosouvintes.org.br/categoria/academidia/">Academídia</a></li>
+<li id="menu-item-44641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44641"><a href="http://www2.carosouvintes.org.br/categoria/audioteca/">Audioteca</a></li>
+</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="avia_fb_likebox-4" class="widget clearfix avia_fb_likebox"><div class='av_facebook_widget_wrap ' ><div class="fb-page" data-width="500" data-href="https://www.facebook.com/institutocarosouvintes/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"></div></div></div><span class="seperator extralight-border"></span></section></div>
+
+					</div>
+
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+
+			
+
+			
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>&copy; Copyright  - <a href='http://www2.carosouvintes.org.br/'>Caros Ouvintes</a></span>
+
+                        
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'http://www2.carosouvintes.org.br/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'http://www2.carosouvintes.org.br/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'http://www2.carosouvintes.org.br/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ 
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));</script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www2.carosouvintes.org.br\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Verifique se voc\u00ea n\u00e3o \u00e9 um rob\u00f4."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/themes/enfold/js/avia.js?ver=3'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/themes/enfold/js/shortcodes.js?ver=3'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"pt-BR","strings":{"Close":"Fechar","Fullscreen":"Tela inteira","Turn off Fullscreen":"Desativar tela cheia","Go Fullscreen":"Tela cheia","Download File":"Fazer download do arquivo","Download Video":"Fazer download do v\u00eddeo","Play":"Reproduzir","Pause":"Pausar","Captions\/Subtitles":"Transcri\u00e7\u00f5es\/Legendas","None":"Nenhum","Time Slider":"Tempo do slider","Skip back %1 seconds":"Retroceder %1 segundos","Video Player":"Tocador de v\u00eddeo","Audio Player":"Tocador de \u00e1udio","Volume Slider":"Controle de volume","Mute Toggle":"Alternar mudo","Unmute":"Desativar mudo","Mute":"Mudo","Use Up\/Down Arrow keys to increase or decrease volume.":"Use as setas para cima ou para baixo para aumentar ou diminuir o volume.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Use as setas esquerda e direita para avan\u00e7ar um segundo. Acima e abaixo para avan\u00e7ar dez segundos."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=d05f105036728cf907a9f00c17abafe0'></script>
+<script type='text/javascript' src='http://www2.carosouvintes.org.br/wp-includes/js/wp-embed.min.js?ver=d05f105036728cf907a9f00c17abafe0'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=425437367568259&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.8&appId=408595506166424";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>

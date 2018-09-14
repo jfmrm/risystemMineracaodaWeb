@@ -1,0 +1,504 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+	<head>
+		<!-- Titulo -->
+		<title>Obesidade. Os riscos da obesidade - Escola Kids </title>
+		
+
+		<!-- MetaTags -->
+		<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+
+		<meta name="keywords" content="obesidade,  riscos da obesidade, tratamento da obesidade., kids, crian�as, infantil, conte�do infantil, conte�do para crian�as." />
+		<meta name="description" content="Descubra por que a obesidade é um problema sério de saúde e merece atenção." />
+		<meta name="robots" content="index,follow" />
+		<meta name="language" content="pt-br" />
+		<meta name="google-site-verification" content="0WoOy3NuFNYqQmV_wiQjJoeUeudOTNZl9NlxtCgDd4Y" />
+
+		<link rel="canonical" href="http://escolakids.uol.com.br/obesidade.htm" />        <link rel="amphtml" href="http://m.escolakids.uol.com.br/amp/obesidade.htm" />		
+	<link rel="shortcut icon" href="https://escolakids.uol.com.br/favicon.ico" type="image/x-icon" />
+		<meta name="msvalidate.01" content="C2CD85AEBB9C888CD5D274AF969351A4" />
+
+		<!-- JavaScript2 -->
+		<script type="text/javascript" src="https://escolakids.uol.com.br/public/script/js/jquery.min.js"></script>
+		<script type="text/javascript" src="https://escolakids.uol.com.br/public/script/js/jquery.corner.min.js"></script>
+		<script type="text/javascript" src="https://escolakids.uol.com.br/public/script/js/geral.min.js?v=6"></script>
+		<script type="text/javascript" src="https://escolakids.uol.com.br/public/script/js/jquery.sCaption.min.js"></script>
+		<script type="text/javascript" src="https://escolakids.uol.com.br/public/script/js/jQuery.equalHeights.min.js"></script>
+
+					<script type="text/javascript" src="https://escolakids.uol.com.br/public/script/js/highslide/highslide-with-html.min.js"></script>
+			<link rel="stylesheet" type="text/css" href="https://escolakids.uol.com.br/public/script/js/highslide/highslide.min.css" />
+
+			<script type="text/javascript">
+				hs.graphicsDir = 'https://escolakids.uol.com.br/public/script/js/highslide/graphics/';
+				hs.outlineType = 'rounded-white';
+				hs.wrapperClassName = 'draggable-header';
+			</script>
+		
+		<!-- CSS -->
+		<style type="text/css">
+			@import url(https://escolakids.uol.com.br/public/style/layout.min.css?v=11);
+
+					</style>		
+
+
+		<!--[if IE]>
+		<style type="text/css">
+			@import url(https://escolakids.uol.com.br/public/style/ie.min.css);
+		</style>
+		<![endif]-->
+		<META NAME="ROBOTS" CONTENT="NOODP" />
+		
+		<meta property="og:locale" content="pt_BR" />
+		<meta property="og:title" content="Obesidade. Os riscos da obesidade - Escola Kids" />
+					<meta property="og:description" content="Descubra por que a obesidade é um problema sério de saúde e merece atenção." />
+				
+					<meta property="og:url" content="http://escolakids.uol.com.br/obesidade.htm" />		
+				<meta property="og:site_name" content="Escola Kids" />
+		
+					<meta property="og:image" content="https://escolakids.uol.com.br/public/images/legenda/f52ec3baffeafef61566e2328b9c7159.jpg" />
+		
+		
+			<!--  UOL TAG MANAGER -->
+			<script type="text/javascript">
+				window.universal_variable = window.universal_variable || {};
+				window.universal_variable.dfp = {
+					   "custom_params" : {
+							"subchan" : ""
+						}
+				}
+				window.uolads = window.uolads || [];
+				(function() {
+					var scr = document.createElement("script");
+						scr.async = true;
+						scr.src = "//tm.jsuol.com.br/uoltm.js?id=fnht1u";
+					var el = document.getElementsByTagName("script")[0];
+						el.parentNode.insertBefore(scr, el);
+				})();
+			</script>
+			<!--  End UOL Tag Manager -->
+			
+				
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11284411-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-11284411-1');
+		</script>
+		
+	
+	</head>
+	<body>
+<div id="conteudo-completo">
+<div id="geraltopo">
+	<div id="superbanner">
+		<div id="dvsb">
+
+			<div style='height:90px; width:728px;'>
+                
+                <!-- 728x90 - 1 - UOL AD -->
+                <div id="banner-728x90-area">
+                    
+                        <script>
+                            window.uolads && window.uolads.push({ id: "banner-728x90-area" });
+                        </script>
+                    
+                </div>
+                
+            </div>
+
+		</div>
+	</div> <!-- fim superbanner -->
+
+	<div id="cabeca">
+
+		<h1><a href="https://escolakids.uol.com.br/" title="Escola Kids">Escola Kids</a></h1>
+
+		<form class="buscar" action="https://escolakids.uol.com.br/buscar/" id="cse-search-box">
+			<fieldset>
+				<legend>Pesquisa</legend>
+
+				<input type="hidden" name="cx" value="010178560479257371445:ypyfp8mkmny" />
+				<input type="hidden" name="cof" value="FORID:10" />
+				<input type="hidden" name="ie" value="ISO-8859-1" />
+				<input class="campo" type="text" value="Digite aqui e procure no site" name="q" onclick="this.value = ''" />
+
+				<input class="bt" type="image" src="https://escolakids.uol.com.br/public/images/layout/bt_buscar.jpg" />
+			</fieldset>
+		</form>
+
+		<ul class="menutopo">
+			<li><a href="https://escolakids.uol.com.br/ciencias/" title="Ci&ecirc;ncias">Ci&ecirc;ncias</a></li>
+			<li><a href="https://escolakids.uol.com.br/geografia/" title="Geografia">Geografia</a></li>
+			<li><a href="https://escolakids.uol.com.br/historia/" title="Hist&oacute;ria">Hist&oacute;ria</a></li>
+			<li><a href="https://escolakids.uol.com.br/portugues/" title="Portugu&ecirc;s">Portugu&ecirc;s</a></li>
+			<li><a href="https://escolakids.uol.com.br/matematica/" title="Matem&aacute;tica">Matem&aacute;tica</a></li>
+			<li><a href="https://escolakids.uol.com.br/datas-comemorativas/" title="Datas-Comemorativas">Datas-Comemorativas</a></li>
+			<li><a href="https://escolakids.uol.com.br/jogos/" title="Jogos">Jogos</a></li>
+			<li><a href="https://escolakids.uol.com.br/para-pintar/" title="Para Pintar">Para Pintar</a></li>
+			<li><a href="https://escolakids.uol.com.br/historias/" title="Hist&oacute;rias">Hist&oacute;rias</a></li>
+		</ul>
+	</div>
+</div>
+<div id="geral">
+
+	<div id="centro">		
+
+		<!--[if IE]>
+		<div class="Borda">
+		<b class="b1" style="background:#D3D3D3"></b><b class="b2" style="background:#D3D3D3"></b><b class="b3" style="background:#D3D3D3"></b><b class="b4" style="background:#D3D3D3"></b>
+		<![endif]-->
+
+		<div id="conteudo">
+
+			<h2>Obesidade</h2>
+
+			<ul class="opcoes">
+				<li>
+					<a href="https://escolakids.uol.com.br/rss" title="Rss">
+						<img src="public/images/layout/rss.png" alt="Rss" title="Rss" />
+						<span>Rss</span>
+					</a>
+				</li>
+
+				<li>
+					<a href="javascript:;" onclick="starRater()" title="Avaliar">
+						<img src="public/images/layout/bt_avaliar.gif" alt="Avaliar" title="Avaliar" />
+						<span>Avaliar</span>
+					</a>
+				</li>
+								<!--
+				<li>
+					<a href="#" title="Comentar">
+						<img src="public/images/layout/bt_comentar.gif" alt="Comentar" title="Comentar" />
+						<span>Comentar</span>
+					</a>
+				</li>
+				-->
+				<li>
+					<a href="javascript:;" onclick="window.print();" title="Imprimir">
+						<img src="public/images/layout/bt_imprimir.gif" alt="Imprimir" title="Imprimir" />
+						<span>Imprimir</span>
+					</a>
+				</li>
+			</ul>
+
+			<div>
+				<ul class="star-rating">
+					<li class="current-rating" style="width:91.666666666667px;">Atualmente 3.6666666666667/5 Estrelas.</li>
+												<li><a href="javascript:;" onclick="avaliar('1', '1522')" title="1 estrela de 5" class="one-star">1</a></li>
+						<li><a href="javascript:;" onclick="avaliar('2', '1522')" title="2 estrelas de 5" class="two-stars">2</a></li>
+						<li><a href="javascript:;" onclick="avaliar('3', '1522')" title="3 estrelas de 5" class="three-stars">3</a></li>
+						<li><a href="javascript:;" onclick="avaliar('4', '1522')" title="4 estrelas de 5" class="four-stars">4</a></li>
+						<li><a href="javascript:;" onclick="avaliar('5', '1522')" title="5 estrelas de 5" class="five-stars">5</a></li>
+										</ul>
+
+			</div>
+
+
+			<div class="breadcrumb">
+				<ul>
+					<li><a href="https://escolakids.uol.com.br/" title="Escola Kids">Escola Kids</a> &raquo;</li>
+					<li><span>Obesidade</span></li>
+				</ul>
+			</div>
+
+							<div id="imagem">
+					<div class="quadro">
+						<div class="sCaptioned">
+							<img src="https://escolakids.uol.com.br/public/images/legenda/f52ec3baffeafef61566e2328b9c7159.jpg" alt="Obesidade" title="Obesidade" />
+							<span>Uma alimentação balanceada pode ser a chave para ter o corpo saudável</span>
+						</div>
+					</div>
+				</div>
+			
+			
+				<script type="text/javascript">
+					$(window).load(function() {
+						$('.sCaptioned').sCaption();
+					});
+				</script>
+			
+			<div id="showTexto">
+                <div class="artigo-autores">
+                Por Vanessa Sardinha dos Santos
+                </div>
+				
+                <div style="background-color: #f8f8f8; width: 320px; height: 300px; margin: 0 20px 20px 0; float: left;">
+					<span style="margin-bottom: 3px; display: table; font-weight: bold; color: #666666; margin-top: 10px; margin-left: 10px; font-size: 7pt;">
+						PUBLICIDADE
+					</span>
+					<div style='width:300px; height:250px; margin-left: 10px;'>
+						
+							<!-- 300x250 - 1 - UOL AD -->
+                            <div id="banner-300x250-area">
+                                <script>
+                                    window.uolads && window.uolads.push({ id: "banner-300x250-area" });
+                                </script>
+                            </div>
+						
+					</div>
+				</div>
+
+				<p align="JUSTIFY" class="western" style="border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><font color="#ff66ff"><b>A sociedade mudou e, com ela, os nossos h&aacute;bitos de vida. Entretanto, essa mudan&ccedil;a n&atilde;o foi ben&eacute;fica para o nosso corpo. </b>As crian&ccedil;as, por exemplo, quase n&atilde;o praticam atividades f&iacute;sicas, ficando grande parte do tempo em seus computadores e <i>smartphones</i>. A alimenta&ccedil;&atilde;o tamb&eacute;m perdeu qualidade, sendo baseada, na maioria das vezes, em <i>fast-food</i> e produtos industrializados.</font></p>
+
+<p align="JUSTIFY" class="western" style="border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><font color="#000066"><b>A consequ&ecirc;ncia dessas atitudes &eacute; o crescente aumento da obesidade na popula&ccedil;&atilde;o, inclusive em crian&ccedil;as. </b>Estima-se que, no Brasil, cerca de 52% da popula&ccedil;&atilde;o esteja acima do peso e 11% sejam obsesos. </font></p>
+
+<p align="JUSTIFY" class="western" style=" border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><font color="#cc0066">A obesidade caracteriza-se pelo aumento de gordura no corpo e pode ser desencadeada por fatores gen&eacute;ticos ou pelo desequil&iacute;brio entre a quantidade de alimento ingerida e o gasto de energia daquele indiv&iacute;duo. Esse &uacute;ltimo fator &eacute; o mais comum.</font></p>
+
+<p align="JUSTIFY" class="western" style="border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><font color="#009900">A obesidade est&aacute; relacionada com s&eacute;rios problemas de sa&uacute;de, tais como acidentes vasculares encef&aacute;licos (derrame), aumento da press&atilde;o arterial, diabetes, aterosclerose, c&acirc;nceres, problemas pulmonares, problemas ortop&eacute;dicos, entre outros. <b>Segundo o Minist&eacute;rio da Sa&uacute;de, cerca de 80 mil mortes poderiam ser evitadas se as pessoas n&atilde;o estivessem obesas.</b></font></p>
+
+<p align="JUSTIFY" class="western" style="border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><font color="#9966cc">Para saber se um indiv&iacute;duo est&aacute; obeso, &eacute; poss&iacute;vel realizar um c&aacute;lculo relativamente simples: o <b>&Iacute;ndice de Massa Corp&oacute;rea (<a href="https://escolakids.uol.com.br/calculo-do-indice-de-massa-corporal-imc.htm">IMC</a>)</b>. A partir desse c&aacute;lculo, que &eacute; feito dividindo-se o peso de um indiv&iacute;duo em quilos pela sua altura em metros ao quadrado, &eacute; poss&iacute;vel determinar se a pessoa est&aacute; ou n&atilde;o com sobrepeso. </font></p>
+
+<p align="JUSTIFY" class="western" style=" border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><font color="#cc0066">De acordo com os valores de refer&ecirc;ncia, quando o IMC &eacute; maior que 25, o indiv&iacute;duo encontra-se com sobrepeso. Caso os valores sejam maiores que 30, o paciente est&aacute; obeso e, consequentemente, apresenta maiores riscos de desenvolver doen&ccedil;as card&iacute;acas, diabetes e hipertens&atilde;o.</font></p>
+
+<p class="western" style="border-left-style: none; border-right-style: none; padding: 0cm 0cm 0.04cm; text-align: center;"><span style="font-size:11px;"><img alt="A atividade física é fundamental para reverter o quadro de obesidade" src="https://escolakids.uol.com.br/public/upload/image/atividade-fisica.jpg" style="width: 380px; height: 254px;" title="Atividade física" /><br />
+A atividade f&iacute;sica &eacute; fundamental para reverter o quadro de obesidade</span></p>
+
+<p align="JUSTIFY" class="western" style=" border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><font color="#ff420e"><b>Vale destacar, no entanto, que o IMC n&atilde;o consegue diferenciar o que &eacute; massa magra (livre de gordura) do que &eacute; realmente massa gorda.</b> Sendo assim, pessoas com m&uacute;sculos desenvolvidos, por exemplo, poderiam ser consideradas obesas. Podemos concluir, portanto, que o c&aacute;lculo do IMC deve ser acompanhado da avalia&ccedil;&atilde;o de outros fatores.</font></p>
+
+<p align="JUSTIFY" class="western" style=" border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><font color="#004586">A obesidade &eacute; uma doen&ccedil;a grave e deve ser tratada de maneira efetiva. Normalmente o problema pode ser resolvido de tr&ecirc;s maneiras diferentes: <b>realiza&ccedil;&atilde;o de dieta, medicamentos e cirurgia.</b> O m&eacute;todo escolhido depende muito do estado de sa&uacute;de de cada pessoa. Vale destacar que, para que ocorra o sucesso do tratamento, &eacute; fundamental que o paciente tenha em mente que esse problema pode lhe trazer consequ&ecirc;ncias graves, podendo at&eacute; mesmo lev&aacute;-lo &agrave; morte, e que as mudan&ccedil;as no estilo de vida devem ser permanentes.</font></p>
+
+<p align="JUSTIFY" class="western" style=" border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><u><b>Aten&ccedil;&atilde;o:</b></u><font color="#9900ff"> Se voc&ecirc; acha que est&aacute; acima do peso, procure seu m&eacute;dico e consulte um nutricionista. Somente esses profissionais s&atilde;o capazes de avaliar o caso e indicar formas para melhorar a sa&uacute;de. Realizar dietas sem recomenda&ccedil;&atilde;o pode piorar o quadro e desencadear outros problemas. <b>Fique atento!</b></font></p>
+
+<p align="JUSTIFY" class="western" style=" border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.04cm; padding-left: 0cm; padding-right: 0cm; "><br />
+Por Ma. Vanessa dos Santos</p>
+
+
+				<div id="avaliacao" style="float:none">
+					<span>Avalia&ccedil;&atilde;o</span>
+											<p>7.3</p>
+									</div>
+
+
+				<div style="margin:20px -20px 20px -20px; width:auto; height:250px">
+					<div style="width:300px; height:250px; float:left">
+						<div style='width:300px; height:250px;'>
+							
+								<!-- 300x250 - 2 - UOL AD -->
+                                <div id="banner-300x250-2-area">
+                                    <script>
+                                        window.uolads && window.uolads.push({ id: "banner-300x250-2-area" });
+                                    </script>
+                                </div>
+							
+						</div>
+					</div>
+				</div>
+
+			</div>
+			
+ 			
+			
+				<div id="bloco-native-rodape"></div>
+			
+			
+			<ul id="result"></ul>		
+
+							<div id="relacao">
+					<h3>Assuntos Relacionados</h3>
+
+					<div class="materia">
+						<ul>
+															<li>
+								<a href="https://escolakids.uol.com.br/anorexia-e-bulimia.htm" title="Anorexia e Bulimia"><img src="https://escolakids.uol.com.br/public/script/php/img-materia.php?arquivo=65044ff43452fbd1ed0cf0132e596a45.jpg" alt="Anorexia e Bulimia" title="Anorexia e Bulimia" /></a>
+								<span>Anorexia e Bulimia</span>
+								<a href="https://escolakids.uol.com.br/anorexia-e-bulimia.htm" title="Anorexia e Bulimia">Entenda o que é a anorexia e a bulimia e por que esses transtornos podem levar à morte.</a>
+							</li>
+														<li>
+								<a href="https://escolakids.uol.com.br/atividades-fisicas.htm" title="Atividades físicas"><img src="https://escolakids.uol.com.br/public/script/php/img-materia.php?arquivo=31f297149de245718c84ee569bc89cf1.jpg" alt="Atividades físicas" title="Atividades físicas" /></a>
+								<span>Atividades físicas</span>
+								<a href="https://escolakids.uol.com.br/atividades-fisicas.htm" title="Atividades físicas">Por que as atividades físicas são tão importantes para a nossa saúde? Clique aqui e descubra!</a>
+							</li>
+														<li>
+								<a href="https://escolakids.uol.com.br/calculo-do-indice-de-massa-corporal-imc.htm" title="Cálculo do índice de massa corporal (IMC)"><img src="https://escolakids.uol.com.br/public/script/php/img-materia.php?arquivo=d8b39f1f7f0718f1a3f1474f0c3d4e36.jpg" alt="Cálculo do índice de massa corporal (IMC)" title="Cálculo do índice de massa corporal (IMC)" /></a>
+								<span>Cálculo do índice de massa corporal (IMC)</span>
+								<a href="https://escolakids.uol.com.br/calculo-do-indice-de-massa-corporal-imc.htm" title="Cálculo do índice de massa corporal (IMC)">Aprenda a calcular seu índice de massa corporal e saiba se você está como o peso ideal.</a>
+							</li>
+												</ul>
+					</div>
+				</div>
+					
+
+	</div>
+
+	<!--[if IE]>
+	<b class="b4"></b><b class="b3"></b><b class="b2"></b><b class="b1"></b>
+	</div>
+	<![endif]-->
+
+</div> <!-- fim centro -->
+
+<div id="lateral">
+    
+    
+        
+            <!--Artigo-->
+        <div style="width: 300px; height: 2100px;">
+            <div id="pub-flutuante-1" style="width:300px; height:600px;">
+                
+                <!-- 300x600 - 1 - UOL AD -->
+                <div id="banner-300x600-area">
+                    <script>
+                        window.uolads && window.uolads.push({ id: "banner-300x600-area" });
+                    </script>
+                </div>
+                
+            </div>
+        </div>
+        
+	<!--[if IE]>
+	<div class="Borda" style="margin:5px 0 10px 0">
+	<b class="b1" style="background:#D3D3D3"></b><b class="b2" style="background:#D3D3D3"></b><b class="b3" style="background:#D3D3D3"></b><b class="b4" style="background:#D3D3D3"></b>
+	<![endif]-->
+    
+    <div id="box_dir_social" style="margin: 10px 0 10px 0;">
+        <ul>
+            <li><a href="https://www.facebook.com/EscolaKids" target="_blank" title="Facebook"></a></li>
+            <li><a href="https://twitter.com/escolakids" target="_blank" title="Twitter"></a></li>
+            <li><a href="https://plus.google.com/+brasilescola/posts" target="_blank" title="G+"></a></li>
+            <li><a href="https://www.youtube.com/channel/UCsgHWN8lYveMUEWTDheTjZA" target="_blank" title="YouTube"></a></li>
+            <li><a href="http://instagram.com/brasilescolaoficial" target="_blank" title="Instagram"></a></li>
+        </ul>
+    </div>
+    
+        
+			<div id="ultimas-materias">
+			<h2>&Uacute;ltimas Mat&eacute;rias</h2>
+
+			<ul>
+															<li>
+							<a class="crop" href="https://escolakids.uol.com.br/maremoto.htm" title="Maremoto"><img src="https://escolakids.uol.com.br/public/script/php/img-materia.php?arquivo=338e4b7700dbbd11176867cd023097f1.jpg&amp;w=272&amp;h=106" alt="Maremoto" title="Maremoto" /></a>
+							<span>Maremoto</span>
+							<p><a href="https://escolakids.uol.com.br/maremoto.htm" title="Maremoto">Saiba mais sobre o fenômeno natural conhecido como maremoto e como ele é capaz de gerar ondas de proporções gigantescas e alto poder destrutivo. O conteúdo deste texto aborda as possíveis origens desse evento natural e suas consequências. Aprenda também características dos tsunamis, uma consequência do maremoto.</a></p>
+						</li>
+                    															<li>
+							<a class="crop" href="https://escolakids.uol.com.br/revolucao-sandinista.htm" title="Revolução Sandinista"><img src="https://escolakids.uol.com.br/public/script/php/img-materia.php?arquivo=0344ba34104deb3eb854f81662d6bec0.jpg&amp;w=272&amp;h=106" alt="Revolução Sandinista" title="Revolução Sandinista" /></a>
+							<span>Revolução Sandinista</span>
+							<p><a href="https://escolakids.uol.com.br/revolucao-sandinista.htm" title="Revolução Sandinista">Este texto do Escola Kids traz informações relevantes sobre o que ficou conhecido como Revolução Sandinista, acontecimento que ocorreu na Nicarágua. Essa revolução de caráter popular foi motivada pela luta contra a ditadura Somoza, que controlou o país durante mais de 40 anos. Saiba mais!</a></p>
+						</li>
+                    															<li>
+							<a class="crop" href="https://escolakids.uol.com.br/diabetes.htm" title="Diabetes"><img src="https://escolakids.uol.com.br/public/script/php/img-materia.php?arquivo=939bdce169129a2e6d83776b890e6996.jpg&amp;w=272&amp;h=106" alt="Diabetes" title="Diabetes" /></a>
+							<span>Diabetes</span>
+							<p><a href="https://escolakids.uol.com.br/diabetes.htm" title="Diabetes">Você já ouviu falar em diabetes? Clique aqui e aprenda mais sobre esse problema que afeta milhões de pessoas no Brasil e no mundo. Neste texto, explicaremos o que é diabetes, conheceremos os principais tipos de diabetes e falaremos a respeito do diagnóstico e do tratamento dessa grave doença.</a></p>
+						</li>
+                    																</ul>			
+		</div>
+	
+	<!--[if IE]>
+	<b class="b4"></b><b class="b3"></b><b class="b2"></b><b class="b1"></b>
+	</div>
+	<![endif]-->
+
+	<!-- Publicidade 300x250 -->
+
+
+	<!-- Div -->
+
+
+</div> <!-- fim lateral -->
+<div id="rodape">
+		
+	<div id="imgrodape">
+		<p>
+			<a href="https://escolakids.uol.com.br/" title="Escola Kids"><img src="https://escolakids.uol.com.br/public/images/layout/logo-escolakids.png" alt="Escola Kids" title="Escola Kids" /></a>
+		</p>
+	</div>
+	
+	<ul>
+		<li><a href="https://escolakids.uol.com.br/politica-privacidade/" title="Pol&iacute;tica de Privacidade">Pol&iacute;tica de Privacidade</a> | </li>
+		<li><a href="https://escolakids.uol.com.br/termos-uso/" title="Termos de Uso">Termos de Uso</a> | </li>
+		<li><a href="http://www.redeomnia.com/equipe/" title="Expediente" rel="nofollow" target="_blank">Expediente</a> | </li>
+		<li><a href="http://www.redeomnia.com/sobre-nos/" title="Quem Somos" rel="nofollow" target="_blank">Quem Somos</a> | </li>
+		<li><a href="http://redeomnia.com/portfolios/escola-kids/" title="Anuncie Aqui" rel="nofollow" target="_blank">Anuncie Aqui</a> | </li>
+		<li><a href="https://escolakids.uol.com.br/fale-conosco/" title="Fale Conosco">Fale Conosco</a></li>
+	</ul>
+        
+        <ul id="rodape-sites-irmaos">
+            <li><a target="_blank" href="//alunosonline.uol.com.br/" title="Alunos Online" style="display: block; margin-top: 6px;">Alunos Online</a> </li>
+		<li><a target="_blank" href="//biologianet.uol.com.br/" title="Biologia Net" style="display: block; margin-top: 6px;">Biologia Net</a> </li>
+		<li><a target="_blank" href="//brasilescola.uol.com.br/" title="Brasil Escola">Brasil<br/> Escola</a> </li>
+                <li><a target="_blank" href="//historiadomundo.uol.com.br/" title="História do Mundo">História do<br/> Mundo</a> </li>
+                <li><a target="_blank" href="//manualdaquimica.uol.com.br/" title="Manual da Química">Manual da<br/> Química</a> </li>
+                <li><a target="_blank" href="//mundoeducacao.bol.uol.com.br/" title="Mundo Educação" style="display: block; margin-top: 6px;">Mundo Educação</a> </li>
+		<li><a target="_blank" href="//portugues.uol.com.br/" title="Português" style="display: block; margin-top: 6px;">Português</a></li>
+	</ul>
+	
+	<p class="copyright">
+		Resolu&ccedil;&atilde;o m&iacute;nima de 1024x768. Copyright &copy; 2018 <a href="http://www.redeomnia.com" rel="nofollow" target="_blank" style="color: #d39300;">Rede Omnia</a> - Todos os direitos reservados.<br />
+		Proibida a reprodu&ccedil;&atilde;o total ou parcial sem pr&eacute;via autoriza&ccedil;&atilde;o (Inciso I do Artigo 29 Lei 9.610/98).
+	</p>
+	
+	
+	<div style="background: none;  height: 35px; width: 200px; position: relative; top: 150px; left: 820px;">
+
+	</div>
+	
+	
+	
+</div> <!-- fim rodape -->
+</div> <!-- fim geral -->
+</div>
+
+
+<div id="banner-1x1-3-area">
+    <script>
+        window.uolads && window.uolads.push({ id: "banner-1x1-3-area" });
+    </script>
+</div>
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6a5485b2c2","applicationID":"11277173","transactionName":"MwRWbRNYDEICUkFYXwpOYUsIFgtfB1RNH0AMEQ==","queueTime":0,"applicationTime":85,"atts":"H0NVG1tCH0w=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+
+<!--Player dynad-->
+<script>
+    var nBr = $("#showTexto br").length;
+    var nP = $("#showTexto p").length;
+
+    // caso o conteúdo esteja dentro de um só paragráfo.
+    if(nP > 6){
+        $($("#showTexto").find('p')[4]).before('<div class="player_dynad_tv"></div>');
+    // caso o conteúdo esteja dentro de vários paragráfos.
+    } else if(nBr > 2 && nP <= 6) {
+        $($("#showTexto").find('br')[4]).before('<div class="player_dynad_tv"></div>');
+    }
+</script>
+<!--Player dynad-->
+
+
+
+    <!--Banner flutuante-->
+    <script>
+        window.scrollTo(0, window.pageYOffset+1); // movendo 1 px para manter a posição do banner após refresh
+        $(window).scroll(function(event){
+            var y = $(window).scrollTop();
+
+            console.log(y);
+
+            var barra_uol = document.getElementById('barrauol');
+            var pub_h = 0;
+            var barra_h = 0;
+
+            if(barra_uol !== null){
+                barra_h = barra_uol.clientHeight;
+            }
+
+            // publicidade flutuante 1
+            if( y < (400+barra_h) ){
+                $("#pub-flutuante-1").css("position", "relative");
+                $("#pub-flutuante-1").css("top", "auto");
+            } else if( y > (400+barra_h) && y <= (1900+barra_h) ){
+                $("#pub-flutuante-1").css("position", "fixed");
+                $("#pub-flutuante-1").css("top", "5px");
+            } else if( y > (1900+barra_h) ){
+                $("#pub-flutuante-1").css("position", "relative");
+                $("#pub-flutuante-1").css("top", "1500px");
+            }
+        });
+    </script>
+    <!--Banner flutuante-->

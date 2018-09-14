@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="pt-br" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<script>
+    
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.mdsaude.com/wp-content/plugins/host-analyticsjs-local/cache/local-ga.js','ga');
+            window[ 'ga-disable-UA-3704650-2' ] = false;
+        ga('create', 'UA-3704650-2',
+        {
+            'cookieName':   'caosLocalGa',
+            'cookieDomain': 'www.mdsaude.com',
+            'cookieExpires':'0',
+        });
+        ga('set', 'displayFeaturesTask', null);
+            ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+        setTimeout("ga('send', 'event', 'adjusted bounce rate', '20 seconds')", 20000);
+    </script>
+<title>Página Não Encontrada &raquo; MD.Saúde</title>
+<style>@font-face {font-family: "sw-icon-font";src:url("https://www.mdsaude.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.3.1");src:url("https://www.mdsaude.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.3.1#iefix") format("embedded-opentype"),url("https://www.mdsaude.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=3.3.1") format("woff"),
+	url("https://www.mdsaude.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=3.3.1") format("truetype"),url("https://www.mdsaude.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=3.3.1#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+
+
+<meta name="robots" content="noindex,follow" />
+<link rel="publisher" href="https://plus.google.com/+PedroPinheiro" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Página Não Encontrada &raquo; MD.Saúde" />
+<meta property="og:site_name" content="MD.Saúde" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.mdsaude.com\/","sameAs":["https:\/\/www.facebook.com\/mdsaude","https:\/\/plus.google.com\/+PedroPinheiro","https:\/\/www.youtube.com\/channel\/UCNccY3N0vCqRlBcg-OOrzRA","https:\/\/twitter.com\/mdsaude"],"@id":"https:\/\/www.mdsaude.com\/#organization","name":"MD.SA\u00daDE","logo":"https:\/\/www.mdsaude.com\/wp-content\/uploads\/novo-logo-amp.png"}</script>
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":null,"name":"Erro 404: P\u00e1gina n\u00e3o encontrada"}}]}</script>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para MD.Saúde &raquo;" href="https://feeds.feedburner.com/mdsaude" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para MD.Saúde &raquo;" href="https://www.mdsaude.com/comments/feed" />
+<script>
+					advanced_ads_ready=function(){var fns=[],listener,doc=typeof document==="object"&&document,hack=doc&&doc.documentElement.doScroll,domContentLoaded="DOMContentLoaded",loaded=doc&&(hack?/^loaded|^c/:/^loaded|^i|^c/).test(doc.readyState);if(!loaded&&doc){listener=function(){doc.removeEventListener(domContentLoaded,listener);window.removeEventListener("load",listener);loaded=1;while(listener=fns.shift())listener()};doc.addEventListener(domContentLoaded,listener);window.addEventListener("load",listener)}return function(fn){loaded?setTimeout(fn,0):fns.push(fn)}}();
+			</script><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cookie-notice-front-css' href='https://www.mdsaude.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=6d222e267246e65834e5132a825e6561' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css' href='//www.mdsaude.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' type='text/css' media='all' />
+<style id='wpml-menu-item-0-inline-css' type='text/css'>
+.wpml-ls-menu-item .wpml-ls-flag { margin-right: 3px; }
+</style>
+<link rel='stylesheet' id='social_warfare-css' href='https://www.mdsaude.com/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='maitheme-google-fonts-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A400%7CRaleway%3A500%2C900&#038;ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mai-theme-engine-css' href='https://www.mdsaude.com/wp-content/plugins/mai-theme-engine/assets/css/mai-theme.min.css?ver=1.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='flexington-css' href='https://www.mdsaude.com/wp-content/plugins/mai-theme-engine/assets/css/flexington.min.css?ver=2.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css' href='https://www.mdsaude.com/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='a3a3_lazy_load-css' href='//www.mdsaude.com/wp-content/uploads/sass/a3_lazy_load.min.css?ver=1536860843' type='text/css' media='all' />
+<link rel='stylesheet' id='mai-lifestyle-pro-css' href='https://www.mdsaude.com/wp-content/themes/mai-lifestyle-pro/style.css?ver=1.1.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.mdsaude.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.js?ver=1.10.4'></script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/advanced-ads-pro/modules/click-fraud-protection/assets/js/cfp.min.js?ver=2.2.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/www.mdsaude.com\/wp-admin\/admin-ajax.php","lazy_load_module_enabled":"1","lazy_load":{"default_offset":300,"offsets":[]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/advanced-ads-pro/modules/cache-busting/inc/base.min.js?ver=2.2.1'></script>
+<link rel='https://api.w.org/' href='https://www.mdsaude.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mdsaude.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mdsaude.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WPML ver:4.0.6 stt:1,44,2;" />
+<script type="text/javascript">
+		;var advadsCfpQueue = [], advadsCfpExpHours = 3;
+		var advadsCfpClickLimit = 3;
+		;
+		var advadsCfpPath = '';
+		var advadsCfpDomain = 'www.mdsaude.com';
+		var advadsCfpAd = function( adID ){
+			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
+		};
+		</script><style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #3d3d3d !important; border-radius: 25px; color: #e9e9e9 !important; border: 0px #ffffff solid !important; font-size: 18px; padding: 9px; }  .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #2677bf !important; border-color: #ffffff !important; color: #ffffff !important; }  .simple-social-icons ul li a:focus { outline: 1px dotted #2677bf !important; }</style> <style type="text/css" id="wp-custom-css">
+			body {
+	background-color: #e9e9e9;
+}
+a {
+    color: #0000EE;
+}
+	.height-xs {
+    padding-top: calc(1rem + 1vw);
+    padding-bottom: calc(1rem + 1vw);
+}
+.banner-area .archive-title, .banner-area .author-box-title, .banner-area .entry-title, .heading, h1 {
+    font-family: 'raleway';
+	text-transform:uppercase;
+	margin-bottom:6px;
+}
+.author-box-title, .entry-comments h3, .comment-respond h3, .widget-title, .related > h2, .up-sells > h2 {
+    background: #3277ad;
+    padding: 10px;
+    margin-bottom: 25px;
+	color:#fff;
+		font-family: raleway;
+	font-weight: 900;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.banner-area .banner-title, .site-title a, th {
+    font-weight: 900;
+}
+.entry-content .button.alt, .woocommerce   {
+    background-color: #5a90be;
+    color: #ffffff;
+}
+.inner>.heading {
+    text-transform: inherit;
+}
+.text-md {
+    font-size: 17px;
+}
+.header-before {
+    background: #e9e9e9;
+}
+.site-header {
+    background-color: #e9e9e9;
+	border:none;
+}
+.home .nav-primary .current-menu-item>a, .nav-primary {
+    background-color: #3277ad;
+	text-transform:uppercase;
+	font-weight: 900;
+}
+.nav-primary a {
+    color: #ffffff;
+}
+.genesis-nav-menu a {
+    font-size: 17px;
+	font-weight: bold;
+}
+.nav-search::before {
+    content: "\1F50E";
+}
+.search.activated .nav-search::before {
+    content: "\1F50E";
+}
+.site-container:not(.boxed) .width-full {
+    margin-top: 5px;
+}
+h2 {
+    font-family: 'raleway';
+    font-weight: 900;
+	text-transform:uppercase;
+	font-size: 25px;
+	margin-bottom:15px;
+	color: #444;
+}
+h3 {
+    font-size: 19px;
+		color: #3277ad;
+		font-family: 'raleway';
+    font-weight: 900;
+	margin-bottom:20px;
+}
+h4 {
+    font-size: 19px;
+		color: #555;
+		font-family: 'raleway';
+    font-weight: 900;
+}
+.entry-title a {
+    font-family: raleway;
+    font-weight: 900;
+    font-size: 16px;
+}
+.flex-entry.boxed:not(.image-bg) a{
+	color:#333;
+	text-transform: uppercase;
+	font-size: 17px;
+}
+.sidebar .widget-title {
+    text-align: center;
+    font-family: raleway;
+    text-transform: uppercase;
+	padding: 10px;
+	    background: #3277ad;
+    color: #fff;
+}
+.sidebar .widget ul>li {
+    margin-bottom: 6px;
+    display: inherit;
+    border-bottom: 1px dotted #ddd;
+    padding: 8px 0;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 15px;
+    font-family: raleway;
+}
+.sidebar .widget.boxed, .sidebar.boxed {
+    padding: 20px;
+}
+.widget .entry-title {
+    font-size: 14px;
+	font-family: raleway;
+	text-transform: uppercase;
+}
+.flex-entry.boxed:not(.image-bg) a {
+    color: #555;
+}
+.flex-entry .entry-title, .flex-entry .woocommerce-loop-category__title, .flex-entry .woocommerce-loop-product__title {
+    line-height: 1;
+}
+.widget-title, .related > h2, .up-sells > h2 {
+    font-family: "raleway", serif;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.sidebar .widget ul>li a {
+    color: #555;
+}
+.footer-widgets>.wrap, .nav-primary>.wrap, .nav-secondary>.wrap, .section>.wrap, .site-footer>.wrap, .site-inner {
+    padding-left: 0;
+    padding-right: 0;
+}
+.wpml-ls-legacy-list-horizontal {
+    margin-right: 960px;
+}
+.simple-social-icons ul {
+    margin: 3px 0;
+}
+.gallery>.gallery-item, .row.gutter-30>.col {
+    margin-left: 30px;
+    background: #f7f7f7;
+}
+.menu-item.highlight a {
+	background: #444;
+	padding:10px 15px;
+}
+.menu-item.highlight a:hover {
+	background: #5a90be;
+}
+.site-footer {
+    background: #292929;
+	}
+.footer-widgets .widget-title, .footer-widgets .widgettitle, .footer-widgets a {
+    color: #fff;
+    background: #323232;
+}
+.mdsau-adlabel {
+    font-size: 13px;
+	color:#999;
+}
+.entry-footer .entry-meta {
+    margin: 10px 0 0;
+    padding: 0;
+}
+p.entry-meta {
+    color: #666;
+    margin-bottom: 20px;
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 20px;
+}
+.entry-content p {
+    word-break: break-word;
+}
+.mai-slider .slick-slide {
+    float: none;
+	background:#f7f7f7;
+}
+.slick-next, .slick-prev {
+    top: 102%;
+    width: 40px;
+    height: 40px;
+    background-color: #e7e7e7;
+}
+hr {
+    margin-bottom: 20px;
+	  border-top: 1px dotted #ccc;
+}
+.footer-widgets>.wrap, .nav-primary>.wrap, .nav-secondary>.wrap, .section>.wrap, .site-footer>.wrap, .site-inner {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+	.avatar {
+    border-radius: 50%;
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+@media only screen and (min-width: 769px) {
+.banner-area .banner-title, h1, h1.entry-title {
+    font-size: 38px;
+}
+	.site-title {
+    margin: -5px 0;
+}
+	.entry.boxed {
+    padding: 35px 60px;
+}
+	.author-box .avatar {
+    float: left;
+    margin-right: 24px;
+    margin-top: 67px;
+    max-width: 140px;
+}
+	.content-sidebar-wrap {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+	.sidebar .widget.boxed, .sidebar.boxed {
+    padding: 20px 30px;
+}
+	.site-container:not(.boxed) .width-full {
+    margin-top: 0px;
+}
+.site-header>.wrap {
+    margin-top:-8px;
+    margin-bottom: -4px;
+}
+	.shrink-header .site-header.shrink .site-title a {
+    margin-top: 12px;
+    margin-bottom: 13px;
+}
+}
+@media only screen and (max-width: 840px) {
+	.site-title {
+    margin: 3px;
+}
+	.site-title a {
+    display: inline-block;
+    font-size: 1.953rem;
+    line-height: 1.2;
+    margin: 5px 10px;
+}
+	.site-header>.wrap {
+    margin-bottom: 1px;
+}
+.banner-area .banner-title, h1, h1.entry-title {
+    font-size: 28px;
+	padding: 0 10px;
+}
+	.banner-area.section {
+    margin-bottom: -24px;
+}
+	h2 {
+	font-size: 24px;
+}
+	h3 {
+    font-size: 22px;
+}
+.inner {
+    padding: 25px 20px 10px;
+}
+	.author-box .avatar {
+    max-width: none;
+		float:none;
+}
+	.archive-description {
+    padding: 0 5px;
+		text-align:center;
+}
+	.footer-widgets>.wrap>.footer-widgets-wrap {
+    padding: 20px;
+}
+	.entry-content .button.alt, .woocommerce {
+    margin-top: 5px;
+}
+	
+}		</style>
+</head>
+<body class="error404 wp-custom-logo cookies-not-set header-full-width full-width-content no-js has-banner-area text-md no-sidebars" itemscope itemtype="https://schema.org/WebPage"> <script>
+		//<![CDATA[
+		( function() {
+			var c = document.body.classList;
+			c.remove( 'no-js' );
+			c.add( 'js' );
+		})();
+		//]]>
+	</script>
+<div class="site-container"><ul class="genesis-skip-link"><li><a href="#mai-toggle" class="screen-reader-shortcut"> Menu</a></li><li><a href="#genesis-nav-header-right" class="screen-reader-shortcut"> Skip to right header navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul><header class="site-header has-header-right" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="site-header-row row middle-xs between-xs"><div class="title-area col col-xs-auto start-xs"><p class="site-title" itemprop="headline"><a href="https://www.mdsaude.com/" class="custom-logo-link" rel="home" itemprop="url"><img width="240" height="120" src="https://www.mdsaude.com/wp-content/uploads/logo-vertical2.png" class="custom-logo" alt="Logo - MD.Saúde" itemprop="logo" /></a></p><p class="site-description screen-reader-text" itemprop="description">Site sobre saúde voltado para a população leiga.</p></div><div class="header-right col col-xs text-xs-right"><nav class="nav-header_right" id="genesis-nav-header-right"><ul id="menu-menu-principal" class="nav-header menu genesis-nav-menu js-superfish"><li id="menu-item-29586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29586"><a href="https://www.mdsaude.com/category/gravidez" itemprop="url"><span itemprop="name">Gravidez</span></a></li>
+<li id="menu-item-26545" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26545"><a href="https://www.mdsaude.com/category/drogas-e-remedios" itemprop="url"><span itemprop="name">Remédios</span></a></li>
+<li id="menu-item-30076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30076"><a href="https://www.mdsaude.com/category/endocrinologia/obesidade" itemprop="url"><span itemprop="name">Perder peso</span></a></li>
+<li id="menu-item-25694" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25694"><a href="https://www.mdsaude.com/category/sintomas" itemprop="url"><span itemprop="name">Sintomas</span></a></li>
+<li id="menu-item-31453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31453"><a href="https://www.youtube.com/channel/UCNccY3N0vCqRlBcg-OOrzRA" itemprop="url"><span itemprop="name">Vídeos</span></a></li>
+<li id="menu-item-31454" class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-31454"><a href="https://www.mdsaude.com/especialidades" itemprop="url"><span itemprop="name">Especialidades</span></a></li>
+<li id="menu-item-33025" class="search menu-item menu-item-type-custom menu-item-object-custom menu-item-33025"><a href="#" itemprop="url"><span itemprop="name">🔎</span></a></li>
+</ul></nav></div></div><div id="mai-menu" class="mai-menu"><div class="mai-menu-outer"><div class="mai-menu-inner"><form class="search-form" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" method="get" action="https://www.mdsaude.com/" role="search"><meta itemprop="target" content="https://www.mdsaude.com/?s={s}" /><label class="search-form-label screen-reader-text" for="searchform-5b9c00d3eb1166.96351726">Procure no MD.Saúde</label><input itemprop="query-input" type="search" name="s" id="searchform-5b9c00d3eb1166.96351726" placeholder="Procure no MD.Saúde &#x2026;" /><input type="submit" value="Procura" /></form><div class="menu-menu-principal-container"><ul id="menu-menu-principal-1" class="nav-header menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29586"><a href="https://www.mdsaude.com/category/gravidez" itemprop="url">Gravidez</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26545"><a href="https://www.mdsaude.com/category/drogas-e-remedios" itemprop="url">Remédios</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30076"><a href="https://www.mdsaude.com/category/endocrinologia/obesidade" itemprop="url">Perder peso</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25694"><a href="https://www.mdsaude.com/category/sintomas" itemprop="url">Sintomas</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31453"><a href="https://www.youtube.com/channel/UCNccY3N0vCqRlBcg-OOrzRA" itemprop="url">Vídeos</a></li>
+<li class="highlight menu-item menu-item-type-custom menu-item-object-custom menu-item-31454"><a href="https://www.mdsaude.com/especialidades" itemprop="url">Especialidades</a></li>
+<li class="search menu-item menu-item-type-custom menu-item-object-custom menu-item-33025"><a href="#" itemprop="url">🔎</a></li>
+</ul></div></div></div></div></div></header><section class="section banner-area width-full light-content" style="background-color: #3277ad;"><div class="wrap height-xs has-width-full center-xs text-xs-center text-lg"><div class="section-content width-full"><h1 class="banner-title">Not found, error 404</h1>
+</div></div></section><div class="site-inner"><div class="content-sidebar-wrap has-boxed-children"><main class="content content-no-sidebars" id="genesis-content"><article class="page type-page status-publish entry" itemscope="" itemtype="http://schema.org/CreativeWork"><div class="entry-content" itemprop="text"><p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-33152" src="https://www.mdsaude.com/wp-content/uploads/erro404.jpg" alt="Erro 404" width="1248" height="600" srcset="https://www.mdsaude.com/wp-content/uploads/erro404.jpg 1248w, https://www.mdsaude.com/wp-content/uploads/erro404-300x144.jpg 300w, https://www.mdsaude.com/wp-content/uploads/erro404-768x369.jpg 768w, https://www.mdsaude.com/wp-content/uploads/erro404-1024x492.jpg 1024w" sizes="(max-width: 1248px) 100vw, 1248px" /></p>
+<h2 style="text-align: center">Talvez, o texto que procura esteja em nossos arquivos:</h2>
+<div class="flex-grid"><div class="row gutter-30 center-xs middle-xs text-xs-center"><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/alergia-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/alergoimunologia" title="Alergia e Imunologia">Alergia e Imunologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/alergoimunologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Alergia e Imunologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/hta-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/drogas-e-remedios/anti-hipertensivos" title="Anti-hipertensivos">Anti-hipertensivos</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/drogas-e-remedios/anti-hipertensivos" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Anti-hipertensivos</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/aines-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/drogas-e-remedios/anti-inflamatorios" title="Anti-inflamatórios">Anti-inflamatórios</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/drogas-e-remedios/anti-inflamatorios" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Anti-inflamatórios</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/cardiologia-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/cardio" title="Cardiologia">Cardiologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/cardio" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Cardiologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/cirurgia-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/cirurgia-e-anestesia" title="Cirurgia e anestesia">Cirurgia e anestesia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/cirurgia-e-anestesia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Cirurgia e anestesia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/colesterol-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/cardio/colesterol" title="Colesterol">Colesterol</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/cardio/colesterol" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Colesterol</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/cti-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/cuidados-intensivos" title="Cuidados intensivos">Cuidados intensivos</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/cuidados-intensivos" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Cuidados intensivos</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/dermato-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/dermatologia" title="Dermatologia">Dermatologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/dermatologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Dermatologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/diabetes-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/endocrinologia/diabetes-mellitus" title="Diabetes Mellitus">Diabetes Mellitus</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/endocrinologia/diabetes-mellitus" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Diabetes Mellitus</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/coronaria-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/cardio/doenca-isquemica-cardiaca" title="Doença Coronariana">Doença Coronariana</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/cardio/doenca-isquemica-cardiaca" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Doença Coronariana</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/autoimune-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/doencas-autoimunes" title="Doenças autoimunes">Doenças autoimunes</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/doencas-autoimunes" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Doenças autoimunes</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/faringite-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/otorrinolaringologia/doencas-da-garganta" title="Doenças da garganta">Doenças da garganta</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/otorrinolaringologia/doencas-da-garganta" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Doenças da garganta</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/mama-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/ginecologia/doencas-da-mama" title="Doenças da mama">Doenças da mama</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/ginecologia/doencas-da-mama" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Doenças da mama</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/tireoide-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/endocrinologia/tireoide" title="Doenças da Tireoide">Doenças da Tireoide</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/endocrinologia/tireoide" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Doenças da Tireoide</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/ouvidos-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/otorrinolaringologia/doencas-do-ouvido" title="Doenças do ouvido">Doenças do ouvido</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/otorrinolaringologia/doencas-do-ouvido" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Doenças do ouvido</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/intestinos-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/gastroenterologia/doencas-dos-intestinos" title="Doenças dos intestinos">Doenças dos intestinos</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/gastroenterologia/doencas-dos-intestinos" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Doenças dos intestinos</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/doencas-infecciosas-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas" title="Doenças infectocontagiosas">Doenças infectocontagiosas</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Doenças infectocontagiosas</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/DST-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/dst" title="Doenças sexualmente transmissíveis (DST)">Doenças sexualmente transmissíveis (DST)</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/dst" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Doenças sexualmente transmissíveis (DST)</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/drogas-dependencia-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/drogas-dependencias" title="Drogas e Dependências">Drogas e Dependências</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/drogas-dependencias" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Drogas e Dependências</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/endocrino-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/endocrinologia" title="Endocrinologia">Endocrinologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/endocrinologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Endocrinologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/estetica-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/dermatologia/estetica" title="Estética">Estética</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/dermatologia/estetica" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Estética</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/gastroenterologia/doencas-do-estomago" title="Estômago e Esôfago">Estômago e Esôfago</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/gastroenterologia/doencas-do-estomago" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Estômago e Esôfago</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/exames-complementares" title="Exames complementares">Exames complementares</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/exames-complementares" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Exames complementares</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/exames-sangue-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/exames-complementares/exames-laboratoriais" title="Exames de Sangue">Exames de Sangue</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/exames-complementares/exames-laboratoriais" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Exames de Sangue</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/antibioticos-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/antibioticos-drogas-e-remedios" title="Fármacos Anti-Infecciosos">Fármacos Anti-Infecciosos</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/antibioticos-drogas-e-remedios" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Fármacos Anti-Infecciosos</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/gastro-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/gastroenterologia" title="Gastroenterologia">Gastroenterologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/gastroenterologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Gastroenterologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/gineco-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/ginecologia" title="Ginecologia">Ginecologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/ginecologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Ginecologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/nefrologia-rins/glomerulonefrite-nefrologia-rins" title="Glomerulonefrite">Glomerulonefrite</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/nefrologia-rins/glomerulonefrite-nefrologia-rins" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Glomerulonefrite</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/gravidez-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/gravidez" title="Gravidez">Gravidez</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/gravidez" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Gravidez</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/hematologia" title="Hematologia">Hematologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/hematologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Hematologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/gastroenterologia/hepatologia" title="Hepatologia - Doenças do Fígado">Hepatologia - Doenças do Fígado</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/gastroenterologia/hepatologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Hepatologia - Doenças do Fígado</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/hipertensao-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/cardio/hipertensao" title="Hipertensão arterial">Hipertensão arterial</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/cardio/hipertensao" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Hipertensão arterial</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/hiv-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/aids-hiv" title="HIV e AIDS">HIV e AIDS</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/aids-hiv" class="bg-link"><span class="screen-reader-text" aria-hidden="true">HIV e AIDS</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/ginecologia/infeccao-ginecologica" title="Infecção ginecológica">Infecção ginecológica</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/ginecologia/infeccao-ginecologica" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Infecção ginecológica</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/nefrologia-rins/infeccao-urinaria" title="Infecção urinária">Infecção urinária</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/nefrologia-rins/infeccao-urinaria" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Infecção urinária</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/bacteria-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/doencas-causadas-por-bacterias" title="Infecções Bacterianas">Infecções Bacterianas</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/doencas-causadas-por-bacterias" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Infecções Bacterianas</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/fungo-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/doencas-por-fungos" title="Infecções Fúngicas">Infecções Fúngicas</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/doencas-por-fungos" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Infecções Fúngicas</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/virus-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/viroses" title="Infecções Virais">Infecções Virais</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/viroses" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Infecções Virais</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/nefrologia-rins/insuficiencia-renal-nefrologia-rins" title="Insuficiência renal">Insuficiência renal</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/nefrologia-rins/insuficiencia-renal-nefrologia-rins" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Insuficiência renal</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/menstruacao-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/ginecologia/menstruacao" title="Menstruação">Menstruação</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/ginecologia/menstruacao" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Menstruação</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/contraceptivos-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/ginecologia/metodos-anticoncepcionais" title="Métodos contraceptivos">Métodos contraceptivos</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/ginecologia/metodos-anticoncepcionais" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Métodos contraceptivos</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/nefro-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/nefrologia-rins" title="Nefrologia">Nefrologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/nefrologia-rins" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Nefrologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/neuro-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/neurologia" title="Neurologia">Neurologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/neurologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Neurologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/nutricao" title="Nutrição">Nutrição</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/nutricao" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Nutrição</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/obesidade-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/endocrinologia/obesidade" title="Obesidade - Perder peso">Obesidade - Perder peso</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/endocrinologia/obesidade" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Obesidade - Perder peso</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/oftalmo-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/oftalmologia" title="Oftalmologia">Oftalmologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/oftalmologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Oftalmologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/oncologia" title="Oncologia">Oncologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/oncologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Oncologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/ortopedia-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/ortopedia" title="Ortopedia">Ortopedia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/ortopedia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Ortopedia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/otorrinolaringologia" title="Otorrinolaringologia">Otorrinolaringologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/otorrinolaringologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Otorrinolaringologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/parasitose.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/doencas-parasitarias" title="Parasitoses">Parasitoses</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/doencas-infectocontagiosas/doencas-parasitarias" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Parasitoses</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/pediatria-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/pediatria" title="Pediatria">Pediatria</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/pediatria" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Pediatria</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/pneumologia" title="Pneumologia">Pneumologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/pneumologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Pneumologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/psiquiatria-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/psiquiatria" title="Psiquiatria">Psiquiatria</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/psiquiatria" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Psiquiatria</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/dermatologia/rash" title="Rash de pele">Rash de pele</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/dermatologia/rash" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Rash de pele</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/remedios-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/drogas-e-remedios" title="Remédios">Remédios</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/drogas-e-remedios" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Remédios</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg image-bg-none aspect-ratio has-bg-link overlay overlay-dark light-content" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/reumatologia" title="Reumatologia">Reumatologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/reumatologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Reumatologia</span></a></div></div><div class="flex-entry entry col col-xs-12 col-sm-4 boxed column middle-xs center-xs text-xs-center image-bg aspect-ratio has-bg-link overlay overlay-dark light-content" style="background-image: url(https://www.mdsaude.com/wp-content/uploads/urologia-cat.jpg);" data-aspect-width="550" data-aspect-height="413"><header class="entry-header"><h3 class="entry-title" itemprop="headline"><a href="https://www.mdsaude.com/category/urologia" title="Urologia">Urologia</a></h3></header><div class="bg-link-wrap"><a href="https://www.mdsaude.com/category/urologia" class="bg-link"><span class="screen-reader-text" aria-hidden="true">Urologia</span></a></div></div></div></div>
+</div></article></main></div></div><div class="footer-widgets footer-widgets-has-2" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="footer-widgets-wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><section id="text-79" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Aviso Legal</h3>
+<div class="textwidget"><p>Os conteúdos publicados pelo mdsaude.com têm como único intuito informar e educar o público geral sobre cuidados de saúde e problemas médicos. As informações obtidas nesse site não devem nunca ser utilizadas como substituto ao aconselhamento, diagnóstico ou tratamento médico.</p>
+<p>Se você tem ou suspeita ter alguma condição médica, não tome nenhuma providência antes de entrar em contato com um profissional de saúde qualificado.</p>
+</div>
+</div></section>
+</div><div class="widget-area footer-widgets-2 footer-widget-area"><section id="text-70" class="widget widget_text"><div class="widget-wrap"><h3 class="widgettitle widget-title">Contatos</h3>
+<div class="textwidget"><p>Atenção: o e-mail de contato é exclusivo para assuntos comerciais ou editoriais.</p>
+<p>O CFM proíbe os médicos de emitirem opinião sobre questões médicas individuais por e-mail. Portanto, não iremos responder sobre casos pessoais, resultados de exames ou doenças de familiares em hipótese alguma!</p>
+<p>pedro@mdsaude.com</p>
+</div>
+</div></section>
+</div></div></div></div><footer class="site-footer text-sm" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><aside class="widget-area"><h2 class="genesis-sidebar-title screen-reader-text">Site Footer</h2><section id="simple-social-icons-4" class="widget simple-social-icons"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/mdsaude"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="https://www.mdsaude.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-gplus"><a href="https://plus.google.com/+PedroPinheiro"><svg role="img" class="social-gplus" aria-labelledby="social-gplus"><title id="social-gplus">Google+</title><use xlink:href="https://www.mdsaude.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-gplus"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/mdsaude"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="https://www.mdsaude.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/channel/UCNccY3N0vCqRlBcg-OOrzRA"><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="https://www.mdsaude.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><ul id="menu-menu-widget" class="menu genesis-nav-menu js-superfish"><li id="menu-item-13132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13132"><a href="https://www.mdsaude.com/media-kit" itemprop="url"><span itemprop="name">Media kit</span></a></li>
+<li id="menu-item-13133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13133"><a href="https://www.mdsaude.com/sobre" itemprop="url"><span itemprop="name">Sobre o MD.Saúde</span></a></li>
+<li id="menu-item-13134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13134"><a href="https://www.mdsaude.com/politica-de-publicidade" itemprop="url"><span itemprop="name">Política de publicidade</span></a></li>
+<li id="menu-item-13135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13135"><a href="https://www.mdsaude.com/politica-de-privacidade" itemprop="url"><span itemprop="name">Política de privacidade</span></a></li>
+<li id="menu-item-28860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28860"><a href="https://feedburner.google.com/fb/a/mailverify?uri=mdsaude&#038;loc=pt_BR" itemprop="url"><span itemprop="name">Newsletter</span></a></li>
+<li id="menu-item-wpml-ls-3753-es" class="menu-item wpml-ls-slot-3753 wpml-ls-item wpml-ls-item-es wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-3753-es"><a title="Español" href="https://www.mdsaude.com/es" itemprop="url"><span itemprop="name"><img class="wpml-ls-flag" src="https://www.mdsaude.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" title="Español"><span class="wpml-ls-native">Español</span></span></a></li>
+<li id="menu-item-wpml-ls-3753-en" class="menu-item wpml-ls-slot-3753 wpml-ls-item wpml-ls-item-en wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-3753-en"><a title="English" href="https://www.mdsaude.com/en" itemprop="url"><span itemprop="name"><img class="wpml-ls-flag" src="https://www.mdsaude.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English"><span class="wpml-ls-native">English</span></span></a></li>
+</ul></div></section>
+</aside><p>© 2008-2018 mdsaude.com</p></div></footer></div><script>
+		var advanced_ads_ga_UID = '';
+		var advanced_ads_ga_anonymIP = true;
+advanced_ads_check_adblocker=function(t){function e(t){(window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||function(t){return setTimeout(t,16)}).call(window,t)}var n=[],a=null;return e(function(){var t=document.createElement("div");t.innerHTML="&nbsp;",t.setAttribute("class","ad_unit ad-unit text-ad text_ad pub_300x250"),t.setAttribute("style","width: 1px !important; height: 1px !important; position: absolute !important; left: 0px !important; top: 0px !important; overflow: hidden !important;"),document.body.appendChild(t),e(function(){var e=window.getComputedStyle&&window.getComputedStyle(t),o=e&&e.getPropertyValue("-moz-binding");a=e&&"none"===e.getPropertyValue("display")||"string"==typeof o&&-1!==o.indexOf("about:");for(var i=0;i<n.length;i++)n[i](a);n=[]})}),function(t){if(null===a)return void n.push(t);t(a)}}(),function(){var t=function(t,e){this.name=t,this.UID=e,this.analyticsObject=null;var n=this,a={hitType:"event",eventCategory:"Advanced Ads",eventAction:"AdBlock",eventLabel:"Yes",nonInteraction:!0,transport:"beacon"};this.analyticsObject="string"==typeof GoogleAnalyticsObject&&"function"==typeof window[GoogleAnalyticsObject]&&window[GoogleAnalyticsObject],!1===this.analyticsObject?(!function(t,e,n,a,o,i,d){t.GoogleAnalyticsObject=o,t[o]=t[o]||function(){(t[o].q=t[o].q||[]).push(arguments)},t[o].l=1*new Date,i=e.createElement(n),d=e.getElementsByTagName(n)[0],i.async=1,i.src="https://www.google-analytics.com/analytics.js",d.parentNode.insertBefore(i,d)}(window,document,"script",0,"_advads_ga"),_advads_ga("create",n.UID,"auto",this.name),advanced_ads_ga_anonymIP&&_advads_ga("set","anonymizeIp",!0),_advads_ga(n.name+".send",a)):(window.console&&window.console.log("Advanced Ads Analytics >> using other's variable named `"+GoogleAnalyticsObject+"`"),window[GoogleAnalyticsObject]("create",n.UID,"auto",this.name),window[GoogleAnalyticsObject]("set","anonymizeIp",!0),window[GoogleAnalyticsObject](n.name+".send",a))};advanced_ads_check_adblocker(function(e){e&&"string"==typeof advanced_ads_ga_UID&&advanced_ads_ga_UID&&new t("advadsTracker",advanced_ads_ga_UID)})}();		
+		</script><script type='text/javascript'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxurl":"https:\/\/www.mdsaude.com\/wp-admin\/admin-ajax.php","hideEffect":"none","onScroll":"yes","onScrollOffset":"100","cookieName":"cookie_notice_accepted","cookieValue":"true","cookieTime":"2147483647","cookiePath":"\/","cookieDomain":"","redirection":"","cache":"1","refuse":"no","revoke_cookies":"0","revoke_cookies_opt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.2.44'></script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=3.3.1'></script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5'></script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=2.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var maiVars = {"mainMenu":"Menu","subMenu":"Menu","subMenuAria":"sub-menu toggle","search_box":"<div class=\"search-box\" style=\"display:none;\"><form class=\"search-form\" itemprop=\"potentialAction\" itemscope itemtype=\"https:\/\/schema.org\/SearchAction\" method=\"get\" action=\"https:\/\/www.mdsaude.com\/\" role=\"search\"><meta itemprop=\"target\" content=\"https:\/\/www.mdsaude.com\/?s={s}\"\/><label class=\"search-form-label screen-reader-text\" for=\"searchform-5b9c00d3e385a7.96580072\">Procure no MD.Sa\u00fade<\/label><input itemprop=\"query-input\" type=\"search\" name=\"s\" id=\"searchform-5b9c00d3e385a7.96580072\" placeholder=\"Procure no MD.Sa\u00fade \u2026\" \/><input type=\"submit\" value=\"Procura\" \/><\/form><\/div>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/mai-theme-engine/assets/js/mai-theme.min.js?ver=1.3.7'></script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/mai-theme-engine/assets/js/fitvids.min.js?ver=1.2.0'></script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/mai-theme-engine/assets/js/fitvids-init.min.js?ver=1.3.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"sidebar","margin_top":10,"margin_bottom":700,"stop_id":"footer-widgets","screen_max_width":0,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["mdsau-widget-3"]}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.mdsaude.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4'></script>
+<script>var advads_placement_tests = [];
+var advads_passive_ads = {};
+var advads_passive_groups = {};
+var advads_passive_placements = {};
+var advads_ajax_queries = [];
+var advads_has_ads = [];
+( window.advanced_ads_ready || jQuery( document ).ready ).call( null, function() {if ( window.advanced_ads_pro ) {advanced_ads_pro.process_passive_cb();} else if ( window.console && window.console.log ) {console.log('Advanced Ads Pro: cache-busting can not be initialized');}});</script><script type="text/javascript">var swpFloatBeforeContent = false;var swpClickTracking = false;</script>
+<div id="cookie-notice" role="banner" class="cn-bottom" style="color: #fff; background-color: #383838;"><div class="cookie-notice-container"><span id="cn-notice-text">Usamos cookies para personalizar conteúdo e anúncios e para analisar nosso tráfego. Você concorda com nossos cookies se continuar a usar nosso site.
+Obs: para os usuários no EEE, exibiremos apenas anúncios não personalizados.</span><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button button">Ok</a><a href="https://www.mdsaude.com/politica-de-privacidade" target="_blank" id="cn-more-info" class="cn-more-info cn-button button">Política de Privacidade</a>
+</div>
+</div></body></html>

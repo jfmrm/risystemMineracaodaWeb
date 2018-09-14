@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" dir="ltr" xml:lang="pt-br">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<base href="https://www.cartacapital.com.br/revista/958/" /><!--[if lt IE 7]></base><![endif]-->
+<meta name="DC.description" content="Moreira Franco, Geddel Vieira Lima, Eliseu Padilha, Henrique Eduardo Alves, Eduardo Cunha, Rodrigo Rocha Loures, unidos no assalto ao poder na última década" />
+<meta name="description" content="Moreira Franco, Geddel Vieira Lima, Eliseu Padilha, Henrique Eduardo Alves, Eduardo Cunha, Rodrigo Rocha Loures, unidos no assalto ao poder na última década" />
+<meta name="DC.format" content="text/plain" />
+<meta name="DC.type" content="Periódico" />
+<meta name="DC.date.valid_range" content="2017/06/22 - " />
+<meta name="DC.creator" content="Victória Damasceno" />
+<meta name="DC.date.modified" content="2017-06-28T11:48:52-03:00" />
+<meta name="DC.date.created" content="2017-06-22T19:02:10-03:00" />
+<meta name="DC.language" content="pt-br" />
+<link rel="alternate" data-kss-base-url="kss-base-url" href="https://www.cartacapital.com.br/revista/958/" />
+<link rel="stylesheet" type="text/css" href="https://www.cartacapital.com.br/portal_css/beyondskins_cartacapital_portal/reset-cachekey-ce10d73858db444d8c61a38bc395c2f5.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.cartacapital.com.br/portal_css/beyondskins_cartacapital_portal/base-cachekey-2b14458252c60d3f8770ed28be03c553.css" />
+<!--[if lte IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.cartacapital.com.br/portal_css/beyondskins_cartacapital_portal/IEFixes-cachekey-556104411c084d4fcedba82edf4b0687.css" media="screen" />
+        <![endif]-->
+<link rel="stylesheet" type="text/css" href="https://www.cartacapital.com.br/portal_css/beyondskins_cartacapital_portal/resourcesl_stylesheetssocial_like-cachekey-765ef95e04098f84a9d9b2f2300a2cc6.css" />
+<script type="text/javascript" src="https://www.cartacapital.com.br/portal_javascripts/beyondskins_cartacapital_portal/resourcecollective.lazysizesls.twitter.min-cachekey-43fc2343d36f8ea76df8d3b45512db74.js"></script>
+<!--[if lte IE 8]>
+     
+    <script type="text/javascript" src="https://www.cartacapital.com.br/portal_javascripts/beyondskins_cartacapital_portal/resourcecollective.pollsjsexcanvas.min-cachekey-5ce77a847a411096d93dd414bbe698b5.js"></script>
+       <![endif]-->
+<script type="text/javascript" src="https://www.cartacapital.com.br/portal_javascripts/beyondskins_cartacapital_portal/resourcecollective.lazysizeslazysizes-umd.min-cachekey-55d0ed5c52b3a9d6a6ce5719cd15a1d6.js"></script>
+<script>
+(function() {
+  __mtm = [ '57da13ff9c4b4e49458adc9f', 'cdn01.mzbcdn.net/mngr' ];
+  var s = document.createElement('script');
+  s.async = 1;
+  s.src = '//' + __mtm[1] + '/mtm.js';
+  var e = document.getElementsByTagName('script')[0];
+  (e.parentNode || document.body).insertBefore(s, e);
+})();
+</script>
+<meta property="fb:pages" content="229151370439618" />
+<meta name="google-site-verification" content="RCniVcpVnZX3zn4xhFnhrhP0aAcypLIbCp9-6DFbT18" />
+<meta name="section" content="revista" />
+<meta name="materia" content="958" />
+<title>Todos os homens do capo — CartaCapital</title>
+<meta name="uuid" content="18de33d3f34749cba4c51b4609786a2d" />
+<link rel="author" href="https://www.cartacapital.com.br/author/victoria" title="Informações do Autor" />
+<link rel="canonical" href="https://www.cartacapital.com.br/revista/958" />
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+<link rel="search" href="https://www.cartacapital.com.br/@@search" title="Buscar neste site" />
+<meta name="generator" content="Plone - http://plone.org" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta name="globalsign-domain-verification" content="LmMChkNj0S-gpa7xGvw6ZIj63RlK1gczakauJNfCSG" />
+<!--[if IE]><link rel="shortcut icon" href="/++theme++beyondskins.cartacapital.portal/src/favicon.ico"><![endif]-->
+<link rel="apple-touch-icon" href="/++theme++beyondskins.cartacapital.portal/src/apple-touch-icon.png" />
+<link rel="icon" href="/++theme++beyondskins.cartacapital.portal/src/favicon.png" />
+<meta name="msapplication-config" content="/++theme++beyondskins.cartacapital.portal/src/browserconfig.xml" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+</head>
+<body dir="ltr" class="template-default_error_message portaltype-periodical site-Plone section-revista subsection-958 userrole-anonymous"><div id="blueline-header"><div id="background"></div>
+<div id="interstitial"></div></div><div id="wrapper">
+
+<header id="main-header">
+<div>
+
+<nav id="main-navigation">
+<div id="btnav"><span>Navegação</span>
+<ul class="navegacao"><li id="portaltab-politica" class="plain"><a href="https://www.cartacapital.com.br/politica" title="Reportagem, análise, opinião e artigos sobre os principais assuntos da política nacional" class="plain">Política</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/politica" title="Reportagem, análise, opinião e artigos sobre os principais assuntos da política nacional" class="plain">Política</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/cartas-da-esplanada" title="" class="state-published">
+Cartas da Esplanada
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/conjunturando" title="" class="state-published">
+Conjunturando
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/justificando" title="" class="state-published">
+Justificando
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/midiatico" title="" class="state-published">
+Midiático
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/outras-palavras" title="" class="state-published">
+Outras Palavras
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/parlatorio" title="" class="state-published">
+Parlatório
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/pagina-operaria" title="" class="state-published">
+Página Operária
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/vanguardas-do-conhecimento" title="" class="state-published">
+Vanguardas do Conhecimento
+</a>
+</li>
+</ul>
+</li><li id="portaltab-economia" class="plain"><a href="https://www.cartacapital.com.br/economia" title="" class="plain">Economia</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/economia" title="" class="plain">Economia</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/brasil-debate" title="" class="state-published">
+Brasil Debate
+</a>
+</li>
+ </ul>
+</li><li id="portaltab-internacional" class="plain"><a href="https://www.cartacapital.com.br/internacional" title="" class="plain">Internacional</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/internacional" title="" class="plain">Internacional</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/blog-do-grri" title="" class="state-published">
+Blog do GRRI
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/politike" title="" class="state-published">
+Politike
+</a>
+</li>
+<li>
+<a href="http://redelatinamerica.cartacapital.com.br/" title="" class="state-published">
+Rede Latin América
+</a>
+</li>
+</ul>
+</li><li id="portaltab-colunistas" class="plain"><a href="https://www.cartacapital.com.br/colunistas" title="" class="plain">Opinião</a>
+</li><li id="portaltab-blog-do-socio" class="plain"><a href="https://www.cartacapital.com.br/blog-do-socio" title="" class="plain">Blog do Sócio</a>
+</li><li id="portaltab-diversidade" class="plain"><a href="https://www.cartacapital.com.br/diversidade" title="" class="plain">Diversidade</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/diversidade" title="" class="plain">Diversidade</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/blog-do-milanez" title="" class="state-published">
+Blog do Felipe Milanez
+</a>
+</li>
+<li>
+<a href="https://www.cartaeducacao.com.br" title="" class="state-published">
+Carta Educação
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/dialogos-da-fe" title="" class="state-published">
+Dialogos da Fé
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/envolverde" title="" class="state-published">
+Envolverde
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/escritorio-feminista" title="" class="state-published">
+Escritório Feminista
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/feminismo-pra-que" title="" class="state-published">
+Feminismo pra quê?
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/intervozes" title="" class="state-published">
+Intervozes
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/negrobelchior" title="" class="state-published">
+Negro Belchior
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/speriferia" title="" class="state-published">
+SPeriferia
+</a>
+</li>
+</ul>
+</li><li id="portaltab-cultura" class="plain"><a href="https://www.cartacapital.com.br/cultura" title="" class="plain">Cultura</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/cultura" title="" class="plain">Cultura</a>
+</li>
+<li>
+<a href="http://biblioo.cartacapital.com.br" title="" class="state-published">
+Biblioo
+</a>
+</li>
+<li>
+<a href="http://www.cartacapital.com.br/cultura/bravo/" title="Uma seleção do que há de melhor para ler, ver e ouvir" class="state-published">
+Blog Bravo!
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/farofafa" title="" class="state-published">
+Farofafá
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/lupulinas-1" title="" class="state-published">
+Lupulinas
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/telatela" title="" class="state-published">
+TelaTela
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/uma-casca-de-noz" title="" class="state-published">
+Uma Casca de Noz
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/a-redoma-de-livros" title="" class="state-published">
+A Redoma de Livros
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/cinema-em-cena" title="" class="state-published">
+Cinema em cena
+</a>
+</li>
+</ul>
+</li><li id="portaltab-esporte" class="plain"><a href="https://www.cartacapital.com.br/esporte" title="" class="plain">Esporte</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/esporte" title="" class="plain">Esporte</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/chuteirafc" title="" class="state-published">
+Chuteirafc
+</a>
+</li>
+</ul>
+</li><li id="portaltab-sociedade" class="plain"><a href="https://www.cartacapital.com.br/sociedade" title="" class="plain">Sociedade</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/sociedade" title="" class="plain">Sociedade</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/32xsp" title="" class="state-published">
+32xSP
+</a>
+</li>
+</ul>
+</li><li id="portaltab-humor" class="plain"><a href="https://www.cartacapital.com.br/humor" title="" class="plain">Humor</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/humor" title="" class="plain">Humor</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/hariovaldo" title="" class="state-published">
+Hariovaldo
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/blogs/quadrinsta" title="" class="state-published">
+Quadrinsta
+</a>
+</li>
+</ul>
+</li><li id="portaltab-parceiros" class="plain"><a href="https://www.cartacapital.com.br/parceiros" title="" class="plain">Parceiros</a>
+</li><li id="portaltab-mais-conteudo" class="plain"><a href="https://www.cartacapital.com.br/mais-conteudo" title="" class="plain">Mais</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/mais-conteudo" title="" class="plain">Mais</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/revista/edicoes" title="" class="state-published">
+Edições Anteriores
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/dialogos-capitais" title="" class="state-published">
+Eventos
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/mais-admiradas" title="" class="state-published">
+Mais Admiradas
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/especiais/nordeste" title="" class="state-published">
+Nordeste
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/saude" title="" class="state-published">
+Saúde
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/tecnologia" title="" class="state-published">
+Tecnologia
+</a>
+</li>
+</ul>
+</li><li id="portaltab-eventos" class="plain"><a href="https://www.cartacapital.com.br/eventos" title="" class="plain">Eventos</a>
+<ul class="submenu">
+<li class="submenu-title">
+<a href="https://www.cartacapital.com.br/eventos" title="" class="plain">Eventos</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/dialogos-capitais" title="" class="state-published">
+Diálogos Capitais
+</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/tags/Di%C3%A1logos%20Capitais%20nas%20Livrarias" title="" class="state-published">
+Diálogos nas Livrarias
+</a>
+</li>
+</ul>
+</li><li class="banner-menu">
+<a href="http://assinecarta.com.br/">Seja Sócio</a>
+</li></ul>
+<div class="overlay"></div>
+</div>
+<a class="icones ico-user" href="http://www.editoraconfianca.com.br/acesso/cartacapital?utm_source=header&amp;utm_medium=botao&amp;utm_campaign=revista%20digital"><i class="fa fa-user"></i></a>
+<a class="icones ico-busca" href="https://www.cartacapital.com.br/@@search"><i class="fa fa-search"></i></a>
+</nav>
+<div id="logo">
+<a href="https://www.cartacapital.com.br" title="CartaCapital">
+<img src="/++theme++beyondskins.cartacapital.portal/src/logo.png" alt="CartaCapital" />
+</a>
+<div class="dia-atual">Sexta-feira, 14 de setembro de 2018</div>
+</div>
+<div class="clear"> </div>
+</div>
+<div>
+<div class="cupom-desconto">
+<a href="https://www.cartacapital.com.br/cupons">Cupons de Desconto</a>
+</div>
+
+<div id="portal-searchbox">
+<form id="nolivesearchGadget_form" action="https://www.cartacapital.com.br/@@search">
+<div class="LSBox">
+<label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+<input name="SearchableText" type="text" size="18" title="Buscar no Site" placeholder="Buscar no Site" accesskey="4" class="searchField" id="nolivesearchGadget" />
+<input type="hidden" name="sort_on" id="sort_on" value="Date" />
+<input type="hidden" name="sort_order" id="sort_order" value="reverse" />
+<input class="searchButton" type="submit" value="Buscar" />
+<div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+</div>
+</form>
+<div id="portal-advanced-search" class="hiddenStructure">
+<a href="https://www.cartacapital.com.br/@@search" accesskey="5">Busca Avançada…</a>
+</div>
+</div>
+<div class="links-fixos">
+<ul>
+<li class="link-carta"><a href="https://www.cartacapital.com.br/revista/1020" title="Edição atual da revista">CartaCapital</a></li>
+<li class="link-play">
+<a href="https://www.youtube.com/user/RevistaCartaCapital">Carta Play</a>
+</li>
+<li class="link-educacao">
+<a href="http://www.cartaeducacao.com.br/">CartaEducação</a>
+</li>
+<li class="link-blog">
+<a href="https://www.cartacapital.com.br/blog-do-socio">#BlogdoSocio</a>
+</li>
+<li class="link-sou-socio">
+<a href="https://socio.cartacapital.com.br/">#SouSocio</a>
+</li>
+<li class="link-seja-socio">
+<a href="https://assine.cartacapital.com.br/?Site_txt=site_carta&amp;Origem_txt=homepage&amp;Formato_txt=&amp;Banner_txt=&amp;Versao_txt&amp;utm_source=site_carta&amp;utm_medium=hoempage&amp;utm_campaign=&amp;utm_content=&amp;utm_term">#SejaSocio</a>
+</li>
+</ul>
+</div>
+</div>
+</header>
+
+<div id="portal-breadcrumbs">
+<span id="breadcrumbs-you-are-here">Você está aqui:</span>
+<span id="breadcrumbs-home">
+<a href="https://www.cartacapital.com.br">Página Inicial</a>
+<span class="breadcrumbSeparator">
+/
+</span>
+</span>
+<span dir="ltr" id="breadcrumbs-1">
+<a href="https://www.cartacapital.com.br/revista">Revista</a>
+<span class="breadcrumbSeparator">
+/
+</span>
+</span>
+<span dir="ltr" id="breadcrumbs-2">
+<span id="breadcrumbs-current">Todos os homens do capo</span>
+</span>
+</div>
+<div id="blueline-abovecontent"><div id="top"></div></div>
+<div id="main" role="main">
+<main id="main-content">
+<div id="viewlet-above-content">
+<div class="periodical-header">
+<a href="https://www.cartacapital.com.br/revista/958"></a>
+<span>Número</span> <span>958</span>,
+<span></span>
+</div>
+</div>
+<div class="">
+<dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+<dt>Info</dt>
+<dd></dd>
+</dl>
+<div id="content">
+<h1 class="documentFirstHeading">Desculpe, mas esta página não existe…</h1>
+<div id="content-core">
+<p>
+Pedimos desculpas pelo inconveniente, mas a página que você estava tentando acessar não existe neste endereço.
+Você pode usar a caixa de busca abaixo para encontrar o que está procurando.
+</p>
+
+<form action="https://www.cartacapital.com.br/@@search">
+<input name="SearchableText" size="25" title="Buscar no Site" placeholder="Buscar no Site" class="searchPage" type="text" />
+<input name="advanced_search" value="False" type="hidden" />
+<input name="sort_on" id="sort_on" value="Date" type="hidden" />
+<input name="sort_order" id="sort_order" value="reverse" type="hidden" />
+<input class="searchPage" value="Buscar" type="submit" />
+</form>
+</div>
+</div>
+</div>
+<div id="viewlet-below-content">
+<div id="blueline-belowcontent"><div id="outbrain"></div></div>
+</div>
+</main>
+<div class="clear"> </div>
+</div>
+
+<div id="bottom"></div>
+<div class="banner banner-footer">
+publicidade
+</div>
+<footer>
+<div id="footer-logo">
+<a href="https://www.cartacapital.com.br/" title="CartaCapital">
+<img src="/++theme++beyondskins.cartacapital.portal/src/logo-footer.png" alt="Carta Capital" width="217" height="63" />
+</a>
+<ul id="footer-social">
+<li class="social-facebook">
+<a href="http://www.facebook.com/CartaCapital" title="Facebook"><i class="fa fa-facebook-official"></i></a>
+</li>
+<li class="social-youtube">
+<a href="https://www.youtube.com/user/RevistaCartaCapital" title="Youtube"><i class="fa fa-youtube-square"></i></a>
+</li>
+<li class="social-twitter">
+<a href="http://twitter.com/cartacapital" title="Twitter"><i class="fa fa-twitter-square"></i></a>
+</li>
+<li class="social-rss">
+<a href="https://www.cartacapital.com.br/rss-cartacapital" title="RSS"><i class="fa fa-rss-square"></i></a>
+</li>
+<li class="social-apple">
+<a href="https://itunes.apple.com/br/app/revista-cartacapital/id468573252?mt=8" title="Apple"><i class="fa fa-apple"></i></a>
+</li>
+<li class="social-android">
+<a href="https://play.google.com/store/apps/details?id=air.com.editoraconfianca.revistacartacapital" title="Android"><i class="fa fa-android"></i></a>
+</li>
+</ul>
+</div>
+<div id="footer-ec">
+<ul>
+<li>
+<strong>Editora Confiança</strong>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/editora/cartacapital" title="CartaCapital">CartaCapital</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/editora/mais-admiradas" title="As Empresas Mais Admiradas no Brasil">As Empresas Mais Admiradas no Brasil</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/editora/dialogos-capitais" title="DiÃ¡logos Capitais">Diálogos Capitais</a>
+</li>
+<li>
+<a href="http://www.cartaeducacao.com.br/" title="Carta Educação">Carta Educação</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/cupons" title="Carta Educação">Cupons de Desconto</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/editora/expediente/" title="Expediente">Expediente</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/editora/fale-com-a-redacao" title="Fale com a Redação">Fale com a Redação</a>
+</li>
+<li class="footer-box-red">
+<a href="https://www.cartacapital.com.br/politica-de-privacidade" title="Fale com a Redação">Política de Privacidade e Cookies</a>
+</li>
+<li class="footer-box-red">
+<a href="https://www.cartacapital.com.br/termo-de-uso-socio-cartacapital" title="Fale com a Redação">Termos de uso</a>
+</li>
+</ul>
+</div>
+<div id="footer-assinatura">
+<ul>
+<li>
+<strong>Assinatura</strong>
+</li>
+<li>
+<a href="https://assine.cartacapital.com.br/?Site_txt=site_carta&amp;Origem_txt=homepage&amp;Formato_txt=rodape&amp;Banner_txt=&amp;Versao_txt&amp;utm_source=site_carta&amp;utm_medium=homepage&amp;utm_campaign=rodape&amp;utm_content=&amp;utm_term" title="Assine CartaCapital">Assine</a>
+</li>
+<li>
+<a href="http://www.editoraconfianca.com.br/sociocartacapital/" title="Projeto Sócio CartaCapital">Projeto Sócio CartaCapital</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/assinatura/central-de-atendimento/" title="Central de Atendimento">Central de Atendimento</a>
+</li>
+<li>
+ <strong>Anuncie</strong>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/anuncie/equipe-comercial" title="Equipe Comercial">Equipe Comercial</a>
+</li>
+<li>
+<a href="https://www.cartacapital.com.br/anuncie/media-kit" title="Midia Kit">Midia Kit</a>
+</li>
+</ul>
+</div>
+<div id="creditos">
+<div id="simples-consultoria">
+<a href="http://www.simplesconsultoria.com.br" target="_blank">
+<img src="/++theme++beyondskins.cartacapital.portal/src/simples-consultoria.png" alt="Simples Consultoria" width="95" height="35" />
+</a>
+</div>
+<div id="editora-confianca">
+<a href="https://www.cartacapital.com.br/editora/sobre-a-editora" target="_blank">
+<img src="/++theme++beyondskins.cartacapital.portal/src/editora-confianca.png" alt="Editora Confiança" width="95" height="46" />
+</a>
+</div>
+</div>
+</footer>
+</div><div class="clear"> </div>
+
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '1501542910082087']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1501542910082087&amp;ev=PixelInitialized" /></noscript>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '708279639361360',
+      xfbml      : true,
+      version    : 'v2.9'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, pjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, pjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<div id="blueline-footer"></div>
+<link href="https://www.cartacapital.com.br/++resource++collective.disclaimer/disclaimer.css" rel="stylesheet" />
+<div id="viewlet-disclaimer" role="alert" style="display: none" data-enabled="true" data-last-modified="1529615093.53">
+<a class="disclaimer-close" title="Close">X</a>
+<div class="disclaimer-title">Uso de cookies</div>
+<p>Este site salva seu histórico de uso. Ao continuar navegando você concorda com a <a href="politica-de-privacidade-e-cookies">Política de Privacidade e Cookies</a>.</p>
+</div>
+<script>
+if (Storage !== undefined) {
+  $(document).ready(function () {
+    "use strict";
+    var last_modified = $("#viewlet-disclaimer").attr("data-last-modified");
+    var last_seen = localStorage.getItem("collective.disclaimer");
+
+    if (last_seen === null || last_seen < last_modified) {
+      localStorage.setItem("collective.disclaimer", last_modified);
+      var enabled = $("#viewlet-disclaimer").attr("data-enabled");
+
+      if (enabled === "true") {
+        $("#viewlet-disclaimer").show();
+      }
+
+      $(".disclaimer-close").click(function (event) {
+        event.preventDefault();
+        $("#viewlet-disclaimer").hide();
+      });
+    }
+  });
+}
+</script>
+</body>
+</html>

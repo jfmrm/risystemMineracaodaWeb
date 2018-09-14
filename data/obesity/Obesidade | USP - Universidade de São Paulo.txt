@@ -1,0 +1,1041 @@
+<!doctype html>  
+<!--[if IEMobile 7 ]> <html lang="pt-BR"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html lang="pt-BR" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="pt-BR" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="pt-BR" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html lang="pt-BR" class="no-js"><!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Página não encontrada | USP - Universidade de São Paulo</title>	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  		<link rel="pingback" href="http://www5.usp.br/xmlrpc.php">
+
+		<!-- wordpress head functions -->
+		<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www5.usp.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www5.usp.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbs-css'  href='http://www5.usp.br/wp-content/themes/usp2015/library/dist/css/styles.f6413c85.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbs-style-css'  href='http://www5.usp.br/wp-content/themes/usp2015/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-magnific-popup-css'  href='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/libs/magnific-popup/magnific-popup.css?ver=2.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-dark-css'  href='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/templates/dark/style.css?ver=2.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-default-css'  href='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/templates/default/style.css?ver=2.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-standard-css'  href='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-thumbnails-css'  href='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/templates/thumbnails/style.css?ver=2.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-usp-css'  href='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/templates/usp/style.css?ver=2.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='media-credit-css'  href='http://www5.usp.br/wp-content/plugins/media-credit/css/media-credit.css?ver=2.7.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www5.usp.br/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cryptx/js/cryptx.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/themes/usp2015/bower_components/bootstrap/dist/js/bootstrap.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/themes/usp2015/library/dist/js/scripts.d1e3d952.min.js?ver=1.2'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/themes/usp2015/bower_components/modernizer/modernizr.js?ver=1.2'></script>
+<link rel='https://api.w.org/' href='http://www5.usp.br/wp-json/' />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://www5.usp.br/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.4");
+@import url("http://www5.usp.br/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.4");
+/* ]]> */
+</style>		<style type="text/css" id="wp-custom-css">
+			/*
+Você pode adicionar seu próprio CSS aqui.
+
+Clique no ícone de ajuda acima para saber mais.
+*/
+
+.rss-widget-icon { display: none;}		</style>
+			<!-- end of wordpress head -->
+		<!-- IE8 fallback moved below head to work properly. Added respond as well. Tested to work. -->
+			<!-- media-queries.js (fallback) -->
+		<!--[if lt IE 9]>
+			<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>			
+		<![endif]-->
+
+		<!-- html5.js -->
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->	
+		
+			<!-- respond.js -->
+		<!--[if lt IE 9]>
+		          <script type='text/javascript' src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+		<![endif]-->
+        
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3674368-4']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+	</head>
+	
+	<body class="error404">
+    
+<!-- script resolucao - pra identificar o css certo -->
+<script>
+  function showViewPortSize(display) {
+    if(display) {
+      var height = jQuery(window).height();
+      var width = jQuery(window).width();
+      jQuery('body').prepend('<div id="viewportsize" style="z-index:9999;position:fixed;top:40px;left:5px;color:#fff;background:#000;padding:10px">Height: '+height+'<br>Width: '+width+'</div>');
+      jQuery(window).resize(function() {
+        height = jQuery(window).height();
+        width = jQuery(window).width();
+        jQuery('#viewportsize').html('Height: '+height+'<br>Width: '+width);
+      });
+    }
+  }
+ 
+// mostrar a resolucao da tela
+// showViewPortSize(true);
+</script>
+<!-- end script resolucao -->
+
+		<header role="banner" class="container"  style="background-color:#FFF; margin-top: -20px; padding-top: 19px;">
+        
+        <div id="menumobile" class="navbar"><style>
+/*! responsive-nav.js 1.0.34 by @viljamis */
+
+.nav-collapse ul {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: block;
+  list-style: none;
+}
+
+.nav-collapse li {
+  width: 100%;
+  display: block;
+}
+
+.js .nav-collapse {
+  clip: rect(0 0 0 0);
+  max-height: 0;
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  zoom: 1;
+}
+
+.nav-collapse.opened {
+  max-height: 9999px;
+}
+
+.nav-toggle {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+@media screen and (min-width: 64em) {
+  .js .nav-collapse {
+    position: relative;
+  }
+  .js .nav-collapse.closed {
+    max-height: none;
+  }
+  .nav-toggle {
+    display: none;
+  }
+}
+
+
+/* //////////////////////////////////////////// */
+
+
+/* ------------------------------------------
+  NAVIGATION STYLES
+  (+ responsive-nav.css file is loaded in the <head>)
+--------------------------------------------- */
+
+.fixed {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.nav-collapse,
+.nav-collapse * {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.nav-collapse,
+.nav-collapse ul {
+  list-style: none;
+  width: 100%;
+  float: left;
+}
+
+.nav-collapse li {
+  float: left;
+  width: 100%;
+}
+
+@media screen and (min-width: 64em) {
+  .nav-collapse li {
+    width: 25%;
+    *width: 24.9%; /* IE7 Hack */
+    _width: 19%; /* IE6 Hack */
+  }
+}
+
+.nav-collapse a {
+  color: #fff;
+  text-decoration: none;
+  width: 100%;
+  background: #1094ab;
+  border-bottom: 1px solid white;
+  padding: 0.5em 1em;
+  float: left;
+}
+
+@media screen and (min-width: 64em) {
+  .nav-collapse a {
+    margin: 0;
+    padding: 1em;
+    float: left;
+    text-align: center;
+    border-bottom: 0;
+    border-right: 1px solid white;
+  }
+}
+
+.nav-collapse ul ul a {
+  background: #0d4f5a;
+  padding-left: 2em;
+}
+
+@media screen and (min-width: 64em) {
+  .nav-collapse ul ul a {
+    display: none;
+  }
+}
+
+
+/* ------------------------------------------
+  NAV TOGGLE STYLES
+--------------------------------------------- */
+
+.nav-toggle {
+  position: fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  text-decoration: none;
+  text-indent: -999px;
+  position: relative;
+  overflow: hidden;
+  width: 70px;
+  height: 55px;
+  float: right;
+}
+
+.nav-toggle:before {
+  color:#FFF;
+  font-family: "responsivenav", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  font-size: 38px;
+  text-transform: none;
+  position: absolute;
+  content: "≡";
+  text-indent: 0;
+  text-align: center;
+  speak: none;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.nav-toggle.active::before {
+  font-size: 34px;
+  font-weight: bold;
+  content:"x";
+}
+</style>
+<script src="http://www5.usp.br/wp-content/themes/usp2015/library/responsive-nav.js"></script>
+<div id="buscatop2" class="col-xs-5 clearfix">
+                    <form class="navbar-form navbar-right" role="search" method="get" id="searchform" action="http://www5.usp.br/">
+                    <div class="form-group">
+                    <input name="s" id="s" type="text" class="search-query form-control" autocomplete="off" placeholder="Busca...">
+                    </div>
+                    </form>
+                </div><!-- end buscatop -->
+<nav class="nav-collapse">
+<div class="mobile_nav clearfix"><ul id="menu-menu-paginas" class="menu"><li id="menu-item-89848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89848"><a href="http://www5.usp.br/ensino/">Ensino</a>
+<ul class="sub-menu">
+	<li id="menu-item-89849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89849"><a href="http://www5.usp.br/ensino/graduacao/">Graduação</a></li>
+	<li id="menu-item-89850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89850"><a href="http://www5.usp.br/ensino/pos-graduacao/">Pós-graduação</a></li>
+	<li id="menu-item-89851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89851"><a href="http://www5.usp.br/ensino/educacao-a-distancia/">Educação a distância</a></li>
+	<li id="menu-item-89852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89852"><a href="http://www5.usp.br/ensino/cursos-de-extensao/">Cursos de extensão</a></li>
+</ul>
+</li>
+<li id="menu-item-89853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89853"><a href="http://www5.usp.br/pesquisa/">Pesquisa</a>
+<ul class="sub-menu">
+	<li id="menu-item-89854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89854"><a href="http://www5.usp.br/pesquisa/pesquisa-na-usp/">Pesquisa na USP</a></li>
+	<li id="menu-item-89855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89855"><a href="http://www5.usp.br/pesquisa/inovacao-tecnologica/">Inovação tecnológica</a></li>
+	<li id="menu-item-89856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89856"><a href="http://www5.usp.br/pesquisa/bibliotecas/">Bibliotecas</a></li>
+	<li id="menu-item-89857" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89857"><a href="http://www5.usp.br/pesquisa/acervos-online/">Acervos online</a></li>
+</ul>
+</li>
+<li id="menu-item-89858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89858"><a href="http://www5.usp.br/extensao/">Extensão</a>
+<ul class="sub-menu">
+	<li id="menu-item-89859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89859"><a href="http://www5.usp.br/extensao/artes-e-esportes/">Artes e esportes</a></li>
+	<li id="menu-item-89860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89860"><a href="http://www5.usp.br/extensao/saude/">Saúde</a></li>
+	<li id="menu-item-89861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89861"><a href="http://www5.usp.br/extensao/museus/">Museus</a></li>
+</ul>
+</li>
+<li id="menu-item-89862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89862"><a href="http://www5.usp.br/institucional/">Institucional</a>
+<ul class="sub-menu">
+	<li id="menu-item-89863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89863"><a href="http://www5.usp.br/institucional/a-usp/">A USP</a></li>
+	<li id="menu-item-95010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95010"><a href="http://www.leginf.usp.br/?resolucao=resolucao-no-4871-de-22-de-outubro-de-2001">Código de Ética da USP</a></li>
+	<li id="menu-item-89864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89864"><a href="http://www5.usp.br/institucional/organizacao-administrativa/">Organização administrativa</a></li>
+	<li id="menu-item-89865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89865"><a href="http://www5.usp.br/institucional/escolas-faculdades-e-institutos/">Escolas, Faculdades e Institutos</a></li>
+	<li id="menu-item-89866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89866"><a href="http://www5.usp.br/institucional/cooperacao-internacional/">Cooperação internacional</a></li>
+	<li id="menu-item-89867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89867"><a href="http://www5.usp.br/institucional/concursos-e-licitacoes/">Concursos e licitações</a></li>
+</ul>
+</li>
+<li id="menu-item-109102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109102"><a href="http://jornal.usp.br">Notícias</a></li>
+</ul></div></nav>
+<!-- Put this right before the </body> closing tag -->
+<script>
+	var nav = responsiveNav(".nav-collapse", { // Selector
+	  animate: true, // Boolean: Use CSS3 transitions, true or false
+	  transition: 284, // Integer: Speed of the transition, in milliseconds
+	  label: "Menu", // String: Label for the navigation toggle
+	  insert: "before", // String: Insert the toggle before or after the navigation
+	  customToggle: "", // Selector: Specify the ID of a custom toggle
+	  closeOnNavClick: false, // Boolean: Close the navigation when one of the links are clicked
+	  openPos: "relative", // String: Position of the opened nav, relative or static
+	  navClass: "nav-collapse", // String: Default CSS class. If changed, you need to edit the CSS too!
+	  navActiveClass: "js-nav-active", // String: Class that is added to  element when nav is active
+	  jsClass: "js", // String: 'JS enabled' class which is added to  element
+	  init: function(){}, // Function: Init callback
+	  open: function(){}, // Function: Open callback
+	  close: function(){} // Function: Close callback
+	});
+</script></div><!-- end menumobile -->
+        
+        <div class="clearfix"></div>
+
+            <div id="headtop" class="navbar navbar-default navbar-fixed-top">
+	            <div class="container">
+	                <div id="cab1" class="col-xs-6 clearfix"><div class=""><div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-menu-topo-container"><ul id="menu-menu-topo" class="menu"><li id="menu-item-89750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-89750"><a href="http://www5.usp.br/">Home</a></li>
+<li id="menu-item-89925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89925"><a href="/servicos/">Serviços</a></li>
+<li id="menu-item-89711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89711"><a href="http://www5.usp.br/ensino/graduacao/como-estudar-na-usp/">Estude na USP</a></li>
+<li id="menu-item-89713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89713"><a href="http://www.usp.br/mapas">USP Mapas</a></li>
+</ul></div></div></div></div>
+	                <div id="cab2" class="col-xs-4 clearfix" style="text-align: right;"><div id="text-3" class="widget widget_text">			<div class="textwidget"><a href="/english/?lang=en" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/bandeira-en.png"></a> <a href="/fale-com-a-usp/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/t-email.png"></a> <a href="https://twitter.com/usponline" style="padding-right:7px;" target="_blank"><img src="http://www5.usp.br/wp-content/uploads/t-twitter.png"></a> <a href="https://www.facebook.com/usponline?_rdr" target="_blank" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/t-fb.png"></a> <a href="https://www.youtube.com/user/usponline" style="padding-right:7px;" target="_blank"><img src="http://www5.usp.br/wp-content/uploads/t-youtube.png"></a> <a href="https://plus.google.com/111234737890785507130/posts" style="padding-right:7px;" target="_blank"><img src="http://www5.usp.br/wp-content/uploads/t-gplus.png"></a> <a href="/gerar-feed/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/t-rss.png"></a></div>
+		</div></div>
+                <div id="buscatop" class="col-xs-2 clearfix">
+                    <form class="navbar-form navbar-right" role="search" method="get" id="searchform" action="http://www5.usp.br/">
+                    <div class="form-group">
+                    <input name="s" id="s" type="hidden" onblur="this.form.pass=this.value">
+                    <input name="q" id="q" type="text" class="search-query form-control" autocomplete="off" placeholder="Busca...">
+                    
+                    </div>
+                    </form>
+                </div><!-- end buscatop -->
+                
+
+	            </div>
+            </div><!-- end navbar   style="margin-top:5px; padding-right:0px; border: 1px solid #666; width: 200px; float:left;"   -->
+            
+            <div id="logousp" class="container">
+                <div id="logouspA" class="col-xs-2 clearfix" style="margin-top:5px; padding-right:0px;"><a href="http://www5.usp.br"><img src="http://www5.usp.br/wp-content/themes/usp2015/images/usp-logo.png" title="USP - Universidade de São Paulo" class="img-responsive" ></a></div>
+                <div id="logouspB" class="col-xs-2 clearfix">
+                                    <a href="http://www5.usp.br"><img src="http://www5.usp.br/wp-content/themes/usp2015/images/usp-logo-texto.png" title="USP &#8211; Universidade de São Paulo" class="img-responsive2"></a>
+                    <a href="/fale-com-a-usp/" title="Fale com a USP"><img src="http://www5.usp.br/wp-content/themes/usp2015/images/usp-logo-texto-email.png"></a>
+                                    </div>        
+                <div id="cabecalho3" style="text-align:right; vertical-align: top;" class="">
+				<div id="text-5" class="widget widget_text">			<div class="textwidget"><a href="http://email.usp.br/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/b-webmail.png"></a> <a href="https://uspdigital.usp.br/wsusuario/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/b-sistemas.png"></a> <a href="http://www.transparencia.usp.br/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/b-transparencia.png"></a></div>
+		</div>                <div class=""><ul id="menu-menu-paginas-1" class="nav navbar-nav"><li id="menu-item-89848" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www5.usp.br/ensino/" class="dropdown-toggle" data-toggle="dropdown">Ensino<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-89849" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/ensino/graduacao/">Graduação</a></li>
+	<li id="menu-item-89850" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/ensino/pos-graduacao/">Pós-graduação</a></li>
+	<li id="menu-item-89851" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/ensino/educacao-a-distancia/">Educação a distância</a></li>
+	<li id="menu-item-89852" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/ensino/cursos-de-extensao/">Cursos de extensão</a></li>
+</ul>
+</li>
+<li id="menu-item-89853" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www5.usp.br/pesquisa/" class="dropdown-toggle" data-toggle="dropdown">Pesquisa<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-89854" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/pesquisa/pesquisa-na-usp/">Pesquisa na USP</a></li>
+	<li id="menu-item-89855" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/pesquisa/inovacao-tecnologica/">Inovação tecnológica</a></li>
+	<li id="menu-item-89856" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/pesquisa/bibliotecas/">Bibliotecas</a></li>
+	<li id="menu-item-89857" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/pesquisa/acervos-online/">Acervos online</a></li>
+</ul>
+</li>
+<li id="menu-item-89858" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www5.usp.br/extensao/" class="dropdown-toggle" data-toggle="dropdown">Extensão<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-89859" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/extensao/artes-e-esportes/">Artes e esportes</a></li>
+	<li id="menu-item-89860" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/extensao/saude/">Saúde</a></li>
+	<li id="menu-item-89861" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/extensao/museus/">Museus</a></li>
+</ul>
+</li>
+<li id="menu-item-89862" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www5.usp.br/institucional/" class="dropdown-toggle" data-toggle="dropdown">Institucional<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-89863" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/a-usp/">A USP</a></li>
+	<li id="menu-item-95010" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.leginf.usp.br/?resolucao=resolucao-no-4871-de-22-de-outubro-de-2001">Código de Ética da USP</a></li>
+	<li id="menu-item-89864" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/organizacao-administrativa/">Organização administrativa</a></li>
+	<li id="menu-item-89865" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/escolas-faculdades-e-institutos/">Escolas, Faculdades e Institutos</a></li>
+	<li id="menu-item-89866" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/cooperacao-internacional/">Cooperação internacional</a></li>
+	<li id="menu-item-89867" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/concursos-e-licitacoes/">Concursos e licitações</a></li>
+</ul>
+</li>
+<li id="menu-item-109102" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://jornal.usp.br">Notícias</a></li>
+</ul></div>
+                </div>
+            </div><!--end logousp -->
+            
+            <div id="logousp2" class="container"  style="background-color:#FFF;">
+                <div id="logouspA" class="col-xs-3 clearfix" style="margin-top:5px; padding-right:0px;"><a href="http://www5.usp.br"><img src="http://www5.usp.br/wp-content/themes/usp2015/images/usp-logo.png" class="img-responsive" title="USP - University of São Paulo"></a></div>
+                <div id="logouspB" class="col-xs-8 clearfix">
+                    <a href="http://www5.usp.br"><img src="http://www5.usp.br/wp-content/themes/usp2015/images/usp-logo-texto.png" title="USP &#8211; Universidade de São Paulo" class="img-responsive" ></a>
+                    <a href="/english/talk-to-usp/?lang=en" title="Talk to USP"><img src="http://www5.usp.br/wp-content/themes/usp2015/images/usp-logo-texto-email.png" class="img-responsive" ></a>
+                </div>        
+                <div id="cabecalho3" class="col-xs-4 " style="text-align:right; vertical-align: top;"><div id="text-5" class="widget widget_text">			<div class="textwidget"><a href="http://email.usp.br/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/b-webmail.png"></a> <a href="https://uspdigital.usp.br/wsusuario/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/b-sistemas.png"></a> <a href="http://www.transparencia.usp.br/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/b-transparencia.png"></a></div>
+		</div>                <ul id="menu-menu-paginas-2" class="nav navbar-nav"><li id="menu-item-89848" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www5.usp.br/ensino/" class="dropdown-toggle" data-toggle="dropdown">Ensino<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-89849" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/ensino/graduacao/">Graduação</a></li>
+	<li id="menu-item-89850" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/ensino/pos-graduacao/">Pós-graduação</a></li>
+	<li id="menu-item-89851" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/ensino/educacao-a-distancia/">Educação a distância</a></li>
+	<li id="menu-item-89852" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/ensino/cursos-de-extensao/">Cursos de extensão</a></li>
+</ul>
+</li>
+<li id="menu-item-89853" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www5.usp.br/pesquisa/" class="dropdown-toggle" data-toggle="dropdown">Pesquisa<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-89854" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/pesquisa/pesquisa-na-usp/">Pesquisa na USP</a></li>
+	<li id="menu-item-89855" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/pesquisa/inovacao-tecnologica/">Inovação tecnológica</a></li>
+	<li id="menu-item-89856" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/pesquisa/bibliotecas/">Bibliotecas</a></li>
+	<li id="menu-item-89857" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/pesquisa/acervos-online/">Acervos online</a></li>
+</ul>
+</li>
+<li id="menu-item-89858" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www5.usp.br/extensao/" class="dropdown-toggle" data-toggle="dropdown">Extensão<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-89859" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/extensao/artes-e-esportes/">Artes e esportes</a></li>
+	<li id="menu-item-89860" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/extensao/saude/">Saúde</a></li>
+	<li id="menu-item-89861" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/extensao/museus/">Museus</a></li>
+</ul>
+</li>
+<li id="menu-item-89862" class="dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www5.usp.br/institucional/" class="dropdown-toggle" data-toggle="dropdown">Institucional<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-89863" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/a-usp/">A USP</a></li>
+	<li id="menu-item-95010" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.leginf.usp.br/?resolucao=resolucao-no-4871-de-22-de-outubro-de-2001">Código de Ética da USP</a></li>
+	<li id="menu-item-89864" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/organizacao-administrativa/">Organização administrativa</a></li>
+	<li id="menu-item-89865" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/escolas-faculdades-e-institutos/">Escolas, Faculdades e Institutos</a></li>
+	<li id="menu-item-89866" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/cooperacao-internacional/">Cooperação internacional</a></li>
+	<li id="menu-item-89867" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www5.usp.br/institucional/concursos-e-licitacoes/">Concursos e licitações</a></li>
+</ul>
+</li>
+<li id="menu-item-109102" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://jornal.usp.br">Notícias</a></li>
+</ul></div>
+            </div><!--end logousp2 -->
+
+            <div class="clearfix " style="height:10px;"></div>
+            <script src="http://www5.usp.br/wp-content/themes/usp2015/library/jquery.simplyscroll.min.js"></script>
+ 
+
+<div class="ticker-section "  style="background-color:#FFF;">
+	<script>
+		jQuery(document).ready(function($) {
+			$(".ticker").show();
+			$(function() {
+//				$("#ticker-posts").simplyScroll();
+		$("#ticker-posts").simplyScroll({
+				auto: true,
+					speed: 2
+				});
+			});
+		});
+</script>
+
+<div class="inner-wrap ">
+		<div class="ticker">
+			
+			<div id="tickertit" class="title"><span class="main-color"><a href="http://www.eventos.usp.br/" style="color:#cc0000; font-weight:bold;" target="_blank">Eventos</a></span> <b>USP</b></div>		
+			
+			<ul id="ticker-posts"><li class='od-li'>» <small>14/09/2018</small> - <a title='Harry Potter é tema de curso gratuito na USP' href='http://www.eventos.usp.br/?events=harry-potter-e-tema-de-curso-gratuito-na-usp' target='_blank' class='od-link-title'>Harry Potter é tema de curso gratuito na USP</a></li><li class='od-li'>» <small>14/09/2018</small> - <a title='Palestra na USP discute uso da lenha para cocção e seus impactos' href='http://www.eventos.usp.br/?events=palestra-na-usp-discute-uso-da-lenha-para-coccao-e-seus-impactos' target='_blank' class='od-link-title'>Palestra na USP discute uso da lenha para cocção e seus impactos</a></li><li class='od-li'>» <small>14/09/2018</small> - <a title='Fake news, jornalismo e democracia são assunto de debate na USP' href='http://www.eventos.usp.br/?events=fake-news-jornalismo-e-democracia-sao-assunto-de-debate-na-usp' target='_blank' class='od-link-title'>Fake news, jornalismo e democracia são assunto de debate na USP</a></li><li class='od-li'>» <small>14/09/2018</small> - <a title='Evento na USP discute obra de Michel Butor, crítico de Proust' href='http://www.eventos.usp.br/?events=evento-na-usp-discute-obra-de-michel-butor-critico-de-proust' target='_blank' class='od-link-title'>Evento na USP discute obra de Michel Butor, crítico de Proust</a></li><li class='od-li'>» <small>14/09/2018</small> - <a title='Liderança do futuro é tema de workshop na Arena Santander' href='http://www.eventos.usp.br/?events=lideranca-do-futuro-e-tema-de-workshop-na-arena-santander' target='_blank' class='od-link-title'>Liderança do futuro é tema de workshop na Arena Santander</a></li><li class='od-li'>» <small>14/09/2018</small> - <a title='Impacto de proteínas de ligação ao RNA é tema de seminário na USP em Ribeirão Preto' href='http://www.eventos.usp.br/?events=impacto-de-proteinas-de-ligacao-ao-rna-e-tema-de-seminario-na-usp-em-ribeirao-preto' target='_blank' class='od-link-title'>Impacto de proteínas de ligação ao RNA é tema de seminário na USP em Ribeirão Preto</a></li><li class='od-li'>» <small>14/09/2018</small> - <a title='Roda de conversa com a poeta Sónia Sultuane é realizada na USP' href='http://www.eventos.usp.br/?events=roda-de-conversa-com-a-poeta-sonia-sultuane-e-realizada-na-usp' target='_blank' class='od-link-title'>Roda de conversa com a poeta Sónia Sultuane é realizada na USP</a></li><li class='od-li'>» <small>14/09/2018</small> - <a title='Biblioteca Brasiliana promove "Recital Clarinete &#038; Violino"' href='http://www.eventos.usp.br/?events=biblioteca-brasiliana-promove-recital-clarinete-violino' target='_blank' class='od-link-title'>Biblioteca Brasiliana promove "Recital Clarinete &#038; Violino"</a></li><li class='od-li'>» <small>14/09/2018</small> - <a title='Evento na USP discute polarização e violência política no Brasil atual' href='http://www.eventos.usp.br/?events=evento-na-usp-discute-polarizacao-e-violencia-politica-no-brasil-atual' target='_blank' class='od-link-title'>Evento na USP discute polarização e violência política no Brasil atual</a></li><li class='od-li'>» <small>15/09/2018</small> - <a title='CORALUSP canta Beatles no Museu de Arte Contemporânea' href='http://www.eventos.usp.br/?events=coralusp-canta-beatles-no-museu-de-arte-contemporanea' target='_blank' class='od-link-title'>CORALUSP canta Beatles no Museu de Arte Contemporânea</a></li></ul>
+
+		</div>		
+	</div>
+</div><!-- /ticker-section -->
+<div class="sep-"></div>
+<style>
+.od-link-cat {
+}
+.sep-en {
+	border-bottom: 1px #999 solid;
+	width: 100%;
+	max-width: 1120px;
+	text-align: center;
+	margin: auto;
+	margin-top: 15px;
+}
+
+/*=== Ticker ===*/
+.inner-wrap{	
+	position: relative;
+/*	width: 1140px; */
+	padding-right: 20px;
+	margin: 0 auto;	
+	overflow: hidden;
+}
+.ticker-section{
+	max-width: 1140px; 
+	padding-right: 20px;
+	margin: 0 auto;	
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #999;
+}
+.ticker{
+	overflow: hidden;
+	display: none;	
+	height: 35px;
+}
+
+.ticker .title{
+	float: left;
+	max-width: 150px;
+	position: relative; 
+	font-weight: 200;
+	text-transform: uppercase;
+	padding: 3px 15px;
+	margin-top: 6px;
+	z-index: 3;
+	font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, Sans-Serif;	
+}
+
+.ticker .title i{
+	color: #BBBBBB;
+	margin-right: 5px;
+}
+
+.ticker .title span{
+	font-weight: 700;
+}
+
+.simply-scroll-container{
+	position: relative;
+}
+
+.simply-scroll-clip{
+	position: relative;
+	overflow: hidden;
+}
+
+.simply-scroll-list{
+	overflow: hidden;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0;
+	list-style: none;
+}
+
+.simply-scroll-list li{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.simply-scroll .simply-scroll-clip{
+	height: 20px;
+	margin-top: 10px;
+	line-height: 1.3;
+}
+
+.simply-scroll .simply-scroll-list li{
+	float: left;
+	margin-right: 32px;
+}
+
+</style><!--end header-ticker -->
+            <div class="clearfix" style="height:10px;"></div>
+
+		</header> <!-- end header -->
+        <div class="clearfix"></div>
+<style>
+#cabecalho3 .widget{
+	margin-bottom: 5px;	
+}
+
+#logouspB img{
+	padding: 0px;
+	margin: 0px;
+	vertical-align: top;
+}
+.navbar-form{
+	margin-top: -2px;
+}
+.form-control{
+	height: 28px;
+}
+
+#headtop .container {
+	height: 50px;
+	line-height: 62px;
+	font-size: 95%;
+}
+#logousp {
+	min-height: 80px;
+	margin-top: 5px;
+}
+#logousp .container {
+	line-height: 12px;
+}
+#nav_menu-3 {
+	color: #FFF;
+	font-size: 90%;
+}
+#nav_menu-3 ul {
+	margin: 0;
+	padding:0;
+}
+#nav_menu-3 ul li{
+	display: inline;
+    margin-right: 5px;
+ }
+#nav_menu-3 ul li:before {
+  content: '• ';
+}
+#nav_menu-3 a{
+	color: #FFF;
+}
+.navbar-nav {
+	float: right;
+}
+.nav > li{
+	background-color:#3d5466;
+	margin-right: 10px;
+	margin-top: 10px;
+	font-size: 90%;
+	font-weight: bold;
+}
+.navbar-nav > li > a {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color:#FFF;
+}
+.navbar-nav > li > a:hover {
+	background-color:#3d5466;
+}
+.nav > li:nth-of-type(1) {
+    background-color: ##3d5466;
+}
+.nav > li:nth-of-type(2) {
+    background-color: #d1782b;
+}
+.nav > li:nth-of-type(3) {
+    background-color: #4863b0;
+}
+.nav > li:nth-of-type(4) {
+    background-color: #1094ab;
+}
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: #273845;
+    border-color: #273845;
+}
+.dropdown-menu > li > a {
+	font-size: 90%;
+}
+
+/* mais que 760 */
+@media screen and (min-width: 760px) {
+	#logousp {
+		display: block;
+	}
+	#logousp2 {
+		display: none;
+	}
+	#menumobile {
+		display: none;
+	}
+}
+
+/* Tamanho menos 760 */
+@media screen and (max-width: 760px) {
+/* 17-04 */
+.container {
+	padding-left: 0;
+	padding-right: 0;
+}
+.navbar-form{
+	margin-top: 5px;
+}
+/* end 17-04 */	
+	
+	body {
+    padding-top: 0px;
+	}
+	#logousp {
+		display: none;
+	}
+	#logousp2 {
+		display: block;
+	}
+	#cabecalho3 {
+		display: none;		
+	}
+	#buscatop {
+		display: none;
+	}
+	#cab1 {
+		display: none;
+	}
+	#cab2 {
+		display: none;
+	}
+	#headtop {
+		display: none; 
+	}
+	#menumobile {
+		display: block;
+	}
+}
+</style>		
+		<div class="container" style="background-color:#FFF;">			
+			<div id="content" class="clearfix row">
+			
+				<div id="main" class="col-sm-12 clearfix" role="main">
+
+					<article id="post-not-found" class="clearfix">
+						
+						<header>
+
+							<div class="hero-unit">
+							
+								<h1>Epic 404 - Artigo não encontrado</h1>
+								<p>Não foi possível encontrar o que você está procurando.</p>
+															
+							</div>
+													
+						</header> <!-- end article header -->
+					
+						<section class="post_content">
+							
+							<p>O que você está tentando acessar não foi encontrado, mas talvez você encontre o que procura fazendo uma busca abaixo.</p>
+
+							<div class="row">
+								<div class="col col-lg-12">
+									<form action="http://www5.usp.br/" method="get" class="form-inline">
+    <fieldset>
+		<div class="input-group">
+			<input type="text" name="s" id="search" placeholder="Busca" value="" class="form-control" />
+            <input type="hidden" name="q" id="search" placeholder="Busca" value="" class="form-control" />
+			<span class="input-group-btn">
+				<button type="submit" class="btn btn-default">Busca</button>
+			</span>
+		</div>
+    </fieldset>
+</form>								</div>
+							</div>
+					
+						</section> <!-- end article section -->
+						
+						<footer>
+							
+						</footer> <!-- end article footer -->
+					
+					</article> <!-- end article -->
+			
+				</div> <!-- end #main -->
+    
+			</div> <!-- end #content -->
+
+<div class="zebrado">.</div>
+<div style="clear:both"></div>
+<hr />
+<footer role="contentinfo">
+	<div id="footer1" class="col-md-6 col-sm-6 col-xs-12 clearfix" role="main">
+    <img class="img-responsive" src="http://www5.usp.br/wp-content/themes/usp2015/images/logo-footer.png" style="margin-bottom: 18px;"/>
+    <div class="clearfix"></div>
+    	<div id="nav_menu-11" class="widget widget_nav_menu"><div class="menu-menu-rodape-container"><ul id="menu-menu-rodape" class="menu"><li id="menu-item-89837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89837"><a href="http://www5.usp.br/creditos/">Créditos</a></li>
+<li id="menu-item-89838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89838"><a href="http://www5.usp.br/fale-com-a-usp/">Fale com a USP</a></li>
+<li id="menu-item-89839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89839"><a href="http://www5.usp.br/direitos-autorais/">Direitos autorais</a></li>
+</ul></div></div><div id="text-4" class="widget widget_text">			<div class="textwidget"><a href="/english/?lang=en" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/bandeira-en1.png"></a> <a href="/fale-com-a-usp/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/b-email.png"></a> <a href="https://twitter.com/usponline" style="padding-right:7px;" target="_blank"><img src="http://www5.usp.br/wp-content/uploads/b-twitter.png"></a> <a href="https://www.facebook.com/usponline?_rdr" target="_blank" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/b-fb.png"></a> <a href="https://www.youtube.com/user/usponline" style="padding-right:7px;" target="_blank"><img src="http://www5.usp.br/wp-content/uploads/b-youtube.png"></a> <a href="https://plus.google.com/111234737890785507130/posts" style="padding-right:7px;" target="_blank"><img src="http://www5.usp.br/wp-content/uploads/b-gplus.png"></a> <a href="/gerar-feed/" style="padding-right:7px;"><img src="http://www5.usp.br/wp-content/uploads/b-rss.png"></a></div>
+		</div>        </div>
+    
+    <div id="footer2" class="col-md-3 col-sm-3 col-xs-12 clearfix " role="main">
+    <div class="zebrado"><span class="tit-canais not-cor">Acesso rápido</span></div>
+	<div id="text-6" class="widget widget_text">			<div class="textwidget"><a href="https://uspdigital.usp.br/telefonia/listaTelefonica"><img src="http://www5.usp.br/wp-content/uploads/telefones-ramais.png" style="margin-bottom: 10px;" class="img-responsive"></a><a href="https://uspdigital.usp.br/urania/pessoaListar?incfonema=sim&codund=0&nomabvset=&incalu=aluno&incfun=funcionario&incdoc=docente"><img src="http://www5.usp.br/wp-content/uploads/busca-pessoas.png" style="margin-bottom: 10px;" class="img-responsive"></a><a href="http://buscaintegrada.usp.br/primo_library/libweb/action/search.do"><img src="http://www5.usp.br/wp-content/uploads/busca-bibliotecas.png" style="margin-bottom: 10px;" class="img-responsive"></a><a href="https://uspdigital.usp.br/anuario/"><img src="http://www5.usp.br/wp-content/uploads/usp-em-numeros.png" style="margin-bottom: 10px;" class="img-responsive"></a> </div>
+		</div>    </div>
+    
+    <div id="footer3" class="col-md-3 col-sm-3 col-xs-12 clearfix " role="main">
+	<div id="nav_menu-10" class="widget widget_nav_menu"><h4 class="Menu personalizado">Comunicação Social</h4><div class="menu-menu-scs-container"><ul id="menu-menu-scs" class="menu"><li id="menu-item-89767" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89767"><a href="http://www.jornal.usp.br">Jornal da USP</a></li>
+<li id="menu-item-89768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89768"><a href="http://www.eventos.usp.br">Eventos USP</a></li>
+<li id="menu-item-89769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89769"><a href="http://imagens.usp.br">Imagens USP</a></li>
+<li id="menu-item-89770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89770"><a href="http://usp.br">Portal da USP</a></li>
+<li id="menu-item-89771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89771"><a href="http://jornal.usp.br/radio/">Rádio USP</a></li>
+<li id="menu-item-89773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89773"><a href="http://jornal.usp.br/revista-usp/">Revista USP</a></li>
+<li id="menu-item-95012" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95012"><a href="http://www.imprensa.usp.br">Sala de Imprensa</a></li>
+</ul></div></div>    </div>
+<div class="clearfix"></div>
+<!--/teste data -->
+</footer>
+<style>
+#nav_menu-11 ul {
+	list-style-type:disc;
+	color: #1094ab;
+	margin: 0;
+	padding:0;
+	font-weight: bold;
+}
+#nav_menu-11 ul li{
+	display: inline;
+    margin-right: 10px;
+ }
+ 
+#nav_menu-11 ul li:before {
+  content: '• ';
+}
+
+#nav_menu-11 a{
+	color: #1094ab;
+}
+
+
+footer {
+	font-size: 90%;
+}
+/*
+#nav_menu-9 ul li a {
+text-decoration: none;
+padding: .2em 1em;
+color: #fff;
+background-color: #036;
+}
+#nav_menu-9 ul li a:hover {
+color: #fff;
+background-color: #369;
+}
+*/
+
+
+/* Tamanho menor q 340 */
+@media screen and (max-width: 360px) {
+	#tickertit {
+		display: none;
+	}
+	.inner-wrap{
+		padding-right:0px;
+		padding-left: 20px;
+	}
+	#destaques .widget_sp_image  {
+	width: 100%;
+	}
+	#imprensa, #noticias {
+		width: 100%
+	}
+	#ensino .widget_sp_image  {
+	width: 100%;
+	}
+	#ensino .widget_nav_menu  {
+	width: 100%; 
+	}
+	#pesquisa .widget_sp_image  {
+	width: 100%;
+	}
+	#pesquisa .widget_sp_image:nth-of-type(2) {
+    width: 100%;
+	}
+	#pesquisa .widget_nav_menu  {
+	width: 100%; 
+	}
+	#extensao .widget_sp_image  {
+	width: 100%;
+	}
+	#extensao .widget_nav_menu  {
+	width: 100%; 
+	}
+	#institucional1 .widget_sp_image  {
+	width: 100%;
+	}
+	#institucional2, #institucional3 {
+		width: 100%;
+		padding-left: 0px;
+	}
+	footer {
+		font-size: 80%;
+	}
+}
+
+/* Tamanho entre 361 e 817 */
+@media screen and (min-width: 361px) and (max-width: 617px) { 
+	#tickertit {
+
+	}	
+	#ensino .widget_sp_image  {
+	width: 45%;
+	min-height: 200px;
+	}
+	#ensino .widget_nav_menu  {
+	width: 45%; 
+	}
+	
+	#pesquisa .widget_sp_image  {
+	width: 45%;
+	}
+	#pesquisa .widget_sp_image:nth-of-type(2) {
+    width: 45%;
+	}
+	#pesquisa .widget_nav_menu  {
+	width: 45%; 
+	}
+	
+	#extensao .widget_sp_image  {
+	width: 45%;
+	}
+	#extensao .widget_nav_menu  {
+	width: 45%; 
+	}
+	
+	#institucional2{
+	width: 100%;
+	padding-left: 0px;
+	}
+	#institucional2 .widget_sp_image  {
+	width: 45%;
+	}
+	
+	#institucional3{
+	padding-left: 0px;
+	}
+	#institucional3 .widget_sp_image  {
+	width: 45%;
+	}
+
+}
+@media screen and (min-width: 618px) and (max-width: 993px) { 
+	#tickertit {
+	}
+	.navbar-right {
+	margin-right: -50px;
+	}
+	#cabecalho3 {
+		margin-top: 55px;
+	}
+	
+	#destaques .widget_sp_image{
+		width: 100%
+	}
+	
+	#ensino .widget_sp_image  {
+	width: 40%;
+	margin-right: 50px;
+	min-height: 200px;
+	}
+	#ensino .widget_nav_menu  {
+	width: 40%; 
+	margin-right: 50px;
+	}
+	
+	#pesquisa .widget_sp_image  {
+	width: 40%;
+	min-height: 200px;
+	margin-right: 50px;
+	}
+	#pesquisa .widget_sp_image:nth-of-type(2) {
+    width: 40%;
+	margin-right: 50px;
+	}
+	#pesquisa .widget_nav_menu  {
+	width: 40%; 
+	}
+	
+	#extensao .widget_sp_image  {
+	width: 40%;
+	min-height: 200px;
+	margin-right: 50px;	
+	}
+	#extensao .widget_nav_menu  {
+	width: 40%; 
+	margin-right: 50px;
+	}
+
+}
+
+</style>
+
+		<footer role="contentinfo">		
+								
+			<p class="pull-right">Desenvolvido por <a href="http://www.scs.usp.br/?p=86" title="Mídias Online">USP\Mídias Online</a></p>
+			
+			<p class="attribution">&copy; USP &#8211; Universidade de São Paulo</p>
+			
+			</div> <!-- end #inner-footer -->
+				
+		</footer> <!-- end footer -->
+		</div> <!-- end #container -->
+				
+		<!--[if lt IE 7 ]>
+  			<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+  			<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+		<![endif]-->
+		
+		<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.swipe.min.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.tile.min.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.video.min.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/libs/jquery-easing/jquery.easing.1.3.1.min.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/libs/magnific-popup/jquery.magnific-popup.min.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/templates/dark/script.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/templates/thumbnails/script.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/templates/usp/script.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-content/plugins/cyclone-slider-2/js/client.js?ver=2.9.7'></script>
+<script type='text/javascript' src='http://www5.usp.br/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
+
+	</body>
+
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching using disk
+
+ Served from: www5.usp.br @ 2018-09-14 15:45:01 by W3 Total Cache -->

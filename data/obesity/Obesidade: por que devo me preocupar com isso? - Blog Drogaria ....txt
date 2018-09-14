@@ -1,0 +1,2085 @@
+<!DOCTYPE html>
+<html lang="pt-BR"
+ xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://blog.araujo.com.br/novoblog/xmlrpc.php">
+<link rel="shortcut icon" href="http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/favicon.ico" type="image/x-icon"/> 
+
+<meta name="google-site-verification" content="yJMb7_VyAAR5zVLKiZnpiZZV_B2Ub9_XRR9KHGxbLSI" /> 
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<title>Página não encontrada - Blog Drogaria Araujo</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Página não encontrada - Blog Drogaria Araujo" />
+<meta property="og:site_name" content="Blog Drogaria Araujo" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Página não encontrada - Blog Drogaria Araujo"/>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Feed para Blog Drogaria Araujo &raquo;" href="http://blog.araujo.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Blog Drogaria Araujo &raquo;" href="http://blog.araujo.com.br/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blog.araujo.com.br\/novoblog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='batch_css-css'  href='http://blog.araujo.com.br/novoblog/wp-content/plugins/batchmove/css/batch.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gp_theprint_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C700%2C400italic%2C700italic%7CPoppins%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='gp-theprint-main-style-css'  href='http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/style.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gp-theprint-font-awesome-css'  href='http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/css/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-lazyloadxt-spinner-css-css'  href='//blog.araujo.com.br/novoblog/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=4.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-content/plugins/batchmove/js/batch.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://blog.araujo.com.br/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.araujo.com.br/novoblog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.araujo.com.br/novoblog/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.3" />
+<meta property="fb:app_id" content="1737399609876148"/><script type="text/javascript">
+!function(t,e,s){"use strict";function a(t){t=t||{};var e="https://track.atom-data.io/",s="1.0.1";this.options={endpoint:!!t.endpoint&&t.endpoint.toString()||e,apiVersion:s,auth:t.auth?t.auth:""}}function n(t,e){this.endpoint=t.toString()||"",this.params=e||{},this.headers={contentType:"application/json;charset=UTF-8"},this.xhr=XMLHttpRequest?new XMLHttpRequest:new ActiveXObject("Microsoft.XMLHTTP")}function r(t,e,s){this.error=t,this.response=e,this.status=s}t.IronSourceAtom=a,a.prototype.putEvent=function(t,e){if(t=t||{},!t.table)return e("Stream is required",null);if(!t.data)return e("Data is required",null);t.apiVersion=this.options.apiVersion,t.auth=this.options.auth;var s=new n(this.options.endpoint,t);return t.method&&"GET"===t.method.toUpperCase()?s.get(e):s.post(e)},a.prototype.putEvents=function(t,e){if(t=t||{},!t.table)return e("Stream is required",null);if(!(t.data&&t.data instanceof Array&&t.data.length))return e("Data (must be not empty array) is required",null);t.apiVersion=this.options.apiVersion,t.auth=this.options.auth;var s=new n(this.options.endpoint+"/bulk",t);return t.method&&"GET"===t.method.toUpperCase()?s.get(e):s.post(e)},a.prototype.health=function(t){var e=new n(this.options.endpoint,{table:"health_check",data:"null"});return e.get(t)},"undefined"!=typeof module&&module.exports&&(module.exports={IronSourceAtom:a,Request:n,Response:r}),n.prototype.post=function(t){if(!this.params.table||!this.params.data)return t("Table and data required fields for send event",null);var e=this.xhr,s=JSON.stringify({data:this.params.data,table:this.params.table,apiVersion:this.params.apiVersion,auth:this.params.auth});e.open("POST",this.endpoint,!0),e.setRequestHeader("Content-type",this.headers.contentType),e.setRequestHeader("x-ironsource-atom-sdk-type","js"),e.setRequestHeader("x-ironsource-atom-sdk-version","1.0.1"),e.onreadystatechange=function(){if(e.readyState===XMLHttpRequest.DONE){var s;e.status>=200&&e.status<400?(s=new r(!1,e.response,e.status),!!t&&t(null,s.data())):(s=new r(!0,e.response,e.status),!!t&&t(s.err(),null))}},e.send(s)},n.prototype.get=function(t){if(!this.params.table||!this.params.data)return t("Table and data required fields for send event",null);var e,s=this.xhr,a=JSON.stringify({table:this.params.table,data:this.params.data,apiVersion:this.params.apiVersion,auth:this.params.auth});try{e=btoa(a)}catch(n){}s.open("GET",this.endpoint+"?data="+e,!0),s.setRequestHeader("Content-type",this.headers.contentType),s.setRequestHeader("x-ironsource-atom-sdk-type","js"),s.setRequestHeader("x-ironsource-atom-sdk-version","1.0.1"),s.onreadystatechange=function(){if(s.readyState===XMLHttpRequest.DONE){var e;s.status>=200&&s.status<400?(e=new r(!1,s.response,s.status),!!t&&t(null,e.data())):(e=new r(!0,s.response,s.status),!!t&&t(e.err(),null))}},s.send()},r.prototype.data=function(){return this.error?null:JSON.parse(this.response)},r.prototype.err=function(){return{message:this.response,status:this.status}}}(window,document);
+
+var options = {
+  endpoint: 'https://track.atom-data.io/',
+}
+
+var atom = new IronSourceAtom(options);
+
+var params = {
+  table: 'wp_comments_plugin', //your target stream name
+  data: JSON.stringify({
+    'domain': window.location.hostname,
+    'url': window.location.protocol + "//" + window.location.host + "/" + window.location.pathname,
+    'lang': window.navigator.userLanguage || window.navigator.language,
+    'referrer': document.referrer || '',
+    'pn': 'fcp'
+  }), //String with any data and any structure.
+  method: 'POST' // optional, default "POST"
+}
+
+var callback = function() {};
+
+if ( Math.floor( Math.random() * 100 ) + 1 === 1 ) {
+  atom.putEvent(params, callback);
+}
+</script><script>(function(d, s, id){
+                 var js, fjs = d.getElementsByTagName(s)[0];
+                 if (d.getElementById(id)) {return;}
+                 js = d.createElement(s); js.id = id;
+                 js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+                 fjs.parentNode.insertBefore(js, fjs);
+               }(document, 'script', 'facebook-jssdk'));</script><style type="text/css">	.ssba {
+									
+									
+									
+									
+								}
+								.ssba img
+								{
+									width: 45px !important;
+									padding: 6px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+								}
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									border:0;
+									background: none;
+									
+									font-size: 	20px;
+									
+									font-weight: bold;
+								}
+								.fb_iframe_widget span { width: 100% !important; }</style>
+<!-- Start Of Script Generated By wp-addpub 1.2.7 -->
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-content/plugins/wp-addpub/swfobject.js?ver=4.5.3'></script>
+<!-- End Of Script Generated By wp-addpub 1.2.7 -->
+
+<style type="text/css">
+
+	/* Primary color */
+			a,a:hover,
+		.entry-rating .rating-score-box .score-description .score-box .score-total,
+		.entry-rating .rating-score-box .score-description .score-box .score-title {
+			color: #194283;
+		}
+
+		.entry-rating .rating-score-box .score-description .score-box {
+			border: 4px solid #194283;
+		}
+
+		.entry-rating .rating-breakdown .item .score-outer .score-line {
+			background: #194283;
+		}
+	
+	/* Secondary color */
+		.gp-theprint-recent-reviews-a ul li .featured-image .entry-review-badge,
+	.gp-theprint-recent-reviews-b ul li .featured-image .entry-review-badge,
+	.gp-theprint-recent-reviews-c ul li .featured-image .entry-review-badge,
+	.gp-theprint-recent-reviews-d ul li .featured-image .entry-review-badge,
+	.gp-theprint-recent-reviews-e ul li .entry-review-badge,
+	.gp-theprint-recent-reviews-f ul li .entry-review-badge,
+	.gp-theprint-recent-posts-e ul li .entry-counter, 
+	.gp-theprint-trending-posts-e ul li .entry-counter, 
+	.gp-theprint-recent-reviews-e ul li .entry-counter,
+	.gp-theprint-recent-reviews-e ul li .entry-date-review-badge .entry-review-bar-overlay,
+	.gp-theprint-recent-reviews-f ul li .entry-date-review-badge .entry-review-bar-overlay {
+		background-color: #ed1c24;
+	}
+	
+
+	/* Header style */
+			.gp-theprint-logo h1.site-title, 
+		.gp-theprint-logo p.site-title,
+		.gp-theprint-primary-navigation,
+		.gp-theprint-header-icons {
+			line-height: 3.750rem;
+		}
+
+		.gp-theprint-site-header {
+			margin-bottom: 0;
+		}
+
+		.gp-theprint-secondary-navigation {
+			font-size: 0.813rem;
+			margin-bottom: 1.563rem;
+			line-height: 2.500rem;
+		}
+	
+
+	/* Header background */
+			.gp-theprint-site-header,
+		.gp-theprint-search-bar {
+			background-color: #194283; 
+		}
+	
+
+	/* Header text color */
+	.gp-theprint-logo h1.site-title a, 
+	.gp-theprint-logo p.site-title a,
+	.gp-theprint-logo h1.site-title a:hover,
+	.gp-theprint-logo p.site-title a:hover,
+	.gp-theprint-primary-navigation ul li a,
+	.gp-theprint-primary-navigation ul li a:hover,
+	.gp-theprint-header-icons ul li a,
+	.gp-theprint-header-icons ul li a:hover {
+		color: #ffffff; 
+	}
+
+	button.menu-button span,
+	button.menu-button span:hover {
+		background-color: #ffffff;
+	}
+
+
+	/* Header background color style */
+			.gp-theprint-site-header {
+			background: #194283;
+		}
+	
+
+	/* Header shadow */
+	
+
+	/* Primary navigation hover style */
+	
+
+	/* Primary navigation dropmenu style */
+	
+
+	/* Secondary navigation background */
+	.gp-theprint-secondary-navigation {
+		background-color: ;
+	}
+	
+
+	/* Secondary navigation text color */
+	.gp-theprint-secondary-navigation ul li a,
+	.gp-theprint-secondary-navigation ul li a:hover {
+		color: ;
+	}
+
+
+	/* Secondary navigation style */
+			.gp-theprint-secondary-navigation {
+			background-color: ;
+		}
+	
+
+	/* Secondary navigation hover style */
+	
+
+	/* Secondary navigation shadow */
+	
+
+	/* Secondary navigation dropmenu style */
+	
+
+	/* Featured posts - Entry shadow */
+	
+
+	/* Featured posts - Entry meta category */
+			.featured-post .entry-meta-category {
+			margin: 0 0 0.313rem;
+		}
+
+		.featured-post .entry-meta-category .entry-category a {
+			color: #ffffff;
+		}
+	
+
+	/* Staff posts - Background & color */
+	.gp-theprint-staff-posts h4.gp-theprint-staff-posts-title {
+		background-color: ;
+	}
+
+	.gp-theprint-staff-posts h4.gp-theprint-staff-posts-title {
+		color: ;
+	}
+
+
+	/* Staff posts background color style */
+	
+
+	/* Staff posts - Entry shadow */
+	
+
+	/* Staff posts - Entry meta category */
+			.staff-post .entry-meta-category {
+			margin-bottom: 0.313rem;
+		}
+
+		.staff-post .entry-meta-category .entry-category a {
+			color: #ffffff;
+		}
+	
+
+	/* Front posts - Entry title */
+	.hentry .entry-title a,
+	.gp-theprint-widget h5.entry-title a,
+	.entry-related-posts .entry-related-post h5 a,
+	.entry-recent-posts .entry-recent-post h5 a,
+	.gp-theprint-primary-navigation ul li div.sub-menu ul.sub-posts li a.entry-title,
+	.gp-theprint-secondary-navigation ul li div.sub-menu ul.sub-posts li a.entry-title {
+		color: ;
+	}
+
+	.hentry .entry-title a:hover,
+	.gp-theprint-widget h5.entry-title a:hover,
+	.entry-related-posts .entry-related-post h5 a:hover,
+	.entry-recent-posts .entry-recent-post h5 a:hover,
+	.gp-theprint-primary-navigation ul li div.sub-menu ul.sub-posts li a:hover.entry-title,
+	.gp-theprint-secondary-navigation ul li div.sub-menu ul.sub-posts li a:hover.entry-title {
+		color: ;
+	}
+
+
+	/* Front posts - Entry meta */
+	.hentry.front-post .entry-meta a,
+	.hentry.front-post .entry-meta a:hover {
+		color: ;
+	}
+
+
+	/* Front posts - Entry meta category */
+			.hentry.front-post .entry-meta-category a,
+		.hentry.front-post .entry-meta-category a:hover {
+			color: ;
+		}
+	
+
+	/* Front posts - Entry meta */
+	
+	.hentry.front-post .entry-meta a,
+	.hentry.front-post .entry-meta a:hover {
+		color: ;
+	}
+
+
+	/* Front posts - Entry share */
+	
+
+	/* Pagination background */
+	.gp-theprint-ajax-loading-button a {
+		background-color: ;
+	}
+
+
+	/* Pagination text color */
+	.gp-theprint-ajax-loading-button a {
+		color: #337ab7;
+	}
+
+
+	/* Pagination style */
+			.gp-theprint-ajax-loading-button a {
+			background-color: ;
+		}
+	
+
+	/* Homepage newsletter */
+			.gp-theprint-homepage-newsletter .newsletter-content form input[type="submit"],
+		.gp-theprint-homepage-newsletter .newsletter-content form input[type="button"],
+		.gp-theprint-homepage-newsletter .newsletter-content form button {
+			background-color: #337ab7;
+		}
+	
+
+	/* Sidebar newsletter */
+			.gp-theprint-newsletter-widget input[type="submit"], 
+		.gp-theprint-newsletter-widget input[type="button"], 
+		.gp-theprint-newsletter-widget button {
+			background-color: #337ab7;
+			color: ;
+		}
+
+		.gp-theprint-newsletter-widget input[type="submit"]:hover, 
+		.gp-theprint-newsletter-widget input[type="button"]:hover, 
+		.gp-theprint-newsletter-widget button:hover {
+			background: #333333;
+			color: #ffffff;
+		}
+	
+
+	/* Sidebar color style */
+			.gp-theprint-sidebar .gp-theprint-widget {
+			background: ;
+			padding: 1.563rem;
+		}
+	
+
+	/* Sidebar widget background */
+	h4.gp-theprint-widget-title span {
+		background-color: #194283;
+	}
+
+
+	/* Sidebar widget color */
+	h4.gp-theprint-widget-title,
+	h4.gp-theprint-widget-title a,
+	h4.gp-theprint-widget-title a:hover {
+		color: #194283;
+	}
+
+
+	/* Sidebar widget style */
+			h4.gp-theprint-widget-title {
+			font-size: 1.125rem;
+		}
+
+		h4.gp-theprint-widget-title span {
+			display: inline-block;
+			background: none;
+			border-top: 5px solid #194283;
+			line-height: 1;
+			padding: 0.625rem 0 0 0;
+		}
+	
+
+	/* Homepage widget background */
+	h1.gp-theprint-page-title span, 
+	h4.gp-theprint-page-title span,
+	.gp-theprint-homepage-widget-area-1 h4.gp-theprint-widget-title span,
+	.gp-theprint-homepage-widget-area-2 h4.gp-theprint-widget-title span,
+	.gp-theprint-homepage-widget-area-3 h4.gp-theprint-widget-title span {
+		background-color: #194283;
+	}
+
+
+	/* Homepage widget color */
+	h1.gp-theprint-page-title, 
+	h4.gp-theprint-page-title,
+	.gp-theprint-homepage-widget-area-1 h4.gp-theprint-widget-title,
+	.gp-theprint-homepage-widget-area-1 h4.gp-theprint-widget-title a,
+	.gp-theprint-homepage-widget-area-1 h4.gp-theprint-widget-title a:hover,
+	.gp-theprint-homepage-widget-area-2 h4.gp-theprint-widget-title,
+	.gp-theprint-homepage-widget-area-2 h4.gp-theprint-widget-title a,
+	.gp-theprint-homepage-widget-area-2 h4.gp-theprint-widget-title a:hover,
+	.gp-theprint-homepage-widget-area-3 h4.gp-theprint-widget-title,
+	.gp-theprint-homepage-widget-area-3 h4.gp-theprint-widget-title a,
+	.gp-theprint-homepage-widget-area-3 h4.gp-theprint-widget-title a:hover {
+		color: #194283;
+	}
+
+
+	/* Homepage widget style */
+			h1.gp-theprint-page-title,
+		h4.gp-theprint-page-title,
+		.gp-theprint-homepage-widget-area-1 h4.gp-theprint-widget-title,
+		.gp-theprint-homepage-widget-area-2 h4.gp-theprint-widget-title,
+		.gp-theprint-homepage-widget-area-3 h4.gp-theprint-widget-title {
+			font-size: 1.125rem;
+		}
+
+		h1.gp-theprint-page-title span,
+		h4.gp-theprint-page-title span,
+		.gp-theprint-homepage-widget-area-1 h4.gp-theprint-widget-title span,
+		.gp-theprint-homepage-widget-area-2 h4.gp-theprint-widget-title span,
+		.gp-theprint-homepage-widget-area-3 h4.gp-theprint-widget-title span {
+			display: inline-block;
+			background: none;
+			border-top: 5px solid #194283;
+			line-height: 1;
+			padding: 0.625rem 0 0 0;
+		}
+	
+
+	/* Entry block title */
+	
+
+	/* Footer background */
+	.gp-theprint-footer {
+		background-color: ;
+	}
+
+
+	/* Footer text color */
+	.gp-theprint-footer,
+	.gp-theprint-footer a,
+	.gp-theprint-footer a:hover,
+	.gp-theprint-footer-navigation ul li a,
+	.gp-theprint-footer-navigation ul li a:hover,
+	.gp-theprint-footer-icons ul li a,
+	.gp-theprint-footer-icons ul li a:hover {
+		color: ;
+	}
+
+
+	/* Footer color style */
+			.gp-theprint-footer {
+			background-color: ;
+		}
+	
+
+	/* Single post - Entry share */
+			.single-entry-share ul li {
+			margin-bottom: 5px;
+		}
+
+		.single-entry-share ul li a {
+			display: inline-block;
+			width: 2.625rem;
+			height: 2.625rem;
+			background-color: #ffffff;
+			font-size: 1.000rem;
+			line-height: 2.500rem;
+			color: #333333;
+			text-align: center;
+			text-decoration: none;
+			border: 1px solid #e9e9e9;
+		}
+
+		.single-entry-share-mobile ul li a {
+			display: inline-block;
+			background-color: #ffffff;
+			font-size: 1.000rem;
+			line-height: 2.500rem;
+			color: #333333;
+			text-align: center;
+			text-decoration: none;
+			border: 1px solid #e9e9e9;
+		}
+	
+
+	/* Single post - Entry meta category */
+			.entry-single.style-a .single-entry-meta-category a,
+		.entry-single.style-a .single-entry-meta-category a:hover,
+		.entry-single.style-b .single-entry-meta-category a,
+		.entry-single.style-b .single-entry-meta-category a:hover {
+			color: ;
+		}
+	
+
+	/* Single post - Entry meta */
+	
+	.entry-single.style-a .entry-meta a,
+	.entry-single.style-a .entry-meta a:hover,
+	.entry-single.style-b .entry-meta a,
+	.entry-single.style-b .entry-meta a:hover {
+		color: ;
+	}
+
+
+	/* Single post - Recent posts */
+			.entry-recent-post .entry-meta-category a,
+		.entry-recent-post .entry-meta-category a:hover {
+			color: ;
+		}
+	
+
+	/* Mobile menu */
+	
+
+	/* Background */
+	
+
+	/* Background image */
+	
+
+	/* Site cover */
+	
+</style>
+
+
+<style type="text/css">
+	
+	.option{
+		/*height: 50px;*/
+		margin: 10px 0;
+	}
+	.option input{
+		display: none;
+	}
+	.option label{
+		padding: 10px;
+		border: 1px solid #30699b;
+		display: block;
+		cursor: pointer;
+	}
+
+	.fill{
+		background-color: #30699b;
+		color: white;
+	}
+</style>
+
+
+			<link href='https://fonts.googleapis.com/css?family=Lato:400,700,700italic,400italic,300' rel='stylesheet' type='text/css'>	
+
+	<style type="text/css">
+	
+		/* Logo font */
+		
+		
+		
+		
+		
+
+		/* Primary navigation */
+					.gp-theprint-primary-navigation {
+				font-family: 'Lato', sans-serif;			}
+		
+					.gp-theprint-primary-navigation {
+				font-weight: 400;
+			}
+		
+		
+		
+
+		/* Secondary navigation */
+					.gp-theprint-secondary-navigation {
+				font-family: 'Lato', sans-serif;			}
+		
+					.gp-theprint-secondary-navigation {
+				font-weight: 700;
+			}
+		
+		
+		
+		/* Footer navigation */
+					.gp-theprint-footer-navigation {
+				font-family: 'Lato', sans-serif;			}
+		
+		
+		
+		
+
+		/* Headlines */
+					h1, h2, h3, h4, h5, h6,
+			button, input[type="button"], input[type="reset"], input[type="submit"],
+			.entry-rating .rating-score-box .score-description .score-box .score-total,
+			.entry-rating .rating-score-box .score-description .score-box .score-title,
+			.gp-theprint-pagination {
+				font-family: 'Lato', sans-serif;			}
+		
+					h1, h2, h3, h4, h5, h6,
+			.gp-theprint-primary-navigation ul li div.sub-menu ul.sub-posts li a.entry-title,
+			.gp-theprint-pagination {
+				font-weight: 400;
+			}
+		
+		
+		
+		
+
+		/* Widget titles */
+					.gp-theprint-staff-picks h4.gp-theprint-staff-title,
+			h1.gp-theprint-page-title, 
+			h4.gp-theprint-page-title,
+			h4.gp-theprint-widget-title,
+			.gp-theprint-homepage-widget-area-1 h4.gp-theprint-widget-title,
+			.gp-theprint-homepage-widget-area-2 h4.gp-theprint-widget-title,
+			.gp-theprint-homepage-widget-area-3 h4.gp-theprint-widget-title,
+			h4.gp-theprint-block-title,
+			.comment-title h3, 
+			#respond h3#reply-title {
+				font-family: 'Lato', sans-serif;			}
+		
+					.gp-theprint-staff-picks h4.gp-theprint-staff-title,
+			h1.gp-theprint-page-title, 
+			h4.gp-theprint-page-title,
+			h4.gp-theprint-widget-title,
+			.gp-theprint-homepage-widget-area-1 h4.gp-theprint-widget-title,
+			.gp-theprint-homepage-widget-area-2 h4.gp-theprint-widget-title,
+			.gp-theprint-homepage-widget-area-3 h4.gp-theprint-widget-title,
+			h4.gp-theprint-block-title,
+			.comment-title h3, 
+			#respond h3#reply-title {
+				font-weight: 600;
+			}
+		
+		
+		
+
+		/* Featured posts */
+					.featured-post h2.entry-title {
+				font-weight: 400;
+			}
+		
+		
+		
+		
+
+		/* Staff posts */
+		
+		
+		
+		
+
+		/* Entry meta category */
+					.entry-meta-category {
+				font-family: 'Lato', sans-serif;			}
+		
+		
+					.entry-meta-category {
+				text-transform: uppercase;
+			}
+		
+
+		/* Entry meta */
+					.entry-meta {
+				font-family: 'Lato', sans-serif;			}
+		
+		
+					.entry-meta {
+				text-transform: uppercase;
+			}
+		
+
+		/* Single entry title */
+		
+		
+		
+		
+
+		/* Body */
+					body {
+				font-family: 'Lato', sans-serif;			}
+		
+		
+	</style>
+<style type="">
+.gp-theprint-recent-post-d{
+	width: 33% !important;
+	float: left !important;
+	clear: none !important;
+}
+li.gp-theprint-recent-post-d:last-child{
+	width: 33% !important;
+	float: left !important;
+	clear: none !important;
+	padding-right: 0;
+	margin-right: 0;
+}
+#content-2{
+	width: 100% !important;
+}
+#content-2 .gp-theprint-recent-posts-a{
+	float: left !important;
+	width: 22% !important;
+	clear: none !important;
+	margin-right: 2%;
+}
+.gp-theprint-secondary-navigation {
+    background-color: #e6e9ec;
+}
+body {
+   	font-family: 'Open Sans', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: 0.3px;
+}
+.featured-post .entry-description {
+    display: block;
+    padding: 1.250rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 99;
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6, .gp-theprint-primary-navigation ul li div.sub-menu ul.sub-posts li a.entry-title, .gp-theprint-pagination {
+    font-weight: 600;
+}
+.gp-theprint-widget-title{
+	border: 1px solid #f3f4f5;
+	border-right: 0;
+	border-left: 0;
+	padding: 6px 0px 12px !important;
+}
+
+
+.gp-theprint-widget-title span{
+	border: 0 !important;
+}
+.gp-theprint-secondary-navigation ul li a {
+	padding: 6px 20px;
+    font-size: 15px;
+    letter-spacing: 2px;
+} 
+
+.gp-theprint-secondary-navigation ul li.menu-item-7428 a{
+	color: #6bb2b6;
+}
+
+.gp-theprint-secondary-navigation ul li.menu-item-7431 a{
+	color: #d61f1f;
+}
+.gp-theprint-secondary-navigation ul li.menu-item-7429 a{
+	color: #e78f0e;
+}
+.gp-theprint-secondary-navigation ul li.menu-item-7432 a{
+	color: #e56059;
+}
+.gp-theprint-secondary-navigation ul li.menu-item-757 a{
+	color: #c8988b;
+}
+.gp-theprint-secondary-navigation ul li.menu-item-767 a{
+	color: #5aa575;
+}
+.gp-theprint-secondary-navigation ul li.menu-item-7474 a{
+    color: #686868;
+}
+.gp-theprint-secondary-navigation ul li.menu-item-7919 a{
+    color: #194283;
+}
+
+@media(min-width: 1180px){
+	.gp-theprint-secondary-navigation ul li:first-child{
+		margin-left: 0;
+	}  
+}
+@media (max-width: 1075px){
+	.gp-theprint-secondary-navigation ul li a{
+		padding: 6px 10px !important;
+	}
+}
+
+.gp-theprint-site-header {
+    background: #194283;
+    padding: 5px 0 10px;
+
+}
+
+.gp-theprint-header-icons {
+    float: left;
+    padding-top: 16px;
+    
+}
+.logo-araujo{
+	float: right;
+	position: relative;
+	
+}
+
+li.gp-theprint-recent-post-d time{
+	display: none;
+}
+li.gp-theprint-recent-post-d h5 a{
+	font-size: 18px;
+	color: #6bb2b6 !important;
+}
+
+#gp_theprint_recent_posts_d-2 h4 span a{
+	color: #6bb2b6 !important; 
+}
+
+h5.chamadas-4{
+	margin: 10px 0 10px ;
+	border-top: 1px solid #f3f4f5;
+	padding: 18px 0 0;
+	font-size: 18px;
+}
+h5.chamadas-4 a{
+	font-size: 17px;
+}
+li:first-child h5.chamadas-4{
+	border-top: 0 !important;
+	padding-top: 0 !important;
+}
+.gp-theprint-footer {
+    font-size: 90%;
+    color: #ffffff;
+    overflow: hidden;
+    position: relative;
+    max-width: 1180px;
+    margin: 40px auto 0;
+    background: #30699b;
+}
+
+.gp-theprint-content {
+    float: left;
+    padding-right: 40px;
+}
+
+.gp-theprint-recent-posts-d ul li .featured-image {
+    float: none;
+    width: 100%;
+    margin: 0 0 0.625rem;
+    /*max-height: 158px;*/
+    overflow: hidden;
+}
+
+.gp-theprint-footer-navigation-copyright{
+	float: left;
+	width: 17%;
+	margin-right: 60px;
+}
+
+.gp-theprint-footer-navigation-copyright ul li{
+	display: block;
+	clear: both;
+	margin-bottom: 6px;
+}
+
+.gp-theprint-footer-navigation-copyright.coluna-1 ul li a{
+	text-transform: uppercase;
+}
+
+.gp-theprint-footer-navigation ul li:after {
+    display: none !important;
+    
+}
+
+.gp-theprint-footer-navigation-copyright h3{
+	text-transform: uppercase;
+	font-size: 20px;
+	border-bottom: 1px solid #FFF;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	color: #FFF !important;
+}
+.gp-theprint-footer-icons-newsletter {
+    float: left;
+    width: 30%;
+}
+.gp-theprint-footer-icons {
+    font-size: 1rem;
+    line-height: 1;
+    width: 100%;
+    margin: 0 0 0.625rem;
+    text-align: left;
+    
+}
+.gp-theprint-widget {
+
+    padding: 0 !important;
+}
+
+.entry-related-posts .entry-related-post{
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+.entry-related-posts .entry-related-post .featured-image img{
+	width: 100%;
+	display: block;
+}
+
+.entry-related-posts h4 span{
+	display: inline-block;
+    background: none;
+    border-top: 5px solid #194283;
+    line-height: 1;
+    padding: 0.625rem 0 0 0;
+}
+.comment-form input#submit {
+    width: auto;
+ }
+
+ a:hover{
+ 	text-decoration: underline !important;
+ }
+
+.gp-theprint-featured-post-d h2.entry-title {
+    font-size: 25px;
+    text-shadow: none !important;
+}
+.gp-theprint-featured-post-d.style-b h2.entry-title {
+    font-size: 16px;
+    letter-spacing: 0.3px;
+}
+
+#copyrightAraujo{
+	max-width: 1180px;
+    margin: 0 auto;
+    background: #FFF url("http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/img/araujo-drugstore-shadow.png") no-repeat 90% center;
+	padding: 1.875rem;
+
+}
+
+#copyrightAraujo p{
+	font-family: 'Lato', sans-serif;
+	font-size: 12px;
+	color: #777777;
+	font-style: italic;
+	margin-bottom: 0;
+	line-height: 22px;
+	max-width: 75%;
+	float: left;
+	display: inline-block;
+}
+
+#copyrightAraujo p span{
+
+	color:#30679d;
+
+}
+
+ #mobile-menu .menu-menu-rodape-secundario-container ul li{
+ 	background: #f2f2f2;
+ }
+
+ .gp-theprint-search-bar{
+ 	display: block !important;
+ 	position: static;
+ 	float: left;
+ 	margin-left: 50px;
+ 	box-shadow: none;
+ }
+
+ .logo-araujo .txt-logo{
+ 	color: #FFF;
+ 	text-decoration: none;
+ 	line-height: 15px;
+ 	text-align: right;
+ 	font-family: 'Lato', sans-serif;
+ 	font-size: 15px;
+ 	float: left;
+ 	margin-right: 10px;
+ 	margin-top: 28px;
+ }
+
+ .gp-theprint-logo {
+    padding: 11px 0;
+}
+
+h3#reply-title{
+	display: none;
+}
+
+#text-6{
+	margin-bottom: 0;
+}
+
+ @media(max-width: 1120px){
+
+ 	.gp-theprint-search-bar{
+		width: 15.000rem !important;
+
+	}
+	.gp-theprint-secondary-navigation ul li a{
+	    font-size: 14px;
+	    padding: 6px 14px;
+	}
+
+ }
+
+ @media(max-width: 980px){
+ 	#content-2 .gp-theprint-recent-posts-a{
+ 		width: 48% !important;
+ 	}
+
+ 	.gp-theprint-footer-navigation-copyright{
+ 		width: 100%;
+ 		margin-bottom: 50px;
+ 	}
+ 	.gp-theprint-footer-icons-newsletter{
+ 		width: 100%;
+ 		padding:10px;
+ 	}
+
+ 	.logo-araujo{
+ 		display: none;
+ 	}
+
+ 	.gp-theprint-site-header{
+ 		height: auto !important;
+ 		padding: 5px 0;
+ 	}
+
+ 	.gp-theprint-footer-navigation-copyright ul li {
+	    display: block;
+	    clear: both;
+	    margin-bottom: 6px;
+	    padding: 8px 0;
+	}
+
+	.gp-theprint-content {
+	    
+	    padding-right: 0 !important;
+	}
+
+	.gp-theprint-featured-post-d.style-a .featured-image {
+	    height: auto;
+	    overflow: hidden;
+	}
+
+	#copyrightAraujo{
+		width: 100%;
+	    margin: 0 auto;
+	    background: #FFF url("http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/img/araujo-drugstore-shadow.png") no-repeat center bottom;
+		padding:  1.875rem 1.875rem 120px;
+
+	}
+
+	#copyrightAraujo p{
+		max-width: 100%;
+		text-align: center;
+	}
+
+	.gp-theprint-search-bar{
+		display: none !important;
+
+	}
+
+ }
+
+
+
+ @media(max-width: 600px){
+ 	#content-2 .gp-theprint-recent-posts-a{
+ 		width: 100% !important;
+ 	}
+
+ 	#gp_theprint_recent_posts_d-2 .gp-theprint-recent-post-d{
+ 		width: 100% !important;
+ 		
+ 	}
+
+ 	.hentry.gp-theprint-front-post-c .featured-image {
+	    width: 100%;
+	    margin-right: 0;
+	    float: none;
+	}
+
+	.hentry.gp-theprint-front-post-c .entry-description {
+	    margin-left: 0;
+	    margin-top: 20px;
+	    clear: both;
+	}
+
+	.featured-image img{
+		width: 100% !important;
+		height: auto !important; 
+	}
+
+	.gp-theprint-featured-post-d .featured-image {
+	    max-height: 400px !important;
+	    overflow: hidden;
+	    height: auto !important;
+	}
+
+	.gp-theprint-footer-navigation-copyright{
+		display: none;
+	}
+
+ }
+
+.menu-menu-superior-container > ul li:first-child{
+	background-color: #0285d8;
+	/*margin-right: 8%;*/
+	position: absolute;
+}
+
+.menu-menu-superior-container > ul li{
+	float: right;
+}
+
+#map{
+	/*height: 600px;
+	width: 550px;
+	float: right;*/
+}
+</style>
+<link rel="stylesheet" href="http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/css/servicos-famaceuticos.css">
+</head>
+
+<body class="error404">
+
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-4723476-3']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+
+	<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/339ffb0f-8239-4aab-bd1b-151d6a5ebf4a-loader.js" ></script>
+
+<div id="container" class="gp-theprint-container">
+
+<div class="gp-theprint-menu-wrap">
+	<div class="gp-theprint-search-mobile">
+		<form class="gp-theprint-search-form" method="get" action="http://blog.araujo.com.br/">
+			<input type="hidden" id="post_type-mobile" name="post_type" value="post" />
+			<input type="text" id="search-mobile" name="s" placeholder="Buscar..."/>
+
+			<button type="submit" id="button-mobile"><i class="fa fa-search"></i></button>
+		</form><!-- .gp-search-form -->
+	</div><!-- .gp-theprint-search-mobile -->
+
+	<div class="gp-theprint-social-icons-mobile">
+		<ul>
+							<li><a href="https://www.facebook.com/drogariaaraujo"><i class="fa fa-facebook"></i></a></li>
+			
+							<li><a href="https://twitter.com/drogaria_araujo"><i class="fa fa-twitter"></i></a></li>
+			
+			
+			
+			
+							<li><a href="https://www.instagram.com/drogariaaraujo/"><i class="fa fa-instagram"></i></a></li>
+			
+							<li><a href="https://www.youtube.com/user/araujooficial"><i class="fa fa-youtube"></i></a></li>
+			
+							<li><a href="http://blog.araujo.com.br/feed/"><i class="fa fa-rss"></i></a></li>
+					</ul>
+	</div><!-- .gp-theprint-social-icons-mobile -->
+
+	
+
+	<nav id="mobile-menu" class="gp-theprint-mobile-menu">
+
+		<div class="menu-menu-superior-container"><ul><li>SERVIÇOS FARMACEUTICOS</li><li id="menu-item-8751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8751"><a href="http://blog.araujo.com.br/servico-farmaceutico/">Serviço Farmacêutico</a></li>
+<li id="menu-item-7474" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7474"><a href="http://blog.araujo.com.br/categorias/acontece-na-araujo/">Acontece na Araujo</a></li>
+<li id="menu-item-757" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-757"><a href="http://blog.araujo.com.br/categorias/beleza/">Mais Beleza</a></li>
+<li id="menu-item-7428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7428"><a href="http://blog.araujo.com.br/categorias/mais-saude/">Mais Saúde</a></li>
+<li id="menu-item-767" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-767"><a href="http://blog.araujo.com.br/categorias/mamae-bebe/">Mamãe &#038; Bebê</a></li>
+</ul></div>		<br>
+		<div class="menu-menu-rodape-secundario-container"><ul><li id="menu-item-7440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7440"><a href="http://www.araujo.com.br/conteudo-Empresa?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_historia_home_blog">A Araujo</a></li>
+<li id="menu-item-7441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7441"><a href="http://www.araujo.com.br/manipulacao?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_manipulacao_home_blog">Araujo Manipulação</a></li>
+<li id="menu-item-7442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7442"><a href="http://www.araujo.com.br/convenio?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_convenio_home_blog">Convênio Empresa</a></li>
+<li id="menu-item-7443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7443"><a href="http://eventos.araujo.com.br/?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_eventos_home_blog">Eventos</a></li>
+<li id="menu-item-7444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7444"><a href="http://www.araujo.com.br/linha-do-tempo?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_linha_do_tempo_home_blog">Linha do Tempo</a></li>
+<li id="menu-item-7445" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7445"><a href="http://www.araujo.com.br/lojas?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_lojas_home_blog">Lojas</a></li>
+<li id="menu-item-7446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7446"><a href="http://www.araujo.com.br/araujomedico?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_medico_home_blog">Programa Araujo Médico</a></li>
+<li id="menu-item-7447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7447"><a href="http://www.araujo.com.br/servicos?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_servicos_home_blog">Serviços</a></li>
+<li id="menu-item-7448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7448"><a href="http://www.trabalhenaaraujo.com.br/FeiraoRecrutamento/index-redirect-rm.jsf?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_trabalhe_conosco_home_blog">Trabalhe Conosco</a></li>
+<li id="menu-item-7449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7449"><a href="http://www.araujo.com.br/vacsim?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_vacinas_home_blog">Vacinas</a></li>
+</ul></div>	</nav><!-- #mobile-menu## -->
+
+	<div style="clear:both"></div>
+
+</div><!-- .gp-theprint-menu-wrap -->
+
+<div class="gp-theprint-content-wrap-mobile">
+
+<div class="gp-theprint-content-wrap">
+
+
+<header id="header" class="gp-theprint-header" itemscope itemtype="http://schema.org/WPHeader">
+			
+<div class="gp-theprint-site-header">
+	<div class="gp-theprint-row">
+		<div class="gp-theprint-wrap">
+			<div class="gp-theprint-menu-button">
+				<button id="open-button" class="menu-button">
+					<span class="top"></span>
+					<span class="mid"></span>
+					<span class="bot"></span>
+				</button>
+			</div><!-- .gp-theprint-menu-button -->
+
+			<div class="gp-theprint-logo">
+				
+											<p class="site-logo" itemprop="headline">
+							<a rel="home" href="http://blog.araujo.com.br/">
+								<img src="http://blog.araujo.com.br/novoblog/wp-content/uploads/2017/05/blog-araujo.png" alt="Blog Drogaria Araujo">
+
+								<span style="display:none;">Blog Drogaria Araujo</span>
+							</a>
+						</p>
+
+						<p class="site-description" itemprop="description">Notícias e dicas sobre saúde, bem-estar, beleza e corpo humano</p>
+											
+							</div><!-- .gp-theprint-logo -->
+
+			<nav class="gp-theprint-primary-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<div class="menu"><ul><li id="menu-item-7482" class=""><a></a></li><li id="menu-item-9101" class=""><a></a></li><li id="menu-item-9106" class=""><a></a></li><li id="menu-item-9116" class=""><a></a></li><li id="menu-item-9108" class=""><a></a></li><li id="menu-item-9110" class=""><a></a></li><li id="menu-item-9103" class=""><a></a></li><li id="menu-item-9112" class=""><a></a></li><li id="menu-item-9114" class=""><a></a></li><li id="menu-item-9055" class=""><a></a></li><li id="menu-item-9057" class=""><a></a></li><li id="menu-item-9059" class=""><a></a></li><li id="menu-item-9061" class=""><a></a></li><li id="menu-item-8749" class=""><a></a></li><li id="menu-item-8760" class=""><a></a></li><li id="menu-item-2" class=""><a></a></li></ul></div>
+			</nav><!-- .gp-theprint-primary-navigation -->
+
+			<div class="gp-theprint-header-icons">
+				<ul>
+											<li><a href="https://www.facebook.com/drogariaaraujo"><i class="fa fa-facebook"></i></a></li>
+					
+											<li><a href="https://twitter.com/drogaria_araujo"><i class="fa fa-twitter"></i></a></li>
+					
+					
+					
+					
+											<li><a href="https://www.instagram.com/drogariaaraujo/"><i class="fa fa-instagram"></i></a></li>
+					
+											<li><a href="https://www.youtube.com/user/araujooficial"><i class="fa fa-youtube"></i></a></li>
+					
+											<li><a href="http://blog.araujo.com.br/feed/"><i class="fa fa-rss"></i></a></li>
+					
+					<li class="search-icon">
+						<!--
+						<a href="#" id="gp-theprint-search-trigger"><i class="fa fa-search"></i></a>
+						-->
+						<div class="gp-theprint-search-bar">
+							
+<form class="gp-theprint-search-form" method="get" action="http://blog.araujo.com.br/">
+	<input type="hidden" id="post_type" name="post_type" value="post" />
+	<input type="text" id="search" name="s" placeholder="Buscar..."/>
+
+	<button type="submit" id="button"><i class="fa fa-search"></i></button>
+</form><!-- .gp-search-form -->
+						</div><!-- .gp-theprint-search-bar -->
+					</li>
+				</ul>
+			</div><!-- .gp-theprint-header-icons -->
+
+
+			<div class="logo-araujo">
+				<a href="http://www.araujo.com.br/?utm_source=blog&utm_medium=cta_topo&utm_campaign=cta_home_blog" target="_blank" class="txt-logo">
+					Compre pelo site<br> 
+					e receba em todo o Brasil
+				</a>
+				<a href="http://www.araujo.com.br/?utm_source=blog&utm_medium=cta_topo&utm_campaign=cta_home_blog" target="_blank" title="Ir para o site da Araujo Drogaria Drugstore">
+					<img src="http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/img/araujo-drogaria-drugstore.jpg" alt="Araujo Drogaria Drugstore">
+				</a>
+			</div>
+
+
+
+		</div><!-- .gp-theprint-wrap -->
+	</div><!-- .gp-theprint-row -->
+</div><!-- .gp-theprint-site-header -->
+
+<nav class="gp-theprint-secondary-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+	<div class="gp-theprint-row">
+		<div class="gp-theprint-wrap">
+			<div class="menu-menu-superior-container"><ul><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8751"><a href="http://blog.araujo.com.br/servico-farmaceutico/">Serviço Farmacêutico</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7474"><a href="http://blog.araujo.com.br/categorias/acontece-na-araujo/">Acontece na Araujo</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-757"><a href="http://blog.araujo.com.br/categorias/beleza/">Mais Beleza</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7428"><a href="http://blog.araujo.com.br/categorias/mais-saude/">Mais Saúde</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-767"><a href="http://blog.araujo.com.br/categorias/mamae-bebe/">Mamãe &#038; Bebê</a></li>
+</ul></div>		</div><!-- .gp-theprint-wrap -->
+	</div><!-- .gp-theprint-row -->
+</nav><!-- .gp-theprint-secondary-navigation -->
+
+<div class="gp-theprint-header-blocks" style="margin-top: 1.563rem;">
+			
+	</div><!-- .gp-theprint-header-blocks -->	
+	<div style="clear:both"></div>
+</header><!-- #header## -->
+<div id="main" class="gp-theprint-main">
+	<div class="gp-theprint-row">
+		<div class="gp-theprint-site-main">
+			<main id="content" class="gp-theprint-content single-page">
+				<article class="hentry entry-page error-404" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+					<div id="breadcrumbs" class="gp-theprint-breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a property="v:title" rel="v:url" href="http://blog.araujo.com.br/">Blog da Drogaria Araujo</a></span><span class="sep">&raquo;</span>404</div>					
+					<header class="entry-header">
+						<h1 class="entry-title">Oops! That page can&rsquo;t be found.</h1>	
+					</header><!-- .entry-header -->	
+
+					<div class="entry-content">
+						<p>It looks like nothing was found at this location. Maybe try a search?</p>
+
+						
+<form class="gp-theprint-search-form" method="get" action="http://blog.araujo.com.br/">
+	<input type="hidden" id="post_type" name="post_type" value="post" />
+	<input type="text" id="search" name="s" placeholder="Buscar..."/>
+
+	<button type="submit" id="button"><i class="fa fa-search"></i></button>
+</form><!-- .gp-search-form -->
+					</div><!-- .entry-content -->
+
+					<div class="gp-theprint-archive-lists">
+						<h4>Recent Posts</h4>		
+						<ul>
+																																		<li><a href="http://blog.araujo.com.br/beleza/dicionario-dos-cosmeticos-conheca-os-beneficios-de-cada-substancia/">Dicionário dos cosméticos: conheça os benefícios de cada substância</a></li>
+																			<li><a href="http://blog.araujo.com.br/beleza/as-melhores-mascaras-faciais-para-voce-fazer-em-casa/">As melhores máscaras faciais para você fazer em casa</a></li>
+																			<li><a href="http://blog.araujo.com.br/mais-saude/precisa-de-uma-forcinha-para-parar-de-fumar/">Precisa de uma forcinha para parar de fumar de uma vez por todas?</a></li>
+																			<li><a href="http://blog.araujo.com.br/beleza/conheca-o-sanctio-o-tonico-capilar-poderoso-para-calvicie/">Conheça o Sanctio: o tônico capilar poderoso para calvície</a></li>
+																			<li><a href="http://blog.araujo.com.br/beleza/que-tipo-de-solteiro-e-voce-na-araujo/">Que tipo de solteiro é você na Araujo?</a></li>
+																			<li><a href="http://blog.araujo.com.br/beleza/prepare-se-para-o-verao-combo-de-capsulas-emagrecedoras-3x1-gel-anti-gordura/">Prepare-se para o verão: combo de cápsulas emagrecedoras 3 x 1 + gel antigordura</a></li>
+																			<li><a href="http://blog.araujo.com.br/beleza/3-formulas-para-hidratacao-intensiva/">3 fórmulas para hidratação intensiva da pele</a></li>
+																			<li><a href="http://blog.araujo.com.br/beleza/inverno-descomplicado/">Pele descomplicada no inverno</a></li>
+																			<li><a href="http://blog.araujo.com.br/beleza/dica-para-familia-como-proteger-a-pele-no-inverno/">Dica para família: como proteger a pele no inverno</a></li>
+																			<li><a href="http://blog.araujo.com.br/mamae-bebe/conforto-e-protecao-ao-bebe/">3 produtos para conforto e proteção do bebê</a></li>
+																														</ul>
+
+						<h4>Pages:</h4>
+						<ul>
+							<li class="page_item page-item-2"><a href="http://blog.araujo.com.br/sobre/">Sobre</a></li>
+<li class="page_item page-item-8749"><a href="http://blog.araujo.com.br/servico-farmaceutico/">Serviço Farmacêutico</a></li>
+<li class="page_item page-item-7482"><a href="http://blog.araujo.com.br/newsletter/">Newsletter</a></li>
+<li class="page_item page-item-8760"><a href="http://blog.araujo.com.br/servicos-farmaceutico/">Serviços Farmacêuticos</a></li>
+<li class="page_item page-item-9055"><a href="http://blog.araujo.com.br/quiz-solteiros-perfil-1/">Quiz Solteiros</a></li>
+<li class="page_item page-item-9057"><a href="http://blog.araujo.com.br/quiz-solteiros-perfil-2/">Quiz Solteiros</a></li>
+<li class="page_item page-item-9059"><a href="http://blog.araujo.com.br/quiz-solteiros-perfil-3/">Quiz Solteiros</a></li>
+<li class="page_item page-item-9061"><a href="http://blog.araujo.com.br/quiz-solteiros-perfil-4/">Quiz Solteiros</a></li>
+<li class="page_item page-item-9101"><a href="http://blog.araujo.com.br/quiz-consumidor/">Quiz &#8211; Que tipo de cliente é você na Araujo?</a></li>
+<li class="page_item page-item-9103"><a href="http://blog.araujo.com.br/quiz-consumidor-maezona/">Quiz Consumidor Maezona</a></li>
+<li class="page_item page-item-9106"><a href="http://blog.araujo.com.br/quiz-consumidor-baladeiro/">Quiz Consumidor Baladeiro</a></li>
+<li class="page_item page-item-9108"><a href="http://blog.araujo.com.br/quiz-consumidor-faminto/">Quiz Consumidor Faminto</a></li>
+<li class="page_item page-item-9110"><a href="http://blog.araujo.com.br/quiz-consumidor-fitness/">Quiz Consumidor Fitness</a></li>
+<li class="page_item page-item-9112"><a href="http://blog.araujo.com.br/quiz-consumidor-petlover/">Quiz Consumidor Petlover</a></li>
+<li class="page_item page-item-9114"><a href="http://blog.araujo.com.br/quiz-consumidor-zen/">Quiz Consumidor Zen</a></li>
+<li class="page_item page-item-9116"><a href="http://blog.araujo.com.br/quiz-consumidor-descolado/">Quiz Consumidor Descolado</a></li>
+						</ul>	
+							
+						<h4>Monthly:</h4>	
+						<ul>
+								<li><a href='http://blog.araujo.com.br/2018/09/'>setembro 2018</a></li>
+	<li><a href='http://blog.araujo.com.br/2018/08/'>agosto 2018</a></li>
+	<li><a href='http://blog.araujo.com.br/2018/07/'>julho 2018</a></li>
+	<li><a href='http://blog.araujo.com.br/2018/06/'>junho 2018</a></li>
+	<li><a href='http://blog.araujo.com.br/2018/05/'>maio 2018</a></li>
+	<li><a href='http://blog.araujo.com.br/2018/04/'>abril 2018</a></li>
+	<li><a href='http://blog.araujo.com.br/2018/03/'>março 2018</a></li>
+	<li><a href='http://blog.araujo.com.br/2018/02/'>fevereiro 2018</a></li>
+	<li><a href='http://blog.araujo.com.br/2018/01/'>janeiro 2018</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/12/'>dezembro 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/11/'>novembro 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/10/'>outubro 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/09/'>setembro 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/08/'>agosto 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/07/'>julho 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/06/'>junho 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/05/'>maio 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/04/'>abril 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/03/'>março 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/02/'>fevereiro 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2017/01/'>janeiro 2017</a></li>
+	<li><a href='http://blog.araujo.com.br/2016/12/'>dezembro 2016</a></li>
+	<li><a href='http://blog.araujo.com.br/2016/11/'>novembro 2016</a></li>
+	<li><a href='http://blog.araujo.com.br/2016/09/'>setembro 2016</a></li>
+	<li><a href='http://blog.araujo.com.br/2016/08/'>agosto 2016</a></li>
+	<li><a href='http://blog.araujo.com.br/2016/07/'>julho 2016</a></li>
+	<li><a href='http://blog.araujo.com.br/2016/03/'>março 2016</a></li>
+	<li><a href='http://blog.araujo.com.br/2016/02/'>fevereiro 2016</a></li>
+	<li><a href='http://blog.araujo.com.br/2016/01/'>janeiro 2016</a></li>
+	<li><a href='http://blog.araujo.com.br/2015/12/'>dezembro 2015</a></li>
+	<li><a href='http://blog.araujo.com.br/2015/11/'>novembro 2015</a></li>
+	<li><a href='http://blog.araujo.com.br/2015/10/'>outubro 2015</a></li>
+	<li><a href='http://blog.araujo.com.br/2015/09/'>setembro 2015</a></li>
+	<li><a href='http://blog.araujo.com.br/2015/06/'>junho 2015</a></li>
+	<li><a href='http://blog.araujo.com.br/2015/05/'>maio 2015</a></li>
+	<li><a href='http://blog.araujo.com.br/2015/04/'>abril 2015</a></li>
+	<li><a href='http://blog.araujo.com.br/2014/12/'>dezembro 2014</a></li>
+	<li><a href='http://blog.araujo.com.br/2014/10/'>outubro 2014</a></li>
+	<li><a href='http://blog.araujo.com.br/2014/09/'>setembro 2014</a></li>
+	<li><a href='http://blog.araujo.com.br/2014/08/'>agosto 2014</a></li>
+	<li><a href='http://blog.araujo.com.br/2014/07/'>julho 2014</a></li>
+	<li><a href='http://blog.araujo.com.br/2014/04/'>abril 2014</a></li>
+	<li><a href='http://blog.araujo.com.br/2014/02/'>fevereiro 2014</a></li>
+	<li><a href='http://blog.araujo.com.br/2014/01/'>janeiro 2014</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/12/'>dezembro 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/11/'>novembro 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/10/'>outubro 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/09/'>setembro 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/08/'>agosto 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/07/'>julho 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/06/'>junho 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/05/'>maio 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/04/'>abril 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/03/'>março 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/02/'>fevereiro 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2013/01/'>janeiro 2013</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/12/'>dezembro 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/11/'>novembro 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/10/'>outubro 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/09/'>setembro 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/08/'>agosto 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/07/'>julho 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/06/'>junho 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/05/'>maio 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/04/'>abril 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/03/'>março 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/02/'>fevereiro 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2012/01/'>janeiro 2012</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/12/'>dezembro 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/11/'>novembro 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/10/'>outubro 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/09/'>setembro 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/08/'>agosto 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/07/'>julho 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/06/'>junho 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/05/'>maio 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/04/'>abril 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/03/'>março 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/02/'>fevereiro 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2011/01/'>janeiro 2011</a></li>
+	<li><a href='http://blog.araujo.com.br/2010/12/'>dezembro 2010</a></li>
+	<li><a href='http://blog.araujo.com.br/2010/11/'>novembro 2010</a></li>
+	<li><a href='http://blog.araujo.com.br/2010/10/'>outubro 2010</a></li>
+	<li><a href='http://blog.araujo.com.br/2010/09/'>setembro 2010</a></li>
+						</ul>
+				
+						<h4>Categories:</h4>	
+						<ul>
+								<li class="cat-item cat-item-13"><a href="http://blog.araujo.com.br/categorias/acontece-na-araujo/" >Acontece na Araujo</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://blog.araujo.com.br/categorias/beleza/" >Mais Beleza</a>
+</li>
+	<li class="cat-item cat-item-250"><a href="http://blog.araujo.com.br/categorias/mais-saude/" >Mais Saúde</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://blog.araujo.com.br/categorias/mamae-bebe/" >Mamãe &amp; Bebê</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blog.araujo.com.br/categorias/sem-categoria/" >Sem categoria</a>
+</li>
+	<li class="cat-item cat-item-755"><a href="http://blog.araujo.com.br/categorias/servico-farmaceutico/" >Serviço Farmacêutico</a>
+</li>
+						</ul>
+
+						<h4>Authors:</h4>	
+						<ul>
+							<li><a href="http://blog.araujo.com.br/author/araujo/" title="Posts de Drogaria Araujo">Drogaria Araujo</a></li><li><a href="http://blog.araujo.com.br/author/chatadegalocha/" title="Posts de Lú Ferreira (Chata de Galocha)">Lú Ferreira (Chata de Galocha)</a></li>						</ul>
+					</div><!-- .gp-theprint-archive-lists -->
+				</article><!-- .hentry -->
+			</main><!-- #content## -->
+
+			
+
+			<aside class="gp-theprint-sidebar sticky-sidebar" itemscope itemtype="http://schema.org/WPSideBar">
+			<div id="gp_theprint_newsletter_widget-4" class="gp-theprint-widget gp-theprint-newsletter-widget">							<h4 class="gp-theprint-widget-title">					<span style="border-top: 5px solid #194283;">						Receba nossas Newsletters e ofertas					</span>				</h4>									
+			<div class="gp-theprint-newsletter-widget">
+				<p>Cadastre-se preenchendo<br>
+o formulário a seguir.</p>
+				
+				<form method="post" action="http://blog.araujo.com.br/?na=s">
+
+
+
+<!-- first name -->
+
+
+	<input class="newsletter-firstname" type="text" name="nn" placeholder="Nome">
+
+
+<!-- email -->
+
+
+	<input class="newsletter-email" type="email" name="ne" placeholder="E-mail">
+
+
+
+	
+		<input class="newsletter-submit" type="submit" value="Inscrever" />
+	
+
+
+
+</form>
+				
+				<span class="guarantee"></span>
+			</div>
+
+		</div><div id="gp_theprint_trending_posts_e-3" class="gp-theprint-widget gp-theprint-trending-posts-e">							<h4 class="gp-theprint-widget-title">					<span style="border-top: 5px solid #194283;">						Posts em destaque					</span>				</h4>					
+												<ul>
+												
+							<li class="gp-theprint-trending-post-e">
+								<div class="entry-counter">
+									<span>1</span>
+								</div>
+
+								<div class="entry-header">
+									<h5 class="entry-title">
+										<a href="http://blog.araujo.com.br/beleza/dica-para-familia-como-proteger-a-pele-no-inverno/" rel="bookmark">Dica para família: como proteger a pele no inverno</a>
+									</h5>
+
+									<p class="entry-meta">
+										<span class="entry-time"><time class="entry-date published" datetime="2018-07-06T09:53:44+00:00">6 de julho de 2018</time></span>
+									</p><!-- .entry-meta -->
+								</div><!-- .entry-header -->
+							</li><!-- .gp-theprint-trending-post-e -->
+
+												
+							<li class="gp-theprint-trending-post-e">
+								<div class="entry-counter">
+									<span>2</span>
+								</div>
+
+								<div class="entry-header">
+									<h5 class="entry-title">
+										<a href="http://blog.araujo.com.br/mais-saude/melatonina-beneficios/" rel="bookmark">Qual a melhor maneira de tomar melatonina?</a>
+									</h5>
+
+									<p class="entry-meta">
+										<span class="entry-time"><time class="entry-date published" datetime="2018-06-19T19:11:22+00:00">19 de junho de 2018</time></span>
+									</p><!-- .entry-meta -->
+								</div><!-- .entry-header -->
+							</li><!-- .gp-theprint-trending-post-e -->
+
+												
+							<li class="gp-theprint-trending-post-e">
+								<div class="entry-counter">
+									<span>3</span>
+								</div>
+
+								<div class="entry-header">
+									<h5 class="entry-title">
+										<a href="http://blog.araujo.com.br/beleza/o-poder-do-coco-para-os-cabelos/" rel="bookmark">O poder do coco para os cabelos</a>
+									</h5>
+
+									<p class="entry-meta">
+										<span class="entry-time"><time class="entry-date published" datetime="2018-05-25T18:11:13+00:00">25 de maio de 2018</time></span>
+									</p><!-- .entry-meta -->
+								</div><!-- .entry-header -->
+							</li><!-- .gp-theprint-trending-post-e -->
+
+												
+							<li class="gp-theprint-trending-post-e">
+								<div class="entry-counter">
+									<span>4</span>
+								</div>
+
+								<div class="entry-header">
+									<h5 class="entry-title">
+										<a href="http://blog.araujo.com.br/beleza/bioblanc-o-peeling-em-capsulas-para-clareamento-e-rejuvenescimento-da-pele/" rel="bookmark">BioBlanc: o peeling em cápsulas para clareamento e rejuvenescimento da pele</a>
+									</h5>
+
+									<p class="entry-meta">
+										<span class="entry-time"><time class="entry-date published" datetime="2018-05-09T11:45:38+00:00">9 de maio de 2018</time></span>
+									</p><!-- .entry-meta -->
+								</div><!-- .entry-header -->
+							</li><!-- .gp-theprint-trending-post-e -->
+
+												
+							<li class="gp-theprint-trending-post-e">
+								<div class="entry-counter">
+									<span>5</span>
+								</div>
+
+								<div class="entry-header">
+									<h5 class="entry-title">
+										<a href="http://blog.araujo.com.br/mais-saude/vacina-gripe/" rel="bookmark">Já está prevenido contra gripe? Saiba mais sobre a vacina</a>
+									</h5>
+
+									<p class="entry-meta">
+										<span class="entry-time"><time class="entry-date published" datetime="2018-04-20T16:35:22+00:00">20 de abril de 2018</time></span>
+									</p><!-- .entry-meta -->
+								</div><!-- .entry-header -->
+							</li><!-- .gp-theprint-trending-post-e -->
+
+											</ul>
+							
+		</div>		</aside><!-- .gp-sidebar -->
+	
+		</div><!-- .gp-theprint-site-main -->
+	</div><!-- .gp-theprint-row -->
+</div><!-- #main## -->
+		
+
+<footer class="gp-theprint-footer">
+	<div class="gp-theprint-row">
+		<div class="gp-theprint-footer-navigation-copyright coluna-1">
+			<h3>Blog</h3>
+			<nav class="gp-theprint-footer-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+				<div class="menu-menu-superior-container"><ul><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8751"><a href="http://blog.araujo.com.br/servico-farmaceutico/">Serviço Farmacêutico</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7474"><a href="http://blog.araujo.com.br/categorias/acontece-na-araujo/">Acontece na Araujo</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-757"><a href="http://blog.araujo.com.br/categorias/beleza/">Mais Beleza</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7428"><a href="http://blog.araujo.com.br/categorias/mais-saude/">Mais Saúde</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-767"><a href="http://blog.araujo.com.br/categorias/mamae-bebe/">Mamãe &#038; Bebê</a></li>
+</ul></div>			</nav><!-- .gp-theprint-footer-navigation -->
+
+		</div><!-- .gp-theprint-footer-navigation-copyright -->
+
+		<div class="gp-theprint-footer-navigation-copyright">
+			<h3>Sobre</h3>
+			<nav class="gp-theprint-footer-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+				<div class="menu-menu-rodape-secundario-container"><ul><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7440"><a href="http://www.araujo.com.br/conteudo-Empresa?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_historia_home_blog">A Araujo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7441"><a href="http://www.araujo.com.br/manipulacao?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_manipulacao_home_blog">Araujo Manipulação</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7442"><a href="http://www.araujo.com.br/convenio?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_convenio_home_blog">Convênio Empresa</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7443"><a href="http://eventos.araujo.com.br/?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_eventos_home_blog">Eventos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7444"><a href="http://www.araujo.com.br/linha-do-tempo?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_linha_do_tempo_home_blog">Linha do Tempo</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7445"><a href="http://www.araujo.com.br/lojas?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_lojas_home_blog">Lojas</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7446"><a href="http://www.araujo.com.br/araujomedico?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_medico_home_blog">Programa Araujo Médico</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7447"><a href="http://www.araujo.com.br/servicos?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_servicos_home_blog">Serviços</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7448"><a href="http://www.trabalhenaaraujo.com.br/FeiraoRecrutamento/index-redirect-rm.jsf?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_trabalhe_conosco_home_blog">Trabalhe Conosco</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7449"><a href="http://www.araujo.com.br/vacsim?utm_source=blog&#038;utm_medium=rodape_sobre&#038;utm_campaign=araujo_vacinas_home_blog">Vacinas</a></li>
+</ul></div>			</nav><!-- .gp-theprint-footer-navigation -->
+
+		</div><!-- .gp-theprint-footer-navigation-copyright -->
+
+		<div class="gp-theprint-footer-icons-newsletter">
+			<div class="gp-theprint-footer-icons">
+				<ul>
+											<li><a href="https://www.facebook.com/drogariaaraujo"><i class="fa fa-facebook"></i></a></li>
+					
+											<li><a href="https://twitter.com/drogaria_araujo"><i class="fa fa-twitter"></i></a></li>
+					
+					
+					
+					
+											<li><a href="https://www.instagram.com/drogariaaraujo/"><i class="fa fa-instagram"></i></a></li>
+					
+											<li><a href="https://www.youtube.com/user/araujooficial"><i class="fa fa-youtube"></i></a></li>
+					
+											<li><a href="http://blog.araujo.com.br/feed/"><i class="fa fa-rss"></i></a></li>
+									</ul>
+			</div><!-- .gp-theprint-footer-icons -->
+			<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdrogariaaraujooficial&tabs&width=370&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1737399609876148" width="370" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+			
+		</div><!-- .gp-theprint-footer-icons-newsletter -->
+	</div><!-- .gp-theprint-row -->
+
+</footer><!-- .gp-theprint-footer -->
+
+<section id="copyrightAraujo">
+	<p>
+		<span>
+		As informações contidas neste blog não devem ser usadas para automedicação e não substituem, em hipótese alguma, as orientações dadas pelo profissional da área médica.
+		Somente o médico está apto a diagnosticar qualquer problema de saúde e prescrever o tratamento adequado.
+		</span><br>
+
+		Razão Social: Drogaria Araujo S.A | CNPJ: 17.256.512.0001-16 | Endereço: Rua Curitiba 327 - Centro - CEP: 30.170-120 <br>
+		Belo Horizonte - MG | Telefone: 0300-313-1010 | Horário de funcionamento - 24hs
+		<br>
+
+		Farmacêutico responsável: Mário de Lima Colen - CRF Nº 46 | Farmacêuticos substitutos: Thiago Aguiar Pinheiro - CRF Nº 13748, Eduardo Formaggini Pereira CRF Nº 8395, Fernanda Lopes Vieira Fonseca - CRF-MG 12188<br>
+		Alvará Sanitário: 00011007 | Autorização de Funcionamento da Empresa (AFE): 0.01931.3 | Autorização Especial (AE):1.33217.0
+	</p>
+
+<div style="clear:both"></div>
+
+</section>
+
+</div><!-- .gp-theprint-content-wrap -->
+
+</div><!-- .gp-theprint-content-wrap-mobile -->
+
+</div><!-- .gp-theprint-container -->
+
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+    "use strict";
+
+    	// Infinite scroll.
+    	$('.gp-theprint-articles.front-posts').infinitescroll({
+            loading: {
+                finished: undefined,
+                finishedMsg: '<h5 class="ajax-loading-text">Desculpe, não há mais notícias para mostrar.</h5></center>',
+                img: 'data:image/gif;base64,R0lGODlhAQABAHAAACH5BAUAAAAALAAAAAABAAEAAAICRAEAOw==',
+                msgText: '<h5 class="ajax-loading-text more">Carregando mais notícias...</h5>',
+                speed: 0,
+                selector: ".gp-theprint-loading-text"
+            },
+            navSelector: ".gp-theprint-pagination",
+            nextSelector: ".gp-theprint-pagination a.next",
+            itemSelector: ".gp-theprint-articles.front-posts .front-post",
+            bufferPx: 0,
+            animate: false,
+        });
+    	$(window).unbind('.infscr');
+		$("a#gp-theprint-infinite-trigger").click(function(){
+   			$('.gp-theprint-articles.front-posts').infinitescroll('retrieve');
+        		return false;
+		});
+
+});// - Document ready.
+</script>	
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/integration/stable/rd-js-integration.min.js"></script>  
+<script type="text/javascript">
+    var meus_campos = {
+        'ne': 'email',
+        'nn': 'nome'
+     };
+    options = { fieldMapping: meus_campos };
+    RdIntegration.integrate('19afe9cd6a66d4578bcc6b174a4d186a', 'Formulário de NewsLetter', options);  
+</script>
+
+<script type='text/javascript' src='http://w.sharethis.com/button/st_insights.js'></script>
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-content/plugins/simple-share-buttons-adder/js/ssba.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/js/infinite-scroll.js?ver=2.0.2'></script>
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/js/manual-trigger.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/js/plugins.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-content/themes/theprint/js/custom.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//blog.araujo.com.br/novoblog/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.min.js?ver=1.8.9'></script>
+<script type='text/javascript' src='//blog.araujo.com.br/novoblog/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js?ver=1.8.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//blog.araujo.com.br/novoblog/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=1.8.9'></script>
+<script type='text/javascript' src='http://blog.araujo.com.br/novoblog/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=1737399609876148&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<script>
+			  var map;
+			  var markersArray = [];
+			  var lista_lojas = [];
+			  var bounds;
+		      function initMap() {
+		        var uluru = {lat: -19.924502, lng: -43.935238};
+		        
+		        map = new google.maps.Map(document.getElementById('map'), {
+		          zoom: 14,
+		          center: uluru
+		        });
+		        // https://www.araujoapp.com.br/rest/map/lojasMapa
+		        // var marker = new google.maps.Marker({
+		        //   position: uluru,
+		        //   map: map
+		        // });
+		        bounds  = new google.maps.LatLngBounds();
+		        getStores("none", true);
+		      }
+
+
+		    function setMapOnAll(map) {
+		        for (var i = 0; i < markersArray.length; i++) {
+		          markersArray[i].setMap(map);
+		        }
+		    }
+
+		      // Removes the markers from the map, but keeps them in the array.
+		    function clearMarkers() {
+		        setMapOnAll(null);
+		    }
+
+		    jQuery('.checkservicos').on('click', function(e){
+		    	getStores('none');
+		    	// document.getElementById('resultadoServicos').classList.toggle('none');
+		    	// return false;
+		    });
+
+		    var lista_lojas = [];
+		    function getStores(mode, firstTime = false){
+			      bounds  = new google.maps.LatLngBounds();
+		    	  jQuery('#loading').show();
+		    	  if(mode != 'none' && mode != undefined){
+
+			    	  jQuery('html,body').animate({
+					        scrollTop: jQuery('#map').offset().top - 100
+					  }, 500);
+		    	  }
+		    	  clearMarkers();
+		    	  var base_url = "https://www.araujoapp.com.br/rest/map/lojasMapa?";
+		    	  var servicos_array = [];
+		    	  if(mode == 'vacinas' || mode == 'testes' || mode == 'programas'){
+		    	  	jQuery.each(jQuery('input[name="servicos"]'), function(k, v){
+		    	  		jQuery(this).removeAttr('checked');
+		    	  	});
+		    	  }
+
+		    	  jQuery.each(jQuery('input[name="servicos"]'), function(k, v){
+		    	  	  if(jQuery(this).attr("checked")){
+		    	  	  	servicos_array.push(v.value);
+		    	  	  }
+
+		    	  	  // if(mode == 'vacinas'){
+		    	  	  // 	if(jQuery(this).val() == 48){
+		    	  	  // 		jQuery(this).attr('checked', 'true');
+		    	  	  // 	}
+		    	  	  // }
+
+		    	  	  // if(mode == 'testes'){
+
+		    	  	  // 	var testes_services = [65,70,60,71,66,68,62,63,64,67,61,69];
+		    	  	  // 	if(testes_services.indexOf( jQuery(this).val() ) != -1){
+		    	  	  // 		jQuery(this).attr('checked', 'true');
+		    	  	  // 	}
+		    	  	  // }
+
+		    	  	  // if(mode == 'programas'){
+		    	  	  // 	if(jQuery(this).val() == 49){
+		    	  	  // 		jQuery(this).attr('checked', 'true');
+		    	  	  // 	}
+		    	  	  // }
+		    	  });
+		    	  // console.log(servicos_array.join());
+		    	  furl = base_url;
+
+
+		    	  if(mode == 'vacinas'){
+		    	  	// furl = "https://www.araujoapp.com.br/rest/map/lojasMapa?servicos=48";
+		    	  	servicos_array.push(48);
+		    	  	jQuery('input.vacinas').attr('checked', 'true');
+		    	  	// uncheck all checkboxes
+		    	  }
+
+		    	  if(mode == 'testes'){
+		    	  	// furl = "https://www.araujoapp.com.br/rest/map/lojasMapa?servicos=49";
+		    	  	jQuery.each([65,70,60,71,66,68,62,63,64,67,61,69], function(k,v){
+			    	  	servicos_array.push(v);
+		    	  	})
+		    	  	jQuery('input.testes').attr('checked', 'true');
+		    	  	// 65,70,60,71,66,68,62,63,64,67,61,69
+		    	  	// uncheck all checkboxes
+		    	  }
+
+		    	  if(mode == 'programas'){
+		    	  	// furl = "https://www.araujoapp.com.br/rest/map/lojasMapa?servicos=?";
+		    	  	servicos_array.push(49);
+		    	  	jQuery('input.programas').attr('checked', 'true');
+		    	  	// uncheck all checkboxes
+		    	  }
+
+
+		    	  if(servicos_array.length > 0){
+			    	  furl = furl + 'servicos=' + servicos_array.join();
+		    	  }
+
+		    	  var query_string = jQuery('#query').val();
+
+		    	  if(servicos_array.length > 0 && query_string != ""){
+		    	  		furl = furl + "&";
+		    	  }
+
+		    	  if(query_string != ""){
+		    	  		furl = furl + 'nome=' + query_string;	
+		    	  }
+
+		    	  if(firstTime == true){
+		    	  	fisrtTimeArray = [48, [65,70,60,71,66,68,62,63,64,67,61,69], 49];
+			    	
+		    	  	jQuery.each(fisrtTimeArray, function(k,v){
+		    	  		furl = "https://www.araujoapp.com.br/rest/map/lojasMapa?servicos="+v;
+		    	  		jQuery.ajax({
+						  url: furl,
+
+						  success: function( result ) {
+						    console.log(result);
+						    jQuery('#results').html('');
+						    jQuery.each(result['data'], function(key, value){
+						    	lista_lojas[value['id']] = value;
+						    	jQuery('#results').append('<li style="clear: both" onclick="javascript: openPanel('+value['id']+')"><img src="'+value['urlFotoLoja']+'" align="left" width="100">'+value['nome']+'<br>'+value['logradouro']+', '+value['numero']+' - '+ value['bairro'] +'<br>'+value['cidade']+' - '+value['cep'] +'</li>')
+						    	var infowindow = new google.maps.InfoWindow();
+
+							    var marker, i;
+
+							    // for (i = 0; i < locations.length; i++) { 
+								      marker = new google.maps.Marker({
+								        position: new google.maps.LatLng(value['latitude'], value['longitude']),
+								        map: map
+								      });
+								      
+								      marker.setIcon("https://www.araujoapp.com.br/app/dist/img/marker.png");
+								      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+								        return function() {
+								        	marker.setIcon("https://www.araujoapp.com.br/app/dist/img/marker_selected.png");
+								          openPanel(value['id']);
+								        }
+								      })(marker, i));
+								      bounds.extend(marker.position);
+							    // }
+							    markersArray.push(marker);
+						    });
+						    if(jQuery( window ).width() > 640 && firstTime == false){
+							    jQuery("#results").animate({"left": "0"}, "slow");
+						        jQuery(".box-busca").css("background-color", "#265e93");
+						        jQuery(".pesquisa-limpar").show("slow");
+					    	}
+						  }
+						});
+
+		    	  	});
+			    	setTimeout(function(){
+				      jQuery('#loading').hide();
+				      map.fitBounds(bounds);
+				      // console.log(lista_lojas);
+					}, 1000);
+		    	  }else{
+		    	  		jQuery.ajax({
+						  url: furl,
+
+						  success: function( result ) {
+						    console.log(result);
+						    jQuery('#results').html('');
+					    	// lista_lojas = [];
+					    	if(result['data'].length == 0){
+					    		jQuery('#results').append('<li style="clear: both" onclick="" style="text-align: center; color: red; font-size: 12px;">Nenhuma loja encontrada!</li>')
+					    	}else{
+
+							    jQuery.each(result['data'], function(key, value){
+							    	console.log(lista_lojas.indexOf(value));
+							    	if(lista_lojas[value['id']] != undefined && servicos_array.length == 0){
+								    	jQuery('#results').append('<li style="clear: both" onclick="javascript: openPanel('+value['id']+')"><img src="'+value['urlFotoLoja']+'" align="left" width="100">'+value['nome']+'<br>'+value['logradouro']+', '+value['numero']+' - '+ value['bairro'] +'<br>'+value['cidade']+' - '+value['cep'] +'</li>');
+								    	var infowindow = new google.maps.InfoWindow();
+
+									    var marker, i;
+
+									    // for (i = 0; i < locations.length; i++) { 
+										      marker = new google.maps.Marker({
+										        position: new google.maps.LatLng(value['latitude'], value['longitude']),
+										        map: map
+										      });
+										      marker.setIcon("https://www.araujoapp.com.br/app/dist/img/marker.png");
+										      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+										        return function() {
+										        	// marker.setIcon("https://www.araujoapp.com.br/app/dist/img/marker_selected.png");
+										          	openPanel(value['id']);
+										        }
+										      })(marker, i));
+										      bounds.extend(marker.position);
+									    // }
+									    markersArray.push(marker);
+									}
+
+									if(servicos_array.length > 0){
+										jQuery('#results').append('<li style="clear: both" onclick="javascript: openPanel('+value['id']+')"><img src="'+value['urlFotoLoja']+'" align="left" width="100">'+value['nome']+'<br>'+value['logradouro']+', '+value['numero']+' - '+ value['bairro'] +'<br>'+value['cidade']+' - '+value['cep'] +'</li>')
+								    	var infowindow = new google.maps.InfoWindow();
+
+									    var marker, i;
+
+									    // for (i = 0; i < locations.length; i++) { 
+										      marker = new google.maps.Marker({
+										        position: new google.maps.LatLng(value['latitude'], value['longitude']),
+										        map: map
+										      });
+										      
+										      marker.setIcon("https://www.araujoapp.com.br/app/dist/img/marker.png");
+										      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+										        return function() {
+										        	// marker.setIcon("https://www.araujoapp.com.br/app/dist/img/marker_selected.png");
+										          	openPanel(value['id']);
+										        }
+										      })(marker, i));
+										      bounds.extend(marker.position);
+									    // }
+									    markersArray.push(marker);
+									}
+							    	map.fitBounds(bounds);
+							    	// map.panToBounds(bounds);
+							    });
+					    	}
+						    if(jQuery( window ).width() > 640 && firstTime == false){
+							    jQuery("#results").animate({"left": "0"}, "slow");
+						        jQuery(".box-busca").css("background-color", "#265e93");
+						        jQuery(".pesquisa-limpar").show("slow");
+					    	}
+						  }
+						});
+		    	  }
+
+			      if(servicos_array.length == 0 ){
+			      	jQuery('#servicosSelecionados').html('Nenhum serviço selecionado');
+			      }else{
+			      	jQuery('#servicosSelecionados').html(servicos_array.length + ' serviço(s) selecionado(s)');
+			      }
+
+				
+				setTimeout(function(){
+			      jQuery('#loading').hide();
+			      map.fitBounds(bounds);
+			      // console.log(lista_lojas);
+				}, 1000);
+
+				return false;
+
+		    }
+
+		    function openPanel(loja_id){
+		    	var furl = "https://www.araujoapp.com.br/rest/map/"+loja_id;
+				jQuery.ajax({
+				  url: furl,
+
+				  success: function( result ) {
+				    console.log(result);
+				    jQuery('#nome_loja').html(result.data.nome);
+				    jQuery('#endereco_pt_um').html(result.data.logradouro + ', ' + result.data.numero);
+				    if(result.data.complemento != "NULL"){
+				    	jQuery('#endereco_pt_um').append(' ' + result.data.complemento);
+				    }
+				    jQuery('#endereco_pt_um').append(' - ' + result.data.bairro);
+				    jQuery('#endereco_pt_dois').html(result.data.cidade + ' - ' + result.data.cep);
+				    jQuery('#telefone').html('('+ result.data.ddd + ') ' + result.data.telefone);
+				    jQuery('#horarios').html('');
+				    jQuery.each(result.data.horarios, function(k,v){
+				    	jQuery('#horarios').append(v + "<br>");
+				    });
+				    if(result.data.vinteQuatroHoras){
+				    	jQuery('#icon_24h').show();
+				    }else{
+				    	jQuery('#icon_24h').hide();
+				    }
+
+				    jQuery('#servicos').html('<dt>Serviços</dt>');
+				    jQuery.each(result.data.lojaServicos, function(k,v){
+				    	jQuery('#servicos').append("<dd><span>"+v.nome+"</span></dd>");
+				    });
+
+				    jQuery('#imagem_loja').attr('src', lista_lojas[loja_id].urlFotoLoja);
+				    jQuery('#resultado2').animate({"left": "0"}, "slow");
+				    // <dd><span>Araujo Manipulação</span></dd>
+				    // https://www.google.com/maps/dir/Current+Location/760+West+Genesee+Street+Syracuse+NY+13204
+				    jQuery('.rota').attr('href', 'https://www.google.com/maps/dir/Current+Location/'+lista_lojas[loja_id].latitude+',+'+lista_lojas[loja_id].longitude);
+				  }
+				});
+		    }
+
+		    jQuery('.closeLoja').on('click', function(e){
+		    	e.preventDefault();
+		    	jQuery('#resultado2').animate({"left": "-400"}, "slow");
+		    });
+		</script>
+		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOy6L-GuMFN5WL98u5ym_dRcxRgNtJqyE&callback=initMap"></script>
+
+
+</body>
+
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 3026/94 objects using disk
+Page Caching using disk: enhanced (Page is 404) 
+Database Caching 13/44 queries in 0.101 seconds using disk
+
+Served from: blog.araujo.com.br @ 2018-09-14 15:45:46 by W3 Total Cache
+-->

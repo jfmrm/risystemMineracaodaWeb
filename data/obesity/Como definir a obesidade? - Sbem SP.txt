@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br" dir="ltr">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+                                <!-- head -->
+                <base href="https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade&amp;sa=U&amp;ved=0ahUKEwjf2LfgxbrdAhVBhpAKHelPBSs4PBAWCDAwBQ&amp;usg=AOvVaw1aWF9jOgvQjinPtaDLOVNK" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="sbem, sbem sp, sp, sociedade endocrinologia, são paulo" />
+	<meta name="author" content="Gengibre" />
+	<meta name="description" content="A SBEM-SP pratica a defesa da endocrinologia em conjunto com outras entidades médicas e oferece aos seus membros oportunidades de aprimoramento técnico e científico" />
+	<title>Como definir a obesidade?</title>
+	<link href="/images/favicon_sbem.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/shaper_helix3/css/alteracoes.css" rel="stylesheet" type="text/css" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.1/remodal.min.css" rel="stylesheet" type="text/css" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.1/remodal-default-theme.min.css" rel="stylesheet" type="text/css" />
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=latin" rel="stylesheet" type="text/css" />
+	<link href="/templates/shaper_helix3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/shaper_helix3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/shaper_helix3/css/legacy.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/shaper_helix3/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/shaper_helix3/css/presets/preset1.css" rel="stylesheet" type="text/css" class="preset" />
+	<link href="/templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css" />
+	<link href="/media/widgetkit/wk-styles-576895bd.css" rel="stylesheet" type="text/css" id="wk-styles-css" />
+	<style type="text/css">
+body{font-family:Open Sans, sans-serif; font-weight:normal; }h1{font-family:Open Sans, sans-serif; font-weight:800; }h2{font-family:Open Sans, sans-serif; font-weight:600; }h3{font-family:Open Sans, sans-serif; font-weight:normal; }h4{font-family:Open Sans, sans-serif; font-weight:normal; }h5{font-family:Open Sans, sans-serif; font-weight:600; }h6{font-family:Open Sans, sans-serif; font-weight:600; }#sp-redes-sociais{ padding:0px;margin:0px; }#sp-section-3{ background-color:#f2f2f2; }#sp-bottom{ background-color:#002a75;color:#ffffff;padding:0px 0px 50px 0px; }#sp-section-6{ background-color:#232323;color:#ffffff;padding:20px 0px; }
+	</style>
+	<script src="/media/system/js/caption.js?ef156493edf935c650a87c8b1acf8742" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?ef156493edf935c650a87c8b1acf8742" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?ef156493edf935c650a87c8b1acf8742" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?ef156493edf935c650a87c8b1acf8742" type="text/javascript"></script>
+	<script src="/templates/shaper_helix3/js/alteracoes.js" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.1/remodal.min.js" type="text/javascript"></script>
+	<script src="/templates/shaper_helix3/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/shaper_helix3/js/jquery.sticky.js" type="text/javascript"></script>
+	<script src="/templates/shaper_helix3/js/main.js" type="text/javascript"></script>
+	<script src="/templates/shaper_helix3/js/frontend-edit.js" type="text/javascript"></script>
+	<script src="/media/widgetkit/uikit-c75aa4c9.js" type="text/javascript"></script>
+	<script src="/media/widgetkit/wk-scripts-e057f3ce.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+var sp_preloader = '0';
+var sp_gotop = '0';
+var sp_offanimation = 'default';
+	</script>
+	<meta property="og:url" content="https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade&sa=U&ved=0ahUKEwjf2LfgxbrdAhVBhpAKHelPBSs4PBAWCDAwBQ&usg=AOvVaw1aWF9jOgvQjinPtaDLOVNK" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Como definir a obesidade?" />
+	<meta property="og:description" content="Dia 11 de outubro é o Dia Mundial de Combate à Obesidade Endocrinologista ressalta necessidade de melhor entendimento #sbemsp Mas afinal como definir a obe..." />
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107803160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-107803160-1');
+</script>
+                </head>
+                <body class="site com-content view-article no-layout no-task itemid-149 pt-br ltr  sticky-header layout-fluid off-canvas-menu-init">
+                    <div class="body-wrapper">
+                        <div class="body-innerwrapper">
+                            <section id="sp-redes-sociais"><div class="container"><div class="row"><div id="sp-top1" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom"  >
+<ul class="listaSuperSocial">
+  <li class="listaSocial"><a class="linkSocial" href="https://www.facebook.com/sbem.saopaulo" target="_blank"><img src="/images/icon-facebook.png" alt="" width="50%"/></a></li>
+  <li class="listaSocial"><a class="linkSocial" href="https://twitter.com/SBEMSP" target="_blank"><img src="/images/icon-twitter.png" alt="" width="50%"/></a></li>
+  <li class="listaSocial"><a class="linkSocial" href="https://www.youtube.com/channel/UCTtfSKnx6M8GJsblJG2AHRA" target="_blank"><img src="/images/icon-youtube.png" alt="" width="50%"/></a></li>
+  <li class="listaSocial"><a class="linkSocial" href="https://www.instagram.com/sbemsp/" target="_blank"><img src="/images/icon-instagram.png" alt="" width="50%"/></a></li>
+</ul></div>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-xs-8 col-sm-3 col-md-3"><div class="sp-column "><div class="logo"><a href="/"><img class="sp-default-logo hidden-xs" src="/images/2017/logo-1.png" alt="Sociedade Brasileira de Endocrinologia e Metabologia - Regional São Paulo"><img class="sp-retina-logo hidden-xs" src="/images/2017/logo-1.png" alt="Sociedade Brasileira de Endocrinologia e Metabologia - Regional São Paulo" width="278" height="56"><img class="sp-default-logo visible-xs" src="/images/2017/logo-1.png" alt="Sociedade Brasileira de Endocrinologia e Metabologia - Regional São Paulo"></a></div></div></div><div id="sp-menu" class="col-xs-4 col-sm-9 col-md-9"><div class="sp-column ">			<div class='sp-megamenu-wrapper'>
+				<a id="offcanvas-toggler" class="visible-sm visible-xs" href="#"><i class="fa fa-bars"></i></a>
+				<ul class="sp-megamenu-parent menu-fade hidden-sm hidden-xs"><li class="sp-menu-item"><a  href="/" >Inicial</a></li><li class="sp-menu-item sp-has-child"><a  href="/sbem-sp" >Sbem SP</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/sbem-sp/diretoria" >Diretoria</a></li><li class="sp-menu-item"><a  href="/sbem-sp/estatutos" >Estatutos</a></li><li class="sp-menu-item"><a  href="/sbem-sp/como-se-associar" >Como se associar</a></li><li class="sp-menu-item"><a  href="https://www.endocrino.org.br/departamentos/" target="_blank" >Departamentos da SBEM</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/para-associados" >Para Associados</a></li><li class="sp-menu-item sp-has-child"><a  href="/para-o-publico" >Para o Público</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/para-o-publico/noticias" >Notícias</a></li><li class="sp-menu-item"><a  href="/para-o-publico/informacoes-sobre-doencas" >Informações sobre doenças</a></li><li class="sp-menu-item"><a  href="/para-o-publico/sites-interessantes" >Sites Interessantes</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/eventos-medicos" >Eventos Médicos</a></li><li class="sp-menu-item sp-has-child active"><a  href="/imprensa" >Imprensa</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/imprensa/clippings" >Clippings</a></li><li class="sp-menu-item current-item active"><a  href="/imprensa/releases" >Releases</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/contato" >Contato</a></li><li class="sp-menu-item"><a  href="#modal-pesquisa" ><img src="/images/icone_busca_topo.png" alt="Procura" /></a></li></ul>			</div>
+		</div></div></div></div></header><section id="sp-section-3"><div class="container"><div class="row"><div id="sp-top2" class="col-sm-12 col-md-12"><div class="sp-column "></div></div></div></div></section><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-sm-12 col-md-12"><div class="sp-column "><div id="system-message-container">
+	</div>
+<article class="item item-page" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="pt-BR" />
+	<div class="entry-header">
+						<dl class="article-info">
+			<dt class="article-info-term"></dt>	
+							<dd class="published">
+	<i class="fa fa-calendar-o"></i>
+	<time datetime="2017-09-25T23:36:34+00:00" itemprop="datePublished" data-toggle="tooltip" title="Data de Publicação">
+		25 Setembro 2017	</time>
+</dd>			
+							<dd class="hits">
+	<span class="fa fa-eye"></span>
+	<meta itemprop="interactionCount" content="UserPageVisits:805" />
+	Acessos: 805</dd>					
+	</dl>
+					<h2 itemprop="name">
+									Como definir a obesidade?							</h2>
+												</div>
+			<div itemprop="articleBody">
+		<p><em>Dia 11 de outubro é o Dia Mundial de Combate à Obesidade</em></p>
+<p><em>Endocrinologista ressalta necessidade de melhor entendimento</em></p>
+<p>#sbemsp</p>
+<p><strong>Mas afinal como definir a obesidade? </strong>Trata-se do excesso de gordura corporal em quantidade que determine prejuízos à saúde. A Organização Mundial da Saúde (OMS) define o diagnóstico através do índice de massa corporal (IMC), que é calculado utilizando a altura e o peso do indivíduo (IMC = peso (kg) / altura (m)<sup>2</sup>).</p>
+<p>De acordo com a OMS, uma pessoa tem obesidade quando o IMC é maior ou igual a 30 kg/m2 e a faixa de peso normal varia entre 18,5 e 24,9 kg/m2. Os indivíduos que possuem IMC entre 25 e 29,9 kg/m2 são diagnosticados como sobrepeso, e já podem ter alguns prejuízos com o excesso de gordura.</p>
+<p><strong>Causas</strong> – “É importante que todos saibam que ninguém tem obesidade porque quer ou escolhe ser obeso, pois não é uma questão de força de vontade, determinação ou caráter. A genética contribui com 70% para o desenvolvimento da obesidade, somando-se a outros fatores determinantes como alimentação e sedentarismo. É importante lembrar que, se o peso de uma pessoa está se elevando, é porque ela está comendo mais que o necessário, e o excesso está se acumulando na forma de gordura”, explica a <strong>Dra. Maria Edna de Melo, médica da Sociedade Brasileira de Endocrinologia e Metabologia Regional São Paulo (SBEM-SP).</strong></p>
+<p><strong>Sintomas</strong> - Existe uma tendência da população em geral, e até de alguns profissionais de Saúde, de considerar uma pessoa obesa quando ela já tem um quadro mais grave, daí a importância de monitorar o IMC. A obesidade apresenta inúmeras complicações, e, de acordo com a tendência individual, ela pode desencadear, por exemplo, artrose, diabetes mellitus tipo 2, hipertensão arterial, refluxo gastroesofágico, apneia do sono e alguns tipos de câncer. A obesidade leva as pessoas a viverem menos e com pior qualidade de vida.</p>
+<p><strong>Tratamento</strong> - O tratamento inclui alimentação saudável com diminuição da ingestão de calorias e aumento da atividade física, podendo-se associar ao uso de medicamentos. Em casos mais graves e refratários, pode ser indicado o tratamento cirúrgico.</p>
+<p><strong><u>Sobre a SBEM-SP</u></strong></p>
+<p>A SBEM-SP (Sociedade Brasileira de Endocrinologia e Metabologia do Estado de São Paulo) pratica a defesa da Endocrinologia, em conjunto com outras entidades médicas, e oferece aos seus associados oportunidades de aprimoramento técnico e científico. Consciente de sua responsabilidade social, a SBEM-SP presta consultoria junto à Secretaria de Saúde do Estado de São Paulo, no desenvolvimento de estratégias de atendimento e na padronização de procedimentos em Endocrinologia, e divulga ao público orientações básicas sobre as principais moléstias tratadas pelos endocrinologistas.</p>
+<p><strong>Serviço:</strong></p>
+<p>Twitter: @SBEMSP</p>
+<p>Facebook: Sbem-São-Paulo</p>
+<p>http://sbemsp.org.br/</p>
+<p><strong> </strong></p>
+<p><strong>Informações para a Imprensa</strong></p>
+<p><strong>Gengibre Comunicação - </strong><strong>(11) 94466-0408 (ligação e whatsapp)</strong></p>
+<p>Regiane Chiereghim: <span id="cloak4a912c5dcfa700eae7c4b02daf4b2903">Este endereço de email está sendo protegido de spambots. Você precisa do JavaScript ativado para vê-lo.</span><script type='text/javascript'>
+				document.getElementById('cloak4a912c5dcfa700eae7c4b02daf4b2903').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy4a912c5dcfa700eae7c4b02daf4b2903 = 'r&#101;g&#105;&#97;n&#101;' + '&#64;';
+				addy4a912c5dcfa700eae7c4b02daf4b2903 = addy4a912c5dcfa700eae7c4b02daf4b2903 + 'g&#101;ng&#105;br&#101;c&#111;m&#117;n&#105;c&#97;c&#97;&#111;' + '&#46;' + 'c&#111;m' + '&#46;' + 'br';
+				var addy_text4a912c5dcfa700eae7c4b02daf4b2903 = 'r&#101;g&#105;&#97;n&#101;' + '&#64;' + 'g&#101;ng&#105;br&#101;c&#111;m&#117;n&#105;c&#97;c&#97;&#111;' + '&#46;' + 'c&#111;m' + '&#46;' + 'br';document.getElementById('cloak4a912c5dcfa700eae7c4b02daf4b2903').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy4a912c5dcfa700eae7c4b02daf4b2903 + '\'>'+addy_text4a912c5dcfa700eae7c4b02daf4b2903+'<\/a>';
+		</script></p>
+<p>Débora Torrente: <span id="cloak754b44cfcb370b11d3db45b0d55e87ce">Este endereço de email está sendo protegido de spambots. Você precisa do JavaScript ativado para vê-lo.</span><script type='text/javascript'>
+				document.getElementById('cloak754b44cfcb370b11d3db45b0d55e87ce').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy754b44cfcb370b11d3db45b0d55e87ce = 'd&#101;b&#111;r&#97;' + '&#64;';
+				addy754b44cfcb370b11d3db45b0d55e87ce = addy754b44cfcb370b11d3db45b0d55e87ce + 'g&#101;ng&#105;br&#101;c&#111;m&#117;n&#105;c&#97;c&#97;&#111;' + '&#46;' + 'c&#111;m' + '&#46;' + 'br';
+				var addy_text754b44cfcb370b11d3db45b0d55e87ce = 'd&#101;b&#111;r&#97;' + '&#64;' + 'g&#101;ng&#105;br&#101;c&#111;m&#117;n&#105;c&#97;c&#97;&#111;' + '&#46;' + 'c&#111;m' + '&#46;' + 'br';document.getElementById('cloak754b44cfcb370b11d3db45b0d55e87ce').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy754b44cfcb370b11d3db45b0d55e87ce + '\'>'+addy_text754b44cfcb370b11d3db45b0d55e87ce+'<\/a>';
+		</script></p>
+<p>Patrícia de Andrade: <span id="cloak392457db0a9e4c784ba97e12a8d04198">Este endereço de email está sendo protegido de spambots. Você precisa do JavaScript ativado para vê-lo.</span><script type='text/javascript'>
+				document.getElementById('cloak392457db0a9e4c784ba97e12a8d04198').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy392457db0a9e4c784ba97e12a8d04198 = 'p&#97;tr&#105;c&#105;&#97;' + '&#64;';
+				addy392457db0a9e4c784ba97e12a8d04198 = addy392457db0a9e4c784ba97e12a8d04198 + 'g&#101;ng&#105;br&#101;c&#111;m&#117;n&#105;c&#97;c&#97;&#111;' + '&#46;' + 'c&#111;m' + '&#46;' + 'br';
+				var addy_text392457db0a9e4c784ba97e12a8d04198 = 'p&#97;tr&#105;c&#105;&#97;' + '&#64;' + 'g&#101;ng&#105;br&#101;c&#111;m&#117;n&#105;c&#97;c&#97;&#111;' + '&#46;' + 'c&#111;m' + '&#46;' + 'br';document.getElementById('cloak392457db0a9e4c784ba97e12a8d04198').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy392457db0a9e4c784ba97e12a8d04198 + '\'>'+addy_text392457db0a9e4c784ba97e12a8d04198+'<\/a>';
+		</script></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>	</div>
+			<div class="article-footer-wrap">
+			<div class="article-footer-top">
+									<div class="helix-social-share">
+		<div class="helix-social-share-icon">
+			<ul>
+				<li>
+					<div class="facebook" data-toggle="tooltip" data-placement="top" title="Share On Facebook">
+						<a class="facebook" onClick="window.open('http://www.facebook.com/sharer.php?u=https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="http://www.facebook.com/sharer.php?u=https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade">
+							<i class="fa fa-facebook"></i>
+						</a>
+					</div>
+				</li>
+				<li>
+					<div class="twitter"  data-toggle="tooltip" data-placement="top" title="Share On Twitter">
+						<a class="twitter" onClick="window.open('http://twitter.com/share?url=https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade&amp;text=Como%20definir%20a%20obesidade?','Twitter share','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="http://twitter.com/share?url=https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade&amp;text=Como%20definir%20a%20obesidade?">
+							<i class="fa fa-twitter"></i>
+						</a>
+					</div>
+				</li>
+				<li>
+					<div class="google-plus">
+						<a class="gplus" data-toggle="tooltip" data-placement="top" title="Share On Google Plus" onClick="window.open('https://plus.google.com/share?url=https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade','Google plus','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="https://plus.google.com/share?url=https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade" >
+						<i class="fa fa-google-plus"></i></a>
+					</div>
+				</li>
+				<li>
+					<div class="linkedin">
+						<a class="linkedin" data-toggle="tooltip" data-placement="top" title="Share On Linkedin" onClick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade','Linkedin','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="http://www.linkedin.com/shareArticle?mini=true&url=https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade" >
+						<i class="fa fa-linkedin-square"></i></a>
+					</div>
+				</li>
+			</ul>
+		</div>		
+	</div> <!-- /.helix-social-share -->
+			</div>
+					</div>
+</article>
+</div></div></div></div></section><section id="sp-bottom"><div class="container"><div class="row"><div id="sp-bottom1" class="col-sm-6 col-md-12"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div class="custom"  >
+	<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      <h1 style="color:white;" class="titulos-sbem titulos-contato">Contato</h1>
+    </div>
+    <div class="col-md-3 info-rod">
+      <div class="col-md-2">
+        <i class="fa fa-envelope icone-rod" aria-hidden="true"></i>
+      </div>
+      <div class="col-md-10">
+        <p class="texto-rod">
+          contato@sbemsp.org.br
+        </p>
+      </div>
+    </div>
+    <div class="col-md-3 info-rod">
+      <div class="col-md-2">
+        <i class="fa fa-phone icone-rod" aria-hidden="true"></i>
+      </div>
+      <div class="col-md-10">
+        <p class="texto-rod">
+          (11) 3822-1965
+        </p>
+      </div>
+    </div>
+    <div class="col-md-6 info-rod">
+      <div class="col-md-2">
+        <i class="fa fa-map-marker icone-rod" aria-hidden="true"></i>
+      </div>
+      <div class="col-md-10">
+        <p class="texto-rod">
+          Av. Angélica, 1757, cj 103 - CEP: 01227-200 - São Paulo - SP
+        </p>
+      </div>
+    </div>
+    <div class="col-md-12">
+      <!--<p class="texto-rod">
+        Dúvidas, comentários e sugestões a respeito deste website, escreva para: <a class="texto-rod-link" href="#">webmaster@sbemsp.org.br</a>
+      </p>-->
+      <p class="texto-rod">
+        Lembramos que, por orientações do Conselho Federal de Medicina, não são autorizadas consultas online, nem análise de exames sem um exame clínico, que deve ser feito pelo seu médico. Mais informações em nossos <a href="/termos-de-uso" target="_blank">termos de uso</a>.
+      </p>
+            <p class="texto-rod">
+        Acesse o site da <a href="https://www.endocrino.org.br/" target="_blank">SBEM Nacional</a>
+      </p>
+    </div>
+</div>
+</div>
+</div></div></div></div></div></div></section><section id="sp-section-6"><div class="container"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column "><span class="sp-copyright"><a href="https://conectandopessoas.com.br/" target="_blank"><img style="float:right;width:170px;" src="/images/logo_cp_branca.png" alt=""></a></span></div></div></div></div></section>                        </div> <!-- /.body-innerwrapper -->
+                    </div> <!-- /.body-innerwrapper -->
+                    <!-- Off Canvas Menu -->
+                    <div class="offcanvas-menu">
+                        <a href="#" class="close-offcanvas"><i class="fa fa-remove"></i></a>
+                        <div class="offcanvas-inner">
+                                                          <div class="sp-module _menu"><h3 class="sp-module-title">Menu Principal</h3><div class="sp-module-content"><ul class="nav menu">
+<li class="item-101"><a href="/" > Inicial</a></li><li class="item-112  deeper parent"><a href="/sbem-sp" > Sbem SP</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-112"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-112"><li class="item-136"><a href="/sbem-sp/diretoria" > Diretoria</a></li><li class="item-135"><a href="/sbem-sp/estatutos" > Estatutos</a></li><li class="item-137"><a href="/sbem-sp/como-se-associar" > Como se associar</a></li><li class="item-153"><a href="https://www.endocrino.org.br/departamentos/" target="_blank" > Departamentos da SBEM</a></li></ul></li><li class="item-113"><a href="/para-associados" > Para Associados</a></li><li class="item-114  deeper parent"><a href="/para-o-publico" > Para o Público</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-114"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-114"><li class="item-118"><a href="/para-o-publico/noticias" > Notícias</a></li><li class="item-138"><a href="/para-o-publico/informacoes-sobre-doencas" > Informações sobre doenças</a></li><li class="item-143"><a href="/para-o-publico/sites-interessantes" > Sites Interessantes</a></li></ul></li><li class="item-115"><a href="/eventos-medicos" > Eventos Médicos</a></li><li class="item-147  active deeper parent"><a href="/imprensa" > Imprensa</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-147"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span><ul class="collapse" id="collapse-menu-147"><li class="item-148"><a href="/imprensa/clippings" > Clippings</a></li><li class="item-149  current active"><a href="/imprensa/releases" > Releases</a></li></ul></li><li class="item-116"><a href="/contato" > Contato</a></li><li class="item-117"><a href="#modal-pesquisa" > <img src="/images/icone_busca_topo.png" alt="Procura" /></a></li></ul>
+</div></div>
+                                                    </div> <!-- /.offcanvas-inner -->
+                    </div> <!-- /.offcanvas-menu -->
+                    <div class="remodal" data-remodal-id="modal-pesquisa">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-pequisa">Pesquisar</h1>
+  <!-- START: Modules Anywhere --><div class="search">
+	<form action="/imprensa/releases" method="post">
+		<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="text" size="0" placeholder="Pesquisar..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="149" />
+	</form>
+</div>
+<!-- END: Modules Anywhere -->
+</div>
+<div class="remodal" data-remodal-id="modal-login">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1>Acesse sua conta.</h1>
+  <!-- START: Modules Anywhere --><form action="https://www.sbemsp.org.br/imprensa/releases/123-como-definir-a-obesidade&sa=U&ved=0ahUKEwjf2LfgxbrdAhVBhpAKHelPBSs4PBAWCDAwBQ&usg=AOvVaw1aWF9jOgvQjinPtaDLOVNK" method="post" id="login-form">
+		
+	<div id="form-login-username" class="form-group">
+					<div class="input-group">
+				<span class="input-group-addon">
+					<i class="icon-user hasTooltip" title="Nome de Usuário"></i>
+				</span>
+				<input id="modlgn-username" type="text" name="username" class="form-control" tabindex="0" size="18" placeholder="Nome de Usuário" />
+			</div>
+			</div>
+	<div id="form-login-password" class="form-group">
+		<div class="controls">
+							<div class="input-group">
+					<span class="input-group-addon">
+						<i class="icon-lock hasTooltip" title="Senha"></i>
+					</span>
+					<input id="modlgn-passwd" type="password" name="password" class="form-control" tabindex="0" size="18" placeholder="Senha" />
+				</div>
+					</div>
+	</div>
+	
+		<div id="form-login-remember" class="form-group">
+		<div class="checkbox">
+			<label for="modlgn-remember"><input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes">Lembrar-me</label>
+		</div>
+	</div>
+	
+	<div id="form-login-submit" class="form-group">
+		<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Entrar</button>
+			</div>
+
+	<ul class="form-links">
+		<li>
+			<a href="/component/users/?view=remind">
+			Esqueceu seu usuário?</a>
+		</li>
+		<li>
+			<a href="/component/users/?view=reset">
+			Esqueceu sua senha?</a>
+		</li>
+	</ul>
+	
+	<input type="hidden" name="option" value="com_users" />
+	<input type="hidden" name="task" value="user.login" />
+	<input type="hidden" name="return" value="aHR0cHM6Ly93d3cuc2JlbXNwLm9yZy5ici9pbXByZW5zYS9yZWxlYXNlcy8xMjMtY29tby1kZWZpbmlyLWEtb2Jlc2lkYWRlJnNhPVUmdmVkPTBhaFVLRXdqZjJMZmd4YnJkQWhWQmhwQUtIZWxQQlNzNFBCQVdDREF3QlEmdXNnPUFPdlZhdzFhV0Y5ak9ndlFqaW5QdGFETE9WTks=" />
+	<input type="hidden" name="158a8470f814276b3e20618bfda1e556" value="1" />
+	</form>
+<!-- END: Modules Anywhere -->
+  <p class="sem-acesso">Não consigo acessar. <a href="/nao-consigo-acessar"><b>Clique Aqui</b></a></p>
+</div>
+<div class="remodal" data-remodal-id="modal-disturbios-da-puberdade">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Distúrbios da puberdade</h1>
+  <p style="text-align:justify;"><b>O que é</b></p>
+  <p style="text-align:justify;">O período normal de puberdade pode variar entre oito e 14 anos, em média, nas meninas, e entre 10 e 15 nos meninos, com uma grande variação dentro de um mesmo grupo e de acordo com a etnia, mas com tendência a manter um padrão familiar genético. </p>
+<p style="text-align: justify;"><b>A puberdade precoce</b></p>
+<p style="text-align: justify;">  O aparecimento de mamas em meninas antes dos oito anos de idade e o desenvolvimento dos testículos antes dos nove anos e seis meses nos meninos deve ser avaliado cuidadosamente para esclarecer se a criança apresenta precocidade sexual. </p>
+<p style="text-align: justify;">Merecem atenção as crianças que iniciaram a puberdade na idade adequada, mas que apresentam um ritmo de desenvolvimento muito rápido.
+Existem também os quadros de puberdade precoce incompleta, quando a criança pode apresentar apenas o desenvolvimento mamário, ou somente a pilificação pubiana sem outras modificações físicas, ou seja, não há aceleração do crescimento, acne, aumento da massa muscular, menstruação</p>
+  <p style="text-align:justify;"><b>Causas da puberdade precoce</b></p>
+  <p style="text-align:justify;">Denominamos puberdade precoce dependente de gonadotrofinas, também chamada de central ou verdadeira, os quadros em que existe envolvimento da hipófise ou do hipotálamo, que produzem LH e FSH (gonadotrofinas) que estimulam o ovário ou o testículo a se desenvolverem. Essa alteração pode não ter uma causa definida e ser chamada de idiopática, ou pode até mesmo ser causada por tumores. </p>
+<p style="text-align: justify;">A puberdade precoce é considerada não dependente de gonadotrofinas, periférica, ou também chamada de pseudo-puberdade quando o problema ocorre na glândula adrenal, ou por uma doença primária no ovário ou no testículo, sem, no entanto, haver a participação da hipófise. 
+Doenças congênitas da glândula adrenal, por deficiências enzimáticas e tumores, têm como consequência a produção exacerbada de hormônios chamados androgênicos (testosterona) e esses quadros causam nas meninas aumento da pilificação, aumento do clitóris e da massa muscular, além de acne, criando um aspecto virilizado nelas. Nos meninos, além do aumento da massa muscular e aparecimento de acne, ocorre aumento do pênis não compatível com o desenvolvimento dos testículos.</p>
+<p style="text-align: justify;"><strong>Tratamento</strong></p>
+<p style="text-align: justify;">O tratamento depende da causa. Na puberdade periférica, ele pode ser feito com medicamentos ou com cirurgia, especialmente nos casos de tumores. A puberdade precoce central, dependente de gonadotrofinas, é tratada com medicamentos.</p>
+<p style="text-align: justify;">Os análogos do GnRH são formas sintéticas de proteínas cerebrais que agem com uma potência dez vezes maior do que a dos hormônios naturais e, por isso, competem com esses, pelos receptores dentro das células, promovendo sua inibição quando administrado continuamente, bloqueando a evolução da puberdade. 
+ </p>
+<p style="text-align: justify;">O medicamento é administrado por via muscular, preferencialmente. Após as primeiras doses, pode haver uma elevação temporária dos hormônios da hipófise e do ovário ou testículo. Após 4 semanas, ocorre uma supressão desses hormônios e todos os órgãos que dependem desses hormônios ficarão em repouso. O efeito cessa após a suspensão do tratamento.</p>
+<p style="text-align: justify;">A dose habitual é de 3,75 mg com ação prolongada em uma aplicação mensal, mas deve sempre ser estabelecida pelo médico de acordo com cada caso. Existem também apresentações de uso trimestral, 11,25 mg, atualmente a medicação mais indicada, devido ao menor número de injeções.</p>
+<p style="text-align: justify;">Em todos os casos de puberdade tratados espera-se uma regressão dos caracteres sexuais, mamas, desenvolvimento testicular, redução da pilificação (casos de puberdade periférica); diminuição da velocidade de crescimento, não progressão da idade óssea. Também é importante considerar o aspecto psicológico das crianças e sua melhor adaptação ao grupo da mesma idade com o resultado efetivo do tratamento. </p>
+<p style="text-align: justify;"><b>Dra. Angela Spinola</b></p>
+<p style="text-align: justify;"><b>Endocrinologista da SBEM-SP</b></p>
+</div>
+<div class="remodal" data-remodal-id="modal-tireoide">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Tireoide</h1>
+<p style="text-align: justify;"><b>O que é</b></p>
+<p style="text-align: justify;">A glândula tireoide, com formato semelhante a uma borboleta, fica no pescoço, logo abaixo da saliência popularmente conhecida como pomo de adão.  </p>  
+<p style="text-align: justify;">A principal função da tireoide é a produção de dois hormônios, denominados T3 e T4, que agem em praticamente todas as funções orgânicas, como controle dos batimentos cardíacos; transmissões cerebrais, com influência sobre o humor, memória, atenção, concentração, raciocínio e inteligência; força muscular e metabolismo do tecido adiposo (gordura); controle da produção e consumo de energia, manutenção da temperatura corpórea e mecanismos de adaptação ao frio; formação e renovação do osso; movimentos das alças intestinais (peristaltismo); crescimento; ciclo menstrual e fertilidade, entre outras. </p>
+<p style="text-align: justify;"><b>Causas</b></p>
+<p style="text-align: justify;">A tireoide pode ser afetada por problemas em sua produção hormonal ou por alterações em sua estrutura anatômica. Quando a produção dos hormônios tireoidianos está diminuída, condição chamada de hipotireoidismo, todas as funções orgânicas desaceleram e o organismo passa a trabalhar em ritmo mais lento. Por outro lado, quando há um aumento não controlado da produção hormonal, condição chamada de hipertireoidismo, todas as funções orgânicas ficam aceleradas.</p>
+<p style="text-align: justify;">O <b>hipotireoidismo congênito</b> afeta aproximadamente um em cada 4.500–5.000 recém-nascidos no Brasil. A falta do diagnóstico e o não tratamento precoce dessa condição se associa com graves e irreparáveis complicações, como retardo mental, também conhecido como cretinismo. O <b>teste do pezinho</b> possibilita o diagnóstico precoce dessa condição.</p> 
+<p style="text-align: justify;">O <b>hipotireoidismo na gestação</b> é relativamente frequente e pode ser despercebido. A falta do diagnóstico e tratamento pode se associar com complicações maternas e fetais. </p>
+<p style="text-align: justify;">Os <b>nódulos de tireoide</b> são muito frequentes, podendo ser identificados em até 50% da população geral através da ultrassonografia. Mas felizmente, a maioria dos nódulos é benigna e o <b>câncer de tireoide</b> é raro, afetando cerca de 5% das pessoas com nódulos. Além disso, o câncer de tireoide tem uma evolução não agressiva e com possibilidade de cura na maioria dos casos. </p>
+<p style="text-align: justify;"><b>Sintomas</b></p>
+<p style="text-align: justify;">Alguns dos sintomas mais frequentes do <b>hipotireoidismo</b> são: cansaço, desânimo, indisposição, sonolência excessiva, sono não reparador (acordar com sono); humor deprimido, tristeza ou depressão; ressecamento da pele e cabelos,  queda de cabelos e unhas fracas e quebradiças; intestino preso; inchaço e ganho de peso; alterações menstruais, dificuldade para engravidar, abortos de repetição; dor muscular e articular; diminuição da concentração e da memória e aumento do colesterol.</p>
+<p style="text-align: justify;">Entre os sintomas mais comuns do <b>hipertireoidismo</b>,  figuram a taquicardia (aceleração dos batimentos cardíacos), que pode evoluir para uma arritmia cardíaca; tremores; perda de peso; suor excessivo; nervosismo; aumento do número de evacuações, entre outros. Parte dos indivíduos acometidos pelo hipertireoidismo também pode apresentar a chamada oftalmopatia de Graves, caracterizada por uma projeção do globo ocular (proptose) seguida de sinais de inflamação (vermelhidão, dor, edema/inchaço ao redor dos olhos, dificuldade para enxergar e visão dupla). </p>
+<p style="text-align: justify;"><b>Tratamento</b></p>
+<p style="text-align: justify;">O tratamento do hipotireoidismo é realizado através da reposição do hormônio tireoidiano (levotiroxina).  </p>
+<p style="text-align: justify;">Para o tratamento do hipertireoidismo, há três métodos diferentes: medicações para reduzir a produção de hormônio tireoidiano, terapia com iodo radioativo e cirurgia para retirada da tireoide.</p>
+<p style="text-align: justify;">Consulte sempre seu endocrinologista antes de iniciar qualquer tratamento.</p>
+<p style="text-align: justify;"><b>Dr. José Augusto Sgarbi</b></p>
+<p style="text-align: justify;"><b>Endocrinologista da SBEM-SP</b></p>
+  </p>
+</div>
+<div class="remodal" data-remodal-id="modal-alteracoes-colesterol-trigliceridios">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Alterações do Colesterol</h1>
+  <p style="text-align:justify;"><b>O que é</b></p>
+  <p style="text-align:justify;">O colesterol é essencial para a formação das membranas de nossas células, síntese de hormônios (testosterona, estrogênio e cortisol), produção da bile e mielina e metabolismo de algumas vitaminas. Aproximadamente 70% do colesterol é produzido pelo nosso organismo e 30% é proveniente da dieta.</p>
+  <p style="text-align:justify;"><b>Causas</b></p>
+  <p style="text-align:justify;">O colesterol não se dissolve no sangue, necessitando de transportadores (LDL e HDL).
+Quando os níveis de colesterol estão elevados, eles se tornam prejudiciais, acumulando-se nas paredes das artérias, formando placas, restringindo o fluxo sanguíneo, desencadeando infarto e disfunção erétil. </p>
+<p style="text-align:justify;">Entre as causas de excesso de colesterol, estão:</p>
+<div>
+<p style="text-align:justify;">• Alimentos ricos em gorduras saturadas (banha de porco, óleo de coco, carnes gordurosas)</p>
+<p style="text-align:justify;">• Gordura hidrogenada (salgadinhos, batata frita, biscoitos e sorvetes)</p>
+<p style="text-align:justify;">• Excesso de açúcar</p>
+<p style="text-align:justify;">• Sedentarismo</p>
+<p style="text-align:justify;">• Obesidade</p>
+<p style="text-align:justify;">• Histórico familiar</p> 
+</div>
+<p style="text-align: justify;"><b>Sintomas</b></p>
+<p style="text-align: justify;">O colesterol alto não apresenta sintomas e por isso é necessária a realização de exames laboratoriais. </p>
+<p style="text-align: justify;">Cerca de 67% das pessoas desconhecem seu nível de colesterol. </p>
+<p style="text-align: justify;">Sinais como dor no peito, palpitações e falta de ar podem estar associados a doenças provenientes do colesterol alto, como o infarto do miocárdio.</p>
+<p style="text-align: justify;"><b>Tratamento</b></p>
+<p style="text-align: justify;">Quando o nível do colesterol está muito alto, somente alimentação saudável e atividade física não são suficientes para reduzi-lo, sendo necessário o uso de medicamentos como a estatina.</p>
+<p style="text-align: justify;">As estatinas são extremamente eficazes, seguras e muito bem toleradas para reduzir o colesterol e riscos cardiovasculares. </p>
+<p style="text-align: justify;">Não existem suplementos dietéticos capazes de reverter as doenças cardíacas e reduzir o colesterol.</p>
+<p style="text-align: justify;">Infelizmente, a mídia tem seduzido as pessoas com dietas e suplementações naturais sem qualquer base científica.</p>
+<p style="text-align: justify;">Está sendo difundida uma ideia de que devemos voltar a comer alimentos gordurosos como banha de porco e óleo de coco, o que está aumentando o risco de mortalidade. </p>
+<p style="text-align: justify;">Para melhor esclarecimento, converse com seu endocrinologista. </p>
+<p style="text-align: justify;"><b>Dr. Antonio Mendes Fontanelli</b></p>
+<p style="text-align: justify;"><b>Endocrinologista da SBEM-SP</b></p>
+</div>
+<div class="remodal" data-remodal-id="modal-alteracoes-menstruais">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Alterações Menstruais</h1>
+  <p style="text-align:justify;">Durante a fase reprodutiva, as mulheres apresentam uma perda cíclica de sangue vaginal que se denomina menstruação. A frequência média de cada menstruação é em torno de 28 dias, podendo variar de 21 a 35 dias. A duração média é quatro dias, variando de dois até sete dias. Nos primeiros dois anos após a primeira menstruação e no período da perimenopausa (a partir dos cinco anos que antecedem a última menstruação), os ciclos podem ficar irregulares. </p>
+  <p style="text-align:justify;">Alterações na frequência, duração, volume do fluxo menstrual e até mesmo ausência da menstruação são sinais clínicos que demandam investigação. A presença de gravidez e uso de medicamentos hormonais devem sempre ser avaliados nos casos de alterações menstruais. Disfunções hormonais, desordens alimentares, exercício intenso, doenças infecciosas, malformações do trato genital, distúrbios hemorrágicos e doenças graves são potenciais causas de alterações menstruais. As causas hormonais são as mais frequentes, sendo a síndrome de ovários policísticos (SOP) a principal representante.</p>
+  <p style="text-align:justify;">A SOP é caracterizada por alterações menstruais e aumento de hormônios tipicamente masculinos, como testosterona, que levam ao aumento de pelos corporais e acne na mulher, e o achado de ovários policísticos ao ultrassom. Importante salientar que o simples achado de ovários policísticos ao ultrassom não significa que a mulher seja portadora da síndrome. Para confirmar o diagnóstico da SOP, é fundamental uma avaliação hormonal detalhada, para excluir outras causas hormonais como disfunções da tireoide, aumento da prolactina e disfunções da suprarrenal. </p>
+  <p style="text-align:justify;">
+    <b>Dra. Larissa Garcia Gomes</b><br>
+    <b>Endocrinologista da SBEM-SP</b>
+  </p>
+</div>
+<div class="remodal" data-remodal-id="modal-osteoporose">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Osteoporose</h1>
+  <p style="text-align:justify;">Decorre da diminuição da quantidade de cálcio no esqueleto e está relacionada a maior risco de fraturas, principalmente na coluna, quadril e punho.</p>
+  <p style="text-align:justify;"><b>Causas</b></p>
+  <p style="text-align:justify;">Há uma grande influência genética, afetando muito mais as mulheres do que os homens. Muitos medicamentos podem provocar osteoporose, como os glicocorticoides (principal causa), anticonvulsivantes, quimioterápicos, doses excessivas de hormônio tireoidiano (usadas em pacientes com câncer de tireoide), pioglitazona (para diabetes), entre outros. É necessária uma investigação, pois várias doenças também podem cursar com a osteoporose, como menopausa precoce, hiperparatireoidismo, síndromes de má absorção, artrite reumatoide, mieloma múltiplo, anorexia nervosa e hipercalciúria, entre outras. </p>
+  <p style="text-align:justify;"><b>Sintomas</b></p>
+  <p style="text-align:justify;">Em geral, a doença é assintomática, sendo detectada pelo exame de densitometria óssea. Também pode ser descoberta pelas fraturas que geralmente ocorrem em coluna, punho e quadril, decorrentes de um mínimo trauma como cair acidentalmente. A cifose e a perda de altura são sinais do exame físico e da história clínica que podem sugerir a presença de fratura vertebral, que em muitos casos é assintomática. </p>
+  <p style="text-align:justify;"><b>Tratamento</b></p>
+  <p style="text-align:justify;">Envolve a adequação do cálcio e vitamina D, vindos pela dieta ou suplementos, associados a medicamentos ativos no tecido ósseo, como os antirreabsortivos (que diminuem a destruição óssea) ou formadores de osso, que devem ser considerados para uso por tempo determinado ou a depender do quadro do paciente, conforme julgamento médico.</p>
+  <p style="text-align:justify;">
+    <b>Dr. Sérgio Setsuo Maeda</b><br>
+    <b>Endocrinologista da SBEM-SP</b>
+  </p>
+</div>
+<div class="remodal" data-remodal-id="modal-hipogonadismo">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Hipogonadismo Masculino</h1>
+  <p style="text-align:justify;">A partir dos 30 anos de idade, ocorre uma lenta e gradual diminuição dos níveis de testosterona (principal hormônio masculino) e, com o envelhecimento, é desencadeado o hipogonadismo em 20% dos homens.</p>
+  <p style="text-align:justify;"><b>Sintomas</b></p>
+  <p style="text-align:justify;">As principais queixas se caracterizam pela diminuição do desejo sexual, irritabilidade, aumento da gordura abdominal, diminuição da ereção matinal, diminuição da massa e força musculares, reduzindo a disposição para a realização de atividade física. A presença desses sintomas, acompanhada da redução da testosterona, caracteriza o hipogonadismo masculino.</p>
+  <p style="text-align:justify;">O aumento da gordura abdominal e a resistência à insulina levam a um maior risco de desenvolvimento de diabetes mellitus e doenças cardiovasculares. </p>
+  <p style="text-align:justify;">Os pacientes com testosterona baixa e diabetes têm maior probabilidade de desenvolver aterosclerose, com aumento da espessura da artéria carótida e disfunção endotelial, em relação aos homens que apresentam níveis normais.</p>
+  <p style="text-align:justify;">Cerca de 30% dos pacientes diabéticos e 25% dos obesos apresentam testosterona baixa, o que aumenta a mortalidade.</p>
+  <p style="text-align:justify;"><b>Tratamento</b></p>
+  <p style="text-align:justify;">É necessária a reposição da testosterona em doses fisiológicas após descartadas outras causas de hipogonadismo secundário, como hiperprolactinemia e tumores. </p>
+  <p style="text-align:justify;">A prescrição deve ser individualizada e restrita para homens a quem as indicações clínicas e laboratoriais se façam necessárias. A dosagem da testosterona deve ser realizada entre sete e 10 horas da manhã e repetida pelo menos uma vez para ter maior precisão no diagnóstico.</p>
+  <p style="text-align:justify;">O toque retal e o exame PSA são obrigatórios antes de se iniciar o tratamento. Os cânceres de próstata e mama são contraindicações absolutas para a terapia androgênica. O tratamento exige monitoração cuidadosa, que deverá ser realizada pelo endocrinologista.</p>
+  <p style="text-align:justify;">
+    <b>Dr. Antônio Mendes Fontanelli</b><br>
+    <b>Endocrinologista da SBEM-SP</b>
+  </p>
+</div>
+<div class="remodal" data-remodal-id="modal-obesidade">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Obesidade</h1>
+   <p style="text-align:justify;">É o excesso de gordura corporal em quantidade que determine prejuízos à saúde. A Organização Mundial da Saúde (OMS) define o diagnóstico através do índice de massa corporal (IMC), que é calculado utilizando a altura e o peso do indivíduo (IMC = peso (kg) / altura (m)2). </p>
+   <p style="text-align:justify;">De acordo com a OMS, uma pessoa tem obesidade quando o IMC é maior ou igual a 30 kg/m2 e a faixa de peso normal varia entre 18,5 e 24,9 kg/m2. Os indivíduos que possuem IMC entre 25 e 29,9 kg/m2 são diagnosticados como sobrepeso e já podem ter alguns prejuízos com o excesso de gordura.</p>
+   <p style="text-align:justify;"><b>Causas</b></p>
+   <p style="text-align:justify;">É importante que todos saibam que ninguém tem obesidade porque quer ou escolhe ser obeso, pois não é uma questão de força de vontade, determinação ou caráter. A genética contribui com 70% para o desenvolvimento da obesidade, e somando-se a outros fatores determinantes como alimentação e sedentarismo, ocorre seu desenvolvimento. É importante lembrar que, se o peso de uma pessoa está se elevando, é porque ela está comendo mais que o necessário, e o excesso está se acumulando na forma de gordura.</p>
+   <p style="text-align:justify;"><b>Sintomas</b></p>
+   <p style="text-align:justify;">Existe uma tendência da população em geral, e até de alguns profissionais de saúde, de considerar uma pessoa obesa quando ela já tem um quadro mais grave, daí a importância de monitorar o IMC. A obesidade apresenta inúmeras complicações, e, de acordo com a tendência individual, ela pode desencadear, por exemplo, artrose, diabetes mellitus tipo 2, hipertensão arterial, refluxo gastroesofágico, apneia do sono e alguns tipos de câncer. A obesidade leva as pessoas a viverem menos e com pior qualidade de vida.</p>
+   <p style="text-align:justify;"><b>Tratamento</b></p>
+   <p style="text-align:justify;">O tratamento inclui alimentação saudável com diminuição da ingestão de calorias e aumento da atividade física, podendo-se associar ao uso de medicamentos. Em casos mais graves e refratários, pode ser indicado o tratamento cirúrgico.</p>
+   <p style="text-align:justify;">Calcule <a href="http://www.abeso.org.br/atitude-saudavel/imc" target="_blank">aqui</a> seu IMC.</p>
+   <p style="text-align:justify;">
+    <b>Dra. Maria Edna de Melo</b><br>
+    <b>Endocrinologista da SBEM-SP</b>
+  </p>
+</div>
+<div class="remodal" data-remodal-id="modal-diabetes">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Diabetes</h1>
+  <p style="text-align:justify;">Doença heterogênea que se apresenta com hiperglicemia (aumento da glicose ou açúcar no sangue), o diabetes atinge mais de 10% da população mundial, em torno de 14,3 milhões de pessoas no Brasil. Cinquenta por cento não sabem que podem ter diabetes, enquanto a maioria que sabe está mal controlada e correndo risco de complicações gravíssimas,  como infarto, derrame, cegueira, amputações, perda da função dos rins e até mesmo morte prematura.</p>
+  <p style="text-align:justify;"><b>Causas</b></p>
+  <p style="text-align:justify;">As causas do diabetes ainda não são completamente conhecidas, e dependem do tipo. O diabetes tipo 1 é uma doença autoimune em que anticorpos "atacam" o pâncreas, fazendo-o parar de produzir insulina. Já o tipo 2 é causado por um componente genético hereditário associado ao ganho de peso principalmente abdominal (ou visceral). Há outros tipos como diabetes gestacional, autoimune latente do adulto (lada), pancreático, monogenético etc.</p>
+  <p style="text-align:justify;"><b>Sintomas</b></p>
+  <p style="text-align:justify;">Um dos grandes problemas do diabetes é que só aparecem sintomas em fases muito avançadas da doença. Apenas quando a glicemia está acima de 180 mg/dl constantemente é que as pessoas podem apresentar sede e fome excessivas, perda de peso, visão turva, infecções genitais mais frequentes e algumas vezes dores ou cansaço e fraqueza. O mais importante é alertar que os indivíduos de alto risco para desenvolver o diabetes façam testes de glicemia capilar uma vez ao ano para detectar precocemente ou até mesmo evitar o diabetes, algo possível em até 60% das vezes. </p>
+  <p style="text-align:justify;"><b>Fatores de risco para diabetes</b></p>
+  <p style="text-align:justify;">História familiar de diabetes, pré-diabetes, excesso de gordura abdominal (aumento do tamanho da cintura), inatividade física, hipertensão arterial, obesidade, mulheres que tiveram diabetes em sua gestação ou filhos com mais de 4 kg, uso de corticoides, síndrome do ovário policístico.</p>
+  <p style="text-align:justify;">O tratamento é feito por uma base em que todos os componentes têm a mesma importância: 1. alimentação saudável; 2. atividades físicas moderadas e frequentes; 3. medicamentos (orais ou injetáveis); 4. educação/aprendizado.</p>
+  <p style="text-align:justify;">
+    <b>Dr. Marcio Krakauer</b><br>
+    <b>Endocrinologista da SBEM-SP</b>
+  </p>
+</div>
+<div class="remodal" data-remodal-id="modal-hipofise">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Doenças da hipófise</h1>
+  <p style="text-align:justify;">Conhecida também como pituitária, a hipófise é uma glândula localizada na base do cérebro que tem as funções de regular o trabalho das glândulas suprarrenal, tireoide, testículos e ovários, produzir o hormônio importante para a lactação (prolactina), o hormônio do crescimento, o hormônio antidiurético e o hormônio chamado oxitocina, importante para o trabalho de parto.</p>
+  <p style="text-align:justify;"><b>Causas</b></p>
+  <p style="text-align:justify;">Várias doenças podem acometer a hipófise, levando à diminuição ou produção excessiva de seus hormônios. Geralmente, as alterações são causadas por nódulos na hipófise que podem variar desde nódulos acidentais que não produzem hormônios (adenomas clinicamente não funcionantes) até nódulos produtores que possam levar a quadros clínicos específicos.</p>
+  <p style="text-align:justify;">Entre as principais doenças da hipófise, temos: adenomas hipofisários clinicamente não funcionantes, acromegalia, doença de Cushing, prolactinoma, diabetes insípidus (diferente do diabetes mellitus) e hipopituitarismo.</p>
+  <p style="text-align:justify;"><b>Sintomas</b></p>
+  <p style="text-align:justify;">Cada doença apresenta um tipo de sintoma, que pode ser: dor de cabeça, perda de parte da visão e aumento discreto da prolactina, no caso de doenças relacionadas aos adenomas hipofisários; crescimento de mãos e pés, alargamento da região frontal e da testa, queixo proeminente, espaçamento entre os dentes e perda dentária, aumento do volume do tórax, nariz e dos lábios, no caso da acromegalia; alterações no ciclo menstrual, baixa de libido, saída de leite pelo peito, quando a doença está relacionada ao prolactinoma; aumento de gordura no abdômen, perda de massa muscular com afinamento dos membros, rosto arredondado com aspecto de lua cheia, pele mais fina e sujeita a sangramento, além de alterações metabólicas como diabetes e hipertensão, quando se trata da doença de Cushing.</p>
+  <p style="text-align:justify;"><b>Tratamento</b></p>
+  <p style="text-align:justify;">Também varia de acordo com a doença diagnosticada, podendo ser cirúrgico, com radioterapia ou medicamentos específicos. Qualquer sintoma que envolva alterações metabólicas, ou seja, no funcionamento normal do organismo, deve ser avaliado por um endocrinologista.</p>
+  <p style="text-align:justify;">
+    <b>Dr. Felipe Henning Gaia Duarte</b><br>
+    <b>Endocrinologista da SBEM-SP</b>
+  </p>
+</div>
+<div class="remodal" data-remodal-id="modal-adrenais">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Doenças das adrenais</h1>
+  <p style="text-align:justify;"><b>O que são</b></p>
+  <p style="text-align:justify;">As glândulas adrenais (ou suprarrenais) se localizam no abdômen, próximas aos rins. São divididas em duas camadas: externa ou córtex e a interna ou medula. A camada externa se divide em três zonas, e cada uma secreta um tipo diferente de hormônio esteroide: aldosterona, cortisol e androgênios. As doenças que afetam essa camada podem resultar em falta ou excesso de um ou mais desses esteroides. A medula adrenal secreta as catecolaminas, principalmente adrenalina e noradrenalina. </p>
+  <p style="text-align:justify;"><b>Causas</b></p>
+  <p style="text-align:justify;">As doenças do córtex adrenal são causadas por problemas genéticos em sua formação, como a hiperplasia adrenal congênita (detectada pelo teste do pezinho). Além disso, doenças infecciosas (Aids, tuberculose, fungos) podem afetar as adrenais. Embora não tão frequentemente, tumores benignos ou malignos se formam nessas glândulas.</p>
+  <p style="text-align:justify;"><b>Sintomas</b></p>
+  <p style="text-align:justify;">Os sinais e sintomas dependem se há excesso ou falta dos hormônios adrenais. De maneira bem resumida:</p>
+  <ul>
+   <p style="text-align:justify;"><li>O excesso de aldosterona causa hipertensão arterial de difícil tratamento. Sua falta causa pressão baixa, tontura, vômitos e desidratação.</li></p>
+  <p style="text-align:justify;"><li> O excesso de cortisol leva à síndrome de Cushing, que resulta em ganho excessivo de peso, hipertensão arterial, diabetes mellitus e grandes estrias vermelhas. Em criança, leva à deficiência de crescimento. A falta de cortisol causa hipoglicemia, fraqueza e pressão arterial baixa, entre outras alterações. </li></p>
+  <p style="text-align:justify;"><li>O excesso de hormônios androgênios (hormônios masculinos) causa surgimento de pelos pubianos precocemente em crianças e acelera o crescimento. Em adolescentes e mulheres, causa excesso de pelos no corpo, excesso de acne, alterações menstruais e infertilidade, hipertrofia muscular e engrossamento da voz.</li></p>
+  </ul>
+  <p style="text-align:justify;">Quando há produção excessiva de adrenalina ou noradrenalina por um tumor da medula adrenal chamado feocromocitoma, ocorrem picos de pressão arterial muito elevada acompanhados por dor de cabeça, tontura e sensação de morte iminente. Às vezes, esses episódios podem ser confundidos com síndrome do pânico.</p>
+  <p style="text-align:justify;"><b>Tratamento</b></p>
+  <p style="text-align:justify;">O tratamento é feito pela remoção da causa no caso dos tumores. No caso da falta de um ou mais dos hormônios adrenais, o tratamento é a substituição do(s) hormônio(s) em falta, geralmente por períodos longos ou por toda a vida.</p>
+  <p style="text-align:justify;">
+    <b>Dr. Sonir R. Antonini</b><br>
+    <b>Endocrinologista da SBEM-SP</b>
+  </p>
+</div>
+<div class="remodal" data-remodal-id="modal-crescimento">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Alterações do crescimento</h1>
+  <p style="text-align:justify;"><b>O que são</b></p>
+  <p style="text-align:justify;">Desde o período intrauterino até ser atingida a altura final, existe um padrão de normalidade de ganho de comprimento ou estatura. Esse padrão é evidenciado pela velocidade de crescimento (ganho em centímetro por ano). Alteração do crescimento é quando esse ritmo de crescimento é alterado, para menos ou para mais. Uma criança ou adolescente com redução de crescimento poderá ter baixa estatura (abaixo do mínimo considerado normal para a idade). Eventualmente, o diagnóstico pode ser feito antes de se instalar a baixa estatura. Por outro lado, uma criança ou adolescente que cresça muito mais que o esperado para a idade poderá ter alta estatura.</p>
+  <p style="text-align:justify;"><b>Causas</b></p>
+  <p style="text-align:justify;">As causas de crescimento deficiente são inúmeras, podendo ser de início pré-natal ou pós-natal. Um bebê pode nascer muito pequeno e não normalizar o crescimento nos primeiros anos. Desnutrição grave ou doenças sistêmicas importantes (renal, cardíaca, digestória) podem se manifestar com deficiência de crescimento. Síndromes ou doenças genéticas frequentemente causam problemas no crescimento. Deficiências dos hormônios da tireoide e/ou do hormônio do crescimento também causam crescimento deficiente. Essas alterações hormonais podem ser congênitas ou adquiridas ao longo da infância.</p>
+  <p style="text-align:justify;"><b>Sintomas</b></p>
+  <p style="text-align:justify;">Diretamente podem não existir sintomas de crescimento deficiente. Ele geralmente é notado pelo pediatra durante as consultas de rotina da criança (puericultura) e/ou pelos pais, parentes ou professores que percebem que a criança está ficando progressivamente menor que amigos ou colegas da mesma idade. Outra situação comum é os pais perceberem que as roupas da criança não estão “ficando pequenas”, como é habitual. Eventualmente, a doença que causa o crescimento deficiente pode apresentar outros sintomas ou sinais clínicos.</p>
+  <p style="text-align:justify;"><b>Tratamento</b></p>
+  <p style="text-align:justify;">O tratamento depende da causa. Muitas vezes resolvendo a causa, o crescimento normal retorna. Por exemplo, se a criança tem hipotireoidismo, o tratamento com hormônio tireoidiano normaliza o crescimento. Em algumas situações mais raras, no caso de deficiência de hormônio do crescimento ou de condições específicas, o tratamento com injeções de hormônio do crescimento está indicado e é eficaz. 
+Na dúvida, os pais devem procurar o pediatra ou o endocrinologista para uma avaliação clínica. </p>
+  <p style="text-align:justify;">
+    <b>Dr. Sonir R. Antonini</b><br>
+    <b>Endocrinologista da SBEM-SP</b>
+  </p>
+</div>
+<div class="remodal" data-remodal-id="modal-menopausa">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1 class="titulo-doenca">Menopausa</h1>
+  <p style="text-align:justify;">Menopausa é a cessação permanente da menstruação.</p>
+  <p style="text-align:justify;"><b>Causas</b></p>
+  <p style="text-align:justify;">Decorrente da falência da produção dos hormônios estrógenos e da atividade reprodutiva pelos ovários, geralmente a menopausa natural ocorre entre 45 e 55 anos. Quando ocorre antes dos 40 anos, é denominada menopausa precoce, o que pode aumentar o risco de doenças como osteoporose e as cardiovasculares (infarto e derrame).</p>
+  <p style="text-align:justify;"><b>Sintomas</b></p>
+  <p style="text-align:justify;">A diminuição da produção dos estrógenos pelos ovários pode causar sintomas que diminuem de forma relevante a qualidade de vida da mulher, como ondas de calor (flushing), suores noturnos, secura vaginal, disfunção sexual, alterações de humor como depressão e ansiedade, insônia, diminuição da massa óssea, ganho de peso e alterações do metabolismo. </p>
+  <p style="text-align:justify;"><b>Tratamento</b></p>
+  <p style="text-align:justify;">Os sintomas de menopausa têm tratamento e devem ser tratados adequadamente. O tratamento da menopausa se baseia inicialmente em orientações de mudanças de estilo de vida com dieta saudável, atividade física regular, manutenção do peso adequado e cessação de tabagismo.</p>
+  <p style="text-align:justify;">A terapia hormonal com estrógenos representa a forma mais efetiva de tratar os sintomas da menopausa. Os progestógenos precisam ser associados quando a paciente tem útero. A dose da terapia hormonal e forma de administração (comprimidos, gel, adesivos, creme vaginal), assim como os riscos e benefícios do tratamento, devem ser avaliados de forma criteriosa pelo médico que vai acompanhar a paciente. Para as mulheres com contraindicação para terapia hormonal, existem opções não hormonais para tratamento dos sintomas de ondas de calor e secura vaginal.</p>
+  <p style="text-align:justify;">
+    <b>Dra. Larissa Garcia Gomes</b><br>
+    <b>Endocrinologista da SBEM-SP</b>
+  </p>
+</div>
+                    <!-- Preloader -->
+                    <!-- Go to top -->
+                </body>
+                </html>

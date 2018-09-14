@@ -1,0 +1,783 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="user-scalable=no, width=device-width" />
+<link rel="shortcut icon" href="https://www.pfizer.com.br/sites/g/files/g10044511/themes/mythemes/acq_test/images/favicon_2.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.pfizer.com.br/" />
+<link rel="shortlink" href="https://www.pfizer.com.br/" />
+<meta property="og:site_name" content="Laboratórios Pfizer | Saúde para uma vida melhor" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.pfizer.com.br/" />
+<meta property="og:title" content="Laboratórios Pfizer | Saúde para uma vida melhor" />
+<meta property="og:image" content="https://stagecorporatesitebr.pfizer.edrupalgardens.com/sites/g/files/g10010996/f/custom_css/fb.png" />
+  <title>Conteúdo não encontrado | Laboratórios Pfizer | Saúde para uma vida melhor</title>
+  <link type="text/css" rel="stylesheet" href="https://www.pfizer.com.br/sites/g/files/g10044511/f/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.pfizer.com.br/sites/g/files/g10044511/f/css/css_Fz5HuIkvIh01rPMDesFhq-4_DirnzKSaEF3JyccsMgk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.pfizer.com.br/sites/g/files/g10044511/f/css/css_nsPmup2rF5Y2c3zc4DPX-3g-xYOBZiTAkxdoqc6g6mw.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.pfizer.com.br/sites/g/files/g10044511/f/css/css_QXF8Wa8bxfLsqYnZWem4r-7fufGByKF_YJr3Iy6VDHk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.pfizer.com.br/sites/g/files/g10044511/f/css/css_4b_7wUNDq89XK8SLH6zjipRjdH1CfVGNO3QiJ0FYcjU.css" media="only screen and (max-device-width: 480px)" />
+<link type="text/css" rel="stylesheet" href="https://www.pfizer.com.br/sites/g/files/g10044511/f/css/css__DwlNak8qD3VRi3h0SzRB8phIM39MNi7-OU8ceDWDMw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.pfizer.com.br/sites/g/files/g10044511/f/css/css_VPEcN3SZLBZzeY_SPiZpHsJXOMunyYBiD5WZKujDSW8.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.pfizer.com.br/sites/g/files/g10044511/f/css/css_egm80FdgOY_spuepOv1jkpmJsNuThuaF01G0-LlvnYg.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.pfizer.com.br/sites/g/files/g10044511/f/css/css_BpGwPJ0Q5YrR50e4FWEpM7oU-ozsPx6pZ4V93KJRD7M.css" media="all" />
+  <script type="text/javascript" src="https://www.pfizer.com.br/sites/g/files/g10044511/f/js/js_tKVDgLu4aEElCy2HhQaRFS3lWFY3TcIBnlZ9BkYJJd8.js"></script>
+<script type="text/javascript" src="https://www.pfizer.com.br/sites/g/files/g10044511/f/js/js_b86U7XG6hmGGztbFvtyhSvS7is8EADcaWsfKGxQevK0.js"></script>
+<script type="text/javascript" src="https://www.pfizer.com.br/sites/g/files/g10044511/f/js/js_DRdXxNGzQ0GxEYV9CxTWvAe7TJZGKvljdYBC2SEtm6Q.js"></script>
+<script type="text/javascript" src="https://www.pfizer.com.br/sites/g/files/g10044511/f/js/js_Y_6rd84SA13uEQ4OSZXwhZoyWMD5A1srdGfuyewXl1c.js"></script>
+<script type="text/javascript" src="https://www.pfizer.com.br/sites/g/files/g10044511/f/js/js_ZBQTqqDJHRtaqPZKdZHRGhn45vEuBEqTcc0belbWst8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acq_test","theme_token":"0pO4_LCQ-cK-b6jsh3p2afyjmXKTun_qcoVt4CEhIoU","js":{"sites\/all\/modules\/contrib\/extlink_extra\/extlink_extra.js":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"public:\/\/javascript_libraries\/tabbedContent.js.txt":1,"public:\/\/javascript_libraries\/accordionContent.js_0.txt":1,"public:\/\/javascript_libraries\/tellAFriendHandler.js_1.txt":1,"public:\/\/javascript_libraries\/textRezise.js_0.txt":1,"public:\/\/javascript_libraries\/getHeight.js_0.txt":1,"public:\/\/javascript_libraries\/defaultSearch.js_0.txt":1,"public:\/\/javascript_libraries\/breadCrumbs.js.txt":1,"public:\/\/javascript_libraries\/alphaPager_23-11.js.txt":1,"public:\/\/javascript_libraries\/productFilterSwitch.js.txt":1,"public:\/\/javascript_libraries\/changeSearchResultsText.js.txt":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/pfizer\/modules\/contrib\/dialog\/jquery.xLazyLoader.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"misc\/ajax.js":1,"misc\/jquery.ba-bbq.js":1,"modules\/overlay\/overlay-parent.js":1,"misc\/jquery.cookie.js":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/plugins\/jquery.form.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.resizable.min.js":1,"misc\/ui\/jquery.ui.draggable.min.js":1,"misc\/ui\/jquery.ui.button.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/views\/js\/jquery.ui.dialog.patch.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"misc\/ui\/jquery.ui.slider.min.js":1,"misc\/ui\/jquery.ui.tabs.min.js":1,"misc\/ui\/jquery.effects.blind.min.js":1,"misc\/ui\/jquery.effects.bounce.min.js":1,"misc\/ui\/jquery.effects.clip.min.js":1,"misc\/ui\/jquery.effects.drop.min.js":1,"misc\/ui\/jquery.effects.explode.min.js":1,"misc\/ui\/jquery.effects.fade.min.js":1,"misc\/ui\/jquery.effects.fold.min.js":1,"misc\/ui\/jquery.effects.highlight.min.js":1,"misc\/ui\/jquery.effects.pulsate.min.js":1,"misc\/ui\/jquery.effects.scale.min.js":1,"misc\/ui\/jquery.effects.shake.min.js":1,"misc\/ui\/jquery.effects.slide.min.js":1,"misc\/ui\/jquery.effects.transfer.min.js":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/plugins\/Modernizr\/modernizr.js":1,"profiles\/pfizer\/libraries\/breakup\/jquery.breakup.min.js":1,"profiles\/pfizer\/libraries\/responsivizer\/responsivizer.js":1,"profiles\/pfizer\/modules\/contrib\/dialog\/dialog.js":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/js\/gardens_features.ui-dialog.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"profiles\/pfizer\/libraries\/timeago\/jquery.timeago.js":1,"profiles\/pfizer\/modules\/contrib\/timeago\/timeago.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"profiles\/pfizer\/modules\/acquia\/gardens_misc\/js\/gardens_misc.colorbox.js":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/js\/superfish.js":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/js\/hoverIntent.js":1,"profiles\/pfizer\/modules\/contrib\/acsf\/acsf_openid\/acsf_openid.overlay.js":1,"profiles\/pfizer\/modules\/acquia\/gardens_help\/gardens_help.js":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/js\/gardens_features.js":1,"sites\/g\/files\/g10044511\/themes\/mythemes\/acq_test\/local.js":1,"public:\/\/javascript_libraries\/googleFont.js.txt":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"modules\/overlay\/overlay-parent.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/css\/gardens_features.jquery.ui.dialog.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"misc\/ui\/jquery.ui.slider.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"sites\/all\/libraries\/colorbox\/example1\/colorbox.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"profiles\/pfizer\/modules\/acquia\/gardens_misc\/css\/gardens_misc.mast.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/pfizer\/modules\/acquia\/gardens_help\/gardens_help.css":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/gardens_features.css":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/gardens_features.jquery.ui.theme.css":1,"sites\/g\/files\/g10044511\/f\/css\/follow.css":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/css\/dropdown.css":1,"sites\/g\/files\/g10044511\/themes\/mythemes\/acq_test\/defaults.css":1,"sites\/g\/files\/g10044511\/themes\/mythemes\/acq_test\/style.css":1,"sites\/g\/files\/g10044511\/themes\/mythemes\/acq_test\/palette.css":1,"sites\/g\/files\/g10044511\/themes\/mythemes\/acq_test\/custom.css":1,"sites\/g\/files\/g10044511\/themes\/mythemes\/acq_test\/advanced.css":1,"sites\/g\/files\/g10044511\/themes\/mythemes\/acq_test\/font-families.css":1,"profiles\/pfizer\/modules\/gardens\/gardens_features\/css\/ie\/gardens_features.lte-ie-8.css":1,"profiles\/pfizer\/libraries\/responsivizer\/responsivizer.css":1}},"overlay":{"paths":{"admin":"node\/*\/webform\nnode\/*\/webform\/*\nnode\/*\/webform-results\nnode\/*\/webform-results\/*\nnode\/*\/submission\/*\nuser\/*\/edit-profile\nuser\/*\/follow\nmedia\/*\/edit\nmedia\/*\/multiedit\nmedia\/*\/delete\nmedia-gallery\/detail\/*\/*\/edit\nmedia-gallery\/detail\/*\/*\/remove\nnode\/*\/multiedit\nnode\/*\/edit\nnode\/*\/delete\nnode\/*\/revisions\nnode\/*\/revisions\/*\/revert\nnode\/*\/revisions\/*\/delete\nnode\/add\nnode\/add\/*\nuser\/*\/openid\nuser\/*\/openid\/delete\noverlay\/dismiss-message\nuser\/*\/shortcuts\nadmin\nadmin\/*\nbatch\ntaxonomy\/term\/*\/edit\nuser\/*\/cancel\nuser\/*\/edit\nuser\/*\/edit\/*","non_admin":"admin\/structure\/block\/demo\/*\ngardener\/*\ngardens-login\nadmin\/reports\/status\/php"},"pathPrefixes":["en"],"ajaxCallback":"overlay-ajax"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"gardenerHelpSearchURL":"http:\/\/www.drupalgardens.com","gardensMisc":{"isSMB":false},"themebuilderLogPath":"themebuilder-log-message","timeago":{"refreshMillis":60000,"allowFuture":true,"localeTitle":false,"cutoff":0,"strings":{"prefixAgo":null,"prefixFromNow":null,"suffixAgo":"ago","suffixFromNow":"from now","seconds":"less than a minute","minute":"about a minute","minutes":"%d minutes","hour":"about an hour","hours":"about %d hours","day":"a day","days":"%d days","month":"about a month","months":"%d months","year":"about a year","years":"%d years","wordSeparator":" "}},"gardensFeatures":{"userIsAnonymous":true,"dialogUserEnabled":true,"isSMB":false,"siteFactoryProductPage":"https:\/\/www.acquia.com\/products-services\/acquia-cloud-site-factory"},"gardens_hoverintent":{"enabled":1,"sensitivity":"1","interval":"100","timeout":"500"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"(acquia-sites.com|drupalgardens.com|rpxnow.com|misubmission.com|pfizercareers.com|pfizer.com|centrum.com.br|advil.com.br|muitobemvindo.com.br|caltrate.com\\*|stresstabs.com.br|pfizer-connect.com|welcome.pfizerpro.com.br)","extInclude":"novembroazul.com.br","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":{"value":"Neste momento , voc\u00ea estar\u00e1 deixando o site da Pfizer. A Pfizer n\u00e3o se responsabiliza pelo conte\u00fado do site selecionado.","format":"safe_html"},"mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"extlink_extra":{"extlink_alert_type":"confirm","extlink_alert_timer":"0","extlink_alert_url":"\/now-leaving","extlink_cache_fix":1,"extlink_exclude_warning":"caltrate|stresstabs|pfizermedicalinformation.com","extlink_508_fix":0,"extlink_508_text":" [external link]","extlink_url_override":0,"extlink_url_params":{"external_url":null,"back_url":null}},"urlIsAjaxTrusted":{"\/noticias\/Obesidade-fator-de-risco-para-cancer\u0026sa=U\u0026ved=0ahUKEwi7n87exbrdAhWEGZAKHZwtDFg4FBAWCEQwCQ\u0026usg=AOvVaw2iavuzsEO1cTJHwa4_d8RL":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-706 node-type-page i18n-en theme-markup-2 body-layout-fixed-acb" >
+  <div id="skip-to-content">
+    <a href="#skip-to-content-target">Skip directly to content</a>
+  </div>
+
+  <!--[if IE ]>
+  <div id="gardens_ie">
+  <![endif]-->
+  
+  <!--[if IE 8]>
+  <div id="gardens_ie8">
+  <![endif]-->
+  
+  <!--[if IE 7]>
+  <div id="gardens_ie7">
+  <![endif]-->
+  
+  <!--[if lt IE 7]>
+  <div id="gardens_ie-deprecated">
+  <![endif]-->
+
+    
+<div id="page" class="page clearfix tb-terminal">
+
+  <div id="page-deco-top" class="deco-page-top deco-page deco-top deco tb-scope tb-scope-prefer">
+    <div class="width deco-width inner tb-terminal">
+      <div class="layer-a layer"></div>
+      <div class="layer-b layer"></div>
+      <div class="layer-c layer"></div>
+      <div class="layer-d layer"></div>
+    </div>
+  </div>
+  
+  <div id="page-deco-bottom" class="deco-page-bottom deco-page deco-bottom deco tb-scope tb-scope-prefer">
+    <div class="width deco-width inner tb-terminal">
+      <div class="layer-a layer"></div>
+      <div class="layer-b layer"></div>
+      <div class="layer-c layer"></div>
+      <div class="layer-d layer"></div>
+    </div>
+  </div>
+    
+  <div class="page-width tb-scope">
+    <div class="lining tb-terminal"> <!-- Broken out of .page-width to avoid update issues with margin: 0 auto being undone -->
+    
+      <div id="header" class="wrapper-header wrapper clearfix tb-scope">
+      
+        <div id="header-deco-top" class="deco-header-top deco-header deco-top deco tb-scope tb-scope-prefer">
+          <div class="width deco-width inner tb-terminal">
+            <div class="layer-a layer"></div>
+            <div class="layer-b layer"></div>
+            <div class="layer-c layer"></div>
+            <div class="layer-d layer"></div>
+          </div>
+        </div>
+        
+        <div id="header-deco-bottom" class="deco-header-bottom deco-header deco-bottom deco tb-scope tb-scope-prefer">
+          <div class="width deco-width inner tb-terminal">
+            <div class="layer-a layer"></div>
+            <div class="layer-b layer"></div>
+            <div class="layer-c layer"></div>
+            <div class="layer-d layer"></div>
+          </div>
+        </div>
+      
+                  <div id="preheader" class="stack-preheader stack-pre stack col-align-last-right horizontal clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal">
+              <div class="inset-2 inset tb-terminal">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+    
+                                              
+                      <div class="box col-2 clearfix tb-terminal">
+                    
+                                                  <div class="col-first col left tb-height-balance tb-terminal">
+                            <div id="preheader-first-region" class="tb-region tb-scope">
+                                <div class="region region-preheader-first">
+    
+<div id="block-menu-menu-top-menu" class="block block-menu block-none clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <ul class="menu"><li class="first leaf level-1 menu-link-6746"><a href="/browse-products-acessibilidade" title="">Acessibilidade</a></li>
+<li class="leaf level-1 menu-link-6741"><a href="/entre-em-contato" title="">Entre em contato</a></li>
+<li class="last leaf level-1 menu-link-6761"><a href="/mapa-do-site" title="">Mapa do site</a></li>
+</ul>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                            </div>
+                          </div> <!-- /#preheader-first-region -->
+                                                  
+                                                  <div class="col-second col left last tb-height-balance tb-terminal">
+                            <div id="preheader-second-region" class="tb-region tb-scope">
+                                <div class="region region-preheader-second">
+    
+<div id="block-search-form" class="block block-search clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <form autocomplete="off" action="/noticias/Obesidade-fator-de-risco-para-cancer&amp;sa=U&amp;ved=0ahUKEwi7n87exbrdAhWEGZAKHZwtDFg4FBAWCEQwCQ&amp;usg=AOvVaw2iavuzsEO1cTJHwa4_d8RL" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-2Z_6lc56em0e18qvAefGlle-3F14hMflMHJjXDVBNEg" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                            </div>
+                          </div> <!-- /#preheader-second-region -->
+                                              
+                                            
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+                
+                
+        <!-- Navigation --> 
+         
+          <div id="navigation" class="stack-navigation stack horizontal pulldown clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal">
+              <div class="inset-2 inset tb-terminal">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+                    <div class="box col-1 clearfix tb-terminal">
+                      <div id="navigation-region" class="col tb-region tb-scope tb-height-balance">
+                          <div class="region region-navigation">
+    
+<div id="block-block-41" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <p><a class="home-link" href="/"> </a></p>
+       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-system-main-menu" class="block block-system block-menu menu-dropdown clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>Main menu</h2>
+            
+              
+      <div class="content">
+        <ul class="menu"><li class="first expanded level-1 menu-link-7691"><a href="/sobre-a-pfizer/institucional">Sobre a Pfizer</a><ul class="menu"><li class="first leaf level-2 menu-link-7701"><a href="/sobre-a-pfizer/institucional" title="">Institucional</a></li>
+<li class="leaf level-2 menu-link-6551"><a href="/sobre-a-pfizer/industria-farmaceutica">Indústria Farmacêutica</a></li>
+<li class="leaf level-2 menu-link-7706"><a href="/sobre-a-pfizer/institucional/vis%C3%A3o-miss%C3%A3o-e-valores">Visão, Missão e Valores</a></li>
+<li class="leaf level-2 menu-link-7711"><a href="/sobre-a-pfizer/institucional/instala%C3%A7%C3%B5es-e-endere%C3%A7os">Instalações e Endereços</a></li>
+<li class="leaf level-2 menu-link-6556"><a href="/sobre-a-pfizer/trabalhe-conosco">Trabalhe Conosco</a></li>
+<li class="last leaf level-2 menu-link-6561"><a href="/sobre-a-pfizer/sites-pfizer">Sites Pfizer</a></li>
+</ul></li>
+<li class="collapsed level-1 menu-link-7826"><a href="/bulas" title="">Bulas</a></li>
+<li class="expanded level-1 menu-link-6286"><a href="/sua-saude/alzheimer" title="SUA SAÚDE">SUA SAÚDE</a><ul class="menu"><li class="first leaf level-2 menu-link-8301"><a href="/sua-saude/alzheimer">Alzheimer</a></li>
+<li class="leaf level-2 menu-link-8321"><a href="/sua-saude/Artrite-reumatoide" title="">Artrite Reumatoide</a></li>
+<li class="collapsed level-2 menu-link-8361"><a href="/sua-saude/Biossimilares">Biossimilares</a></li>
+<li class="collapsed level-2 menu-link-6546"><a href="/sua-saude/colesterol">Colesterol</a></li>
+<li class="collapsed level-2 menu-link-6541"><a href="/sua-saude/depressao">Depressão</a></li>
+<li class="leaf level-2 menu-link-8846"><a href="/sua-saude/Disturbios-do-crescimento">Distúrbios do Crescimento</a></li>
+<li class="leaf level-2 menu-link-7771"><a href="/sua-saude/doen%C3%A7a-de-gaucher">Doença de Gaucher</a></li>
+<li class="leaf level-2 menu-link-8311"><a href="/sua-saude/doencas-pneumococicas" title="">Doenças Pneumocócicas</a></li>
+<li class="leaf level-2 menu-link-6536"><a href="/sua-saude/dor-neuropatica" title="">Dor Neuropática</a></li>
+<li class="leaf level-2 menu-link-7926"><a href="/sua-saude/glaucoma">Glaucoma</a></li>
+<li class="leaf level-2 menu-link-7686"><a href="/sua-saude/hemofilia" title="">Hemofilia</a></li>
+<li class="collapsed level-2 menu-link-6531"><a href="/sua-saude/hipertensao-arterial">Hipertensão Arterial</a></li>
+<li class="leaf level-2 menu-link-6526"><a href="/sua-saude/hipertensao-pulmonar" title="">Hipertensão Pulmonar</a></li>
+<li class="leaf level-2 menu-link-8866"><a href="/sua-saude/Meningite" title="">Meningite</a></li>
+<li class="collapsed level-2 menu-link-6521"><a href="/sua-saude/oncologia">Oncologia</a></li>
+<li class="leaf level-2 menu-link-8331"><a href="/sua-saude/Polineuropatia-amiloidotica-familiar">Polineuropatia Amiloidótica Familiar</a></li>
+<li class="collapsed level-2 menu-link-7956"><a href="/sua-saude/psor%C3%ADase">Psoríase</a></li>
+<li class="leaf level-2 menu-link-6516"><a href="/sua-saude/mulher" title="">Saúde da Mulher</a></li>
+<li class="collapsed level-2 menu-link-6511"><a href="/sua-saude/saude-do-homem" title="">Saúde do Homem</a></li>
+<li class="collapsed level-2 menu-link-6506"><a href="/sua-saude/coracao" title="">Seu Coração</a></li>
+<li class="collapsed level-2 menu-link-6501"><a href="/sua-saude/sistema-nervoso-central" title="">Sistema Nervoso Central</a></li>
+<li class="collapsed level-2 menu-link-6496"><a href="/sua-saude/tabagismo">Tabagismo</a></li>
+<li class="last leaf level-2 menu-link-8306"><a href="/sua-saude/vacinacao">Vacinação</a></li>
+</ul></li>
+<li class="expanded level-1 menu-link-6291"><a href="/vida-e-saude/receitas" title="Receitas &amp; Guias">Receitas &amp; Guias</a><ul class="menu"><li class="first leaf level-2 menu-link-6481"><a href="/vida-e-saude/receitas">Receitas</a></li>
+<li class="leaf level-2 menu-link-6486"><a href="/vida-e-saude/guia-de-calorias">Guia de calorias</a></li>
+<li class="last leaf level-2 menu-link-6491"><a href="/vida-e-saude/guia-de-vitaminas">Guia de Vitaminas</a></li>
+</ul></li>
+<li class="leaf level-1 menu-link-6296"><a href="/media/press-releases" title="NOTÍCIAS">NOTÍCIAS</a></li>
+<li class="leaf level-1 menu-link-8256"><a href="/sala-de-imprensa" title="">Sala de Imprensa</a></li>
+<li class="last expanded level-1 menu-link-6306"><a href="/responsabilidade-social/compromisso-social-pfizer" title="RESPONSABILIDADE SOCIAL">RESPONSABILIDADE SOCIAL</a><ul class="menu"><li class="first leaf level-2 menu-link-6446"><a href="/responsabilidade-social/compromisso-social-pfizer" title="">Compromisso Social Pfizer</a></li>
+<li class="leaf level-2 menu-link-6441"><a href="/responsabilidade-social/saude/expedicion%C3%A1rios-da-sa%C3%BAde">Projeto em Saúde</a></li>
+<li class="leaf level-2 menu-link-7631"><a href="/responsabilidade-social/educa%C3%A7%C3%A3o/projeto-mem%C3%B3ria-local-na-escola">Projetos em Educação</a></li>
+<li class="leaf level-2 menu-link-7636"><a href="/responsabilidade-social/desenvolvimento-social/projeto-tear">Projeto em Desenvolvimento Social</a></li>
+<li class="last leaf level-2 menu-link-7656"><a href="/responsabilidade-social/meio-ambiente/programa-pfizer-de-educa%C3%A7%C3%A3o-ambiental">Projeto em Meio Ambiente</a></li>
+</ul></li>
+</ul>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+                
+      </div> <!-- /#header -->
+      
+      <div id="content" class="wrapper-content wrapper clearfix tb-scope">
+        <div class="wrapper-1 tb-terminal tb-content-wrapper-1">
+      
+          <div id="content-deco-top" class="deco-content-top deco-content deco-top deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+          
+          <div id="content-deco-bottom" class="deco-content-bottom deco-content deco-bottom deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+        
+                    
+                      <div id="breadcrumb" class="stack-breadcrumb stack clearfix tb-scope">
+              <div class="stack-width inset-1 inset tb-terminal">
+                <div class="inset-2 inset tb-terminal">
+                  <div class="inset-3 inset tb-terminal">
+                    <div class="inset-4 inset tb-terminal">
+                      <div class="box col-1 clearfix tb-terminal">
+                        <div id="breadcrumb-region" class="col tb-region tb-scope tb-height-balance">
+                          <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div>                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+                        
+                  
+          
+                
+          <div id="content-inner" class="stack-content-inner stack clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal">
+              <div class="inset-2 inset tb-terminal">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+                    <div class="box clearfix tb-terminal tb-preview-shuffle-regions">
+                      
+                                                    <div id="sidebar-a" class="col-a sidebar left tb-height-balance tb-region tb-scope tb-sidebar tb-left">
+                                                              </div>
+                                                
+                                                      <div id="sidebar-b" class="col-b sidebar right tb-height-balance tb-region tb-scope tb-sidebar tb-right">
+                                  <div class="region region-sidebar-b">
+    
+<div id="block-block-126" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <ul><li>Tamanho da letra</li>
+<li class="text-small"><a href="#" rel="https://test.pfizer.edrupalgardens.com/sites/test.pfizer.edrupalgardens.com/files/custom_css/3.css">A</a></li>
+<li class="text-medium"><a href="#" rel="https://test.pfizer.edrupalgardens.com/sites/test.pfizer.edrupalgardens.com/files/custom_css/2_1.css">A</a></li>
+<li class="text-large"><a href="#" rel="https://test.pfizer.edrupalgardens.com/sites/test.pfizer.edrupalgardens.com/files/custom_css/1_0.css">A</a></li>
+</ul>       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                              </div>
+                              
+                                                        
+                         <!-- end sidebars -->
+                      
+                      <div id="main" class="col-c tb-height-balance tb-region tb-scope tb-primary">
+                                                <div class="pane">
+                          <a id="skip-to-content-target" class="skip-to-link" title="Target of skip-to-content link"></a>
+                                                                                <h1 class="title" id="page-title">Conteúdo não encontrado</h1>
+                                                                                                          <div class="tabs"></div>
+                                                                                                                                    <div id="content-area" class="content-area">  <div class="region region-content">
+    
+<div id="block-system-main" class="block block-system clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <div id="node-706" class="node node-page odd clearfix" about="/content/conte%C3%BAdo-n%C3%A3o-encontrado" typeof="foaf:Document">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+            <span property="dc:title" content="Conteúdo não encontrado" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>Desculpe-nos, essse conteúdo não foi encontrado. Clique <a href="http://www.pfizer.com.br">aqui</a> para acessar a página principal.</p>
+ </div></div></div>    </div>
+    
+        
+        
+  </div>
+
+  
+  
+</div>
+      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+</div>
+                                                  </div>
+                      </div>
+                      
+                    </div> <!-- /.box tb-terminal -->
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+          </div> <!-- /#main -->
+        
+        </div>
+      </div> <!-- /#content -->
+        
+              <div id="footer" class="wrapper-footer wrapper clearfix tb-scope">
+        
+          <div id="footer-deco-top" class="deco-footer-top deco-footer deco-top deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+          
+          <div id="footer-deco-bottom" class="deco-footer-bottom deco-footer deco-bottom deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+        
+                
+                      <div id="footer-inner" class="stack-footer-inner stack clearfix tb-scope">
+              <div class="stack-width inset-1 inset tb-terminal">
+                <div class="inset-2 inset tb-terminal">
+                  <div class="inset-3 inset tb-terminal">
+                    <div class="inset-4 inset tb-terminal">
+                      
+                                              
+                      <div class="box col-1 clearfix tb-terminal">
+                      
+                                                  <div class="col-first col only last tb-height-balance tb-terminal">
+                            <div id="footer-first-region" class="tb-region tb-scope">                          
+                                <div class="region region-footer-first">
+    
+<div id="block-block-16" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <div id="social-icons" style="top: -73px; position: absolute;"><a class="social-facebook" href="http://www.facebook.com/PfizerBrasil" target="_blank"><img class="media-image" alt="" src="https://stagecorporatesitebr.pfizer.edrupalgardens.com/sites/g/files/g10010996/f/201403/circulocolor-FB.png" /></a><a class="social-twitter" href="http://www.twitter.com/PfizerBr" target="_blank"><img class="media-image" alt="" src="https://stagecorporatesitebr.pfizer.edrupalgardens.com/sites/g/files/g10010996/f/201403/circulocolor-TW.png" /></a><a class="social-youtube" href="http://www.youtube.com/PfizerBrasil" target="_blank"><img class="media-image" alt="" src="https://stagecorporatesitebr.pfizer.edrupalgardens.com/sites/g/files/g10010996/f/201403/circulocolor-YT.png" /></a></div>
+<div id="footer-logo" style="float: left;"><div class="media-thumbnail-frame"><img alt="" class="media-image" height="73" style="width: 110px; height: 73px;" width="110" typeof="foaf:Image" src="https://www.pfizer.com.br/sites/g/files/g10044511/f/201403/logo_fale%20%281%29.png" /></div></div>
+<div style="width: 85%; font-size: 10px; float: right;">
+<p><span style="color: rgb(34, 34, 34); line-height: normal; font-family: verdana;">(PP-PFE-BRA-0471) Todas as decisões relacionadas a tratamento de pacientes devem ser tomadas por profissionais autorizados que levarão em consideração as características exclusivas de cada paciente. As informações aqui contidas destinam-se ao público brasileiro. Em caso de dúvidas, favor contatar o Fale Pfizer através do telefone 0800-7701575 (de segunda a sexta-feira das 8h00 às 18h00). <span style="color: rgb(34, 34, 34); line-height: normal; font-family: verdana;"> Para obter informações sobre a Pfizer USA, </span><a href="http://www.pfizer.com/home/" style="color: blue; line-height: normal; font-family: verdana;" target="_blank" title="clique aqui">clique aqui</a><span style="color: rgb(34, 34, 34); line-height: normal; font-family: verdana;">. </span><a href="/copyright" style="color: blue; line-height: normal; font-family: verdana;" target="_blank" title="clique aqui">Copyright© 2008-2017</a><span style="color: rgb(34, 34, 34); line-height: normal; font-family: verdana;"> Laboratórios Pfizer Ltda. Todos os direitos reservados. </span><a href="/condições-de-uso" style="color: blue; line-height: normal; font-family: verdana;" target="_blank" title="Condições de uso">Condições de uso</a></span></p>
+</div>
+<p> </p>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+jQuery(document).ready(function($){
+
+
+  // Attach onclick event to document only and catch clicks on all elements.
+  jQuery(document.body).click(function(event) {
+	var _gaq = _gaq || [];
+    // Catch the closest surrounding link of a clicked element.
+    jQuery(event.target).closest("a,area").each(function() {
+                _gaq.push(['_trackEvent', 'Image Click', $('img', this).attr('alt'), $(this).attr('href')]);
+    });
+  });   
+
+
+	window.click_top_invoked = false;
+	$('.menu-link-7671 a').click(function(event){
+		if ( click_top_invoked === false ) {
+			click_top_invoked = true;
+			return alert("Todas as informações contidas nesta área do site destinam-se exclusivamente a profissionais de imprensa.\r\nA divulgação destes dados têm como objetivo manter os jornalistas informados sobre as mais recentes novidades e descobertas da medicina e do mercado farmacêutico.");
+		}
+	});
+	jQuery('input[value="Search"]').attr('value', 'Busca');
+	$('#block-block-121').hide().next().hide()
+	$('.view-content > div > div .productTooltip').show().parent().parent().prev().prev().hide()
+	$('.view-browse-products .view-content a').attr('target', '_blank');
+	$('body:not(.page-media-releases) .views-field.views-field-created').hide()
+	$('.alpha-pager a').removeAttr('target');
+window.brazil_months = {
+	' Jan ' : ' Jan ',
+	' Feb ' : ' Fev ',
+	' Mar ' : ' Mar ',
+	' Apr ' : ' Abr ',
+	' May ' : ' Mai ',
+	' Jun ' : ' Jun ',
+	' Jul ' : ' Jul ',
+	' Aug ' : ' Ago ',
+	' Sep ' : ' Set ',
+	' Oct ' : ' Out ',
+	' Nov ' : ' Nov ',
+	' Dec ' : ' Dez '
+};
+jQuery('.view-display-id-page li span span').each(function(){
+	for ( i in brazil_months ) {
+		if ( jQuery(this).text().indexOf( i ) != -1 ) {
+			jQuery(this).text( jQuery(this).text().replace( i, brazil_months[i] ) );
+		}
+	}
+});
+$('.node-readmore').each(function(){
+$(this).find('a').html( $(this).find('a').html().replace('Read more', 'Leia mais') );
+});
+jQuery('#social-icons a').unbind('click').click(function(){
+	return confirm( 'Neste momento , você estará deixando o site da Pfizer. A Pfizer não se responsabiliza pelo conteúdo do site selecionado.' );
+});
+
+if ( jQuery('body').hasClass('page-node-706') ) {
+	window.host_lists = [ 'g10016066', 'g10010996' ];
+	window.host_index = 0;
+	(window.do_pdf_request = function(path){
+		__file_name = window.location.pathname.split('/')[1].match( /^[a-zA-Z0-9\-\_\ \%]+\.(pdf)$/ );
+		if ( __file_name !== null ) {
+			jQuery('#page').remove();
+			document.title = __file_name[0];
+			window.$_iframe = $( '<iframe id="pdf-viewer" src="' + Drupal.settings.basePath + 'sites/g/files/' + path + '/f/product_attachments/' + __file_name[0] + '" style="width: 100%; height: 100%;position: absolute;top: 0; left:0;">' );
+			$_iframe[0].onload = function(){
+				if ( $_iframe.contents().find('body').hasClass('page-node-706') ) {
+					host_index++;
+					if ( host_lists.length > host_index ) {
+						do_pdf_request(host_lists[host_index]);
+					}
+				}
+			};
+			jQuery('body').append( $_iframe );
+		}
+	})(host_lists[host_index]);
+}
+
+jQuery('.item-list a, .field-item a').each(function(){
+	if ( jQuery(this).attr('href').indexOf( '/f/product_attachments/' ) != -1 ) {
+		/*jQuery(this).attr('href', Drupal.settings.basePath + jQuery(this).attr('href').split('/').pop() );*/
+		jQuery(this).attr('href', jQuery(this).attr('href').replace( 'https://stagecorporatesitebr.pfizer.edrupalgardens.com', '' ).replace( 'http://stagecorporatesitebr.pfizer.edrupalgardens.com', '' ).replace( 'http://www.pfizer.com.br', '' ).replace( 'https://www.pfizer.com.br', '' ) .replace( 'https://stage2corportatesitebr.pfizer.edrupalgardens.com', '' ) .replace( 'http://stage2corportatesitebr.pfizer.edrupalgardens.com', '' ) ).unbind('click');
+	}
+});
+
+jQuery('#node-196.node-page.node-teaser,#node-1496.node-page.node-teaser,#node-1586.node-page.node-teaser,#node-1546.node-page.node-teaser,#node-1506.node-page.node-teaser,#node-1421.node-page.node-teaser').closest('.search-result').hide();
+	jQuery('.social a').unbind().click(function(){return confirm('Neste momento , você estará deixando o site da Pfizer. A Pfizer não se responsabiliza pelo conteúdo do site selecionado.')});
+jQuery(window).load(function(){
+if ( jQuery('body').hasClass('page-browse-products-acessibilidade') ) {
+	var pathname = window.location.pathname;
+	jQuery('.views-summary a').each(function(index) {	
+	    var letterUppercase = $(this).text();
+		var letter = $(this).text().toLowerCase();
+		jQuery('.alpha-pager .alpha-' + letter).addClass('has-products');
+		jQuery('.alpha-pager .alpha-' + letter + ' a').attr("href", '/browse-products-acessibilidade/' + letterUppercase);
+		if(pathname == "/browse-products-acessibilidade/" + letterUppercase) {
+		  jQuery('.alpha-pager .alpha-' + letter).addClass('active');
+		}
+	});
+}
+
+if ( jQuery('body').hasClass('page-minibulas') ) {
+	var pathname = window.location.pathname;
+	jQuery('.views-summary a').each(function(index) {	
+	    var letterUppercase = $(this).text();
+		var letter = $(this).text().toLowerCase();
+		jQuery('.alpha-pager .alpha-' + letter).addClass('has-products');
+		jQuery('.alpha-pager .alpha-' + letter + ' a').attr("href", '/minibulas/' + letterUppercase);
+		if(pathname == "/minibulas/" + letterUppercase) {
+		  jQuery('.alpha-pager .alpha-' + letter).addClass('active');
+		}
+	});
+}
+
+if ( jQuery('body').hasClass('page-minibula-interacoes-medicamentosashtml') ) {
+	var pathname = window.location.pathname;
+	jQuery('.views-summary a').each(function(index) {	
+	    var letterUppercase = $(this).text();
+		var letter = $(this).text().toLowerCase();
+		jQuery('.alpha-pager .alpha-' + letter).addClass('has-products');
+		jQuery('.alpha-pager .alpha-' + letter + ' a').attr("href", '/minibula/interacoes_medicamentosas.html/' + letterUppercase);
+		if(pathname == "/minibula/interacoes_medicamentosas.html/" + letterUppercase) {
+		  jQuery('.alpha-pager .alpha-' + letter).addClass('active');
+		}
+	});
+}
+});
+
+});
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-52749018-1', 'auto');
+  ga('send', 'pageview');
+  function handleOutboundLinkClicks(event) {
+  ga('send', 'event', {
+    eventCategory: 'Outbound Link',
+    eventAction: 'click',
+    eventLabel: event.target.href
+  });
+  ga('send', 'event', 'addthis', 'click', 'facebook');
+}
+function _gaLt(event) {
+
+        /* If GA is blocked or not loaded, or not main|middle|touch click then don't track */
+        if (!ga.hasOwnProperty("loaded") || ga.loaded != true || (event.which != 1 && event.which != 2)) {
+            return;
+        }
+
+        var el = event.srcElement || event.target;
+
+        /* Loop up the DOM tree through parent elements if clicked element is not a link (eg: an image inside a link) */
+        while (el && (typeof el.tagName == 'undefined' || el.tagName.toLowerCase() != 'a' || !el.href)) {
+            el = el.parentNode;
+        }
+
+        /* if a link with valid href has been clicked */
+        if (el && el.href) {
+
+            var link = el.href;
+
+            /* Only if it is an external link */
+            if (link.indexOf(location.host) == -1 && !link.match(/^javascript\:/i)) {
+
+                /* Is actual target set and not _(self|parent|top)? */
+                var target = (el.target && !el.target.match(/^_(self|parent|top)$/i)) ? el.target : false;
+
+                /* Assume a target if Ctrl|shift|meta-click */
+                if (event.ctrlKey || event.shiftKey || event.metaKey || event.which == 2) {
+                    target = "_blank";
+                }
+
+                var hbrun = false; // tracker has not yet run
+
+                /* HitCallback to open link in same window after tracker */
+                var hitBack = function() {
+                    /* run once only */
+                    if (hbrun) return;
+                    hbrun = true;
+                    window.location.href = link;
+                };
+
+                if (target) { /* If target opens a new window then just track */
+                    ga(
+                        "send", "event", "Outgoing Links", link,
+                        document.location.pathname + document.location.search
+                    );
+                } else { /* Prevent standard click, track then open */
+                    event.preventDefault ? event.preventDefault() : event.returnValue = !1;
+                    /* send event with callback */
+                    ga(
+                        "send", "event", "Outgoing Links", link,
+                        document.location.pathname + document.location.search, {
+                            "hitCallback": hitBack
+                        }
+                    );
+
+                    /* Run hitCallback again if GA takes longer than 1 second */
+                    setTimeout(hitBack, 1000);
+                }
+            }
+        }
+ }
+
+    var _w = window;
+    /* Use "click" if touchscreen device, else "mousedown" */
+    var _gaLtEvt = ("ontouchstart" in _w) ? "click" : "mousedown";
+    /* Attach the event to all clicks in the document after page has loaded */
+    _w.addEventListener ? _w.addEventListener("load", function() {document.body.addEventListener(_gaLtEvt, _gaLt, !1)}, !1)
+        : _w.attachEvent && _w.attachEvent("onload", function() {document.body.attachEvent("on" + _gaLtEvt, _gaLt)});
+
+
+//--><!]]>
+</script>       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-block-166" class="block block-block clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+         <!-- Adobe Analytics code--><script type="text/javascript" language="JavaScript" src="//s3.amazonaws.com/pfe_im/js/prod/pcc/custom/pfizercom-br/s_code_config.js"></script><script type="text/javascript" language="JavaScript" src="//s3.amazonaws.com/pfe_im/js/prod/pcc/s_code.js"></script><script type="text/javascript" language="JavaScript">
+<!--//--><![CDATA[// ><!--
+<!--
+var s_code=s.t();if(s_code)document.write(s_code)//-->
+//--><!]]>
+</script><script language="JavaScript" type="text/javascript">
+<!--//--><![CDATA[// ><!--
+<!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//-->
+//--><!]]>
+</script><!--/DO NOT REMOVE/--><!-- End Adobe Analytics code-->       </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                            </div>
+                          </div>
+                                                  
+                                                
+                                              
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+                        
+        </div> <!-- /#footer -->
+            
+    </div> <!-- /.lining -->
+  </div> <!-- /.page-width -->
+</div> <!-- /#page -->
+    
+  <script type="text/javascript" src="https://www.pfizer.com.br/sites/g/files/g10044511/f/js/js_YXlUfgFjA4hhSVKL6XnXXp_Wgj1G8a-BWV4xfPYG60k.js"></script>
+<script type="text/javascript" src="https://www.pfizer.com.br/sites/g/files/g10044511/f/js/js_MLVgtzZ1ORq9krYqkeOsRay6ou_T-0QZytivuM9tTT8.js"></script>
+<script type="text/javascript" src="https://www.pfizer.com.br/sites/g/files/g10044511/f/js/js_98md0Hw7JjtO6IV8VmJQotESErsOCCE733qN6wyihCI.js"></script>
+
+  <!--[if IE ]>
+  </div>
+  <![endif]-->
+  
+  <!--[if IE 8]>
+  </div>
+  <![endif]-->
+  
+  <!--[if IE 7]>
+  </div>
+  <![endif]-->
+  
+  <!--[if lt IE 7]>
+  </div>
+  <![endif]-->
+</body>
+</html>

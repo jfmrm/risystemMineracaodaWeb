@@ -1,0 +1,353 @@
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+
+
+
+		<meta name="robots" content="noindex, nofollow">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<title>Página não Encontrada!</title>
+<link rel="shortcut icon" href="https://www.posthaus.com.br/favicon.ico" type="image/x-icon">
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+	body {
+	    margin: 0px;
+	    font-size: 14px;
+	    font-family: 'Varela Round', sans-serif;
+	}
+	ul {
+		list-style: none;
+	}
+	.screem-size {
+	    width: 100%;
+	    max-width: 100%;
+	}
+	.topo-background {
+	    background-color: #004684;
+	    height: 50px;
+	    margin: 0 auto;
+	    position: relative;
+	}
+	.logo {
+		padding-top: 10px;
+    	width: 115px;
+    	margin: 0 auto;
+	}
+	.size-site {
+	    width: 600px;
+	}
+	.content {
+	    height: auto;
+	    margin: 0 auto;
+	}
+	.icone-ph {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat 0px 0px;
+	    width: 115px;
+	    height: 28px;
+	}
+	.mensagem-erro {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -219px -71px;
+	    width: 245px;
+	    height: 115px;
+	    margin-top: 40px;
+	    float: left;
+	}
+	.imagem-erro {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat 0px -57px;
+		width: 200px;
+	    height: 205px;
+	    float: right;
+	}
+	.rodape-error-page {
+		float: left;
+	    width: 100%;
+	    margin: 0 auto;
+	    text-align: center;
+	    font-size: 10px;
+	    padding-top: 30px;
+    	padding-bottom: 20px;
+	}
+	.topo-error-page {
+		padding-top: 30px;
+		padding-bottom: 20px;
+		float: left;
+    	width: 100%;
+	}
+	.acoes-error-page {
+    	text-align: center;
+    	margin: 0 auto;
+	}
+	.acoes-error-page p {
+		color: #004684;
+		font-weight: bold;
+	}
+	.acoes-error-page > a {
+		display: inline-block;
+		text-decoration: none;
+	}
+	.acoes-error-page .botao-acao {
+		width: 57px;
+    	height: 57px;
+    	display: inline-block;
+	}
+	.acoes-error-page .recarregar {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -163px 0px;
+	}
+	.acoes-error-page .home {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -220px 0px;
+		margin-left: 90px;
+    	margin-right: 90px;
+	}
+	.acoes-error-page .atendimento {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -277px 0px;
+	}
+	.categorias {
+		float: left;	
+		width: 49%;
+	}
+	.coluna-esquerda {
+		width: 49%;
+	}
+	.coluna-direita {
+		width: 49%;
+	}
+	.links-error-page {
+		float: left;
+	    width: 100%;
+	    text-align: center;
+	    border-top: 1px #CCC solid;
+    	border-bottom: 1px #CCC solid;
+	}
+	.links-error-page p { 
+	    color: #004684;
+	    font-weight: bold;
+	    height: 30px;
+	}
+	.categorias ul {
+	    display: table;
+	    line-height: 29px;
+	    border: none;
+	    font-size: 15px;
+	    padding: 0px;
+	    display: inline-block;
+	}
+	.icone-social {
+	   	margin-right: 10px;	
+	   	width: 23px;
+    	height: 23px;
+    	float: left;
+	}
+	.icone-facebook {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat 0px -28px;
+	}
+	.icone-twitter {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -22px -28px;
+	}
+	.icone-pinterest {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -45px -28px;
+	}
+	.icone-youtube {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -68px -28px;
+	}
+	.icone-google {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -91px -28px;
+	}
+	.icone-instagram {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -113px -28px;
+	}
+	.icone-blog {
+		background: url(https://ph-cdn3.ecosweb.com.br/Web/V3/posthaus/erro/sprite_404.png) no-repeat -136px -28px;
+	}	
+	.redes-sociais {
+		float: right;
+		width: 49%;
+	}			
+	.redes-sociais > div {
+		float: left;
+    	width: 50%;
+	}
+	.redes-sociais > div + div {
+		float: right;
+    	width: 50%;
+	}	
+	.redes-sociais ul {
+	    display: table;
+	    text-align: left;
+	    line-height: 29px;
+	    border: none;
+	    font-size: 15px;
+	    padding: 0px;
+	    display: inline-block;
+	    vertical-align: top;
+	}
+    
+@media screen and (max-width: 600px) { /*Mobile*/
+	.size-site {
+		width: 100%;
+	}
+	.mensagem-erro {
+		margin: 0 auto;
+		float: none;
+		padding-bottom: 20px;
+	}
+	.imagem-erro {
+	 	margin: 0 auto;
+		float: none;
+	}
+	.acoes-error-page .home {
+	    margin-left: 35px;
+    	margin-right: 35px;
+	}
+	.categorias {
+		float: none;
+	    width: 100%;
+	}
+	.redes-sociais {
+	    width: 100%;
+    	margin: 0 auto;
+    	display: inline-block;
+    }
+}
+</style>
+</head>
+<body>
+
+<div class="topo-background screem-size">
+	<div class="logo">
+		<a href="https://www.posthaus.com.br">
+			<div class="icone-ph"></div>
+		</a>
+	</div>
+</div>
+
+<div class="content size-site">
+	<div class="topo-error-page">
+		<div class="mensagem-erro"></div>
+		<div class="imagem-erro"></div>
+	</div>
+	<div class="acoes-error-page">
+		<a href="https://www.posthaus.com.br/" >
+			<div>
+				<span class="botao-acao recarregar"></span>
+				<p>Recarregar</p>
+			</div>
+		</a>
+		<a href="https://www.posthaus.com.br/" >
+			<div>
+				<span class="botao-acao home"></span>
+				<p>Página Inicial</p>
+			</div>
+		</a>
+		<a href="https://www.posthaus.com.br/central-de-atendimento/" >
+			<div>
+				<span class="botao-acao atendimento"></span>
+				<p>Atendimento</p>
+			</div>
+		</a>
+	</div>	
+	<div class="links-error-page">
+		<div  class="categorias">
+			<p>Visite nossas categorias e encontre o</br> melhor da moda</p>
+			
+			<ul class="coluna-esquerda">
+				<li>
+					<a href="https://www.posthaus.com.br/moda-feminina">Moda Feminina</a>
+				</li>
+				<li>
+					<a href="https://www.posthaus.com.br/moda/moda-infantil.html?PHPGPE=1">Infantil</a>
+				</li>
+				<li>
+					<a href="https://www.posthaus.com.br/moda/calcados.html?PHPGPE=13">Calçados</a>
+				</li>
+				<li>
+					<a href="https://www.posthaus.com.br/moda-praia">Moda Praia</a>
+				</li>				
+				<li>
+					<a href="https://www.posthaus.com.br/lancamentos/moda-feminina">Lançamentos</a>
+				</li>				
+			</ul>
+			<ul class="coluna-direita">
+				<li>
+					<a href="https://www.posthaus.com.br/plus-size-feminino">Plus Size</a>
+				</li>
+				<li>
+					<a href="https://www.posthaus.com.br/moda-masculina">Moda Masculina</a>
+				</li>
+				<li>
+					<a href="https://www.posthaus.com.br/lingerie">Lingerie</a>
+				</li>
+				<li>
+					<a href="https://www.posthaus.com.br/lojas-e-marcas">Marcas</a>
+				</li>
+				<li>
+					<a href="https://www.posthaus.com.br/promocoes">Promoções</a>
+				</li>
+			</ul>			
+		</div>
+		<div  class="redes-sociais">
+			<p>Se preferir navegue por</br> nossas redes sociais</p>
+			<div>
+				<ul>
+					<li>
+						<a href="https://www.facebook.com/Posthaus">
+							<span class="icone-social icone-facebook"></span>Facebook
+						</a>
+					</li>
+					<li>
+						<a href="https://twitter.com/Posthaus">
+							<span class="icone-social icone-twitter"></span>Twitter
+						</a>
+					</li>
+					<li>
+						<a href="http://pinterest.com/portalposthaus/">
+							<span class="icone-social icone-pinterest"></span>Pinterest
+						</a>
+					</li>
+					<li>
+						<a href="http://www.youtube.com/portalposthaus" >
+							<span class="icone-social icone-youtube"></span>Youtube
+						</a>
+					</li>															
+				</ul>
+			</div>
+			<div>
+				<ul>
+					<li>
+						<a href="https://plus.google.com/u/0/+PortalPosthaus/posts">
+							<span class="icone-social icone-google"></span>Google Plus
+						</a>
+					</li>
+					<li>
+						<a href="https://instagram.com/posthaus">
+							<span class="icone-social icone-instagram"></span>Instagram
+						</a>
+					</li>
+					<li>
+						<a href="http://www.modaposthaus.com.br/">
+							<span class="icone-social icone-blog"></span>Blog Posthaus
+						</a>
+					</li>															
+				</ul>
+			</div>		
+		</div>
+	</div>
+	<div class="rodape-error-page">
+		<span>
+		Posthaus é uma marca da DBR Comércio de Artigos do Vestuário S.A. / CNPJ: 14.317.819/0001-91
+		<br>
+		Endereço: Rua Sete de Setembro, 1069, 1º. Andar - Sala 10A - Edifício Dumóvel - 89.010-207 - Blumenau - SC
+		<br>
+		
+				® Posthaus - Todos os direitos reservados / 
+				<a href="https://www.posthaus.com.br/" title="Moda Feminina, vestidos, roupas para toda família.">https://www.posthaus.com.br</a>
+		
+		</span>
+	</div>
+</div>		
+</body>
+</html>

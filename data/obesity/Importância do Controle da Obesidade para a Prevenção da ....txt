@@ -1,0 +1,338 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="pt-br" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="O Saúde Naval é um canal de comunicação, uma interface entre o Sistema de Saúde da Marinha e você. Como uma grande plataforma, busca informar a Família Naval sobre os serviços disponíveis e oferecer conteúdo de prevenção para todos os usuários." />
+<meta name="abstract" content="O Saúde Naval é um canal de comunicação, uma interface entre o Sistema de Saúde da Marinha e você. Como uma grande plataforma, busca informar a Família Naval sobre os serviços disponíveis e oferecer conteúdo de prevenção para todos os usuários." />
+<meta name="keywords" content="marinha do brasil, saúde, prevenção, qualidade de vida" />
+<meta name="robots" content="follow, index" />
+<meta name="rating" content="general" />
+<link rel="image_src" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/logo-sn-default.png" />
+<link rel="canonical" href="https://www.marinha.mil.br/saudenaval/obesidade-hipertensao%26sa%3DU%26ved%3D0ahUKEwi8svXgxbrdAhXIGZAKHTSEA7U4RhAWCCwwBA%26usg%3DAOvVaw0loL3U05fXk0m58pBqH46Y" />
+<link rel="shortlink" href="https://www.marinha.mil.br/saudenaval/obesidade-hipertensao%26sa%3DU%26ved%3D0ahUKEwi8svXgxbrdAhXIGZAKHTSEA7U4RhAWCCwwBA%26usg%3DAOvVaw0loL3U05fXk0m58pBqH46Y" />
+<meta http-equiv="content-language" content="br" />
+<meta property="og:site_name" content="Saúde Naval" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.marinha.mil.br/saudenaval/obesidade-hipertensao%26sa%3DU%26ved%3D0ahUKEwi8svXgxbrdAhXIGZAKHTSEA7U4RhAWCCwwBA%26usg%3DAOvVaw0loL3U05fXk0m58pBqH46Y" />
+<meta property="og:title" content="A página não foi encontrada" />
+<meta property="og:image" content="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/logo-sn-default.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@marmilbr" />
+<meta name="twitter:creator:id" content="236354374" />
+<meta name="twitter:url" content="https://www.marinha.mil.br/saudenaval/obesidade-hipertensao%26sa%3DU%26ved%3D0ahUKEwi8svXgxbrdAhXIGZAKHTSEA7U4RhAWCCwwBA%26usg%3DAOvVaw0loL3U05fXk0m58pBqH46Y" />
+<meta property="og:email" content="saudenaval@marinha.milbr" />
+<meta name="twitter:title" content="A página não foi encontrada" />
+<meta property="og:locale" content="pt_BR" />
+<meta name="twitter:image" content="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/logo-sn-default.png" />
+<meta name="twitter:image:width" content="1200" />
+<meta name="twitter:image:height" content="630" />
+<link rel="shortcut icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" type="image/png" />
+<link rel="icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="16x16" />
+<link rel="icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="96x96" />
+<link rel="icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" />
+<link rel="apple-touch-icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="72x72" />
+<link rel="apple-touch-icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="76x76" />
+<link rel="apple-touch-icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="114x114" />
+<link rel="apple-touch-icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="120x120" />
+<link rel="apple-touch-icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="144x144" />
+<link rel="apple-touch-icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="152x152" />
+<link rel="apple-touch-icon" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="180x180" />
+<link rel="apple-touch-icon-precomposed" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="152x152" />
+<link rel="apple-touch-icon-precomposed" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/favicon.png" sizes="180x180" />
+  <title>Saúde Naval - Queremos o bem do nosso maior bem: Família Naval</title>
+  <link type="text/css" rel="stylesheet" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/css/css_wrfL3nJEt542An4_J2aT4c_nqfS5VcIwbEoBjWb8wuc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/css/css_JFV9VWBx8O5j0IdhqOr-Bmv6OE0_FyYvidQExw645mw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/css/css_6QXwrCexR0vvoyukNgEHb6EEdzRn55PZTz1xIr0sM3M.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.marinha.mil.br/saudenaval/sites/all/modules/popup/popup.css?pe81pq" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/css/css_ARqylupvrohFhylfWTDIXTEHrGViCnxd8D3uWxbUas0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/css/css_30PLLKi9Gp-Z9_L0vtXRqfZY2hlFSfP48myXdg6ClZ4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/css/css_s9-dscQVkJdHdBZ4wIOgbfrFKwosaPYoJmjmbwkYXAY.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="//code.jquery.com/jquery-1.9.1.js"></script>
+<script>window.jQuery || document.write("<script src='/saudenaval/sites/all/modules/jquery_update/replace/jquery/1.9/jquery.js'>\x3C/script>")</script>
+<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
+<script src="//code.jquery.com/jquery-migrate-1.4.1.js"></script>
+<script>window.jQuery && window.jQuery.migrateWarnings || document.write("<script src='/saudenaval/sites/all/modules/jquery_update/replace/jquery-migrate/1/jquery-migrate.js'>\x3C/script>")</script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/js/js_vSmhpx_T-AShyt_WMW5_TcwwxJP1imoVOa8jvwL_mxE.js"></script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/js/js_tG5pNElF7jdZyW0ucRa0HM83XPmzKI51mC1EJoW5BK0.js"></script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/js/js_BOvRZevbqwJCSCD_Gr0V-TlDmEtfgpXQSPokeSZCBYU.js"></script>
+<script src="http://localhost:8080/socket.io/socket.io.js"></script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/js/js_Lj_GcEp0mvr9vLlOZxtlEYqVv2Qtn3J9mr2PmRawytI.js"></script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/all/modules/popup/popup.js?pe81pq"></script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/js/js_BumRb51rVDYtu5s0QV9_TdS4AurqP45HIVjLGySdsuc.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics_debug.js","ga");ga("create", "UA-108905343-1", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("set", "page", "/saudenaval/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/js/js_2vOiMWT0yKRU5hc9iWlzMa6eD41cU5Bze8WRNve3_n4.js"></script>
+<script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://www.saudenaval.com.br/piwik/" : "https://www.saudenaval.com.br/piwik/");_paq.push(["setSiteId", "2"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDocumentTitle", "404/URL = " + encodeURIComponent(document.location.pathname+document.location.search) + "/From = " + encodeURIComponent(document.referrer)]);_paq.push(["setDoNotTrack", 1]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();</script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/js/js_h-5-dV-md39oe0xtO0DDI7FI1-laf5p60LrfYpZoO-8.js"></script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/js_injector/js_injector_10.js?pe81pq"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/saudenaval\/","pathPrefix":"","ajaxPageState":{"theme":"govbr_theme","theme_token":"WC4P1fnS5JfZCO1Y_eWRo3XSsdpwfGU2qxbPY-R59hI","js":{"\/\/barra.brasil.gov.br\/barra.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/www.marinha.mil.br.saudenaval\/files\/js_injector\/js_injector_5.js":1,"\/\/code.jquery.com\/jquery-1.9.1.js":1,"0":1,"1":1,"\/\/code.jquery.com\/jquery-migrate-1.4.1.js":1,"2":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contentanalysis\/contentanalysis.js":1,"sites\/all\/modules\/contentoptimizer\/contentoptimizer.js":1,"public:\/\/languages\/pt-br_52xCri60VzY0e6wwXqjT4wsadZG7OZkKbbWbMtXWs6A.js":1,"http:\/\/localhost:8080\/socket.io\/socket.io.js":1,"sites\/all\/modules\/nodejs\/nodejs.js":1,"sites\/all\/modules\/drupalchat\/drupalchat_nodejs\/drupalchat_nodejs.js":1,"sites\/all\/modules\/popup\/popup.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.debug.js":1,"3":1,"sites\/all\/modules\/piwik\/piwik.js":1,"4":1,"sites\/all\/themes\/contrib\/govbr_theme\/js\/highcontrast.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/js\/mobile.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/contrib\/govbr_theme\/bootstrap\/js\/transition.js":1,"sites\/www.marinha.mil.br.saudenaval\/files\/js_injector\/js_injector_10.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"sites\/all\/modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/node\/node.css":1,"sites\/all\/modules\/poll\/poll.css":1,"sites\/all\/modules\/quiz\/quiz.css":1,"sites\/all\/modules\/search\/search.css":1,"sites\/all\/modules\/webform_confirm_email\/webform_confirm_email.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/popup\/popup.css":1,"sites\/all\/themes\/contrib\/govbr_theme\/css\/color_scheme\/blue\/styles.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/themes\/contrib\/govbr_theme\/css\/style.css":1,"public:\/\/css_injector\/css_injector_1.css":1,"public:\/\/css_injector\/css_injector_5.css":1,"public:\/\/css_injector\/css_injector_8.css":1,"public:\/\/css_injector\/css_injector_20.css":1,"public:\/\/css_injector\/css_injector_29.css":1}},"nodejs":{"nodejs":{"scheme":"http","secure":0,"host":"localhost","port":"8080"},"client":{"scheme":"http","secure":0,"host":"localhost","port":"8080"},"resource":"\/socket.io","authToken":"762006d29bbeaa66405b52c9834d1573","websocketSwfLocation":"\/saudenaval\/sites\/all\/modules\/nodejs\/socket_io\/socket.io\/support\/socket.io-client\/lib\/vendor\/web-socket-js\/WebSocketMain.swf","log_http_errors":true},"popup":{"effects":{"show":{"default":"this.body.show();","fade":"\n        if (this.opacity){\n          this.body.fadeTo(\u0027medium\u0027,this.opacity);\n        }else{\n          this.body.fadeIn(\u0027medium\u0027);\n        }","slide-down":"this.body.slideDown(\u0027medium\u0027)","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027show\u0027,\n            opacity:(this.opacity ? this.opacity : \u0027show\u0027)\n          }, \u0027medium\u0027\n        );"},"hide":{"default":"this.body.hide();","fade":"this.body.fadeOut(\u0027medium\u0027);","slide-down":"this.body.slideUp(\u0027medium\u0027);","slide-down-fade":"\n        this.body.animate(\n          {\n            height:\u0027hide\u0027,\n            opacity:\u0027hide\u0027\n          }, \u0027medium\u0027\n        );"}},"linger":250,"delay":0},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackUrlFragments":1},"piwik":{"trackMailto":1},"urlIsAjaxTrusted":{"\/saudenaval\/search\/node":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-obesidade-hipertensaosauved0ahukewi8svxgxbrdahxigzakhtsea7u4rhawccwwbausgaovvaw0lol3u05fxk0m58pbqh46y" >
+  <!-- Barra Brasil -->
+  <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;" class="no-contrast">
+    <ul id="menu-barra-temp" style="list-style:none;">
+      <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+      <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+    </ul>
+  </div>
+
+    <header id="header" role="header">
+  <div class="container">
+    <div class="header-top">
+      <div class="row">
+        <div class="col-sm-7">
+          <ul class="shortcuts"><li id="link-content"><a href="/saudenaval/obesidade-hipertensao%26sa%3DU%26ved%3D0ahUKEwi8svXgxbrdAhXIGZAKHTSEA7U4RhAWCCwwBA%26usg%3DAOvVaw0loL3U05fXk0m58pBqH46Y#main-content" accesskey="1" class="active">Ir para o conteúdo <span>1</span></a></li>
+<li id="link-menu"><a href="/saudenaval/obesidade-hipertensao%26sa%3DU%26ved%3D0ahUKEwi8svXgxbrdAhXIGZAKHTSEA7U4RhAWCCwwBA%26usg%3DAOvVaw0loL3U05fXk0m58pBqH46Y#sidebar-first-menu" accesskey="2" class="active">Ir para o menu <span>2</span></a></li>
+<li id="link-search"><a href="/saudenaval/obesidade-hipertensao%26sa%3DU%26ved%3D0ahUKEwi8svXgxbrdAhXIGZAKHTSEA7U4RhAWCCwwBA%26usg%3DAOvVaw0loL3U05fXk0m58pBqH46Y#edit-keys" accesskey="3" class="active">Ir para a busca <span>3</span></a></li>
+<li id="link-footer"><a href="/saudenaval/obesidade-hipertensao%26sa%3DU%26ved%3D0ahUKEwi8svXgxbrdAhXIGZAKHTSEA7U4RhAWCCwwBA%26usg%3DAOvVaw0loL3U05fXk0m58pBqH46Y#footer" accesskey="4" class="active">Ir para o rodapé <span>4</span></a></li>
+</ul>        </div>
+        <div class="col-sm-5">
+          <ul class="accessibility">
+                        <li>
+              <a href="/saudenaval/acessibilidade">Acessibilidade</a>            </li>
+                        <li>
+              <a href="javascript:void(0)" id="contrast">Alto Contraste</a>
+            </li>
+                        <li>
+              <a href="/saudenaval/sitemap">Mapa do sitio</a>            </li>
+                      </ul>
+        </div>
+      </div>
+    </div>
+    <div class="header-main">
+      <div class="row">
+        <div class="col-sm-8 info">
+          <div class="site-info">
+                          <a class="logo navbar-btn pull-left" href="/saudenaval/" title="Início">
+                <img src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/logo_0.png" alt="Início" />
+              </a>
+                        <a href="/saudenaval/">
+              <span class="designation">Ministério da Defesa</span>
+              <h1 class="site-name">Saúde Naval</h1>
+              <span class="subordination">Marinha do Brasil</span>
+            </a>
+          </div>
+        </div>
+        <div class="col-sm-4">
+                    <div class="search">
+            <form class="search-form clearfix" action="/saudenaval/search/node" method="post" id="search-form" accept-charset="UTF-8"><div><div class="form-wrapper form-group" id="edit-basic"><div class="input-group"><input placeholder="Buscar" class="form-control form-text" type="text" id="edit-keys" name="keys" value="" size="40" maxlength="255" /><span class="input-group-btn"><button type="submit" class="btn btn-default"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+</button></span></div><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Buscar">Buscar</button>
+</div><input type="hidden" name="form_build_id" value="form-voOUB0nQmkcBUULIIIYRq_uwG_9aEbt7xleSFX4MpMg" />
+<input type="hidden" name="form_id" value="search_form" />
+</div></form>          </div>
+          
+                  </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div id="navbar">
+  <div class="container">
+    <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+
+      </div>
+</div>
+
+
+<div id="main" class="main-container container">
+
+  <header role="banner" id="page-header">
+          </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary" id="sidebar-first-menu">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+    <h4>Menu</h3>
+    <div>
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </div>
+    </button>
+      <div class="navbar-collapse collapse">
+        <nav role="navigation">
+            <div class="region region-sidebar-first">
+    <section id="block-block-1" class="block block-block block-no-title clearfix">
+
+        <div class="content">
+    <p></p><center><a href="/saudenaval/saude-naval" title="Página Principal do Saúde Naval"><img src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/saude_naval.png" /></a></center>
+<ul class="list-central"><li class="item-central item-cartilhas"><a accesskey="c" href="/saudenaval/cartilhas-e-folders" title="Cartilhas e Folders">Cartilhas e Folders</a></li>
+<li class="item-central item-manual"><a accesskey="k" href="/saudenaval/manual-do-paciente-internado" title="Manual do Paciente Internado">Manual do Paciente Internado</a></li>
+<li class="item-central item-natal"><a accesskey="n" href="/saudenaval/maternidade-e-uti-neonatal" title="Maternidade e UTI Neonatal">Maternidade e UTI Neonatal</a>
+</li>
+</ul>  </div>
+</section> <!-- /.block -->
+<section id="block-block-10" class="block block-block clearfix">
+
+        <h2 class="block-title">Informação para Você</h2>
+      <div class="content">
+    <iframe src="https://www.saudenaval.com.br/emkt/public/lists/5ae7b7f958b6a/sign-up" frameborder="0" scrolling="no" width="100%" height="680"></iframe><p></p>
+<!--<a href="https://www.marinha.mil.br/saudenaval/content/preven%C3%A7%C3%A3o-come%C3%A7a-com-informa%C3%A7%C3%A3o"><button type="button" class="btn btn-primary" value="Cadastro Personalizado" width="100%" style="width:100%;"><i class="fa fa-edit" style="font-size:24px"></i>Informação para você</a><br />-->  </div>
+</section> <!-- /.block -->
+<section id="block-block-4" class="block block-block clearfix">
+
+        <h2 class="block-title">Notícias Saúde Naval</h2>
+      <div class="content">
+    <!--<ul class="news">
+<li> <a href="https://www1.mar.mil.br/saudenaval/que-venha-2017">Feliz Natal e que venha 2017!</a>
+21/12/2016
+</ul>
+
+
+<ul class="news">
+<li> <a href="https://www1.mar.mil.br/saudenaval/pim-ilha-das-flores">PIM visita a Ilha das Flores</a>
+12/12/2016</li>
+</ul>
+
+<ul class="news">
+<li> <a href="https://www1.mar.mil.br/saudenaval/bono-08-dez">Cadastre-se! </a>
+08/12/2016</li>
+</ul>-->
+
+
+<div class="view view-bloco-news view-id-bloco_news view-display-id-default view-dom-id-951c4668a05579f7e9d5e785e1b7b112">
+        
+  
+  
+      <div class="view-content">
+      <div class="table-responsive">
+<table class="views-table cols-0 table table-hover table-striped" >
+      <tbody>
+          <tr class="odd views-row-first">
+                  <td >
+            <img src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/bullet_saude.png">          </td>
+                  <td class="logo_news" >
+            <h5><a href="/saudenaval/hnmd-promove-ciclo-de-palestras-para-cuidadores-de-idosos">HNMD promove ciclo de palestras para cuidadores de idosos.</a></h5>24/08/2018          </td>
+              </tr>
+          <tr class="even">
+                  <td >
+            <img src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/bullet_saude.png">          </td>
+                  <td class="logo_news" >
+            <h5><a href="/saudenaval/hnmd-realizar%C3%A1-palestra-sobre-uso-de-medicamentos">HNMD realizará palestra sobre uso de medicamentos</a></h5>17/08/2018          </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td >
+            <img src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/bullet_saude.png">          </td>
+                  <td class="logo_news" >
+            <h5><a href="/saudenaval/pnnsg-participar%C3%A1-da-campanha-nacional-de-vacina%C3%A7%C3%A3o-contra-poliomielite-e-sarampo">PNNSG participará da Campanha Nacional de Vacinação contra a Poliomielite e Sarampo</a></h5>03/08/2018          </td>
+              </tr>
+      </tbody>
+</table>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<center><a href="https://www.marinha.mil.br/saudenaval/todas_noticias"><button type="button" class="btn btn-default"><span class="glyphicon glyphicon-list-alt"></span>  Veja Todas as Notícias</button></a></center>
+<br>  </div>
+</section> <!-- /.block -->
+  </div>
+        </nav>
+      </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+      <a id="main-content"></a>
+                    <h1 class="page-header">A página não foi encontrada</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system block-no-title clearfix">
+
+        <div class="content">
+    A página requisitada "/saudenaval/obesidade-hipertensao&amp;sa=U&amp;ved=0ahUKEwi8svXgxbrdAhXIGZAKHTSEA7U4RhAWCCwwBA&amp;usg=AOvVaw0loL3U05fXk0m58pBqH46Y" não pôde ser encontrada.  </div>
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+      </div>
+</div>
+<footer id="footer">
+  
+  <!-- Footer Brasil -->
+  <div id="footer-brasil" class="no-contrast"></div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+                  </div>
+      </div>
+    </div>
+</footer>
+  <script defer="defer" src="//barra.brasil.gov.br/barra.js"></script>
+<script src="https://www.marinha.mil.br/saudenaval/sites/www.marinha.mil.br.saudenaval/files/js/js_h0Dtl47JgMTkkwzggN17Gr0Klu7Nj624JK4env-QaIw.js"></script>
+</body>
+</html>

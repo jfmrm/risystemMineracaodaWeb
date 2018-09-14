@@ -1,0 +1,7 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scielo.php?script=sci_arttext&amp;pid=S1414-98931983000100008&amp;sa=U&amp;ved=0ahUKEwj75J7exbrdAhVBEZAKHWV-DQE4ChAWCDMwBQ&amp;usg=AOvVaw0hKs96NcpOiZJggnz9BVHS was not found on this server.</p>
+</body></html>

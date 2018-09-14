@@ -1,0 +1,646 @@
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <!-- meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="preconnect" href="//obj.ibxk.com.br">
+    <link rel="preconnect" href="//img.ibxk.com.br">
+    <link rel="preconnect" href="//mega.ibxk.com.br">
+    <link rel="preconnect" href="//fonts.gstatic.com">
+    <link rel="preconnect" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="dns-prefetch" href="//www.googletagservices.com">
+    <link rel="dns-prefetch" href="//connect.facebook.net">
+    <link rel="dns-prefetch" href="//apis.google.com">
+    <meta property="fb:pages" content="291139254273536" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="keywords">
+    <meta name="description" content="">
+    <meta name="p:domain_verify" content="ef8ecce608c68b4836dd844db02df403" />
+    <title>NotFound - Mega Curioso</title>
+
+    <link rel="search" type="application/opensearchdescription+xml" title="Mega Curioso" href="https://www.megacurioso.com.br/opensearch.xml">
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0 - Novidades do Mega Curioso" href="http://rss.megacurioso.com.br/feed">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v2">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+
+
+
+
+    
+
+
+<meta property="og:title" content="NotFound" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.megacurioso.com.br/BadRequest" />
+<meta property="og:image" itemprop="image" content="https://mega.ibxk.com.br/megacurioso/megacurioso-padrao.jpg?w=600" />
+<meta property="og:site_name" content="MegaCurioso - As curiosidades mais interessantes est&#227;o aqui" />
+<meta property="og:description" />
+<meta property="og:locale" content="pt_BR">
+<meta property="fb:app_id" content="388348837923180" />
+<link rel="canonical" href="https://www.megacurioso.com.br/BadRequest" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.megacurioso.com.br/BadRequest">
+<link rel="image_src" href="https://mega.ibxk.com.br/megacurioso/megacurioso-padrao.jpg">
+
+
+    
+
+    <meta name="Robots" content="INDEX,FOLLOW">
+    <meta name="RESOURCE-TYPE" content="DOCUMENT">
+    <meta name="DISTRIBUTION" content="GLOBAL">
+    <meta name="AUTHOR" content="MegaCurioso">
+    <meta name="COPYRIGHT" content="Copyright (c) Grupo NZN">
+    <meta name="language" content="pt-br">
+    <meta name="RATING" content="GENERAL">
+    <!-- end / meta tags -->
+
+    <!-- styles -->
+    
+
+        <link href="https://obj-mega.ibxk.com.br/megacurioso/assets/css/megacurioso.20180912202342.css" rel="stylesheet" />
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:600,700,800|Roboto:400,400i,500,700,700i" rel="stylesheet">
+    
+    <link href="https://obj-mega.ibxk.com.br/megacurioso/assets/css/megacurioso-error.css" rel="stylesheet" />
+
+    <!-- / styles -->
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- responsive images -->
+    <script>document.createElement("picture");</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.3/picturefill.min.js" async></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/3.0.0/lazysizes.min.js" async></script>
+    <script>
+        window.lazySizesConfig = window.lazySizesConfig || {};
+        window.lazySizesConfig.customMedia = {
+            '--small': '(min-width: 576px)',
+            '--medium': '(min-width: 768px)',
+            '--large': '(min-width: 1024px)',
+            '--extra-large': '(min-width: 1440px)'
+        };
+    </script>
+    <!-- end / responsive images -->
+
+    <link rel="manifest" href="/manifest.json">
+
+<!-- navegg -->
+<script id="navegg" type="text/javascript" src="//tag.navdmp.com/tm13767.js"></script>
+<!-- end /navegg --><!-- nzn-analytics -->
+<script type="text/javascript" async>
+        var _nznt = _nznt || [];
+        _nznt.push(['_setAccount', 'NZN-WAP-00001']);
+        _nznt.push(['_selectorQueryFR', '[nzn-bi-item="article-body"]']);
+        (function () {
+            var nzna = document.createElement('script');
+            nzna.type = 'text/javascript';
+            nzna.async = true;
+            nzna.src = 'https://lb.nznweb.com.br/tracker/tracker.fr.2018091010.min.js';
+            var snzn = document.getElementsByTagName('script')[0]; snzn.parentNode.insertBefore(nzna, snzn);
+        })();
+</script>
+<!-- /nzn-analytics -->
+<!-- analytics -->
+<script type="text/javascript">
+            var adblock = true;
+</script>
+<script type="text/javascript" src="/adframe.js"></script>
+<script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-144680-19', 'auto', { 'name': 'trackerOne' });  // propriedade exclusiva do megacurioso
+        ga('create', 'UA-144680-62', 'auto', { 'name': 'mgc' });  // propriedade geral da nzn
+
+        if (adblock) {
+            EeLgcbrOHVva = 'Yes';
+        } else {
+            EeLgcbrOHVva = 'No';
+        }
+
+        if (typeof ga !== 'undefined' && EeLgcbrOHVva == 'Yes') {
+            ga('trackerOne.set', 'dimension1', 'Possui Adblock');
+        } else if (typeof ga !== 'undefined' && EeLgcbrOHVva == 'No') {
+            ga('trackerOne.set', 'dimension1', 'Não Possui Adblock');
+        }
+
+        ga('trackerOne.send', 'pageview');
+        ga('mgc.send', 'pageview');
+</script>
+<!-- end / analytics -->
+
+<!-- Ads -->
+    <script type="text/javascript">
+        (function () {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+<script type="text/javascript">
+    window.IS_MOBILE = function () { return /(iPhone|iPod|Android|Mobile|BlackBerry)/g.test(navigator.userAgent); };
+    function addClass(s, c) { s.classList ? s.classList.add(c) : s.className += " " + c };
+    window.NZN = window.NZN || {};
+    NZN.queue = NZN.queue || [];
+</script>
+<!-- end / Ads --><!-- Admotion  -->
+<script type="text/javascript">
+        var nvgParameters = {},
+            nvgSegment = new Array('gender', 'age', 'education', 'interest', 'product', 'marital', 'income', 'cluster', 'product', 'career', 'brand', 'connection', 'decive', 'os');
+        for (i = 0; i < nvgSegment.length; i++) {
+            if (nvgGetSegment(nvgSegment[i]) != '') {
+                if (nvgSegment[i] == 'interest' || nvgSegment[i] == 'product') nvgParameters['d_nvg_' + nvgSegment[i]] = nvgGetSegment(nvgSegment[i]).replace(/-/g, '|');
+                else nvgParameters['d_nvg_' + nvgSegment[i]] = nvgGetSegment(nvgSegment[i]);
+            }
+        }
+</script>
+<!-- Prebid -->
+<script type="text/javascript">
+    var rubicontag = rubicontag || {};
+    rubicontag.cmd = rubicontag.cmd || [];
+    var gptadslots = [];
+</script>
+
+<script type="text/javascript" src="https://obj.ibxk.com.br/js/megacurioso/prebid@1.15.0.js" async></script>
+
+
+<script type="text/javascript">
+    var PREBID_TIMEOUT = 3000;
+    var targeting = {};
+
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+
+    pbjs.que.push(function () {
+        pbjs.setConfig({
+            //debug: true,
+            priceGranularity: customConfigObject,
+            bidderSequence: 'random'
+        });
+        //pbjs.setBidderSequence('random');
+        //pbjs.setPriceGranularity("dense");
+        //pbjs.setPriceGranularity(customConfigObject);
+        //console.log(customConfigObject);
+    });
+
+    var customConfigObject = {
+        "buckets": [{
+            "precision": 2, 
+            "min": 0,
+            "max": 50,
+            "increment": 0.01
+        }]
+    };
+    
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    googletag.cmd.push(function () {
+        googletag.pubads().disableInitialLoad();
+    });
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+        googletag.cmd.push(function () {
+            pbjs.que.push(function () {
+                //pbjs.enableSendAllBids();
+                pbjs.setTargetingForGPTAsync();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+
+    setTimeout(function () {
+        sendAdserverRequest();
+    }, PREBID_TIMEOUT);
+</script>
+<!-- / Prebid -->
+    
+
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NFMHW66');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFMHW66"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="fb-root"></div>
+
+    <!-- icons sprite -->
+    <svg style="display:none"><symbol viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="icon-bookmark"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></symbol><symbol viewBox="0 0 10.15 11.97" id="icon-bookmark-small"><path fill="currentColor" stroke="#currentColor" stroke-width=".15" d="M9.923.466a.881.881 0 0 0-.409-.321.865.865 0 0 0-.345-.07H.981a.864.864 0 0 0-.344.07.88.88 0 0 0-.41.32.829.829 0 0 0-.152.484v10.07a.83.83 0 0 0 .152.485.88.88 0 0 0 .41.32.864.864 0 0 0 .344.07.932.932 0 0 0 .648-.258l3.446-3.311 3.445 3.313a.93.93 0 0 0 .648.25.909.909 0 0 0 .754-.383.828.828 0 0 0 .152-.484V.95a.829.829 0 0 0-.151-.484zm-.848 10.309l-3.3-3.172-.7-.664-.7.664-3.3 3.172v-9.7h8v9.7z"/></symbol><symbol viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="icon-check-circle"><path d="M22 11.07V12a10 10 0 1 1-5.93-9.14"/><path d="M23 3L12 14l-3-3"/></symbol><symbol viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="icon-chevron-left"><path d="M15 18l-6-6 6-6"/></symbol><symbol viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="icon-chevron-right"><path d="M9 18l6-6-6-6"/></symbol><symbol viewBox="0 0 48 48" id="icon-clock"><path d="M24 2C11.9 2 2 11.9 2 24s9.9 22 22 22 22-9.9 22-22S36.1 2 24 2zm0 42C13 44 4 35 4 24S13 4 24 4s20 9 20 20-9 20-20 20z"/><path d="M25 10h-2v15h11v-2h-9z"/></symbol><symbol viewBox="0 0 12.4 12.393" id="icon-clock-small"><g transform="translate(.2 .2)" fill="currentColor" stroke="currentColor" stroke-width=".4"><path d="M11.521 3.661A5.879 5.879 0 0 0 8.326.479 5.9 5.9 0 0 0 5.99 0a5.837 5.837 0 0 0-2.329.479A5.9 5.9 0 0 0 .472 3.661a5.994 5.994 0 0 0 0 4.665 5.91 5.91 0 0 0 3.189 3.189 5.837 5.837 0 0 0 2.329.479 5.9 5.9 0 0 0 2.336-.479 5.892 5.892 0 0 0 3.2-3.189 5.919 5.919 0 0 0 0-4.665zm-.958 4.98a5.264 5.264 0 0 1-1.929 1.922 5.168 5.168 0 0 1-2.644.709 5.081 5.081 0 0 1-2.047-.42 5.365 5.365 0 0 1-1.679-1.12 5.332 5.332 0 0 1-1.122-1.688A5.166 5.166 0 0 1 .728 5.99a5.158 5.158 0 0 1 .7-2.637 5.267 5.267 0 0 1 1.925-1.921A5.128 5.128 0 0 1 5.99.722a5.168 5.168 0 0 1 2.644.71 5.28 5.28 0 0 1 1.929 1.922 5.128 5.128 0 0 1 .709 2.637 5.177 5.177 0 0 1-.709 2.65z"/><path d="M6.371 5.938v-3.4a.378.378 0 0 0-.381-.367.37.37 0 0 0-.361.367v3.451a.3.3 0 0 1 .013.053.343.343 0 0 0 .1.3l1.962 1.962a.373.373 0 0 0 .505 0 .354.354 0 0 0 0-.512z"/></g></symbol><symbol viewBox="0 0 20 20" id="icon-cross"><path d="M10.7 10l5.6-5.6c.2-.2.2-.5 0-.7s-.5-.2-.7 0L10 9.3 4.4 3.6c-.2-.2-.5-.2-.7 0-.2.2-.2.5 0 .7L9.3 10l-5.6 5.6c-.2.2-.2.5 0 .7.1.1.2.1.4.1.1 0 .3 0 .4-.1l5.6-5.6 5.6 5.6c.1.1.2.1.4.1s.3 0 .4-.1c.2-.2.2-.5 0-.7L10.7 10z"/></symbol><symbol viewBox="0 0 1024 1024" id="icon-edit"><path d="M846.183 388.811L485.024 750.397l-83.378-83.378 361.347-361.398 83.19 83.19zm22.614-22.641l-83.178-83.178 55.274-55.282c12.523-12.525 32.766-12.428 45.33.102l37.754 37.65c12.541 12.506 12.633 32.815.153 45.309l-55.334 55.399zM380.919 691.546l79.851 79.851-100.317 19.755 20.465-99.606zM704 320L512 96H160.088C124.693 96 96 124.747 96 160.235v735.531c0 35.476 28.51 64.235 63.918 64.235h480.165c35.301 0 63.918-28.743 63.918-63.705V576.001l242.563-242.563c25.094-25.094 25.155-65.719.309-90.565l-37.744-37.744c-24.924-24.924-65.199-25.057-90.565.309L704.001 320.001zm-32 288v288.211c0 17.55-14.326 31.789-31.999 31.789H159.998c-17.448 0-31.999-14.262-31.999-31.855V159.854c0-17.286 14.264-31.855 31.858-31.855h320.142V287.81c0 35.82 28.624 64.189 63.933 64.189h128.067l-320 320-32 160 160-32 192-192zM512 144l150.398 176H543.895c-17.475 0-31.896-14.453-31.896-32.281V144z"/></symbol><symbol viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="icon-facebook"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></symbol><symbol viewBox="0 0 263 448" id="icon-facebook-sm"><path d="M239.75 3v66H200.5c-30.75 0-36.5 14.75-36.5 36v47.25h73.25l-9.75 74H164V416H87.5V226.25H23.75v-74H87.5v-54.5C87.5 34.5 126.25 0 182.75 0c27 0 50.25 2 57 3z"/></symbol><symbol viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="icon-instagram"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37zM17.5 6.5"/></symbol><symbol viewBox="0 0 384 448" id="icon-instagram-sm"><path d="M256 224c0-35.25-28.75-64-64-64s-64 28.75-64 64 28.75 64 64 64 64-28.75 64-64zm34.5 0c0 54.5-44 98.5-98.5 98.5s-98.5-44-98.5-98.5 44-98.5 98.5-98.5 98.5 44 98.5 98.5zm27-102.5c0 12.75-10.25 23-23 23s-23-10.25-23-23 10.25-23 23-23 23 10.25 23 23zM192 66.5c-28 0-88-2.25-113.25 7.75-8.75 3.5-15.25 7.75-22 14.5s-11 13.25-14.5 22C32.25 136 34.5 196 34.5 224s-2.25 88 7.75 113.25c3.5 8.75 7.75 15.25 14.5 22s13.25 11 22 14.5C104 383.75 164 381.5 192 381.5s88 2.25 113.25-7.75c8.75-3.5 15.25-7.75 22-14.5s11-13.25 14.5-22C351.75 312 349.5 252 349.5 224s2.25-88-7.75-113.25c-3.5-8.75-7.75-15.25-14.5-22s-13.25-11-22-14.5C280 64.25 220 66.5 192 66.5zM384 224c0 26.5.25 52.75-1.25 79.25-1.5 30.75-8.5 58-31 80.5s-49.75 29.5-80.5 31c-26.5 1.5-52.75 1.25-79.25 1.25s-52.75.25-79.25-1.25c-30.75-1.5-58-8.5-80.5-31s-29.5-49.75-31-80.5C-.25 276.75 0 250.5 0 224s-.25-52.75 1.25-79.25c1.5-30.75 8.5-58 31-80.5s49.75-29.5 80.5-31C139.25 31.75 165.5 32 192 32s52.75-.25 79.25 1.25c30.75 1.5 58 8.5 80.5 31s29.5 49.75 31 80.5c1.5 26.5 1.25 52.75 1.25 79.25z"/></symbol><symbol viewBox="0 0 48 48" id="icon-mail"><path d="M43 9H5c-1.7 0-3 1.3-3 3v24c0 1.7 1.3 3 3 3h38c1.7 0 3-1.3 3-3V12c0-1.7-1.3-3-3-3zm1 27.1L28.8 26 44 12.2v23.9c0-.1 0 0 0 0zM4 36V12.3L19.1 26 4 36c0 .1 0 0 0 0zm20.6-9c-.4.4-1 .4-1.4 0L5.5 11h36.8L24.6 27zm-3.9.4l1.3 1.2c.6.5 1.3.8 2 .8s1.4-.3 2-.8l1.3-1.2L41.7 37H6.3l14.4-9.6z"/></symbol><symbol viewBox="0 0 20 20" id="icon-menu"><path d="M17.5 6h-15a.5.5 0 0 1 0-1h15a.5.5 0 0 1 0 1zM17.5 11h-15a.5.5 0 0 1 0-1h15a.5.5 0 0 1 0 1zM17.5 16h-15a.5.5 0 0 1 0-1h15a.5.5 0 0 1 0 1z"/></symbol><symbol viewBox="0 0 16 9.12" id="icon-menu-arrow"><path fill="currentColor" d="M7.999 9.12a1.117 1.117 0 0 1-.792-.328l-6.88-6.88A1.12 1.12 0 0 1 1.912.327l6.087 6.088L14.086.328a1.12 1.12 0 1 1 1.584 1.585l-6.88 6.88a1.117 1.117 0 0 1-.791.327z"/></symbol><symbol viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="icon-message-square"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></symbol><symbol viewBox="0 0 20 28" id="icon-pinterest"><path d="M0 9.328C0 3.562 5.281 0 10.625 0 15.531 0 20 3.375 20 8.547c0 4.859-2.484 10.25-8.016 10.25-1.313 0-2.969-.656-3.609-1.875-1.188 4.703-1.094 5.406-3.719 9L4.437 26l-.141-.156c-.094-.984-.234-1.953-.234-2.938 0-3.187 1.469-7.797 2.188-10.891-.391-.797-.5-1.766-.5-2.641 0-1.578 1.094-3.578 2.875-3.578 1.313 0 2.016 1 2.016 2.234 0 2.031-1.375 3.938-1.375 5.906 0 1.344 1.109 2.281 2.406 2.281 3.594 0 4.703-5.187 4.703-7.953 0-3.703-2.625-5.719-6.172-5.719-4.125 0-7.313 2.969-7.313 7.156 0 2.016 1.234 3.047 1.234 3.531 0 .406-.297 1.844-.812 1.844-.078 0-.187-.031-.266-.047-2.234-.672-3.047-3.656-3.047-5.703z"/></symbol><symbol viewBox="0 0 48 48" id="icon-search"><path d="M46.7 45.3L33.4 32c2.9-3.2 4.6-7.4 4.6-12 0-9.9-8.1-18-18-18S2 10.1 2 20s8.1 18 18 18c4.6 0 8.8-1.8 12-4.6l13.3 13.3 1.4-1.4zM4 20c0-8.8 7.2-16 16-16s16 7.2 16 16-7.2 16-16 16S4 28.8 4 20z"/></symbol><symbol viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="icon-twitter"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/></symbol><symbol viewBox="0 0 416 448" id="icon-twitter-sm"><path d="M405 102c-11 16-24.75 30.25-40.5 41.75.25 3.5.25 7 .25 10.5C364.75 261 283.5 384 135 384c-45.75 0-88.25-13.25-124-36.25 6.5.75 12.75 1 19.5 1 37.75 0 72.5-12.75 100.25-34.5-35.5-.75-65.25-24-75.5-56 5 .75 10 1.25 15.25 1.25 7.25 0 14.5-1 21.25-2.75-37-7.5-64.75-40-64.75-79.25v-1c10.75 6 23.25 9.75 36.5 10.25-21.75-14.5-36-39.25-36-67.25 0-15 4-28.75 11-40.75 39.75 49 99.5 81 166.5 84.5-1.25-6-2-12.25-2-18.5 0-44.5 36-80.75 80.75-80.75 23.25 0 44.25 9.75 59 25.5C361 86 378.5 79.25 394 70c-6 18.75-18.75 34.5-35.5 44.5 16.25-1.75 32-6.25 46.5-12.5z"/></symbol><symbol viewBox="0 0 48 48" id="icon-user"><path d="M24 26c6.6 0 12-5.4 12-12S30.6 2 24 2 12 7.4 12 14s5.4 12 12 12zm0-22c5.5 0 10 4.5 10 10s-4.5 10-10 10-10-4.5-10-10S18.5 4 24 4zM33 28H15C7.8 28 2 33.8 2 41v5h2v-5c0-6.1 4.9-11 11-11h18c6.1 0 11 4.9 11 11v5h2v-5c0-7.2-5.8-13-13-13z"/></symbol><symbol viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" id="icon-video"><path d="M23 7l-7 5 7 5V7z"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></symbol><symbol viewBox="0 0 24 24" id="icon-whatsapp"><path d="M-.009 24l2.194-5.704a11.804 11.804 0 0 1-1.896-6.435C.289 5.32 5.609 0 12.149 0c6.539 0 11.86 5.32 11.86 11.861 0 6.539-5.321 11.86-11.86 11.86a11.81 11.81 0 0 1-6.291-1.813L-.009 24zm5.976-3.026l.175.114a10.954 10.954 0 0 0 6.007 1.79c6.076 0 11.017-4.941 11.017-11.017S18.225.842 12.149.842 1.131 5.785 1.131 11.861c0 2.202.648 4.328 1.874 6.149l.123.182-1.692 4.399 4.531-1.617z"/><path d="M15.135 17.749c-1.433 0-4.369-1.708-5.768-3.108C8.116 13.39 6.26 10.417 6.26 8.874c0-1.542 1.646-3.259 2.761-3.259h.155l.117.1c.296.252 1.788 1.534 2.087 2.117.432.842-.624 2.048-1.181 2.6.249.314.815.986 1.603 1.774.743.744 1.649 1.145 2.07 1.305.366-.36 1.113-1.003 1.796-1.003l.1.011.415.113c.578.297 1.859 1.789 2.109 2.084l.1.118v.154c0 1.116-1.715 2.761-3.257 2.761zM8.886 6.474c-.666.16-1.785 1.385-1.785 2.4 0 1.275 1.731 4.042 2.861 5.172 1.364 1.364 4.071 2.861 5.173 2.861 1.015 0 2.239-1.12 2.397-1.785-.561-.65-1.373-1.521-1.697-1.722l-.208-.05c-.336.035-.928.488-1.326.927l-.179.196-.255-.076c-.155-.046-1.546-.483-2.661-1.597-.73-.73-1.856-1.975-1.954-2.325l-.071-.251.195-.175c.758-.681 1.379-1.589 1.253-1.833-.152-.299-1.067-1.158-1.743-1.742z"/></symbol><symbol viewBox="0 0 384 448" id="icon-youtube-sm"><path d="M242.75 311v52.75c0 11.25-3.25 16.75-9.75 16.75-3.75 0-7.5-1.75-11.25-5.5v-75.25c3.75-3.75 7.5-5.5 11.25-5.5 6.5 0 9.75 5.75 9.75 16.75zm84.5.25v11.5h-22.5v-11.5c0-11.25 3.75-17 11.25-17s11.25 5.75 11.25 17zm-241.5-54.5h26.75v-23.5h-78v23.5h26.25V399h25V256.75zm72 142.25H180V275.5h-22.25V370c-5 7-9.75 10.5-14.25 10.5-3 0-4.75-1.75-5.25-5.25-.25-.75-.25-3.5-.25-8.75v-91h-22.25v97.75c0 8.75.75 14.5 2 18.25 2 6.25 7.25 9.25 14.5 9.25 8 0 16.5-5 25.5-15.25V399zM265 362v-49.25c0-11.5-.5-19.75-2.25-24.75-2.75-9.25-9-14-17.75-14-8.25 0-16 4.5-23.25 13.5v-54.25H199.5V399h22.25v-12c7.5 9.25 15.25 13.75 23.25 13.75 8.75 0 15-4.75 17.75-13.75 1.75-5.25 2.25-13.5 2.25-25zm84.5-2.5v-3.25h-22.75c0 9-.25 14-.5 15.25-1.25 6-4.5 9-10 9-7.75 0-11.5-5.75-11.5-17.25V341.5h44.75v-25.75c0-13.25-2.25-22.75-6.75-29-6.5-8.5-15.25-12.75-26.5-12.75-11.5 0-20.25 4.25-26.75 12.75-4.75 6.25-7 15.75-7 29V359c0 13.25 2.5 23 7.25 29 6.5 8.5 15.25 12.75 27 12.75s21-4.5 27-13.25c2.75-4 4.75-8.5 5.25-13.5.5-2.25.5-7.25.5-14.5zm-152-228.25v-52.5c0-11.5-3.25-17.25-10.75-17.25-7.25 0-10.75 5.75-10.75 17.25v52.5c0 11.5 3.5 17.5 10.75 17.5 7.5 0 10.75-6 10.75-17.5zM377.25 319c0 28.75-.25 59.5-6.5 87.5-4.75 19.75-20.75 34.25-40 36.25-46 5.25-92.5 5.25-138.75 5.25s-92.75 0-138.75-5.25c-19.25-2-35.5-16.5-40-36.25-6.5-28-6.5-58.75-6.5-87.5 0-29 .25-59.5 6.5-87.5C18 211.75 34 197.25 53.5 195c45.75-5 92.25-5 138.5-5s92.75 0 138.75 5c19.25 2.25 35.5 16.75 40 36.5 6.5 28 6.5 58.5 6.5 87.5zM127.75 0h25.5L123 99.75v67.75H98V99.75c-2.25-12.25-7.25-29.75-15.25-53-5.5-15.5-11-31.25-16.25-46.75H93l17.75 65.75zm92.5 83.25V127c0 13.25-2.25 23.25-7 29.5-6.25 8.5-15 12.75-26.5 12.75-11.25 0-20-4.25-26.25-12.75-4.75-6.5-7-16.25-7-29.5V83.25c0-13.25 2.25-23 7-29.25 6.25-8.5 15-12.75 26.25-12.75 11.5 0 20.25 4.25 26.5 12.75 4.75 6.25 7 16 7 29.25zM304 42.75V167.5h-22.75v-13.75c-9 10.5-17.5 15.5-25.75 15.5-7.25 0-12.5-3-14.75-9.25-1.25-3.75-2-9.75-2-18.75v-98.5h22.75v91.75c0 5.25 0 8.25.25 8.75.5 3.5 2.25 5.5 5.25 5.5 4.5 0 9.25-3.5 14.25-10.75V42.75H304z"/></symbol></svg>
+    <!-- end / icons sprite -->
+
+    <div class="main-content">
+
+
+        
+
+
+<!-- header -->
+<div class="header-small" id="js-header">
+    <!-- content -->
+    <div class="header-small-content">
+        <div class="header-left">
+            <a href="#" rel="nofollow" class="header-small-menu-btn js-menu-btn" aria-controls="js-menu" aria-expanded="false" aria-label="Menu">
+                <svg class="svg svg-menu" width="40" height="40"><use xlink:href="#icon-menu"></use></svg>
+            </a>
+            <div class="logo-header-small">
+                <a href="https://www.megacurioso.com.br/" title="Mega Curioso" aria-label="Mega Curioso">
+                    <svg class="mega-logo" width="220" height="30" viewBox="0 0 220 30"><path d="M27.49 30h-25A2.52 2.52 0 0 1 0 27.49v-25A2.52 2.52 0 0 1 2.51 0h25.58A1.9 1.9 0 0 1 30 1.89v25.6A2.52 2.52 0 0 1 27.49 30z" fill="#fff"/><path d="M25.19 18.29l-2.94-1.8a.75.75 0 0 0-.85 0L17 19.25l7.39 4.56a.83.83 0 0 0 1.24-.7V19a.94.94 0 0 0-.44-.71zM24.3 6.23l-3.07 1.91L16 11.35v6l9.16-5.66a.82.82 0 0 0 .42-.69V6.9a.82.82 0 0 0-1.28-.67zM5.7 6.23a.83.83 0 0 0-1.24.71V23.1a.83.83 0 0 0 1.24.71l3.5-2.16a.82.82 0 0 0 .39-.71v-4.81a.83.83 0 0 1 1.24-.71L14 17.37v-6z" fill="#c62828"/><path d="M47.05 15.28l-3.79 4.46-3.82-4.46v8.63h-5V6.08h3.47l5.41 6.79 5.48-6.79h3.36v17.84h-5.11v-8.64zM69.8 20.16l.46 3.75H56.5V6.08H69l.46 3.75h-7.9v3.26h5.77l.46 3.75h-6.27v3.33h8.28zM83.6 16.91h-3.22l.46-3.43h7.32v9.16a9.81 9.81 0 0 1-2.94 1 18.35 18.35 0 0 1-3.5.35 12.46 12.46 0 0 1-5.31-1.06 7.71 7.71 0 0 1-3.5-3.11 9.22 9.22 0 0 1-1.24-4.85A8.76 8.76 0 0 1 73.05 10a9.05 9.05 0 0 1 3.71-3.18 11.71 11.71 0 0 1 5.13-1.1 16 16 0 0 1 3.29.39A8 8 0 0 1 88 7.21l-1.51 3.19a17.34 17.34 0 0 0-2.44-.6A14.25 14.25 0 0 0 82 9.62a5.35 5.35 0 0 0-2.37.6A5 5 0 0 0 77.65 12a5.44 5.44 0 0 0-.74 2.9 5.73 5.73 0 0 0 .71 2.94 4.44 4.44 0 0 0 1.84 1.69 5.56 5.56 0 0 0 2.41.53 10.49 10.49 0 0 0 1.77-.14v-3zM89.5 24l7.08-17.92h5L108.72 24h-5.13l-1.27-3.54H95.8L94.49 24h-5zm7.67-7.29h3.68L99 11.82zM123.64 6.72l-.71 1.45c-.74-.25-1.38-.42-1.91-.57a10.92 10.92 0 0 0-2.09-.18 6.08 6.08 0 0 0-3.33 1 6.64 6.64 0 0 0-2.36 2.58 8.43 8.43 0 0 0-.85 3.82 9 9 0 0 0 .74 3.68 6.12 6.12 0 0 0 2.19 2.62 5.94 5.94 0 0 0 3.36 1 10.83 10.83 0 0 0 2.3-.21 10.12 10.12 0 0 0 1.84-.57l.81 1.56a10.76 10.76 0 0 1-2.26.71 11.81 11.81 0 0 1-2.62.28 8.83 8.83 0 0 1-4.74-1.2 8 8 0 0 1-3-3.26 10.23 10.23 0 0 1-1-4.53 10.34 10.34 0 0 1 1.06-4.71 7.84 7.84 0 0 1 3.11-3.33 8.83 8.83 0 0 1 4.67-1.2 14.71 14.71 0 0 1 2.48.28 8.37 8.37 0 0 1 2.31.78zM126.58 6.08h2.19v11.08a5.14 5.14 0 0 0 1.34 3.64 4.82 4.82 0 0 0 3.61 1.38 4.77 4.77 0 0 0 3.61-1.38 5 5 0 0 0 1.34-3.64V6.08h2.23v11.29a6.45 6.45 0 0 1-.88 3.36 6.07 6.07 0 0 1-2.48 2.34 8 8 0 0 1-3.79.85 8.07 8.07 0 0 1-3.79-.85 6.23 6.23 0 0 1-2.48-2.3 6.61 6.61 0 0 1-.88-3.36V6.08zM145.72 23.6V6.08h5.13a9.14 9.14 0 0 1 5.06 1.24 4.32 4.32 0 0 1 1.87 3.86 4.6 4.6 0 0 1-.92 2.83 5.3 5.3 0 0 1-2.41 1.73l4.78 7.82h-2.41l-4.32-7.29a18.43 18.43 0 0 1-1.95.11h-2.65v7.18h-2.19zm5.13-15.78h-3v6.94h2.73a7 7 0 0 0 3.54-.81 3 3 0 0 0 1.38-2.65 2.9 2.9 0 0 0-1.2-2.69 6.38 6.38 0 0 0-3.45-.79zM164.26 6.08V23.6h-2.19V6.08h2.19zM176.85 5.66a8.9 8.9 0 0 1 4.53 1.17 8.11 8.11 0 0 1 3.15 3.17 9.7 9.7 0 0 1 1.13 4.67 9.94 9.94 0 0 1-1.13 4.71 8.72 8.72 0 0 1-3.18 3.33 9.22 9.22 0 0 1-4.6 1.24 8.68 8.68 0 0 1-4.49-1.17 8 8 0 0 1-3.11-3.22 10.2 10.2 0 0 1 0-9.34A8.79 8.79 0 0 1 172.29 7a8.9 8.9 0 0 1 4.56-1.34zm-6.55 9.23a8.58 8.58 0 0 0 .81 3.75 6.82 6.82 0 0 0 2.26 2.62 5.79 5.79 0 0 0 3.29 1 6.35 6.35 0 0 0 3.43-1 6.64 6.64 0 0 0 2.37-2.65 8.43 8.43 0 0 0 .85-3.82 8.58 8.58 0 0 0-.81-3.75 6.54 6.54 0 0 0-2.26-2.62 5.79 5.79 0 0 0-3.29-1 6.35 6.35 0 0 0-3.43 1 6.64 6.64 0 0 0-2.37 2.65 8.22 8.22 0 0 0-.84 3.82zM188.35 22.75l.53-1.59a11.74 11.74 0 0 0 2.16.74 10.12 10.12 0 0 0 2.48.32 5.85 5.85 0 0 0 3.33-.78 2.44 2.44 0 0 0 .6-3.64 5 5 0 0 0-1.59-1.24c-.71-.35-1.63-.78-2.83-1.27a11.84 11.84 0 0 1-3.79-2.23 4 4 0 0 1-1.19-3 3.67 3.67 0 0 1 .74-2.23 5.06 5.06 0 0 1 2.09-1.59A8.06 8.06 0 0 1 194 5.7a10.54 10.54 0 0 1 2.58.32 10.92 10.92 0 0 1 2.23.78l-.74 1.56a13.55 13.55 0 0 0-1.87-.67 8.34 8.34 0 0 0-2.05-.25 5.33 5.33 0 0 0-2.9.71 2.14 2.14 0 0 0-1.1 1.95 2.54 2.54 0 0 0 .53 1.59 5.44 5.44 0 0 0 1.52 1.2c.67.35 1.63.81 2.94 1.38a18.16 18.16 0 0 1 2.79 1.45 5.39 5.39 0 0 1 1.63 1.59 4.12 4.12 0 0 1 .57 2.12 3.74 3.74 0 0 1-.78 2.37 5.19 5.19 0 0 1-2.3 1.63 9.74 9.74 0 0 1-3.54.6 12.83 12.83 0 0 1-2.83-.35 14.45 14.45 0 0 1-2.33-.93zM211.1 5.66a8.9 8.9 0 0 1 4.53 1.17 8.11 8.11 0 0 1 3.14 3.17 9.7 9.7 0 0 1 1.13 4.67 9.94 9.94 0 0 1-1.13 4.71 8.72 8.72 0 0 1-3.18 3.33A9.22 9.22 0 0 1 211 24a8.68 8.68 0 0 1-4.49-1.17 8 8 0 0 1-3.11-3.22 10.2 10.2 0 0 1 0-9.34 8.91 8.91 0 0 1 7.7-4.61zm-6.58 9.23a8.58 8.58 0 0 0 .81 3.75 6.82 6.82 0 0 0 2.26 2.62 5.79 5.79 0 0 0 3.29 1 6.35 6.35 0 0 0 3.43-1 6.64 6.64 0 0 0 2.37-2.65 8.42 8.42 0 0 0 .85-3.82 8.58 8.58 0 0 0-.81-3.75 6.54 6.54 0 0 0-2.26-2.62 5.79 5.79 0 0 0-3.29-1 6.35 6.35 0 0 0-3.43 1 6.64 6.64 0 0 0-2.37 2.65 8.22 8.22 0 0 0-.85 3.82z" fill="#fff"/></svg>
+                </a>
+            </div>
+        </div>
+        <div class="header-center">
+            <!-- menu -->
+            
+
+
+
+<div class="menu" id="js-menu">
+    <div class="menu-content">
+
+        <div class="menu-head">
+            <div class="menu-head-left">
+                <a href="#" rel="nofollow" class="logo js-menu-btn" aria-controls="js-menu" aria-expanded="false" aria-label="Menu">
+                    <div class="logo-content">
+                        <svg class="mega-logo-sm" width="48" height="48" viewBox="0 0 48 48"><path d="M44.94 0H4a4 4 0 0 0-4 4v40a4 4 0 0 0 4 4h40a4 4 0 0 0 4-4V3a3 3 0 0 0-3.06-3zM22 27.84l-4.83-3.11a1.69 1.69 0 0 0-.74-.18A1.4 1.4 0 0 0 15 25.86v7.7a1.18 1.18 0 0 1-.43 1.13l-5.5 3.46a1.48 1.48 0 0 1-.69.18A1.35 1.35 0 0 1 7 37V11.14a1.42 1.42 0 0 1 .27-.65A1.14 1.14 0 0 1 8.91 10L22 18.22v9.62zm4-9.63l8.17-5.15L39 10a1.23 1.23 0 0 1 .68-.22A1.28 1.28 0 0 1 41 11.09v6.56a1.21 1.21 0 0 1-.48 1.13L26 27.84v-9.62zM41 37a1.27 1.27 0 0 1-.16.64 1.31 1.31 0 0 1-1.8.48l-11.83-7.3 7.08-4.42a1.19 1.19 0 0 1 1.36 0l4.68 2.89a1.38 1.38 0 0 1 .67 1.16V37z" fill="#fff"/></svg>
+                    </div>
+                    <div class="logo-content">
+                        <svg class="svg svg-menu" width="34" height="34"><use xlink:href="#icon-menu"></use></svg>
+                    </div>
+                </a>
+                
+            </div>
+            <a href="#" rel="nofollow" class="menu-close-btn js-menu-close-btn" aria-label="Fechar">
+                <svg class="svg svg-cross" width="22" height="22"><use xlink:href="#icon-cross"></use></svg>
+            </a>
+        </div>
+
+        <ul class="menu-nav">
+            <li class="menu-nav-item">
+                <a href="//www.megacurioso.com.br/novidades/" onclick="NZN.Analytics.trackEvent('Header', 'Menu', 'Click Novidades')" class="menu-nav-link">
+                    Novidades
+                </a>
+            </li>
+
+            <li class="menu-nav-item">
+                <a href="//www.megacurioso.com.br/mais-lidas/" onclick="NZN.Analytics.trackEvent('Header', 'Menu', 'Click Mais Lidas')" class="menu-nav-link">
+                    Mais Lidas
+                </a>
+            </li>
+            <li class="menu-nav-item">
+                <a href="//www.megacurioso.com.br/ciencia/" onclick="NZN.Analytics.trackEvent('Header', 'Menu', 'Click Ciência')" class="menu-nav-link">
+                    Ciência
+                </a>
+            </li>
+            <li class="menu-nav-item">
+                <a href="//www.megacurioso.com.br/saude-bem-estar/" onclick="NZN.Analytics.trackEvent('Header', 'Menu', 'Click Saúde')" class="menu-nav-link">
+                    Saúde
+                </a>
+            </li>
+            <li class="menu-nav-item">
+                <a href="//www.megacurioso.com.br/artes-cultura/" onclick="NZN.Analytics.trackEvent('Header', 'Menu', 'Click Artes e Cultura')" class="menu-nav-link">
+                    Artes e Cultura
+                </a>
+            </li>
+
+        </ul>
+
+        <div class="menu-mobile-buttons">
+            <a href="https://www.facebook.com/megacurioso" class="icon-btn-xs" target="_blank" aria-label="Facebook">
+                <svg class="svg svg-facebook-sm" width="20" height="20"><use xlink:href="#icon-facebook-sm"></use></svg>
+            </a>
+            <a href="https://instagram.com/megacurioso" class="icon-btn-xs" target="_blank" aria-label="Instagram">
+                <svg class="svg svg-instagram-sm" width="20" height="20"><use xlink:href="#icon-instagram-sm"></use></svg>
+            </a>
+            <a href="https://www.twitter.com/megacurioso" class="icon-btn-xs" target="_blank" aria-label="Twitter">
+                <svg class="svg svg-twitter-sm" width="20" height="20"><use xlink:href="#icon-twitter-sm"></use></svg>
+            </a>
+            <a href="https://www.youtube.com/megacurioso" class="icon-btn-xs" target="_blank" aria-label="Youtube">
+                <svg class="svg svg-youtube-sm" width="20" height="20"><use xlink:href="#icon-youtube-sm"></use></svg>
+            </a>
+            <a href="#" rel="nofollow" class="icon-btn-xs search-btn-xs js-search-btn" aria-label="Buscar">
+                <svg class="svg svg-search" width="20" height="20"><use xlink:href="#icon-search"></use></svg>
+            </a>
+        </div>
+        <a href="https://www.megacurioso.com.br/" onclick="NZN.Analytics.trackEvent('Header', 'Menu', 'Click Ir pra home')" class="menu-home-btn">Ir pra home</a>
+    </div>
+</div>
+            <!-- / menu -->
+        </div>
+        <div class="header-right">
+            <div itemscope itemtype="http://schema.org/Organization" class="header-right-buttons">
+
+                <link itemprop="url" href="https://www.megacurioso.com.br/">
+                <link itemprop="logo" href="https://obj.ibxk.com.br/megacurioso/layout/megacurioso/logo.png">
+
+                <a itemprop="sameAs" href="https://www.facebook.com/megacurioso" class="icon-btn-sm icon-btn-sm-facebook" target="_blank" aria-label="Facebook">
+                    <svg class="svg svg-facebook" width="24" height="24"><use xlink:href="#icon-facebook"></use></svg>
+                </a>
+                <a itemprop="sameAs" href="https://www.instagram.com/megacurioso" class="icon-btn-sm icon-btn-sm-instagram" target="_blank" aria-label="Instagram">
+                    <svg class="svg svg-instagram" width="20" height="20"><use xlink:href="#icon-instagram"></use></svg>
+                </a>
+                <a itemprop="sameAs" href="https://twitter.com/megacurioso" class="icon-btn-sm icon-btn-sm-twitter" target="_blank" aria-label="Twitter">
+                    <svg class="svg svg-twitter" width="24" height="24"><use xlink:href="#icon-twitter"></use></svg>
+                </a>
+                <a itemprop="sameAs" href="https://www.youtube.com/megacurioso" class="icon-btn-sm icon-btn-sm-youtube" target="_blank" aria-label="Youtube">
+                    <svg class="svg svg-youtube-sm" width="20" height="20"><use xlink:href="#icon-youtube-sm"></use></svg>
+                </a>
+                <a href="#" rel="nofollow" class="icon-btn-sm search-btn js-search-btn" aria-label="Buscar">
+                    <svg class="svg svg-search" width="20" height="20"><use xlink:href="#icon-search"></use></svg>
+                </a>
+                <meta itemprop="url" content="https://www.megacurioso.com.br/">
+            </div>
+        </div>
+    </div>
+    <!-- / content -->
+    <!-- search -->
+    <div class="search" id="js-search">
+    <div class="search-content">
+        <form id="nzn-js-search-form" class="search-form" action="//www.megacurioso.com.br/busca">
+            <input id="nzn-js-search-input" name="q" class="form-control" placeholder="Digite sua busca" type="search" required />
+            <button id="nzn-js-search-submit" class="btn btn-block" type="submit">Buscar</button>
+        </form>
+        <a href="#" rel="nofollow" class="search-close-btn js-search-close-btn" aria-label="Fechar">
+            <svg class="svg svg-cross" width="22" height="22"><use xlink:href="#icon-cross"></use></svg>
+        </a>
+    </div>
+</div>
+
+    <!-- / search -->
+</div>
+<!-- / header -->
+
+        <!-- body -->
+        
+
+
+<h2>BadRequest</h2>
+
+
+        <!-- end / body -->
+
+        
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <a href="http://nzn.io/" target="_blank" class="footer-logo">
+                    <img src="https://obj.ibxk.com.br/layout/megacurioso/nzn-logo-new.png" width="112" height="42" class="footer-logo-img" />
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <ul class="footer-nav">
+                    <li class="footer-nav-item">
+                        <a href="https://www.tecmundo.com.br/" class="footer-nav-link" target="_blank">TecMundo</a>
+                    </li>
+                    <li class="footer-nav-item">
+                        <a href="https://www.megacurioso.com.br/" class="footer-nav-link" target="_blank">Mega Curioso</a>
+                    </li>
+                    <li class="footer-nav-item">
+                        <a href="http://www.minhaserie.com.br/" class="footer-nav-link" target="_blank">Minha Série</a>
+                    </li>
+                    <li class="footer-nav-item">
+                        <a href="http://www.clickjogos.com.br/" class="footer-nav-link" target="_blank">Click Jogos</a>
+                    </li>
+                    <li class="footer-nav-item">
+                        <a href="http://www.baixaki.com.br/" class="footer-nav-link" target="_blank">Baixaki</a>
+                    </li>
+                    <li class="footer-nav-item">
+                        <a href="https://www.thebrief.com.br/" class="footer-nav-link" target="_blank">The Brief</a>
+                    </li>
+                    <li class="footer-nav-item">
+                        <a href="https://www.voxel.com.br/" class="footer-nav-link" target="_blank">Voxel</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <ul class="footer-nav footer-nav-secondary">
+                    <li class="footer-nav-item">
+                        <a href="http://nzn.io/" class="footer-nav-link" target="_blank">Sobre a NZN</a>
+                    </li>
+                    <li class="footer-nav-item">
+                        <a href="https://www.megacurioso.com.br/sugerir-noticia.htm" class="footer-nav-link">Sugerir Notícia</a>
+                    </li>
+                    <li class="footer-nav-item">
+                        <a href="http://nzn.io/contato" class="footer-nav-link" target="_blank">Contato e Anúncio</a>
+                    </li>
+                    <li class="footer-nav-item">
+                        <a href="http://nzn.io/termos-de-privacidade" class="footer-nav-link" target="_blank">Termos de Privacidade</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="footer-copy">
+                    &copy; Copyright 2018 -  No Zebra Network S.A, todos os direitos reservados.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+
+
+    <!-- js -->
+    <script>
+        window.FACEBOOK_ID = '388348837923180';
+        window.FACEBOOK_ACCESS_TOKEN = '388348837923180|M2EbGiHaeihuzGE625qYBdDQZA4';
+        window._lorem = 'TyBxdWUgc2VyaWEgZG8gaG9tZW0gc2VtIGEgZmVsaWNpZGFkZT8=';
+        window._ipsum = 'https://api.megacurioso.com.br';
+        window._dolor = 'false';
+        window._sit = window._ipsum + '/api/v2';
+        window._amet = 'https://www.megacurioso.com.br/';
+        
+        window._consectetur = 10;
+        window._adipiscing = 10;
+        window.Share_Twitter = 'MegaCurioso';
+        window.DisqusStartId = '99360';
+        window._dqs = 'CNQobXcvLI69MOxbfeDkTRh4hhxNXZ8XkiWQ3PVP0H1ZcvWth0fzO8SBX4ugummX';
+        window._rubicon_account_id = Number('14126');
+        window._rubicon_site_id = Number('71696');
+        window._aol_network_id = Number('11065.1');
+    </script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.1.0/knockout-min.js"></script>
+    <script src="https://obj-mega.ibxk.com.br/megacurioso/assets/js/script.20180912202340.js"></script>
+
+    <script type="text/javascript">
+        //NOTIFICAÇÕES
+        if ('serviceWorker' in navigator) {
+            console.log('Service Worker is supported');
+            navigator.serviceWorker.register('/sw.js').then(function (reg) {
+                console.log(':^)', reg);
+                reg.pushManager.subscribe({
+                    userVisibleOnly: true
+                }).then(function (sub) {
+                    var data = {
+                        subscribeId: sub.endpoint.split('https://android.googleapis.com/gcm/send/')[1],
+                        sistema: 'megacurioso'
+                    }
+                    if(getCookie("subscriptionIdv3") != data.subscribeId && data.subscribeId != null && data.subscribeId != undefined){
+                        $.ajax({
+                            url: 'https://alert.nznweb.com.br/api/v1/google/register',
+                            type: 'POST',
+                            beforeSend: function (request)
+                            {
+                                request.setRequestHeader('Accept', 'application/json');
+                                request.setRequestHeader('Content-Type', 'application/json');
+                                request.setRequestHeader('Authorization', 'token dGVjbXVuZG86ZmY0YzAxZWYyZjViNzNmYzJhMGM2Mjc1ODNhNWY5OTZmZGIzZTViMQ==');
+                            },
+                            data: JSON.stringify(data),
+                            credentials: true,
+                            contentType: "application/json",
+                            success: function () {
+                                NZN.Tools.log(':) Salvou subscription id do google');
+                                var CookieDate = new Date;
+                                CookieDate.setFullYear(CookieDate.getFullYear( ) + 1);
+                                document.cookie = "subscriptionIdv3=" + data.subscribeId + "; expires=" + CookieDate.toGMTString() + ";";
+                            },
+                            error: function (xhr, ajaxOptions, thrownError) {
+                                NZN.Tools.log(':( erro ao salvar subscription id do google');
+                            }
+                        });
+                    }
+                    console.log('endpoint:', sub.endpoint);
+                });
+            }).catch(function (error) {
+                console.log(':^(', error);
+            });
+
+        }
+
+        function getCookie(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for(var i = 0; i <ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length,c.length);
+                }
+            }
+            return "";
+        }
+    </script>
+
+    <!-- google+ -->
+<script>
+    window.___gcfg = {
+        lang: 'pt-BR'
+    };
+    (function () {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/client:plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>
+<!-- end / google+ -->
+<!-- facebook -->
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) { return; }
+        js = d.createElement(s);
+        js.type = 'text/javascript';
+        js.async = true;
+        js.id = id;
+        js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&appId=" + window.FACEBOOK_ID + "&channelUrl=" + window._amet + "channel.html&version=v2.0";
+        fjs.parentNode.insertBefore(js, fjs);
+    })(document, 'script', 'facebook-jssdk');
+</script>
+<!-- end / facebook -->
+<!-- twitter -->
+<script>
+    (function (d, s, id) {
+        var js,
+            fjs = d.getElementsByTagName(s)[0],
+            p = /^http:/.test(d.location) ? 'http' : 'https';
+
+        if (!d.getElementById(id)) {
+            js = d.createElement(s);
+            js.type = 'text/javascript';
+            js.async = true;
+            js.id = id;
+            js.src = p + '://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+    })(document, 'script', 'twitter-wjs');
+</script>
+<!-- end / twitter -->
+
+
+
+
+
+    
+
+
+
+    <!-- AUTO TODAS-FIM -->
+<!-- comscore -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: '2', c2: '8756095' });
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src='https://b.scorecardresearch.com/p?c1=2&c2=8756095&cv=2.0' />
+</noscript>
+<!-- end / comscore -->
+<!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "8", c2: "8756095", c3: "2" });
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="https://b.scorecardresearch.com/p?c1=8&c2=8756095&c3=2&c15=&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+    <!-- / AUTO TODAS-FIM -->
+</body>
+</html>
