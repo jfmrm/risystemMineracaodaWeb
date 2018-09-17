@@ -1,6 +1,9 @@
 package lucene;
 
+import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -20,6 +23,8 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 
+import javafx.scene.shape.Path;
+
 public class Main {
 	public static void main(String[] args) {
 		StandardAnalyzer analyzer = new StandardAnalyzer();
@@ -30,13 +35,16 @@ public class Main {
 		IndexWriter w;
 		try {
 			w = new IndexWriter(index, config);
-			addDoc(w, "Lucene in Action", "193398817");
-			addDoc(w, "Lucene for Dummies", "55320055Z");
-			addDoc(w, "Managing Gigabytes", "55063554A");
-			addDoc(w, "The Art of Computer Science", "9900333X");
+			File[] numOfFiles = new File("./data/obesity").listFiles();
+			for (int i = 0; i < 30; i++) {
+				File f = new File(numOfFiles[i].toString());
+				String title = f.getName();
+				String body = String.join("\n", Files.readAllLines(Paths.get(f.getAbsolutePath())));
+				addDoc(w, title, body);
+			}
 			w.close();
 			
-			String queryString = "gigabytes";
+			String queryString = "combater";
 			Query q = new QueryParser("title", analyzer).parse(queryString);
 			
 			int hitsPerPage = 10;
@@ -50,7 +58,7 @@ public class Main {
 	        for(int i=0;i<hits.length;++i) {
 	            int docId = hits[i].doc;
 	            Document d = searcher.doc(docId);
-	            System.out.println((i + 1) + ". " + d.get("body") + "\t" + d.get("title"));
+	            System.out.println((i + 1) + ". " + "\t" + d.get("title"));
 	        }
 
 	        // reader can only be closed when there
@@ -70,7 +78,7 @@ public class Main {
 	private static void addDoc(IndexWriter w, String title, String body) throws IOException {
 		Document doc = new Document();
 		doc.add(new TextField("title", title, Field.Store.YES));
-		doc.add(new StringField("body", body, Field.Store.YES));
+		doc.add(new TextField("body", body, Field.Store.YES));
 		w.addDocument(doc);
 	}
 }
