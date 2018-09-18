@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
+import javax.swing.JScrollPane;
+import javax.swing.JTextPane;
+
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -24,12 +27,17 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 
 import javafx.scene.shape.Path;
+import gui.Gui;
 
 public class Main extends Thread {
-	public void run(boolean stem, boolean stopWords, String busca) {
-		System.out.println(stem);
-		System.out.println(stopWords);
-		System.out.println(busca);
+	public void run(boolean stem, boolean stopWords, String busca, JTextPane resultados) {
+		resultados.setText(""); //resets textpane
+//		System.out.println(stem);
+//		System.out.println(stopWords);
+//		System.out.println(busca);
+		resultados.setText(resultados.getText() + stem + '\n');
+		resultados.setText(resultados.getText() + stopWords + '\n');
+		resultados.setText(resultados.getText() + busca + '\n');
 		
 		StandardAnalyzer analyzer = new StandardAnalyzer();
 		Directory index = new RAMDirectory();
@@ -58,11 +66,13 @@ public class Main extends Thread {
 	        ScoreDoc[] hits = docs.scoreDocs;
 
 	        // 4. display results
-	        System.out.println("Found " + hits.length + " hits.");
+	        //System.out.println("Found " + hits.length + " hits.");
+			resultados.setText(resultados.getText() + "Found " + hits.length + " hits." + '\n');
 	        for(int i=0;i<hits.length;++i) {
 	            int docId = hits[i].doc;
 	            Document d = searcher.doc(docId);
-	            System.out.println((i + 1) + ". " + "\t" + d.get("title"));
+//	            System.out.println((i + 1) + ". " + "\t" + d.get("title"));
+				resultados.setText(resultados.getText() + (i + 1) + ". " + "\t" + d.get("title") + '\n');
 	        }
 
 	        // reader can only be closed when there
