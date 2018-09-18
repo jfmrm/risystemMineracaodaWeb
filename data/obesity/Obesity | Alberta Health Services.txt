@@ -1,0 +1,41 @@
+<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" dir="ltr">
+<!--<![endif]-->
+<head>
+    <title>Page Error | Alberta Health Services</title>
+    <meta charset="utf-8" />
+    <meta content="width=device-width,initial-scale=1" name="viewport" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <!--[if gte IE 9 | !IE ]><!-->
+    <link type="text/css" rel="stylesheet" href="/css/theme.min.css" />
+    <!--<![endif]-->
+    <!--[if lt IE 9]>
+    <link type="text/css" rel="stylesheet" href="/css/ie8-theme.min.css" />
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/ie8-fallback.min.js"></script>    
+    <script type="text/javascript" src="/js/ie8-wet-boew.min.js"></script>
+    <![endif]-->
+    <noscript><link type="text/css" rel="stylesheet" href="/css/noscript.min.css" /></noscript>
+</head>
+
+<body vocab="http://schema.org/" typeof="WebPage">
+    <main role="main" property="mainContentOfPage" class="container">
+        <div class="row mrgn-tp-lg">
+            <div class="col-md-12">
+                <a href="/default.aspx"><img src="/images/Logos/ahs.png" border="0" width="174" height="50"></a>
+                <div class="alert alert-danger mrgn-tp-lg">
+                    <h2>Oops, something went wrong!</h2>
+                </div>
+
+                <p>We're sorry you ended up here. If the problem persists feel free to contact us. </p>
+
+                <ul>
+                    <li>Return to the <a href="/">home page</a></li>
+                    <li><a href="/about/Page12639.aspx">Contact us</a> and we'll help you out.</a>
+                </ul>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>

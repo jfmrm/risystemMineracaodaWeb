@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1"/>
+  <link rel="profile" href="http://gmpg.org/xfn/11">
+  <link rel="pingback" href="http://frac.org/xmlrpc.php">
+
+  <script type="text/javascript">document.documentElement.className = 'js';</script>
+
+  <script src="http://frac.org/wp-content/themes/frac-theme/js/jquery-1.12.0.min.js"></script>
+  <script src="http://frac.org/wp-content/themes/frac-theme/js/jquery.sudoSlider.min.js"></script>
+  <script src="http://frac.org/wp-content/themes/frac-theme/js/jquery.selectric.min.js"></script>
+  <script src="http://frac.org/wp-content/themes/frac-theme/js/base.js"></script>
+  
+	<!--<link rel='stylesheet' id='frac-theme' href='http://frac.org/wp-content/themes/frac-theme/style.css' type='text/css' media='all' />-->
+	<link rel='stylesheet' href='http://frac.org/wp-content/themes/frac-theme/selectric.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://frac.org/wp-content/themes/frac-theme/fonts/MyFontsWebfontsKit.css' type='text/css' media='all' />
+
+  <link rel="icon" href="http://frac.org/wp-content/themes/frac-theme/favicon.png" type="image/png" />
+  
+  <title>Page not found - Food Research &amp; Action Center</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - Food Research &amp; Action Center" />
+<meta property="og:site_name" content="Food Research &amp; Action Center" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found - Food Research &amp; Action Center" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Food Research &amp; Action Center &raquo; Feed" href="http://frac.org/feed" />
+<link rel="alternate" type="application/rss+xml" title="Food Research &amp; Action Center &raquo; Comments Feed" href="http://frac.org/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=91411a2f35f6351616f29fea94df7dcb"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='frac-style-css'  href='/wp-content/plugins/frac-stats/assets/css/custom.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='frac-responsive-css'  href='/wp-content/plugins/frac-stats/assets/css/responsive.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='frac-theme-style-css'  href='http://frac.org/wp-content/themes/frac-theme/style.css?ver=91411a2f35f6351616f29fea94df7dcb' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/frac-map/assets/ammap/ammap.js?ver=91411a2f35f6351616f29fea94df7dcb'></script>
+<script type='text/javascript' src='/wp-content/plugins/frac-map/assets/ammap/maps/js/usa2Low.js?ver=91411a2f35f6351616f29fea94df7dcb'></script>
+<script type='text/javascript' src='/wp-content/plugins/frac-map/assets/tablesorter/jquery.tablesorter.js?ver=91411a2f35f6351616f29fea94df7dcb'></script>
+<script type='text/javascript' src='/wp-content/plugins/frac-map/assets/public/frac-map.js?ver=91411a2f35f6351616f29fea94df7dcb'></script>
+<link rel='https://api.w.org/' href='http://frac.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://frac.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://frac.org/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='stylesheet' id='ammap-css'  href='/wp-content/plugins/frac-map/assets/ammap/ammap.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablesorter-blue-css'  href='/wp-content/plugins/frac-map/assets/tablesorter/themes/blue/style.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='frac-map-css'  href='/wp-content/plugins/frac-map/assets/public/frac-map.css?ver=3.6.1' type='text/css' media='all' />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//frac.org/?wordfence_logHuman=1&hid=4B55211E5EA9A7131DD3133A9621A651');
+</script><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://frac.org/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-3724030-3', 'auto');
+    ga('send', 'pageview');
+</script>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body id="page" class="error404 one-col wpb-js-composer js-comp-ver-5.0.1 vc_responsive">
+	<a class="skip-link screen-reader-text" href="#main" tabindex="1">Skip to content</a>
+
+	<div class="header">
+		<section class="logo-and-utility">
+			<div class="container">
+				<div class="logo">
+					<a href="/"><img src="/wp-content/themes/frac-theme/images/logo-frac.png" alt="Food Research and Action Center" /></a>
+				</div>
+				<nav class="utility"><ul id="menu-utility-navigation" class="menu"><li id="menu-item-443" class="action menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="/action">Legislative Action Center</a></li>
+<li id="menu-item-261" class="chat menu-item menu-item-type-custom menu-item-object-custom menu-item-261"><a href="/blog">FRAC Chat</a></li>
+<li id="menu-item-79" class="mail menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="/subscribe-to-enews">Subscribe to eNews</a></li>
+<li id="menu-item-533" class="give menu-item menu-item-type-custom menu-item-object-custom menu-item-533"><a href="https://org2.salsalabs.com/o/5118/p/salsa/donation/common/public/?donate_page_KEY=14483">Give to FRAC</a></li>
+</ul></nav>				<div class="menu-toggle" id="menu">Menu <span class="icon">&nbsp;</span></div>
+			</div><!--.container-->
+		</section><!--.logo-and-utility-->
+		<!--
+		<div class="menu-main-navigation-research-container"><ul id="menu-main-navigation-research" class="menu"><li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="/research/resource-library">Resource Library</a></li>
+<li id="menu-item-2212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2212"><a href="/research/resource-library?type=resource&#038;filter_resource_category=11">Interactive Data Tools</a></li>
+<li id="menu-item-2369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2369"><a href="http://www.frac.org/research/resource-library?type=resource&#038;filter_resource_category=27&#038;filter_topics=&#038;search=">Best Practices</a></li>
+<li id="menu-item-4749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4749"><a href="/research/mapping-tools">Mapping Tools</a></li>
+</ul></div>		-->
+		<section class="main-navigation primary">			<div class="container">
+				<nav class="main">
+					<ul>
+						<li class="parent">
+							<a href="/research">Research &amp; Data</a>
+							<div class="subnav">
+								<div class="menu-content">
+									<div class="title"><a href="/research">Research &amp; Data</a></div>
+									<div class="menu-main-navigation-research-container"><ul id="menu-main-navigation-research-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="/research/resource-library">Resource Library</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2212"><a href="/research/resource-library?type=resource&#038;filter_resource_category=11">Interactive Data Tools</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2369"><a href="http://www.frac.org/research/resource-library?type=resource&#038;filter_resource_category=27&#038;filter_topics=&#038;search=">Best Practices</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4749"><a href="/research/mapping-tools">Mapping Tools</a></li>
+</ul></div>								</div>
+								<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta" href="/research/resource-library/hungry-america-fracs-national-state-local-index-food-hardship-july-2018">
+                <div class="text">
+                                <div class="label">In the Spotlight</div>
+                                <div class="title">How Hungry is America? Report</div>
+                                <p>This report reveals that, after several years of decline, the national food hardship rate for all households increased from 15.1 percent in 2016 to 15.7 percent in 2017.</p>
+                                <div class="http://frac.org/research/resource-library/hungry-america-fracs-national-state-local-index-food-hardship-july-2018">Find out more</div>
+                </div>
+                <div class="image" style="background-image: url(/wp-content/uploads/empty-wallet-1.jpg);"></div>
+</a>
+</div>
+									</div>
+						</li>
+						<li class="parent">
+							<a href="/action">Action</a>
+							<div class="subnav">
+								<div class="menu-content">
+									<div class="title"><a href="/action">Action</a></div>
+									<div class="menu-main-navigation-action-container"><ul id="menu-main-navigation-action" class="menu"><li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="/action/snap-farm-bill">SNAP/Farm Bill</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="/action/budget-appropriations">Budget, Appropriations, &#038; Tax Policy</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="/action/child-nutrition-reauthorization-cnr">Child Nutrition Reauthorization (CNR)</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="/action/farm-bill-2014">Inside Congress</a></li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="/action/advocacy-toolkit">Engage With Your Members</a></li>
+</ul></div>								</div>
+								<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta" href="mailto:eteller@frac.org">
+	<div class="text">
+		<div class="label">Legislative Contacts</div>
+		<div class="title">Ellen Teller</div>
+		<p>Director of Government Affairs</p>
+		<p>eteller@frac.org</p>
+		<div class="link">Contact Ellen</div>
+	</div>
+	<div class="image" style="background-image: url(/wp-content/uploads/capitol-dome-detail-trending-image.jpg);"></div>
+</a></div>
+									</div>
+						</li>
+						<li class="parent">
+							<a href="/programs">Programs</a>
+							<div class="subnav">
+								<div class="menu-content">
+									<div class="title"><a href="/programs">Programs</a></div>
+									<div class="menu-main-navigation-federal-nutrition-programs-container"><ul id="menu-main-navigation-federal-nutrition-programs" class="menu"><li id="menu-item-1358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1358"><a href="/programs/supplemental-nutrition-assistance-program-snap">Supplemental Nutrition Assistance Program (SNAP)</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="/programs/school-breakfast-program">School Breakfast Program</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="/programs/national-school-lunch-program">National School Lunch Program</a></li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="/programs/child-adult-care-food-program">Child and Adult Care Food Program (CACFP)</a></li>
+<li id="menu-item-121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="/programs/wic-women-infants-children">WIC (Women, Infants and Children)</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="/programs/afterschool-nutrition-programs">Afterschool Nutrition Programs</a></li>
+<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="/programs/summer-nutrition-programs">Summer Nutrition Programs</a></li>
+<li id="menu-item-1147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="/nutrition-standards">Nutrition Standards</a></li>
+</ul></div>								</div>
+								<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta" href="/research/resource-library/hungry-america-fracs-national-state-local-index-food-hardship-july-2018">
+                <div class="text">
+                                <div class="label">In the Spotlight</div>
+                                <div class="title">How Hungry is America? Report</div>
+                                <p>This report reveals that, after several years of decline, the national food hardship rate for all households increased from 15.1 percent in 2016 to 15.7 percent in 2017.</p>
+                                <div class="http://frac.org/research/resource-library/hungry-america-fracs-national-state-local-index-food-hardship-july-2018">Find out more</div>
+                </div>
+                <div class="image" style="background-image: url(/wp-content/uploads/empty-wallet-1.jpg);"></div>
+</a></div>
+									</div>
+						</li>
+						<li class="parent">
+							<a href="/newsroom">Newsroom</a>
+							<div class="subnav">
+								<div class="menu-content">
+									<div class="title"><a href="/newsroom">Newsroom</a></div>
+									<div class="menu-main-navigation-newsroom-container"><ul id="menu-main-navigation-newsroom" class="menu"><li id="menu-item-378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-378"><a href="/news">News Releases</a></li>
+<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="/newsroom/archives">Meet Our Experts</a></li>
+<li id="menu-item-1520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1520"><a href="/newsroom/frac-in-the-news">FRAC in the News</a></li>
+<li id="menu-item-3354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3354"><a href="/newsroom/image-gallery">Image Gallery</a></li>
+<li id="menu-item-3858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3858"><a href="http://www.frac.org/research/resource-library/state-of-the-states">Find Data On Your State</a></li>
+<li id="menu-item-3859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3859"><a href="http://www.frac.org/research/resource-library">Explore Our Research</a></li>
+</ul></div>								</div>
+								<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a href="mailto:epickren@frac.org" class="cta">
+	<div class="text">
+		<div class="label">Media Contact</div>
+		<div class="title">Emily Pickren</div>
+		<p>epickren@frac.org</p>
+<p>(202) 640-1118</p>
+		<div class="link">Contact Emily</div>
+	</div>
+	<div class="image" style="background-image: url(/wp-content/uploads/news-media.jpg);"></div>
+</a></div>
+									</div>
+						</li>
+						<li class="parent">
+							<a href="/about">About Us</a>
+							<div class="subnav">
+								<div class="menu-content">
+									<div class="title"><a href="/about">About Us</a></div>
+									<div class="menu-main-navigation-about-us-container"><ul id="menu-main-navigation-about-us" class="menu"><li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="/about/board-of-directors">Board of Directors</a></li>
+<li id="menu-item-976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-976"><a href="/about/what-we-do">What We Do</a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="/about/our-history">Our History</a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="/about/frac-supporters">FRAC Supporters</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="/about/alliances-and-partners">Alliances and Partners</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="/about/jobs-and-internships">Jobs and Internships</a></li>
+<li id="menu-item-4358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4358"><a href="/about/campaign-end-childhood-hunger">Campaign to End Childhood Hunger</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="/about/support-us">Support Us</a></li>
+<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="/about/staff">Staff</a></li>
+<li id="menu-item-1559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1559"><a href="/about/1303-2">Our State Partners</a></li>
+</ul></div>								</div>
+								<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta" href="/research/resource-library/plan-action-end-hunger-america">
+	<div class="text">
+		<div class="label">In The Spotlight</div>
+		<div class="title">FRAC's Plan of Action to End Hunger in America</div>
+		<p>Includes eight essential strategies for ending hunger in America.</p>
+		<div class="link">Download the Plan (pdf)</div>
+	</div>
+	<div class="image" style="background-image: url(/wp-content/uploads/2016/10/frac-plan-to-end-hunger-cover.jpg);"></div>
+</a></div>
+									</div>
+						</li>
+						<li class="parent">
+							<a href="/hunger-poverty-america">Hunger &amp; Poverty</a>
+							<div class="subnav">
+								<div class="menu-content">
+									<div class="title"><a href="/hunger-poverty-america">Hunger &amp; Poverty</a></div>
+									<div class="menu-main-navigation-hunger-poverty-container"><ul id="menu-main-navigation-hunger-poverty" class="menu"><li id="menu-item-3336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3336"><a href="/hunger-poverty-america/senior-hunger">Senior Hunger</a></li>
+<li id="menu-item-4963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4963"><a href="/hunger-poverty-america/rural-hunger">Rural Hunger</a></li>
+<li id="menu-item-5026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5026"><a href="/hunger-health">Hunger &#038; Health</a></li>
+<li id="menu-item-5027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5027"><a href="/screen-intervene">Screen &#038; Intervene</a></li>
+</ul></div>								</div>
+															</div>
+						</li>
+						<li class="parent">
+							<a href="/obesity-health">Obesity &amp; Health</a>
+							<div class="subnav">
+								<div class="menu-content">
+									<div class="title"><a href="/obesity-health">Obesity &amp; Health</a></div>
+									<div class="menu-main-navigation-obesity-health-container"><ul id="menu-main-navigation-obesity-health" class="menu"><li id="menu-item-3596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3596"><a href="/aaptoolkit">Addressing Food Insecurity: A Toolkit for Pediatricians</a></li>
+<li id="menu-item-2017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2017"><a href="/obesity-health/obesity-u-s">Obesity in the U.S.</a></li>
+<li id="menu-item-2016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2016"><a href="/obesity-health/state-local-data-obesity">State and Local Data on Obesity</a></li>
+<li id="menu-item-2015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2015"><a href="/obesity-health/consequences-poor-nutrition">Consequences of Poor Nutrition</a></li>
+<li id="menu-item-2014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2014"><a href="/obesity-health/consequences-childhood-obesity">Consequences of Childhood Obesity</a></li>
+<li id="menu-item-2013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2013"><a href="/obesity-health/consequences-adult-obesity">Consequences of Adult Obesity</a></li>
+<li id="menu-item-2012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2012"><a href="/obesity-health/factors-contributing-obesity">Factors Contributing to Obesity</a></li>
+<li id="menu-item-2011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2011"><a href="/obesity-health/relationship-poverty-obesity">Relationship Between Poverty and Obesity</a></li>
+<li id="menu-item-2010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2010"><a href="/obesity-health/relationship-hunger-obesity">Relationship Between Hunger and Obesity</a></li>
+<li id="menu-item-2009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2009"><a href="/obesity-health/low-income-food-insecure-people-vulnerable-poor-nutrition-obesity">Why Low-Income and Food-Insecure People are Vulnerable to Poor Nutrition and Obesity</a></li>
+<li id="menu-item-2008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2008"><a href="/obesity-health/role-federal-nutrition-programs-improving-nutrition-combating-obesity">Role of the Federal Nutrition Programs in Improving Nutrition and Combating Obesity</a></li>
+</ul></div>								</div>
+															</div>
+						</li>
+						<li class="search">
+							<a href="#">Search</a>
+							<div class="subnav">
+								<div class="menu-content">
+									<form action="http://frac.org" class="search-form" method="get" role="search"> 
+										<label><span class="search-text screen-reader-text">Search For:</span></label>
+										<input class="text" type="search" title="What are you searching for?" placeholder="What are you searching for?" name="s" value="" />
+										<input type="submit" value="Search" class="submit" />
+									</form>
+								</div>
+								<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta">
+	<div class="title">Explore Our <span>Resource Library</span></div>
+	<p>Advanced search and filtering of our media, data, &amp; resources</p>
+</a></div>
+									</div>
+						</li>
+					</ul>
+				</nav>
+				<div class="bottom">&nbsp;</div>
+			</div><!--.container-->
+		</section><!--.main-navigation-->
+		
+		<div id="off-canvas">
+			<form action="http://frac.org" class="mobile-search search-form" method="get" role="search"> 
+				<label><span class="search-text screen-reader-text">Search For:</span></label>
+				<input class="text" type="search" title="What are you searching for?" placeholder="What are you searching for?" name="s" value="" />
+				<input type="submit" value="Search" class="submit" />
+			</form>
+			<section class="main-navigation">				<div class="container">
+					<nav class="main">
+						<ul>
+							<li class="parent">
+								<a href="/research">Research &amp; Data</a>
+								<div class="subnav">
+									<div class="menu-content">
+										<div class="title"><a href="/research">Research &amp; Data</a></div>
+										<div class="menu-main-navigation-research-container"><ul id="menu-main-navigation-research-2" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="/research/resource-library">Resource Library</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2212"><a href="/research/resource-library?type=resource&#038;filter_resource_category=11">Interactive Data Tools</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2369"><a href="http://www.frac.org/research/resource-library?type=resource&#038;filter_resource_category=27&#038;filter_topics=&#038;search=">Best Practices</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4749"><a href="/research/mapping-tools">Mapping Tools</a></li>
+</ul></div>									</div>
+									<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta" href="/research/resource-library/hungry-america-fracs-national-state-local-index-food-hardship-july-2018">
+                <div class="text">
+                                <div class="label">In the Spotlight</div>
+                                <div class="title">How Hungry is America? Report</div>
+                                <p>This report reveals that, after several years of decline, the national food hardship rate for all households increased from 15.1 percent in 2016 to 15.7 percent in 2017.</p>
+                                <div class="http://frac.org/research/resource-library/hungry-america-fracs-national-state-local-index-food-hardship-july-2018">Find out more</div>
+                </div>
+                <div class="image" style="background-image: url(/wp-content/uploads/empty-wallet-1.jpg);"></div>
+</a>
+</div>
+										</div>
+							</li>
+							<li class="parent">
+								<a href="/action">Action</a>
+								<div class="subnav">
+									<div class="menu-content">
+										<div class="title"><a href="/action">Action</a></div>
+										<div class="menu-main-navigation-action-container"><ul id="menu-main-navigation-action-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="/action/snap-farm-bill">SNAP/Farm Bill</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="/action/budget-appropriations">Budget, Appropriations, &#038; Tax Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="/action/child-nutrition-reauthorization-cnr">Child Nutrition Reauthorization (CNR)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="/action/farm-bill-2014">Inside Congress</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="/action/advocacy-toolkit">Engage With Your Members</a></li>
+</ul></div>									</div>
+									<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta" href="mailto:eteller@frac.org">
+	<div class="text">
+		<div class="label">Legislative Contacts</div>
+		<div class="title">Ellen Teller</div>
+		<p>Director of Government Affairs</p>
+		<p>eteller@frac.org</p>
+		<div class="link">Contact Ellen</div>
+	</div>
+	<div class="image" style="background-image: url(/wp-content/uploads/capitol-dome-detail-trending-image.jpg);"></div>
+</a></div>
+										</div>
+							</li>
+							<li class="parent">
+								<a href="/programs">Programs</a>
+								<div class="subnav">
+									<div class="menu-content">
+										<div class="title"><a href="/programs">Programs</a></div>
+										<div class="menu-main-navigation-federal-nutrition-programs-container"><ul id="menu-main-navigation-federal-nutrition-programs-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1358"><a href="/programs/supplemental-nutrition-assistance-program-snap">Supplemental Nutrition Assistance Program (SNAP)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="/programs/school-breakfast-program">School Breakfast Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="/programs/national-school-lunch-program">National School Lunch Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="/programs/child-adult-care-food-program">Child and Adult Care Food Program (CACFP)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-121"><a href="/programs/wic-women-infants-children">WIC (Women, Infants and Children)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="/programs/afterschool-nutrition-programs">Afterschool Nutrition Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="/programs/summer-nutrition-programs">Summer Nutrition Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="/nutrition-standards">Nutrition Standards</a></li>
+</ul></div>									</div>
+									<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta" href="/research/resource-library/hungry-america-fracs-national-state-local-index-food-hardship-july-2018">
+                <div class="text">
+                                <div class="label">In the Spotlight</div>
+                                <div class="title">How Hungry is America? Report</div>
+                                <p>This report reveals that, after several years of decline, the national food hardship rate for all households increased from 15.1 percent in 2016 to 15.7 percent in 2017.</p>
+                                <div class="http://frac.org/research/resource-library/hungry-america-fracs-national-state-local-index-food-hardship-july-2018">Find out more</div>
+                </div>
+                <div class="image" style="background-image: url(/wp-content/uploads/empty-wallet-1.jpg);"></div>
+</a></div>
+										</div>
+							</li>
+							<li class="parent">
+								<a href="/press-room">Press Room</a>
+								<div class="subnav">
+									<div class="menu-content">
+										<div class="title"><a href="/about">Press Room</a></div>
+										<div class="menu-main-navigation-newsroom-container"><ul id="menu-main-navigation-newsroom-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-378"><a href="/news">News Releases</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="/newsroom/archives">Meet Our Experts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1520"><a href="/newsroom/frac-in-the-news">FRAC in the News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3354"><a href="/newsroom/image-gallery">Image Gallery</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3858"><a href="http://www.frac.org/research/resource-library/state-of-the-states">Find Data On Your State</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3859"><a href="http://www.frac.org/research/resource-library">Explore Our Research</a></li>
+</ul></div>									</div>
+									<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a href="mailto:epickren@frac.org" class="cta">
+	<div class="text">
+		<div class="label">Media Contact</div>
+		<div class="title">Emily Pickren</div>
+		<p>epickren@frac.org</p>
+<p>(202) 640-1118</p>
+		<div class="link">Contact Emily</div>
+	</div>
+	<div class="image" style="background-image: url(/wp-content/uploads/news-media.jpg);"></div>
+</a></div>
+										</div>
+							</li>
+							<li class="parent">
+								<a href="/about">About Us</a>
+								<div class="subnav">
+									<div class="menu-content">
+										<div class="title"><a href="/about">About Us</a></div>
+										<div class="menu-main-navigation-about-us-container"><ul id="menu-main-navigation-about-us-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="/about/board-of-directors">Board of Directors</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-976"><a href="/about/what-we-do">What We Do</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="/about/our-history">Our History</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="/about/frac-supporters">FRAC Supporters</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="/about/alliances-and-partners">Alliances and Partners</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="/about/jobs-and-internships">Jobs and Internships</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4358"><a href="/about/campaign-end-childhood-hunger">Campaign to End Childhood Hunger</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="/about/support-us">Support Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="/about/staff">Staff</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1559"><a href="/about/1303-2">Our State Partners</a></li>
+</ul></div>									</div>
+									<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta" href="/research/resource-library/plan-action-end-hunger-america">
+	<div class="text">
+		<div class="label">In The Spotlight</div>
+		<div class="title">FRAC's Plan of Action to End Hunger in America</div>
+		<p>Includes eight essential strategies for ending hunger in America.</p>
+		<div class="link">Download the Plan (pdf)</div>
+	</div>
+	<div class="image" style="background-image: url(/wp-content/uploads/2016/10/frac-plan-to-end-hunger-cover.jpg);"></div>
+</a></div>
+										</div>
+							</li>
+							<li class="small"><a href="/hunger-poverty-america">Hunger in America</a></li>
+							<li class="small"><a href="/obesity-health">Obesity &amp; Health</a></li>
+							<li class="search">
+								<a href="#">Search</a>
+								<div class="subnav">
+									<div class="menu-content">
+										<form>
+											<input class="text" type="text" placeholder="What are you searching for?" />
+											<input class="submit" type="submit" value="Search" />
+										</form>
+									</div>
+									<h2 class="widget-title" style="display:none;">Call To Action HTML</h2>			<div class="textwidget"><a class="cta">
+	<div class="title">Explore Our <span>Resource Library</span></div>
+	<p>Advanced search and filtering of our media, data, &amp; resources</p>
+</a></div>
+										</div>
+							</li>
+						</ul>
+					</nav>
+					<div class="bottom">&nbsp;</div>
+				</div><!--.container-->
+			</section><!--.main-navigation-->
+			<nav class="utility"><ul id="menu-utility-navigation-1" class="menu"><li class="action menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="/action">Legislative Action Center</a></li>
+<li class="chat menu-item menu-item-type-custom menu-item-object-custom menu-item-261"><a href="/blog">FRAC Chat</a></li>
+<li class="mail menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="/subscribe-to-enews">Subscribe to eNews</a></li>
+<li class="give menu-item menu-item-type-custom menu-item-object-custom menu-item-533"><a href="https://org2.salsalabs.com/o/5118/p/salsa/donation/common/public/?donate_page_KEY=14483">Give to FRAC</a></li>
+</ul></nav>		</div>
+	</div><!--.header-->
+  <main class="main">
+    
+    <div class="banner alt module standard">
+      <div class="image">
+        <!--<img src="/wp-content/uploads/snap-grocery-store.jpg" alt="SNAP/Farm Bill">-->
+        <div class="image-holder" style="background-image:url(/wp-content/uploads/snap-grocery-store.jpg);">&nbsp;</div>
+      </div>
+      
+      <div class="text container">
+        <h1 class="">We're Sorry!</h1>
+      </div><!--.container-->
+    </div>
+
+    <section class="container wrapper">
+      <div class="primary-content">
+        <div class="in-this-section module no-cta plain">
+          <div class="container">
+            <div class="top">
+              <div class="breadcrumbs">
+                <span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://dev.frac.org.php56-22.dfw3-1.websitetestlink.com/" rel="v:url" property="v:title">Home</a></span></span></span>
+              </div>    
+            </div>
+          </div>
+        </div>
+
+        <div class="vc_row wpb_row vc_row-fluid">
+          <div class="wpb_column vc_column_container vc_col-sm-12">
+            <div class="vc_column-inner ">
+              <div class="wpb_wrapper">
+                <div class="module ">
+                  <div class="container">
+                    <div class="wpb_text_column wpb_content_element ">
+                      <div class="wpb_wrapper">
+                        <p class="intro">The page you are looking for cannot be found. Please use the search below or return to our <a href="/">homepage</a>.</p>
+
+                        <div class="search-form">
+                          <form action="http://frac.org" class="search-form" method="get" role="search"> 
+                            <label><span class="search-text screen-reader-text">Search For:</span></label>
+                            <input type="search" title="Search for:" name="s" value="" placeholder="Search" class="search-text" />
+                            <input type="submit" value="Search" class="search-submit" />
+                          </form>
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </section><!-- .no-results -->
+    
+  </main>
+	
+	<footer class="footer">
+		<div class="container">
+			<section class="contact">
+				<div class="logo">
+					<a href="/"><img src="/wp-content/themes/frac-theme/images/logo-frac-grey-byline.png" alt="Food Research and Action Center" /></a>
+				</div>
+				<p>
+	1200 18th Street NW, Suite 400<br />
+	Washington, D.C. 20036<br />
+	<a href="tel:2029862200">202.986.2200</a><br />
+	<a href="tel:2029862525">202.986.2525</a>
+</p>				<ul class="links">
+	<li class="mail"><a href="mailto:cbsutton@frac.org">Contact Us</a></li>
+	<li class="location"><a href="https://goo.gl/maps/ijDJykUnxt12" target="_blank">Locate Us</a></li>
+</ul>
+<div class="careers"><a href="/about/jobs-and-internships" class="button">Careers at FRAC</a></div>			</section>
+			<section class="navigation">
+				<div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="/research">Research &#038; Data</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="/action">Action</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="/programs">Federal Nutrition Programs</a></li>
+<li id="menu-item-269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-269"><a href="/newsroom">Newsroom</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="/about">About Us</a></li>
+<li id="menu-item-262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-262"><a href="/blog">FRAC Chat (Blog)</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="/hunger-poverty-america">Hunger &#038; Poverty in America</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="/obesity-health">Obesity &#038; Health</a></li>
+</ul></div>			</section>
+			<section class="social">
+				<ul class="icons">
+	<li><a class="twitter" href="http://twitter.com/#!/fractweets" target="_blank">Twitter</a></li>
+	<li><a class="facebook" href="http://www.facebook.com/foodresearchandactioncenter" target="_blank">Facebook</a></li>
+	<li><a class="linkedin" href="https://www.linkedin.com/company/675492" target="_blank">LinkedIn</a></li>
+	<li><a class="instagram" href="https://instagram.com/fracgram/" target="_blank">Instagram</a></li>
+</ul>				<ul class="links">
+	<li><a href="http://www.frac.org.php56-17.dfw3-1.websitetestlink.com/subscribe-to-enews">Subscribe to our eNews</a></li>
+<li><a href="/feed/?post_type=resource">Stay up-to-date on research and resources</a></li>
+	<li><a href="/feed/?post_type=blog">Subscribe to FRAC Chat</a></li>
+</ul>			</section>
+			<section class="info">
+				<h4>Our Initiatives</h4>
+				<ul class="links">
+	<li><a href="http://dchunger.org/" target="_blank">D.C. Hunger Solutions</a></li>
+	<li><a href="http://mdhungersolutions.org/" target="_blank">Maryland Hunger Solutions</a></li>
+</ul>			</section>
+		</div><!--.container-->
+		<div class="container">
+			<div class="copyright">&copy; 2018 Food Research &amp; Action Center.</div>
+		</div><!--.container-->
+	</footer>
+	
+	<!-- Go to www.addthis.com/dashboard to customize your tools -->
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57f486846fcdd105" async="async"></script>
+</body>
+
+</html>

@@ -1,0 +1,1022 @@
+ <!DOCTYPE html> <html lang="en"> <head> <!-- head to scrape:on --> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>
+	404
+</title> <link rel="shortcut icon" href="/favicon.ico"> <link href="//use.fontawesome.com/releases/v5.0.10/css/all.css" rel="stylesheet" type="text/css" /> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/origin.min.css?v=0918105006'> <!-- head to scrape:off --> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/main.min.css?v=0918105006'> <script type="text/javascript">var sf_appPath='/';</script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QFSQRT');</script>
+<!-- End Google Tag Manager --><meta property="og:locale" content="en_US" /><style type="text/css" media="all">#navigationToScrape *, 
+.top-header * {
+  box-sizing: border-box;
+}
+</style><script type="text/javascript">
+  window.addEventListener("DOMContentLoaded", function() {
+         jQuery('img.lazy').lazy({})
+    }, false);
+
+</script><meta name="Generator" content="Sitefinity 11.0.6723.0 PU" /><link rel="canonical" href="http://www.who.int/error-pages/404" /><script type="text/javascript">
+	
+(function(){
+    var metadataStr = '{\"Id\":\"141d6aa6-15f6-4412-a4b3-e3ba7a5e3496\",\"ContentType\":\"Page\",\"Title\":\"404\",\"CanonicalTitle\":\"404\",\"CanonicalUrl\":\"http://www.who.int/error-pages/404\",\"Language\":\"en\",\"CreatedOn\":\"2018-06-02T02:55:43.943Z\",\"ModifiedOn\":\"2018-06-29T09:56:10.853Z\",\"SiteName\":\"World Health Organization\",\"PageId\":\"141d6aa6-15f6-4412-a4b3-e3ba7a5e3496\"}';
+    window.decMetadata = window.decMetadata || {};
+    window.decMetadata.contentMetadata = JSON.parse(metadataStr);
+})();
+</script><script type="text/javascript">
+	(function() {
+    var jqueryXhrModified = false;
+    var detectjs = false;
+    var executeDataIntelligenceScript = function() {
+        var source;
+        if (!window.JSON) {
+            source = '/WebResource.axd?d=tTNUeDtL8OsI39FmMLAdgNNCb0ZD5veX8tTsR4F8xDBpV2AZO57RvI_6Rh7WF9qKq_5YeqoRO4BHSHPv0stBgWxVpGSStCDRlKyKhe59orQY3NF5Vj-lDjxJqSuYyV-P8Px6F2xdHkBn1OoNi0iXuolh-aOCmi0gDnkrwjTCy1k1&t=636664070020000000';
+        } else if (!window.jQuery) {
+            source = '/WebResource.axd?d=s7-zxpMGrfzFqvNoaI5niOhHYRdpx4h8bKa4v4dMi0pZF20E7MvR8TXhYSjJgoFKDvwpjeYHpzDrTrPGYnBW4jwuwUx7Y5494UlwyE_QDopXTpiviKLMQyGBr-Dwa-HI8RTfniCqoRf6XMn0OndGy7RoAM3z7N1uBIaUn5Vd2mIrt77N-S2XE0v8uxLl_Pok0&t=636664070020000000';
+        } else if (!jqueryXhrModified) {
+            source = '/WebResource.axd?d=OtDu8JfVYXvNVzEo1LSFcDFMIUCK_kLKUD971_XkStWWV0OLH7E19FfzIeRXhlQ5l_TQ9Hi8XIS5nTm_G6Vjj-0xP4epSs0wLYstS4dEkNdkVYqwkjnCVLXH98W9ntAlloRMajrpMaod6XyR7qmzg7p787w8O8edDyR1S_u6sX7r5S5DlH06J0ykzMsJyOB9tEH2cZlwns4njySOTxLYrUFMk9RqA4axo4ND_JZbEIc3Uv_fs6_wtpQ9n6pEBsXj0&t=636664070520000000';
+            jqueryXhrModified = true;
+        } else if (!detectjs) {
+            source = '/WebResource.axd?d=6kZXgApsQ6ne3RX7gMeiNRn5rGhfA58P9StiLUZMYDXWheCeNI6hKB50NLt3BVLGARKgmZrwZ-iVI-csUuadHTgovqn0j9OJmsg3Izcs0ouWNP865ZPoP4_EnOLDMbztXRMbkqyHRRpmEMP98VziK_7ZYp3EP1ePlvSder9qiPhrG5Rz9Xx5D6tY3aAvQwpUWA5ARAMs5vmpjrSWJe34Mn8x1NcTu9RdV0HkviWwk8g1&t=636664070520000000';
+            detectjs = true;
+        } else if (!window.DataIntelligenceSubmitScript) {
+            source = '/WebResource.axd?d=svCNDiDihPX-0SS0GCW70A-DhDerTxtYzid9aTI-J9Kq9GzadAIksnXFp8kGnibpA2gpS2cei03C5hmxgmbIKsUTvqXRA1a3IIIGgcxkgObpaCty5bE-9DLmWgSNJsw8XgZNFTwhspIRrL2snNjwClBKjg8yqrsU9HYiHtUg9zpB8zMrORYMkVNPN8jG6Dsq3G6yqnBDZ4m_GdZ_dYI1lPvz1LMOPiBYSBsAnU2-TYX3sgSVVX5Wv2FYHpf-_5uJ0&t=636664070520000000';
+        } else if (!window.sfDataIntell) {
+            source = 'https://dec.azureedge.net/sdk/telerik-dec-client.min.3.0.1.js';
+        } else {
+            return DataIntelligenceSubmitScript.load({"apiServerUrl":"https://api.dec.sitefinity.com","apiKey":"60b129ff-f08e-60f2-b71f-86a187742c5e","applicationName":"Sitefinity","trackingCookieDomain":"","keepDecTrackingCookieOnTrackingConsentRejection":false});
+        }
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        var callback = function() {
+            if (!this.readyState || this.readyState === 'complete' || this.readyState === 'loaded') {
+                executeDataIntelligenceScript();
+            }
+        };
+        if(script.addEventListener) {
+            script.addEventListener('load', callback, false);
+        } else if(script.readyState) {
+            script.onreadystatechange = callback;
+        }
+        script.src = source;
+        return document.body.appendChild(script);
+    };
+    if (window.addEventListener) {
+        window.addEventListener('load', executeDataIntelligenceScript, false);
+    } else if (window.attachEvent) {
+        window.attachEvent('onload', executeDataIntelligenceScript);
+    }
+})();
+</script><meta name="description" content="Erreur 404" /></head> <body class="sf-body "> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <div class="sf-main-site main-site main"> <!-- header:on --> <header> <div id="sf-top-header" class="top-header"> <div class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"> 
+<div id="TopHeader_TD9F2A204012_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+
+
+ <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-lg-4" data-sf-element="Geo Navigation" data-placeholder-label="Geo Navigation"> 
+ </div> <div class="sf_colsIn col-lg-8" data-sf-element="Language Selector & Search" data-placeholder-label="Language Selector & Search"> <!--Navigation search:on--> <div class="navigation-search"> <span> <i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i> </span> </div> <!--Navigation search:off--> 
+
+
+<div class="language-selector language-selector-header">
+    <ul class="sf-lang-selector list-inline">
+            <li>
+                    <a data-available-culture="ar" href="" onclick="openLinkWithTranslation('ar'); return false;" class=" header" style="display:none">العربية</a>
+            </li>
+            <li>
+                    <a data-available-culture="zh" href="" onclick="openLinkWithTranslation('zh'); return false;" class=" header" style="display:none">中文</a>
+            </li>
+            <li>
+                    <a data-available-culture="en" href="" onclick="openLinkWithTranslation('en'); return false;" class="selected header" style="display:none">English</a>
+            </li>
+            <li>
+                    <a data-available-culture="fr" href="" onclick="openLinkWithTranslation('fr'); return false;" class=" header" style="display:none">fran&#231;ais</a>
+            </li>
+            <li>
+                    <a data-available-culture="ru" href="" onclick="openLinkWithTranslation('ru'); return false;" class=" header" style="display:none">русский</a>
+            </li>
+            <li>
+                    <a data-available-culture="es" href="" onclick="openLinkWithTranslation('es'); return false;" class=" header" style="display:none">espa&#241;ol</a>
+            </li>
+    </ul>
+</div>
+
+
+
+ </div> </div> </div> </div> <!-- logo:on --> <div id="sf-main-header" class="main-header"> <div class="container"> <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-12" data-sf-element="Logos" data-placeholder-label="Logos Geo Navigation"> 
+ <div class="header-logo logos-container"> <a href="/" title="Home" class="primary-logo"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg" alt="Home" class="logo svg" /> </a> </div> </div> </div> </div> 
+
+<div id="search2">
+    <form action="http://search.who.int/search" target="_self" id="search-form">
+        <label for="search_who">
+            <input name="q" id="q" class="searchInput" title="Search WHO.int" type="text" placeholder="Search WHO.int" value="" autocomplete="off">
+            <div id="clear-search" class="search-clear"><i class="fa fa-times-circle fa-loaded fa-2x"></i></div>
+        </label>
+        <input type="hidden" name="ie" value="utf8"> <input type="hidden" name="site" value="who">
+        <input type="hidden" name="client" value="_en_r"> <input type="hidden" name="proxystylesheet" value="_en_r">
+        <input type="hidden" name="output" value="xml_no_dtd">
+        <input type="hidden" name="oe" value="utf8">
+        <input type="hidden" name="getfields" value="doctype">
+        <button id="searchSubmit " class="search-button" title="Search " data-reactid="8 ">   <i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i></button>
+    </form>
+</div>
+
+ </div> <!-- logo:off --> <div id="navigationToScrape" class="navigation"> 
+<div class="row navWrapper" data-sf-element="Row">
+    <div class="nav-container">
+        <!--Main desktop navigation:on-->
+        <ul class="nav"></ul>
+        <!--Main desktop navigation:off-->
+    </div>
+
+    <ul class="nav-mobile"></ul>
+
+    <div id="Navigation_TD9F2A204024_Col00" class="sf_colsIn col-md-12" data-sf-element="Menu Wrapper" data-placeholder-label="Menu Wrapper"><div class="navItemLayout navHomeItemLayout">
+    <div id="Navigation_TD9F2A204025_Col00" class="sf_colsIn col-md-12 navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/" target="_self">Home</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204025_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"></div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204029_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/health-topics" target="_self">Health topics</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204029_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_T75121FDA161_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204114_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+<div class="content-block" >
+    <div ><ul><li><a href="/health-topics/">All topics &raquo;</a></li><li><a href="/health-topics/#A">A</a></li><li><a href="/health-topics/#B">B</a></li><li><a href="/health-topics/#C">C</a></li><li><a href="/health-topics/#D">D</a></li><li><a href="/health-topics/#E">E</a></li><li><a href="/health-topics/#F">F</a></li><li><a href="/health-topics/#G">G</a></li><li><a href="/health-topics/#H">H</a></li><li><a href="/health-topics/#I">I</a></li><li><a href="/health-topics/#J">J</a></li><li><a href="/health-topics/#K">K</a></li><li><a href="/health-topics/#L">L</a></li><li><a href="/health-topics/#M">M</a></li><li><a href="/health-topics/#N">N</a></li><li><a href="/health-topics/#O">O</a></li><li><a href="/health-topics/#P">P</a></li><li><a href="/health-topics/#Q">Q</a></li><li><a href="/health-topics/#R">R</a></li><li><a href="/health-topics/#S">S</a></li><li><a href="/health-topics/#T">T</a></li><li><a href="/health-topics/#U">U</a></li><li><a href="/health-topics/#V">V</a></li><li><a href="/health-topics/#W">W</a></li><li><a href="/health-topics/#X">X</a></li><li><a href="/health-topics/#Y">Y</a></li><li><a href="/health-topics/#Z">Z</a></li></ul></div>    
+
+</div>
+</div>
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular" target="_self">Popular &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/ebola-virus-disease" target="_self">Ebola virus disease</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/nipah-virus-infection" target="_self">Nipah virus infection</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/nutrition" target="_self">Nutrition</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/hepatitis" target="_self">Hepatitis</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/popular/top-10-causes-of-death" target="_self">Top 10 causes of death</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts" target="_self">Resources &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/data" target="_blank">Data</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/fact-sheets" target="_self">Fact sheets</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/facts-in-pictures" target="_self">Facts in pictures</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/publications" target="_blank">Publications</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/health-topics/facts/questions-answers" target="_self">Questions &amp; answers</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_T75121FDA161_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="content-block" >
+    <div ><div><a href="/campaigns/world-antibiotic-awareness-week/en/"><strong>World Antibiotic Awareness Week&nbsp;&raquo;</strong></a></div></div>    
+
+</div>
+        <img class="lazy"
+             data-src="/images/default-source/campaigns/resistance-antibiotics-jpg.tmb-479v.jpg?sfvrsn=68a49229_6"
+             title="WMR-2017-cover_180px"
+             alt="World Antibiotic Awareness Week 2018"
+             
+              />
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204027_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/countries" target="_self">Countries</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204027_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204039_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="Navigation_TD9F2A204043_Col00" class="sf_colsIn horizontal" data-sf-element="Horizontal" data-placeholder-label="Horizontal">
+<div class="content-block" >
+    <div ><ul><li><a href="http://www.who.int/countries/en/">All countries&nbsp;&raquo;</a></li><li><a href="http://www.who.int/countries/en/#A">A</a></li><li><a href="http://www.who.int/countries/en/#B">B</a></li><li><a href="http://www.who.int/countries/en/#C">C</a></li><li><a href="http://www.who.int/countries/en/#D">D</a></li><li><a href="http://www.who.int/countries/en/#E">E</a></li><li><a href="http://www.who.int/countries/en/#F">F</a></li><li><a href="http://www.who.int/countries/en/#G">G</a></li><li><a href="http://www.who.int/countries/en/#H">H</a></li><li><a href="http://www.who.int/countries/en/#I ">I</a></li><li><a href="http://www.who.int/countries/en/#J
+            ">J</a></li><li><a href="http://www.who.int/countries/en/#K ">K</a></li><li><a href="http://www.who.int/countries/en/#L ">L</a></li><li><a href="http://www.who.int/countries/en/#M ">M</a></li><li><a href="http://www.who.int/countries/en/#N ">N</a></li><li><a href="http://www.who.int/countries/en/#O
+            ">O</a></li><li><a href="http://www.who.int/countries/en/#P ">P</a></li><li><a href="http://www.who.int/countries/en/#Q ">Q</a></li><li><a "=" " #r=" " countries=" " en=" " href="http://www.who.int/countries/en/#Q&gt;Q&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=" http:=" " www.who.int=" ">R</a>
+ </li><li><a href="http://www.who.int/countries/en/#S ">S</a></li><li><a href="http://www.who.int/countries/en/#T ">T</a></li><li><a href="http://www.who.int/countries/en/#U ">U</a></li><li><a href="http://www.who.int/countries/en/#V
+            ">V</a></li><li><a href="http://www.who.int/countries/en/#W ">W</a></li><li><a href="http://www.who.int/countries/en/#X ">X</a></li><li><a href="http://www.who.int/countries/en/#Y ">Y</a></li><li><a href="http://www.who.int/countries/en/#Z ">Z</a></li></ul></div>    
+
+</div>
+</div>
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions" target="_self">Regions &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/africa" target="_self">Africa</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/americas" target="_self">Americas</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/south-east-asia" target="_self">South-East Asia</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/europe" target="_self">Europe</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/eastern-mediterranean" target="_self">Eastern Mediterranean</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/regions/western-pacific" target="_self">Western Pacific</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/who-in-countries" target="_self">WHO in countries &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/who-in-countries/overview" target="_self">Overview</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/who-in-countries/data-statistics" target="_self">Statistics</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/countries/who-in-countries/cooperation-strategies" target="_self">Cooperation strategies</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204039_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="content-block" >
+    <div ><div class="navigation-title"><a href="http://www.who.int/emergencies/crises/cod/en/">Democratic Republic of the Congo&nbsp;&raquo;</a></div></div>    
+
+</div>
+    <a href="http://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/democratic-republic-of-the-congo">
+                <img class="lazy"
+             data-src="/images/default-source/imported/ebola-drc-4-630px-jpg.tmb-340v.jpg?sfvrsn=d52a48d0_8"
+             title="chronic-disease-tanzania"
+             alt="An old man in Tanzania, having his blood pressure checked"
+             
+              />
+
+    </a>
+
+<div class="content-block" >
+    <div ><div class="navigation-title">&nbsp;</div></div>    
+
+</div>
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204028_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/news-room" target="_self">News</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204028_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204038_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news" target="_self">All news &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/releases" target="_self">News releases</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/statements" target="_self">Statements</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/notes-for-media" target="_self">Notes for media</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/commentaries" target="_self">Commentaries</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/events" target="_self">Events</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/feature-stories" target="_self">Feature stories</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/news/all-news/speeches" target="_self">Speeches</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Navigation_TD9F2A204038_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="content-block" >
+    <div ><ul><li><a href="http://www.who.int/news-room/headlines">Headlines&nbsp;&raquo;</a></li></ul></div>    
+
+</div>
+<div id="listView" class="vertical-list"></div>
+<script type="text/x-kendo-tmpl" id="template">
+    <div class="vertical-list-item">
+        <div class="info">
+            <a href="http://www.who.int/news-room/detail#:ItemDefaultUrl #" aria-label="#: Title #" role="link">
+                <p class="heading">#: Title #</p>
+            </a>
+            <div class="date">
+                <span class="timestamp">#: FormatedDate #</span>
+                <div class="sf-tags-list">
+                    <div class="sf-tags-list-item">#: NewsType #</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script>
+    function loadScript(url, callback) {
+        var script = document.createElement("script")
+        script.type = "text/javascript";
+        if (script.readyState) {  //IE
+            script.onreadystatechange = function () {
+                if (script.readyState === "loaded" || script.readyState === "complete") {
+                    script.onreadystatechange = null;
+                    callback();
+                }
+            };
+        } else {  //Others
+            script.onload = function () {
+                callback();
+            };
+        }
+
+        script.src = url;
+        document.body.appendChild(script);
+    }
+    window.onload = function () {
+        loadScript("//kendo.cdn.telerik.com/2018.1.221/js/kendo.ui.core.min.js", function () {
+            var remoteDataSource = new kendo.data.DataSource({
+                type: "odata-v4",
+                transport: {
+                    read: "/api/news/newsitems?sf_culture=en&$top=4&$orderby=PublicationDateAndTime%20desc&$select=Title,ItemDefaultUrl,FormatedDate,NewsType"
+                }
+            });
+            $("#listView").kendoListView({
+                dataSource: remoteDataSource,
+                pageable: true,
+                template: kendo.template($("#template").html()),
+                dataBound: function () {
+                    this.wrapper.removeClass("k-widget");
+                    this.wrapper.removeClass("k-listview");
+                }
+            });
+        });
+    };
+</script>
+
+    </div>
+    <div id="Navigation_TD9F2A204038_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="content-block" >
+    <div ><ul><li><a href="http://www.who.int/news-room/spotlight">Spotlight&nbsp;&raquo;</a></li></ul></div>    
+
+</div>
+    <a href="http://www.who.int/emergencies/outbreaks-behind-the-headlines">
+                <img class="lazy"
+             data-src="/images/default-source/imported/vaccination-boy-coxs-bazar.tmb-340v.jpg?sfvrsn=b067149a_2"
+             title="town-hall-meeting-small-2"
+             alt="The assembly hall at the Palais des Nations in Geneva, Switzerland."
+             
+              />
+
+    </a>
+
+<div class="content-block" >
+    <div ><a href="/emergencies/outbreaks-behind-the-headlines">Outbreaks: Behind the headlines</a></div>    
+
+</div>
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204040_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/emergencies" target="_self">Emergencies</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204040_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204090_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies" target="_self">Focus on &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/bangladesh-rohingya" target="_self">Bangladesh Rohingya</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/democratic-republic-of-the-congo" target="_self">Democratic Republic of the Congo</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/iraq" target="_self">Iraq</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/nigeria" target="_self">Nigeria</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/somalia" target="_self">Somalia</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/south-sudan" target="_self">South Sudan</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/syrian-arab-republic" target="_self">Syrian Arab Republic</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/emergencies/yemen" target="_self">Yemen</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/all-emergencies" target="_self">All emergencies &#187;</a>
+
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news" target="_self">Latest &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/by-country" target="_self">By country</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/outbreaks-by-disease" target="_self">By disease</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/disease-outbreak-news-(dons)" target="_self">Disease Outbreak News</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/weekly-epidemiological-record" target="_self">Weekly Epidemiological Record</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/health-emergency-highlights" target="_self">Health Emergency Highlights</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/emergencies/news/travel-advice" target="_self">Travel advice</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204090_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+     <div id="Navigation_TD9F2A204090_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="content-block" >
+    <div ><ul><li><a href="http://www.who.int/ebola/">Ebola virus disease &raquo;</a></li></ul></div>    
+
+</div>
+    <a href="http://www.who.int/redirect-pages/page/ebola-virus-disease">
+                <img class="lazy"
+             data-src="/images/default-source/imported/ebola-drc-medical-experts.tmb-340v.jpg?sfvrsn=c50d9d59_10"
+             title="ebola drc medical experts"
+             alt="Ebola in the Democratic Republic of the Congo"
+             
+              />
+
+    </a>
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="navItemLayout">
+    <div id="Navigation_TD9F2A204026_Col00" class="sf_colsIn navParent" data-sf-element="Menu Parent Link" data-placeholder-label="Menu Parent Link">
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/about-us" target="_blank">About us</a></li>
+    </ul>
+</nav>
+
+
+
+
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div id="Navigation_TD9F2A204026_Col01" class="sf_colsIn col-md-12 navDropdown" data-sf-element="Menu Item Dropdown" data-placeholder-label="Menu Item Dropdown"><div class="row" data-sf-element="Row">
+    <div id="Navigation_TD9F2A204035_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about" target="_self">About WHO  &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/who-we-are" target="_self">Who we are</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/what-we-do" target="_self">What we do</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/where-we-work" target="_self">Where we work</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/programmes" target="_self">Programmes</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/who-we-work-with" target="_self">Collaboration and partnerships</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/about/director-general" target="_self">Director-General</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+<nav role="navigation">
+    <ul class="main-navigation">
+    <li class=""><a href="/redirect-pages/mega-menu/about-us/contact-us" target="_self">Contact us &#187;</a></li>
+    </ul>
+</nav>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/governance" target="_blank">Governing bodies &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/governance/world-health-assembly" target="_self">World Health Assembly</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/governance/executive-board" target="_self">Executive Board</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability" target="_self">Accountability &#187;</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability/13th-general-programme-of-work-(gpw13)" target="_blank">General Programme of Work</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability/budget" target="_blank">Programme Budget Portal</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability/funding" target="_self">Funding</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/mega-menu/about-us/planning-accountability/financial-programmatic-reports" target="_self">Financial reports</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+     <div id="Navigation_TD9F2A204035_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+<div class="content-block" >
+    <div ><div class="navigation-title"><a href="http://www.who.int/about/what-we-do/who-brochure/">Better health for everyone&nbsp;&raquo;</a></div></div>    
+
+</div>
+    <a href="http://www.who.int/about-us/what-we-do/who-brochure">
+                <img class="lazy"
+             data-src="/images/default-source/publications/brochure/boy-malawi.tmb-340v.jpg?sfvrsn=41439f93_6"
+             title="boy_malawi"
+             alt="boy_malawi"
+             
+              />
+
+    </a>
+
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+ </div>
+</div>
+ </div> </header> <!-- header:off --> <section class="content"> 
+<div id="PageContent_C003_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+<div class="content-block" >
+    <div ><h1>This page cannot be found</h1><p>The page or file you are trying to access cannot be found. This is because the web address is incorrect or the file has been moved or deleted.</p><br /><p>Please try the following:</p><ul><li>Return to the&nbsp;<a href="http://www.who.int/">WHO home page</a>.</li><li>Check that the web address is correct.</li><li>Search all WHO sites using the search box at the top.</li><li>If you still encounter problems, please report these using the&nbsp;<a href="http://www.who.int/suggestions/en/">comments and suggestions page</a>.</li></ul></div>    
+
+</div>
+</div>
+ </section> <!-- footer:on --> <footer id="sf-footer"> <div class="main-footer"> 
+<div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA191_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="Footer_T75121FDA191_Col01" class="sf_colsIn col-md-6" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+    <div id="Footer_T75121FDA191_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+</div>
+<div id="Footer_TD9F2A204001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA192_Col00" class="sf_colsIn col-md-3" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+     <div id="Footer_T75121FDA192_Col01" class="sf_colsIn col-md-3" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+     <div id="Footer_T75121FDA192_Col02" class="sf_colsIn col-md-3" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+     <div id="Footer_T75121FDA192_Col03" class="sf_colsIn col-md-3" data-sf-element="Column 4" data-placeholder-label="Column 4">
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA153_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div class="main-navigation--wrapper">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/redirect-pages/footer/about-us" target="_self">About us</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/overview" target="_self">Overview</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/director-general" target="_self">Director-General</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/world-health-assembly" target="_self">World Health Assembly</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/executive-board" target="_self">Executive Board</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/member-states" target="_self">Member states</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/constitution-and-ethics" target="_self">Constitution and ethics</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/about-us/programs" target="_self">Site map (Programmes)</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links" target="_self">Quick links</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/contact-us" target="_self">Contact us</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/frequently-asked-questions" target="_self">Frequently asked questions</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/employment" target="_self">Employment</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/feedback" target="_self">Feedback</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/privacy" target="_self">Privacy</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/email-scams" target="_self">Email scams</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/quick-links/integrity-hotline" target="_self">Integrity Hotline</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions" target="_self">Regions</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/redirect-pages/footer/regions/africa" target="_self">Africa</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/americas" target="_self">Americas</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/south-east-asia" target="_self">South-East Asia</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/europe" target="_self">Europe</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/eastern-mediterranen" target="_self">Eastern Mediterranean</a>
+
+    </li>
+    <li class="">
+        <a href="/redirect-pages/footer/regions/western-pacific" target="_self">Western Pacific</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Footer_T75121FDA153_Col01" class="sf_colsIn col-sm-3 col-md-3 centered-on-mobile" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+<div class="list-view horizontal-title-only highlight-widget bg-white">
+    <div class="list-view--item highlight-widget--content">
+        <a href="http://www.who.int/mediacentre/multimedia/newsletter/en/" class="link-container" aria-label="Subscribe to the WHO newsletter  →" role="link" >
+
+            <div class="info">
+                <div class="flex-row">
+                    <div class="flex-col flex-col-8">
+                    </div>
+
+                    <div class="flex-col flex-col-4">
+                    </div>
+                </div>
+
+                    <p class="heading text-underline">Subscribe to the WHO newsletter  →</p>
+            </div>
+        </a>
+    </div>
+</div>
+
+    </div>
+</div>
+
+</div>
+ <div class="footer-logo"> <a href="/" title="Home"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg" alt="Home" class="logo" /> </a> </div> </div> <div class="bottom-footer"> <div class="container"> <div class="row"> <div class="col-md-4"> 
+
+<div class="content-block" >
+    <div ><a href="http://who.int/about/privacy/en/">Privacy Legal notice</a></div>    
+
+</div> </div> <div class="col-md-4"> 
+
+
+<div class="social-share--add-this follow-us--footer">
+    <div class="addthis_inline_follow_toolbox"></div>
+</div>
+
+ </div> <div class="col-md-4 copyright"> <span>
+                                &copy;
+                            </span>
+
+                            2018
+
+                            
+
+<div class="content-block" >
+    <div ><a href="http://www.who.int/about/copyright/en/">WHO</a></div>    
+
+</div> </div> </div> </div> </div> </footer> <!-- footer:off --> </div> <script src="/ScriptResource.axd?d=4bMApOb58R6igmkUEZ0eXlLzcsPsI6QnRfqYLyFvpWEiZJiWUZ3299qWT-xVEy5PN1YyEJ_i8HAwvFT-jOumaQ3TayjWLyiTnurzJbsVZmMNCjlqmjaFUG2IP8ICAdXuiueg3fNuYnKjFxLtcMOw_QBvkWGhez1hC7ybCkNy6z6oCs-JTrLo8JggJ_BQbLcZ0&amp;t=2fd0f77f" type="text/javascript"></script><script src="/ScriptResource.axd?d=EydukmxBmDstn7gSYzQESEQjT_eUvIk_EZjuFo2gz9krpqdnYCCXiyVyFol_7cu5mDf_iivvPy5xoIvckkZkK8-tdvdtKPOlAsQmbGa6hijvnBjTPCtL_LAImDs9Pt8ZrbOaQNnmh6Ule0oHIaIxLT-YyuulZOq886ujpLxq4eZeDIqXTIsCFd0POWO2oR6l0&amp;t=2fd0f77f" type="text/javascript"></script><script src="/Frontend-Assembly/SitefinityWebApp/Mvc/Scripts/LanguageSelectorAdvanced/language-selector.js?package=WHO" type="text/javascript"></script><script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5803f964fe6c9599" type="text/javascript"></script><script type="text/javascript" src="/WebResource.axd?d=yAZznlIeaGQJz8qTi4uqDWwyTnn1taKWpvU7qEPEIatR3jFXUDYVKfPQbmYqlqU4Y4x091WLrm011c8dTgZJgb1qGrhogqoQL5O7ZPlnJ7I09bvEOoMHrCGx1jN0jXypW6BfN-azn8YYPv8LJoewRH_1J8wj656xgvlA9I85FVQ1&amp;t=636664069980000000">
+
+</script><script type="text/javascript">
+	StatsClient.LogVisit('141d6aa6-15f6-4412-a4b3-e3ba7a5e3496', 'd9d95d06-151c-42a2-93b6-403a684450cc');
+</script><input data-custom-language-selector='ar' type='hidden' value='http://www.who.int/ar/error-pages/404'><input data-custom-language-selector='zh' type='hidden' value='http://www.who.int/zh/error-pages/404'><input data-custom-language-selector='en' type='hidden' value='http://www.who.int/error-pages/404'><input data-custom-language-selector='fr' type='hidden' value='http://www.who.int/fr/error-pages/404'><input data-custom-language-selector='ru' type='hidden' value='http://www.who.int/ru/error-pages/404'><input data-custom-language-selector='es' type='hidden' value='http://www.who.int/es/error/404'> <!-- js to scrape:on --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/slicknav.min.js?v=0202090422'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/auto-complete.min.js?v=0202090422'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/match-height.min.js?v=0206114536'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/lazy.min.js?v=0503083924'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/modernizr-custom.js?v=0816085418'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/select2.full.min.js?v=0912142656'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main.min.js?v=0918105006'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main-navigation.min.js?v=0918105006'></script><script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/geo-navigation.min.js?v=0918105006'></script> <!-- js to scrape:off --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/image-resolution.min.js?v=0918105006'></script> <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/picturefill.min.js?v=0712112412'></script> </body> </html>

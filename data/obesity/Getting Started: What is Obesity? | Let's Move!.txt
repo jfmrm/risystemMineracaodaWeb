@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Getting Started: What is Obesity? | Let's Move!</title>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WLMC86');</script>
+<!-- End Google Tag Manager -->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://letsmove.obamawhitehouse.archives.gov/sites/letsmove.gov/files/letsmove_favicon.gif" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/cck/theme/content-module.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/ckeditor/ckeditor.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/ctools/css/ctools.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/custompage/custompage.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/date/date.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/filefield/filefield.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/node_embed/plugins/node_embed/node_embed.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/custom/wh_forms/wh_forms.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/cck/modules/fieldgroup/fieldgroup.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/contrib/views/css/views.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/letsmove/css/reset.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/letsmove/css/restore.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/letsmove/css/text.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/letsmove/css/960.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/letsmove/css/thickbox.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/letsmove/css/recipes.css?l" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/letsmove/css/main.css?l" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/all/themes/letsmove/css/print.css?l" />
+  <script type="text/javascript" src="/misc/jquery.js?l"></script>
+<script type="text/javascript" src="/misc/drupal.js?l"></script>
+<script type="text/javascript" src="/sites/all/libraries/jQuery/jquery-1.8.3.min.js?l"></script>
+<script type="text/javascript" src="/sites/all/themes/letsmove/js/jquery.cycle.all.min.js?l"></script>
+<script type="text/javascript" src="/sites/all/themes/letsmove/js/thickbox-compressed.js?l"></script>
+<script type="text/javascript" src="/sites/all/themes/letsmove/js/theme.js?l"></script>
+<script type="text/javascript" src="/sites/all/themes/letsmove/js/application.js?l"></script>
+<script type="text/javascript" src="/sites/all/themes/letsmove/js/jquery.jcarousel.min.js?l"></script>
+<script type="text/javascript" src="/sites/all/themes/letsmove/js/external-links.js?l"></script>
+<script type="text/javascript" src="/sites/all/themes/letsmove/js/temp.js?l"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","updates_newsletter_nid":null,"CToolsUrlIsAjaxTrusted":{"\/obesity\u0026sa=U\u0026ved=0ahUKEwixpN_hp8XdAhWBD5AKHfcEBv04PBAWCEUwCQ\u0026usg=AOvVaw0xj2MIIjICUkfnzhthAvSW":true}});
+//--><!]]>
+</script>
+  <!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="/sites/all/themes/letsmove/css/ie6.css">
+  <![endif]-->
+  <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/sites/all/themes/letsmove/css/ie7.css">
+  <![endif]-->
+  <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/sites/all/themes/letsmove/css/ie8.css">
+  <![endif]-->
+</head>
+
+<body class="twoCol-left page-obesity section-id-325 section-about-lets-move">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <div class="container_12">
+   <div style="background-color:white;font-size:1.2em;line-height:3em;text-align:center;">
+	This is historical material “frozen in time”. The website is no longer updated and links to external websites and some internal pages may not work.    
+  </div>
+    <div id="printheader"><img src="/sites/all/themes/letsmove/images/letsmovelogo.gif" width="211" height="145" alt="Let's Move Logo" /></div>
+    <div id="header" class="grid_12 alpha omega" >
+      <div class="gutter">
+        <h1><a href="/">Let's Move</a></h1>
+        <div id="quote"><img src="/sites/all/themes/letsmove/images/quoteplaceholder.gif" width="220" height="36" alt="quote placeholder" /></div>
+        <div id="nav_utility">
+          <div id="menu-menu-utility" class="block">
+
+  <div class="content">
+    <ul class="menu level-1" role="navigation"><li class=" first menu-mlid-323"><a href="/"  class=" menu-mlid-323 level-depth-1">Home</a></li>
+<li class=" menu-mlid-712"><a href="/blog/all"  class=" menu-mlid-712 level-depth-1">Blog</a></li>
+<li class=" menu-mlid-488"><a href="/about"  class=" menu-mlid-488 level-depth-1">About Let&#039;s Move</a></li>
+<li class=" last menu-mlid-754"><a href="/en-espanol"  class=" menu-mlid-754 level-depth-1">En español</a></li>
+</ul>  </div>
+</div>
+                      <form action="https://search.archives.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
+<div><input type="hidden" name="affiliate" id="edit-affiliate-id" value="obamawhitehouse-letsmove"  />
+<div class="form-item" id="edit-text-field-wrapper">
+ <input type="text" maxlength="128" name="query" id="edit-text-field" size="15" value="" title="Enter the terms you wish to search for." class="form-text usa-search-field" />
+</div>
+<input type="submit" name="op" id="edit-submit-1" value=""  class="form-submit no-bg search-go" />
+<input type="hidden" name="form_build_id" id="form-jPYuyRKdbWhwz5zO0PCm0XVfkgpGavwJ8nNf2wfxhDY" value="form-jPYuyRKdbWhwz5zO0PCm0XVfkgpGavwJ8nNf2wfxhDY"  />
+<input type="hidden" name="form_id" id="edit-usasearch-box" value="usasearch_box"  />
+
+</div></form>
+                  </div><!-- close nav_utility -->
+      </div><!-- end gutter -->
+    </div><!-- end header -->
+
+    <div id="nav_global" class="grid_12 alpha omega">
+      <div id="menu-primary-links" class="block">
+
+  <div class="content">
+    <ul class="menu level-1" role="navigation"><li class="collapsed first menu-mlid-327"><a href="/learn-facts/epidemic-childhood-obesity"  class=" menu-mlid-327 level-depth-1">Learn the Facts</a></li>
+<li class="expanded active-trail menu-mlid-325"><a href="/about"  class=" menu-mlid-325 level-depth-1">About Let&#039;s Move</a><ul class="menu level-2"><li class=" first menu-mlid-487"><a href="/about"  class=" menu-mlid-487 level-depth-2">About Let&#039;s Move</a></li>
+<li class="expanded active-trail menu-mlid-337"><a href="/learn-facts/epidemic-childhood-obesity" title="The Epidemic of Childhood Obesity" class=" menu-mlid-337 level-depth-2">The Epidemic of Childhood Obesity</a><ul class="menu level-3"><li class=" first menu-mlid-2371"><a href="/learn-facts/epidemic-childhood-obesity"  class=" menu-mlid-2371 level-depth-3">Learn the Facts</a></li>
+<li class=" active-trail menu-mlid-362"><a href="/obesity" title="Getting Started: What is Obesity?" class=" menu-mlid-362 level-depth-3 active">Getting Started: What is Obesity?</a></li>
+<li class=" last menu-mlid-363"><a href="/health-problems-and-childhood-obesity" title="Health Problems and Childhood Obesity" class=" menu-mlid-363 level-depth-3">Health Problems and Childhood Obesity</a></li>
+</ul></li>
+<li class=" menu-mlid-396"><a href="/videos-and-photos" title="Videos and Photos" class=" menu-mlid-396 level-depth-2">Videos and Photos</a></li>
+<li class=" menu-mlid-397"><a href="/white-house-task-force-childhood-obesity-report-president" title="White House Task Force on Childhood Obesity" class=" menu-mlid-397 level-depth-2">White House Task Force on Childhood Obesity</a></li>
+<li class=" menu-mlid-2935"><a href="/partnership-healthier-america"  class=" menu-mlid-2935 level-depth-2">The Partnership for a Healthier America</a></li>
+<li class=" menu-mlid-761"><a href="/newsroom" title="Newsroom" class=" menu-mlid-761 level-depth-2">Newsroom</a></li>
+<li class=" menu-mlid-400"><a href="/logo-and-usage" title="Let&#039;s Move! Logo and Usage" class=" menu-mlid-400 level-depth-2">Logo and Usage</a></li>
+<li class=" menu-mlid-769"><a href="/initiatives" title="Let’s Move! Programs" class=" menu-mlid-769 level-depth-2">Let&#039;s Move! Programs</a></li>
+<li class=" menu-mlid-768"><a href="/achievements" title="Let&#039;s Move! Accomplishments" class=" menu-mlid-768 level-depth-2">Achievements</a></li>
+<li class=" last menu-mlid-766"><a href="/resources" title="Let&#039;s Move! Stakeholders" class=" menu-mlid-766 level-depth-2">Resources</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-328"><a href="/eat-healthy"  class=" menu-mlid-328 level-depth-1">Eat Healthy</a></li>
+<li class="collapsed menu-mlid-329"><a href="/get-active"  class=" menu-mlid-329 level-depth-1">Get Active</a></li>
+<li class="collapsed menu-mlid-460"><a href="/action" title="Take Action" class=" menu-mlid-460 level-depth-1">Take Action</a></li>
+<li class="collapsed last menu-mlid-331"><a href="/join-us"  class=" menu-mlid-331 level-depth-1">Join Us</a></li>
+</ul>  </div>
+</div>
+    </div>
+		
+    <span class="clear"></span>
+
+          <div id="breadcrumb" class="grid_12 alpha omega"><div class="breadcrumb"><a href="/">Home</a><a href="/about">About Let&#039;s Move</a><a href="/learn-facts/epidemic-childhood-obesity">The Epidemic of Childhood Obesity</a>Getting Started: What is Obesity?</div></div><!-- close breadcrumb -->
+    
+      
+<div id="main" class=" about-lets-move">
+  
+      		    <div id="sidebar"> 
+		      		      		    </div><!-- close sidebar --> 
+		   
+		  <div id="interior">
+
+		    <div class="rounded"></div>
+
+    
+    <div id="secondnav"><div id="menu_block-1" class="block">
+
+  <div class="content">
+      <ul class="menu level-2"><li class=" first menu-mlid-487 menu-mlid-487"><a href="/about"  class=" menu-mlid-487 level-depth-2">About Let&#039;s Move</a></li>
+<li class="expanded menu-mlid-337 active-trail menu-mlid-337"><a href="/learn-facts/epidemic-childhood-obesity" title="The Epidemic of Childhood Obesity" class="active-trail menu-mlid-337 level-depth-2">The Epidemic of Childhood Obesity</a><ul class="menu level-3"><li class=" first menu-mlid-2371 menu-mlid-2371"><a href="/learn-facts/epidemic-childhood-obesity"  class=" menu-mlid-2371 level-depth-3">Learn the Facts</a></li>
+<li class=" menu-mlid-362 active active-trail menu-mlid-362"><a href="/obesity" title="Getting Started: What is Obesity?" class="active-trail menu-mlid-362 level-depth-3 active">Getting Started: What is Obesity?</a></li>
+<li class=" last menu-mlid-363 menu-mlid-363"><a href="/health-problems-and-childhood-obesity" title="Health Problems and Childhood Obesity" class=" menu-mlid-363 level-depth-3">Health Problems and Childhood Obesity</a></li>
+</ul></li>
+<li class=" menu-mlid-396 menu-mlid-396"><a href="/videos-and-photos" title="Videos and Photos" class=" menu-mlid-396 level-depth-2">Videos and Photos</a></li>
+<li class=" menu-mlid-397 menu-mlid-397"><a href="/white-house-task-force-childhood-obesity-report-president" title="White House Task Force on Childhood Obesity" class=" menu-mlid-397 level-depth-2">White House Task Force on Childhood Obesity</a></li>
+<li class=" menu-mlid-2935 menu-mlid-2935"><a href="/partnership-healthier-america"  class=" menu-mlid-2935 level-depth-2">The Partnership for a Healthier America</a></li>
+<li class=" menu-mlid-761 menu-mlid-761"><a href="/newsroom" title="Newsroom" class=" menu-mlid-761 level-depth-2">Newsroom</a></li>
+<li class=" menu-mlid-400 menu-mlid-400"><a href="/logo-and-usage" title="Let&#039;s Move! Logo and Usage" class=" menu-mlid-400 level-depth-2">Logo and Usage</a></li>
+<li class=" menu-mlid-769 menu-mlid-769"><a href="/initiatives" title="Let’s Move! Programs" class=" menu-mlid-769 level-depth-2">Let&#039;s Move! Programs</a></li>
+<li class=" menu-mlid-768 menu-mlid-768"><a href="/achievements" title="Let&#039;s Move! Accomplishments" class=" menu-mlid-768 level-depth-2">Achievements</a></li>
+<li class=" last menu-mlid-766 menu-mlid-766"><a href="/resources" title="Let&#039;s Move! Stakeholders" class=" menu-mlid-766 level-depth-2">Resources</a></li>
+</ul>  </div>
+</div>
+</div>
+    <div id="maincontent">
+                            
+        <h1 class="maincontent_title">Getting Started: What is Obesity?</h1>        		        <div id="node-3" class="node">
+
+
+  
+  
+  <div class="content">
+    <p>
+	Obesity is defined as excess body fat. Because body fat is difficult to measure directly, obesity is often measured by body mass index (BMI), a common scientific way to screen for whether a person is underweight, normal weight, overweight, or obese.</p>
+<h2>
+	Healthy Weight and Body Mass Index (BMI)</h2>
+<p>
+	BMI measures weight in relation to height and while it is not a perfect indicator of obesity, it is a valuable tool for public health. Adults with a BMI between 18.5 and 24.9 are normal. Adults with a BMI between 25.0 and 29.9 are considered overweight, those with a BMI of 30 or more are considered obese, and those with a BMI of 40 or more are considered extremely obese.</p>
+<p>
+	For children and adolescents, these BMI categories are further divided by sex and age, due to the physical changes that occur during growth and development.</p>
+<p>
+	Growth charts from the Centers for Disease Control and Prevention (CDC) are used to calculate children&rsquo;s BMI. Children and adolescents with a BMI between the 5th and 85th percentile are considered to be a healthy weight. Children in with a BMI between the 85th and 94th percentiles are generally considered to be overweight, and those with a BMI at or above the sex-and age-specific 95th percentile of the population on this growth chart are typically considered obese.</p>
+<h2>
+	What is a Healthy Weight?</h2>
+<p>
+	Determining what is a healthy weight for children is challenging, even with precise measures. BMI is often used as a screening tool- since a BMI in the overweight or obese range often, but not always, indicates that a child is at increased risk for health problems. A clinical assessment and other indicators must also be considered when evaluating a child&rsquo;s overall health and development.</p>
+<p>
+	For children and teens, being overweight is defined differently than it is for adults. Children are still growing, and boys and girls develop at different rates.</p>
+<p>
+	The American Academy of Pediatrics, in collaboration with the broader medical community, is educating doctors and nurses across the country about obesity, to ensure that medical professionals regularly monitor children&rsquo;s BMI, provide counseling for healthier eating; and, for the first-time ever, can write a prescription for parents laying out the simple things they can do to increase healthy eating and active play. You can also learn how to assess your child&#39;s weight at home.</p>
+<h2>
+	Calculate Your Child&rsquo;s BMI Percentile</h2>
+<p>
+	A child&#39;s BMI percentile shows how his or her BMI compared with other boys or girls of the same age. A child or teen that is between the 85th and 95th percentile on the growth chart is considered overweight. A child or teen who is in the 95th percentile or above is considered obese. For children, BMI testing is used to screen them for being overweight, healthy weight, or underweight. It is not a diagnostic tool. For example, a child may have a high BMI for age and gender, but to determine if excess fat is a problem, a medical professional would need to investigate further and perform additional assessments. Talk to your health care provider to learn more.</p>
+<p>
+	<a href="http://apps.nccd.cdc.gov/dnpabmi/"><img alt="" src="/sites/letsmove.gov/files/CDC.jpg" style="width: 500px; height: 73px;" /></a></p>
+  </div>
+
+
+    
+    
+</div>      	    </div> <!-- close maincontent -->
+    
+    <span class="clear"></span>
+    
+    <p class="last">&nbsp;</p>
+  
+  </div><!-- close interior -->
+
+</div><!-- close main -->
+
+	
+	<div id="footer" class="grid_12">
+    <p class="tag"><a href="/">letsmove.obamawhitehouse.archives.gov</a></p>
+<div id="menu-menu-footer-links" class="block">
+
+  <div class="content">
+    <ul class="menu level-1" role="navigation"><li class=" first menu-mlid-1171"><a href="http://www.letsmove.gov/accessibility"  class=" menu-mlid-1171 level-depth-1">Accessibility</a></li>
+<li class=" menu-mlid-1177"><a href="http://www.letsmove.gov/privacy"  class=" menu-mlid-1177 level-depth-1">Privacy Policy</a></li>
+<li class=" menu-mlid-1183"><a href="/newsroom"  class=" menu-mlid-1183 level-depth-1">Newsroom</a></li>
+<li class=" last menu-mlid-1189"><a href="/logo-and-usage"  class=" menu-mlid-1189 level-depth-1">Logos/Link to Us</a></li>
+</ul>  </div>
+</div>
+		<p><a href="//obamawhitehouse.archives.gov/"><img src="/sites/all/themes/letsmove/images/logo_whitehouse.gif" width="37" height="26" alt="The White House" /></a> <a href="http://www.hhs.gov/"><img src="/sites/all/themes/letsmove/images/logo_hhs.gif" width="34" height="32" alt="HHS" /></a> <a href="http://www.usda.gov"><img src="/sites/all/themes/letsmove/images/logo_usda.gif" width="27" height="20" alt="USDA" /></a> <a href="http://www.ed.gov/"><img src="/sites/all/themes/letsmove/images/logo_deptofEd.gif" width="26" height="25" alt="Dept of Education" /></a>
+			 <a href="http://www.doi.gov/"><img src="/sites/all/themes/letsmove/images/DOI_Seal.gif" width="27" height="27" alt="Dept of Interior" /></a></p>
+
+	</div><!-- close footer -->
+	<div class="clear"></div>
+</div><!-- close container_12 -->
+
+
+<div id="closure-blocks" class="region region-closure"><div id="block-13" class="block">
+
+  <div class="content">
+    <script type="text/javascript">
+var images = $('#interior img.imagecache');
+$(images).each(function(){
+  var value = $(this).attr('src');
+  replace = value.replace('edit' , 'www');
+  $(this).attr('src' , replace);
+})
+</script>  </div>
+</div>
+</div>
+
+
+</body>
+</html>

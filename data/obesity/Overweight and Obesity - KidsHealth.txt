@@ -1,0 +1,222 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+			
+		<meta name="description" content="KidsHealth is the #1 most-trusted source for physician-reviewed information and advice on children's health and parenting issues. For parents, kids, teens, and educators, in English and in Spanish."/><meta name="robots" content="noindex,nofollow"/><meta name="keywords" content="..."/><meta name="published_date" content=""/><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta name="notify" content="n"/><meta name="section" content="parents"/><meta name="language" content="english"/><meta name="wrapper_type" content="prePost"/><!--WebTrends Params, Standard Level--><meta name="WT.cg_n" content="Parents"/><meta name="WT.cg_s" content=""/><meta name="WT.ti" content="KidsHealth.org Search Results : "/><!--WebTrends Params, Custom Dimensions--><meta name="WT.z_lic" content="Mothership"/><meta name="WT.z_lang" content="english"/><meta name="WT.z_ver" content="Desktop"/><meta name="kh_content_type" content="other"/><meta name="fusionDataSource" content="kidshealth"/><meta name="kh_language" content="english"/><meta name="kh_section" content="parents"/><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/><meta name="site" content="MOTHERSHIP"/><!--Search Specifics for WebTrends--><meta name="WT.oss" content="health"/><meta name="WT.oss_r" content="2649"/><link type="text/css" rel="stylesheet" href="/misc/css/reset.css"/><!--common_templates.xsl--><link type="text/css" rel="stylesheet" href="/misc/css/mothership/mothershipStyles.css"/><link type="text/css" rel="stylesheet" href="/misc/css/khcontent_style.css"/><link type="text/css" rel="stylesheet" href="/misc/css/mothership/parentStyles.css"/><link type="text/css" rel="stylesheet" href="/misc/css/kh_search.css"/><!--[if lte IE 9]>
+            <style type="text/css">#categoryHeaderDefaultTeens h1, #categoryHeaderDefaultParents h1, #categoryHeaderDefaultKids h1 { background: url(/images/transparencies/20_black.png) !important;filter: none !important; } </style>
+            <![endif]--><!--[if IE 6]>
+					<link rel="stylesheet" type="text/css" href="/misc/css/IE6Styles.css" />
+				<![endif]--><!--[if IE 7]>
+					<link rel="stylesheet" type="text/css" href="/misc/css/IE7Styles.css" />
+				<![endif]--><!--[if IE 6]>
+					<link rel="stylesheet" type="text/css" href="/misc/css/moreResourcesStylesIE6.css" />
+					<![endif]--><!--[if IE 7]>
+					<link rel="stylesheet" type="text/css" href="/misc/css/moreResourcesStylesIE7.css" />
+					<![endif]--><!--[if IE 6]>
+										<link rel="stylesheet" type="text/css" href="/misc/css/parentIE6styles.css" />
+										<![endif]--><!--[if IE 7]>
+										<link rel="stylesheet" type="text/css" href="/misc/css/mothership/parentIE7styles.css" />
+										<![endif]--><script type="text/javascript">
+									KHAdLanguage ="en";
+									KHAdSection ="parent";
+									KHAdCat ="search";
+									KHAdSubCat = "search";
+									KHAdTitle ="";
+									KHCD = ""; // clinical designation aspect
+									KHPCD = ""; // primary clinical designation aspect
+									KHAge = ""; // age aspect
+									KHGenre = ""; // genre aspect
+									KHPCAFull = "pca_en_parents_"; // full gam tag for aspects
+								</script><!--
+									gamtags:-
+									KHCD: 
+									KHPCD: 
+									KHAge: 
+									KHGenre: 
+									Language: en
+									Section: parent
+									Category: search
+									Title: 
+									Full (PCA) Tag: pca_en_parents_--><script type="text/javascript" src="/misc/javascript/includes/jquery-3.2.1.min.js"> </script><script type="text/javascript" src="/misc/javascript/includes/jquery.easy-autocomplete.js"> </script><script type="text/javascript" src="/misc/javascript/mothership/functionality.js"> </script><script type="text/javascript" src="/misc/javascript/srvr/server_month_year.js"> </script><script type="text/javascript" src="/misc/javascript/mothership/kh_headJS.js"> </script><script type="text/javascript" src="/misc/javascript/mothership/kh_headJS_desktop.js"> </script>
+			
+
+		<script type="text/javascript">
+			// ForeSee Staging Embed Script v2.01
+			// DO NOT MODIFY BELOW THIS LINE *****************************************
+			;(function (g) {
+			var d = document, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0], fsr = 'fsReady',
+			aex = {
+			"src": "//gateway.foresee.com/sites/kidshealth/production/gateway.min.js",
+			"type": "text/javascript",
+			"async": "true",
+			"data-vendor": "fs",
+			"data-role": "gateway"
+			};
+			for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g[fsr] || (g[fsr] = function () { var aT = '__' + fsr + '_stk__'; g[aT] = g[aT] || []; g[aT].push(arguments); });
+			})(window);
+			// DO NOT MODIFY ABOVE THIS LINE *****************************************
+		</script><script type="text/javascript">
+			// comment
+			$(document).ready(function() {
+			var options = {
+			url: function(phrase) {
+			if (phrase !== "") {
+			thePhrase = phrase;
+			return "/suggest?fl=*&suggest.cfq=kidshealth&suggest.q=" + phrase + "&rows=2&wt=json&omitHeader=true";
+
+			} else {
+			return "/suggest?fl=*&suggest.cfq=kidshealth&suggest.q=empty&rows=2&wt=json&omitHeader=true";
+			}
+			},
+			requestDelay: 300,
+			listLocation: function(data) {
+			return data.suggest.titleSuggester[thePhrase].suggestions;
+			//return ourPath;
+
+			},
+			getValue: function(element) {
+
+			
+					if($("#searchform input#q").attr("lang")=='en') { var suggLang = 'english';}
+					else {var suggLang = 'spanish';}
+				
+
+			if(element.payload===suggLang) {
+			return element.term;
+			}
+			else {
+			return '';
+			}
+			},
+			list: {
+			match: {
+			enabled: true
+			}
+			},
+			ajaxSettings: {
+			dataType: "json",
+			data: {
+			dataType: "json"
+			}
+			},
+
+			list: {
+			sort: {
+			enabled: true
+			},
+			match: {
+			enabled: true
+			},
+			onClickEvent: function() {
+			$('form#searchform').submit();
+			},
+			onKeyEnterEvent: function() {
+			$('form#searchform').submit();
+			},
+			showAnimation: {
+			type: "fade", //normal|slide|fade
+			time: 400,
+			callback: function() {}
+			},
+			hideAnimation: {
+			type: "slide", //normal|slide|fade
+			time: 400,
+			callback: function() {}
+			},
+			},
+			};
+
+			$("#q").easyAutocomplete(options);
+			});
+		</script><link rel="icon" type="image/png" href="/images/mothership/fav.png"/><!-- Global site tag (gtag.js) - Google Analytics --><script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-117807198-1"> </script><script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-117807198-1');
+		</script><title>KidsHealth.org Search Results : </title></head><body id="mothership" onload=""><!--googleoff:all--><!--[if lte IE 6]><script src="/misc/javascript/ie6Warn/warning2.js"></script><script>window.onload=function(){e("/misc/javascript/ie6Warn/")}</script><![endif]--><div id="skipnavigation"><a class="accessible" href="#mainContentContainer">[Skip to Content]</a></div><div id="kh-background-overlay"> </div><header id="kh-header"><div class="kh-container"><div id="kh-header-section"><div id="kh-logo"><h2><a href="https://kidshealth.org/"><img src="/images/mothership/logos/logo-kidshealth.svg" alt="KidsHealth" onerror="this.onerror=null; this.src='/images/IRParents/layout/kh_parents_logo.png'"/></a></h2></div><nav><ul id="kh-topnav-tabs" class="kh-mobile-hidden"><li data-section="parents"><h3><button id="kh-parents-tab" role="button"><div class="kh-section-text">for Parents</div></button><div class="kh-nav-belowtab"><span class="kh-nav-belowtab-left"> </span><span class="kh-nav-belowtab-right"> </span></div></h3><div id="kh-parents-subnav" class="kh-section-subnav kh-hidden"><div class="kh-subnav-left"><div class="kh-section-icon"><a href="/en/parents/?WT.ac=p2p_tab"><img src="/images/mothership/navigation/nav-parents-icon.png" alt=""/><span class="kh-section-link">Parents site</span></a><div class="kh-section-lang-link"><a href="/es/parents/center/spanish-center-esp.html?WT.ac=p2p-esp" lang="es">Sitio para padres<span class="kh-lang-link-arrow"> </span></a></div></div></div><ul class="kh-subnav-right"><li><a href="/en/parents/general/?WT.ac=p-nav-general">General Health</a></li><li><a href="/en/parents/growth/?WT.ac=p-nav-growth">Growth &amp; Development</a></li><li><a href="/en/parents/infections/?WT.ac=p-nav-infections">Infections</a></li><li><a href="/en/parents/medical/?WT.ac=p-nav-medical">Diseases &amp; Conditions</a></li><li><a href="/en/parents/pregnancy-newborn/?WT.ac=p-nav-pregnancy-newborn">Pregnancy &amp; Baby</a></li><li><a href="/en/parents/nutrition-center/?WT.ac=p-nav-nutrition-center">Nutrition &amp; Fitness</a></li><li><a href="/en/parents/emotions/?WT.ac=p-nav-emotions">Emotions &amp; Behavior</a></li><li><a href="/en/parents/positive/?WT.ac=p-nav-positive">School &amp; Family Life</a></li><li><a href="/en/parents/firstaid-safe/?WT.ac=p-nav-firstaid-safe">First Aid &amp; Safety</a></li><li><a href="/en/parents/system/?WT.ac=p-nav-system">Doctors &amp; Hospitals</a></li><li><a href="/en/parents/videos/?WT.ac=p-nav-videos">Videos</a></li><li><a href="/en/parents/recipes/?WT.ac=p-nav-recipes">Recipes</a></li></ul></div></li><li data-section="kids"><h4><button id="kh-kids-tab" role="button"><div class="kh-section-text">for Kids</div></button><div class="kh-nav-belowtab"><span class="kh-nav-belowtab-left"> </span><span class="kh-nav-belowtab-right"> </span></div></h4><div id="kh-kids-subnav" class="kh-section-subnav kh-hidden"><div class="kh-subnav-left"><div class="kh-section-icon"><a href="/en/kids/?WT.ac=p2k_tab"><img src="/images/mothership/navigation/nav-kids-icon.png" alt=""/><span class="kh-section-link">Kids site</span></a><div class="kh-section-lang-link"><a href="/es/kids/center/spanish-center-esp.html?WT.ac=p2k-esp" lang="es">Sitio para ni&ntilde;os<span class="kh-lang-link-arrow"> </span></a></div></div></div><ul class="kh-subnav-right"><li><a href="/en/kids/center/htbw-main-page.html?WT.ac=k-nav-htbw-main-page">How the Body Works</a></li><li><a href="/en/kids/grow/?WT.ac=k-nav-grow">Puberty &amp; Growing Up</a></li><li><a href="/en/kids/stay-healthy/?WT.ac=k-nav-stay-healthy">Staying Healthy</a></li><li><a href="/en/kids/watch/?WT.ac=k-nav-watch">Staying Safe</a></li><li><a href="/en/kids/recipes/?WT.ac=k-nav-recipes">Recipes &amp; Cooking</a></li><li><a href="/en/kids/health-problems/?WT.ac=k-nav-health-problems">Health Problems</a></li><li><a href="/en/kids/ill-injure/?WT.ac=k-nav-ill-injure">Illnesses &amp; Injuries</a></li><li><a href="/en/kids/center/relax-center.html?WT.ac=k-nav-relax-center">Relax &amp; Unwind</a></li><li><a href="/en/kids/feel-better/?WT.ac=k-nav-feel-better">People, Places &amp; Things That Help</a></li><li><a href="/en/kids/feeling/?WT.ac=k-nav-feeling">Feelings</a></li><li><a href="/en/kids/talk/?WT.ac=k-nav-talk">Expert Answers Q&amp;A</a></li><li><a href="/en/kids/closet/?WT.ac=k-nav-closet">Movies &amp; More</a></li></ul></div></li><li data-section="teens"><h4><button id="kh-teens-tab" role="button"><div class="kh-section-text">for Teens</div></button><div class="kh-nav-belowtab"><span class="kh-nav-belowtab-left"> </span><span class="kh-nav-belowtab-right"> </span></div></h4><div id="kh-teens-subnav" class="kh-section-subnav kh-hidden"><div class="kh-subnav-left"><div class="kh-section-icon"><a href="/en/teens/?WT.ac=p2t_tab"><img src="/images/mothership/navigation/nav-teens-icon.png" alt=""/><span class="kh-section-link">Teens site</span></a><div class="kh-section-lang-link"><a href="/es/teens/center/spanish-center-esp.html?WT.ac=p2t-esp" lang="es">Sitio para adolescentes<span class="kh-lang-link-arrow"> </span></a></div></div></div><ul class="kh-subnav-right"><li><a href="/en/teens/your-body/?WT.ac=t-nav-your-body">Body</a></li><li><a href="/en/teens/your-mind/?WT.ac=t-nav-your-mind">Mind</a></li><li><a href="/en/teens/sexual-health/?WT.ac=t-nav-sexual-health">Sexual Health</a></li><li><a href="/en/teens/food-fitness/?WT.ac=t-nav-food-fitness">Food &amp; Fitness</a></li><li><a href="/en/teens/diseases-conditions/?WT.ac=t-nav-diseases-conditions">Diseases &amp; Conditions</a></li><li><a href="/en/teens/infections/?WT.ac=t-nav-infections">Infections</a></li><li><a href="/en/teens/drug-alcohol/?WT.ac=t-nav-drug-alcohol">Drugs &amp; Alcohol</a></li><li><a href="/en/teens/school-jobs/?WT.ac=t-nav-school-jobs">School &amp; Jobs</a></li><li><a href="/en/teens/sports-center?WT.ac=t-nav-sports-center">Sports</a></li><li><a href="/en/teens/expert/?WT.ac=t-nav-expert">Expert Answers (Q&amp;A)</a></li><li><a href="/en/teens/safety/?WT.ac=t-nav-safety">Staying Safe</a></li><li><a href="/en/teens/videos/?WT.ac=t-nav-videos">Videos</a></li></ul></div></li><li data-section="educators"><h4><a href="http://classroom.kidshealth.org/" target="_blank" id="kh-educators-tab"><div class="kh-section-text">for Educators</div></a></h4></li></ul><button id="kh-nav-menu-icon" data-toggle="collapse" aria-expanded="false" aria-label="Toggle Navigation"/></nav><div id="kh-search"><button id="kh-search-icon" type="button" aria-expanded="false"> </button></div></div></div><div id="kh-subnav-background" class="kh-hidden"><button class="kh-subnav-close" role="button"/></div><div id="kh-search-area"><form id="searchform" name="searchform" method="get" action="/en/parents/"><input type="hidden" name="search" value="y"/><label for="kh-search-lang-select" class="hideOffScreen">Language Selector</label><button id="kh-search-lang-select" type="button" aria-expanded="false"> </button><input type="text" maxlength="256" id="q" name="q" value="health" autocomplete="off" lang="en"/><input type="hidden" name="datasource" value="kidshealth"/><input type="hidden" name="start" value="0"/><input type="hidden" name="rows" value="10"/><input type="hidden" name="lang" value="english"/><input type="hidden" name="section" value="parents_teens_kids"/><input type="submit" value="search" id="searchButton" style="font-size: 0px;"/><div id="kh-search-lang-area"><input type="radio" id="kh-search-lang-eng" name="kh-search-lang-select" value="eng" checked="checked"/><label for="kh-search-lang-eng">English</label><input type="radio" id="kh-search-lang-esp" name="kh-search-lang-select" value="esp"/><label for="kh-search-lang-esp">Espa&ntilde;ol</label></div><div class="ss-gac-m" id="suggestbox"> </div></form></div></header>
+			
+			 
+		<div id="mainContentContainer"><div id="articleHeaderGraphic"><img src="/images/IRSearch/searchResultsHeader.jpg" alt=""/><h1 id="kh-search-results-text">KidsHealth.org Search Results : </h1></div><div id="kh_content"><div id="kh_search_results"><div class="pagination"> <div class="paginationCount">(viewing results 1 to 10)</div><div class="next"><a href="/en/parents/?search=y&amp;q=health&amp;datasource=kidshealth&amp;lang=english&amp;start=10&amp;section=parents_teens_kids">next</a></div></div><ul id="searchResults"><li class="primary"><a href="/en/kids/health-problems?ref=search">Health Problems</a><span class="sectionNamer"> for Kids</span><br class="importantBR"/><p>Even kids can have health problems. Some problems are serious - and some are not so serious. You can get all the info you need about health problems like cancer, asthma, muscular dystrophy, and more.</p></li><li class="primary"><a href="/en/parents/question/general?ref=search">General Health</a><span class="sectionNamer"> for Parents</span><br class="importantBR"/><p>From tonsils to tanning salons, here are answers to common questions parents have about keeping kids healthy.</p></li><li class="primary"><a href="/en/teens/sexual-health?ref=search">Sexual Health</a><span class="sectionNamer"> for Teens</span><br class="importantBR"/><p>Learn the facts about sexual health with articles about puberty, menstruation, infections, and just about everything else you wanted to know, for guys and girls.</p></li><li class="primary"><a href="/en/kids/homework/health?ref=search">School & Health</a><span class="sectionNamer"> for Kids</span><br class="importantBR"/><p>Feeling your best during the school day.</p></li><li class="primary"><a href="/en/teens/your-mind/mental-health?ref=search">Mental Health</a><span class="sectionNamer"> for Teens</span><br class="importantBR"/><p>This section has information on mental health conditions that can affect teens.</p></li><li class="primary"><a href="/en/parents/homework/learning-health?ref=search">Learning & Health</a><span class="sectionNamer"> for Parents</span><br class="importantBR"/><p>Backpack safety, going to school with food allergies, and more!</p></li><li class="primary"><a href="/en/teens/your-body/health-basics?ref=search">Health Basics</a><span class="sectionNamer"> for Teens</span><br class="importantBR"/><p>What's the best way to fend of the flu? How do you fill a prescription? This section has answers on basic health care topics.</p></li><li class="primary"><a href="/en/parents/hearthealth?ref=search">Heart Health</a><span class="sectionNamer"> for Parents</span><br class="importantBR"/><p>Are you heart smart? Learn more about this amazing muscle, including how to care for kids with heart conditions.</p></li><li class="primary"><a href="/en/parents/general?ref=search">General Health</a><span class="sectionNamer"> for Parents</span><br class="importantBR"/><p>Keeping your child healthy is a big job! Read all about common childhood aches, pains, and illnesses, plus how to take care of your child's body from teeth to toes.</p></li><li class="primary"><a href="/en/parents/center/heart-health-center.html?ref=search">Heart Health</a><span class="sectionNamer"> for Parents</span><br class="importantBR"/><p>Are you heart smart? Learn about this amazing muscle, including how to care for kids with heart conditions.</p></li></ul><div class="pagination"> <div class="paginationCount">(viewing results 1 to 10)</div><div class="next"><a href="/en/parents/?search=y&amp;q=health&amp;datasource=kidshealth&amp;lang=english&amp;start=10&amp;section=parents_teens_kids">next</a></div></div></div></div>
+			 
+		</div><div id="kh-footer"><div class="kh-container"><ul id="kh-footer-links"><li><a href="/en/parents/about.html">About Us</a></li><li><a rel="nofollow" href="https://kidshealth.org/en/parents/?view=contactus&amp;WT.ac=cus-en-parents&amp;src=foot" target="_blank">Contact Us</a></li><li><a href="/en/parents/partners.html">Partners</a></li><li><a href="/en/parents/editorial-policy.html">Editorial Policy</a></li><li><a href="/media/permissions/">Permissions Guidelines</a></li><li><a href="/en/parents/policy.html">Privacy Policy &amp; Terms of Use</a></li><li id="footerLastLink"><a href="/en/parents/nondiscrimination.html">Notice of Nondiscrimination</a></li></ul>
+			
+				<ul id="kh-footer-logos">
+					<li id="kh-nemours-footer-logo">
+						<a href="http://www.nemours.org" target="_blank"><img src="/images/mothership/logos/logo-nemours.svg" alt="Visit the Nemours Web site." /></a>
+					</li>
+					<li id="kh-kidshealth-footer-logo">
+						<a href="http://www.kidshealth.org" target="_blank"><img src="/images/mothership/logos/logo-kidshealth.svg" alt="KidsHealth from Nemours" /></a>
+					</li>
+					<li id="kh-brightstart-footer-logo">
+						<a href="http://www.readingbrightstart.org/" target="_blank"><img src="/images/mothership/logos/logo-brightstart.svg" alt="Nemours Reading BrightStart!" /></a>
+					</li>
+				</ul>
+				<div id="NemoursLink">
+					<a href="http://www.nemours.org" target="_blank"><span class="hider">Visit the Nemours Web site.</span></a>
+				</div>
+				<div id="kh-footer-text">
+					<p>Note: All information on KidsHealth&#174; is for educational purposes only. For specific medical advice, diagnoses, and treatment, consult your doctor.</p>
+					<p>&#169; 1995-<script type="text/javascript" language="javascript">document.write(KHcopyDate);</script> The Nemours Foundation. All rights reserved.</p>
+					<p>Images provided by The Nemours Foundation, iStock, Getty Images, Veer, Shutterstock, and Clipart.com.</p>
+				</div>
+			
+			</div></div></div><script type="text/javascript">
+            // WebTrends SmartSource Data Collector Tag v10.4.1
+            // Copyright (c) 2014 Webtrends Inc.  All rights reserved.
+            // Tag Builder Version: 4.1.3.2
+            // Created: 2014.03.27
+            window.webtrendsAsyncInit=function(){
+            var dcs=new Webtrends.dcs().init({
+            dcsid:"dcs222ukuygq6rpvcej27eich_2m7p",
+            domain:"statse.webtrendslive.com",
+            timezone:-5,
+            i18n:true,
+            download:true,
+            downloadtypes:"pdf,doc,docx",
+            anchor:true,
+            metanames:"kh_section,kh_language,kh_content_type,WT.ac,WT.cg_n,WT.cg_s,WT.ti,WT.oss,WT.oss_r",
+            fpcdom:".kidshealth.org",
+            plugins:{
+            //hm:{src:"//s.webtrends.com/js/webtrends.hm.js"},
+            advancedLinkTracking:{
+            src:"/misc/javascript/webtrends/advancedLinkTracking.js",
+            trackers:[
+            {name:"All Links", type:"all_links"}
+            ]
+            }
+            }
+            }).track();
+            };
+            (function(){
+            var s=document.createElement("script"); s.async=true; s.src="/misc/javascript/webtrends/webtrends.min.js";
+            var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+            }());
+        </script><noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcs222ukuygq6rpvcej27eich_2m7p/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.1&amp;dcssip=/en/parents/"/></noscript><script type="text/javascript" src="/misc/javascript/mothership/kh_footJS.js"> </script><script type="text/javascript" src="/misc/javascript/kh_footJS_desktop.js"> </script><script type="text/javascript">
+
+
+			var kidsHealthSearchHandler = "/en/parents/"; // KidsHealth custom search handler
+			var kidsHealthLicID = "1";
+		</script><script type="text/javascript">
+			function downloadJSAtOnload(deferredScriptPath) {
+				var element = document.createElement('script');
+				element.src = deferredScriptPath;
+				document.body.appendChild(element);
+			}
+			if (window.addEventListener) {
+				window.addEventListener('load', downloadJSAtOnload('/misc/javascript/kh_deferredJS.js'), false);
+			}
+			else if (window.attachEvent) {
+				window.attachEvent('onload', downloadJSAtOnload('/misc/javascript/kh_deferredJS.js'), false);
+			}
+			else {
+				window.onload = downloadJSAtOnload('/misc/javascript/kh_deferredJS.js');
+			}
+		</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57f7b410e6207df1" async="async"> </script><script type="text/javascript">
+				var addthis_share = {
+					email_template: "KidsHealth Email Template",
+					url: "https://kidshealth.org/en/parents/",
+					title: "KidsHealth.org Search Results : ",
+					description: "KidsHealth is the #1 most-trusted source for physician-reviewed information and advice on childrens health and parenting issues. For parents, kids, teens, and educators, in English and in Spanish."
+				}
+			</script><script type="text/javascript" src="/misc/javascript/mothership/kh_searchpage.js"> </script><!--googleon:all--></body></html>

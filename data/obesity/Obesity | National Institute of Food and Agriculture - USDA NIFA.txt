@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html class="no-js"  lang="en" dir="ltr" prefix="">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Obesity, defined as having a body mass index over 30, results from factors such as genetics, lifestyle, and access to food. The prevalence of obesity has increased dramatically in the United States since the mid-1970s. More than one-third of adults, 39.8% (over 93.9 million people) and 18.5% (13.7 million) children and adolescents are obese. The Importance of Addressing Obesity This country’s obesity levels are producing staggering increases in health care costs. In the U.S. alone, the condition has resulted in costs of over $147 billion for a single year. The human suffering and health care costs linked to obesity continue to mount. Over the past 30 years, childhood obesity rates in America have tripled; today, nearly one in three children in America is overweight or obese. Estimates show that by 2030, almost half of Americans will be obese. If trends are not reversed, more people will suffer from diabetes at some point in their lives. Others will face chronic obesity-related health problems such as: Heart disease High blood pressure Cancer Asthma NIFA’s Impact Addressing the causes of obesity and finding effective interventions is a priority of USDA research and a key mission area for NIFA. NIFA provides funding and leadership to fight the obesity epidemic by conducting educational programs. We support research to gain new insights into causes and prevention and disseminate that information to help low-income and at-risk communities learn how to make healthier lifestyles and food choices. NIFA initiatives: Help parents foster environments that support healthy choices for pre-school children Provide teenagers with the guidance and information they need to learn healthier eating habits Conduct research to discover the mechanisms of metabolic disorders that contribute to obesity Study the prevalence of trends in rural and urban communities" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://nifa.usda.gov/topic/obesity" />
+<link rel="shortlink" href="https://nifa.usda.gov/taxonomy/term/386" />
+    <title>Obesity | National Institute of Food and Agriculture</title>
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="icon" type="image/x-icon" href="/sites/all/themes/nifa_theme/images/favicon.ico" />
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/sites/all/themes/nifa_theme/images/favicon-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/sites/all/themes/nifa_theme/images/favicon-152.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/all/themes/nifa_theme/images/favicon-144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/sites/all/themes/nifa_theme/images/favicon-120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/nifa_theme/images/favicon-114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/nifa_theme/images/favicon-72.png">
+    <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/nifa_theme/images/favicon-57.png">
+    <link rel="icon" href="/sites/all/themes/nifa_theme/images/favicon-32.png" sizes="32x32">
+    <noscript>
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:100,400,400italic,500,500italic">
+    </noscript>
+    <link rel="stylesheet" href="https://nifa.usda.gov/sites/default/files/css/css_XMICs_O_ldp7RnW9x3jbk1J7PtE5lzviRkgDtHjCwkI.css" media="all" />
+<link rel="stylesheet" href="https://nifa.usda.gov/sites/default/files/css/css__AnA06v-oC191ciXWx5vfLgRNk_F_fmk7Otj9F-gG_o.css" media="all" />
+<style>
+<!--/*--><![CDATA[/*><!--*/
+span.gflag{font-size:16px;padding:1px 0;background-repeat:no-repeat;background-image:url(/sites/all/modules/contrib/gtranslate/gtranslate-files/16.png);}span.gflag img{border:0;margin-top:2px;}.switcher{font-family:Arial;font-size:10pt;text-align:left;cursor:pointer;overflow:hidden;width:163px;line-height:16px;}.switcher a{text-decoration:none;display:block;font-size:10pt;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;border:none;}.switcher a span.gflag{margin-right:3px;padding:0;display:block;float:left;}.switcher .selected{background:#FFFFFF url(/sites/all/modules/contrib/gtranslate/gtranslate-files/switcher.png) repeat-x;position:relative;z-index:9999;}.switcher .selected a{border:1px solid #CCCCCC;background:url(/sites/all/modules/contrib/gtranslate/gtranslate-files/arrow_down.png) 146px center no-repeat;color:#666666;padding:3px 5px;width:151px;}.switcher .selected a:hover{background:#F0F0F0 url(/sites/all/modules/contrib/gtranslate/gtranslate-files/arrow_down.png) 146px center no-repeat;}.switcher .option{position:relative;z-index:9998;border-left:1px solid #CCCCCC;border-right:1px solid #CCCCCC;border-bottom:1px solid #CCCCCC;background-color:#EEEEEE;display:none;width:161px;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;}.switcher .option a{color:#000;padding:3px 5px;}.switcher .option a:hover{background:#FFC;}.switcher .option a.selected{background:#FFC;}#selected_lang_name{float:none;}.l_name{float:none !important;margin:0;}
+
+/*]]>*/-->
+</style>
+
+<!--[if gte IE 9]><!-->
+<link rel="stylesheet" href="https://nifa.usda.gov/sites/default/files/css/css_VSW6TlhRyZ6rRnbf1RTT3tIeX28eGkyPeMLk5mR5GBM.css" media="all" />
+<!--<![endif]-->
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="https://nifa.usda.gov/sites/default/files/css/css_lvgnbOyPVDqV5NRMqsXrck7ZvN4eJuWecR3FjeUv3Po.css" media="all" />
+<![endif]-->
+    <script src="https://nifa.usda.gov/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script src="https://nifa.usda.gov/misc/jquery.once.js?v=1.2"></script>
+<script src="https://nifa.usda.gov/misc/drupal.js?pb9183"></script>
+<script src="https://nifa.usda.gov/sites/all/modules/contrib/admin_menu/admin_devel/admin_devel.js?pb9183"></script>
+<script src="https://nifa.usda.gov/sites/all/modules/contrib/extlink/extlink.js?pb9183"></script>
+<script src="https://nifa.usda.gov/sites/all/modules/contrib/pane/pane.js?pb9183"></script>
+<script>
+
+            jQuery(document).ready(function() {
+              jQuery('div.option a').click(function() {
+                jQuery(this).parent().find('a.selected').removeClass('selected');
+                jQuery(this).addClass('selected');
+               });
+             });
+          
+</script>
+<script src="https://nifa.usda.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?pb9183"></script>
+<script>
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-17551432-1", {"cookieDomain":"auto"});ga("send", "pageview");ga('create', 'UA-27627304-20', 'auto', {'name': 'secondUA'});
+ga(function(secondUA) {
+  secondUA.send('pageview');
+});
+</script>
+<script src="https://nifa.usda.gov/sites/all/themes/nifa_theme/js/TweenMax.min.js?pb9183"></script>
+<script src="https://nifa.usda.gov/sites/all/themes/nifa_theme/js/slick.js?pb9183"></script>
+<script src="https://nifa.usda.gov/sites/all/themes/nifa_theme/js/plyr.js?pb9183"></script>
+<script src="https://nifa.usda.gov/sites/all/themes/nifa_theme/js/mobile-menu.js?pb9183"></script>
+<script src="https://nifa.usda.gov/sites/all/themes/nifa_theme/js/scripts.js?pb9183"></script>
+<script src="https://nifa.usda.gov/sites/all/themes/nifa_theme/js/mainstage.js?pb9183"></script>
+<script>
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nifa_theme","theme_token":"vOXbW1TBQAdsuapDdwa-2ebKyN57gS4ZS681B9BZ1vM","css":{"modules\/book\/book.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/asset\/css\/assets.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"0":1,"sites\/all\/themes\/nifa_theme\/css\/styles.css":1,"sites\/all\/themes\/nifa_theme\/css\/no-mq.css":1},"js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/pane\/pane.js":1,"1":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/themes\/nifa_theme\/js\/TweenMax.min.js":1,"sites\/all\/themes\/nifa_theme\/js\/slick.js":1,"sites\/all\/themes\/nifa_theme\/js\/plyr.js":1,"sites\/all\/themes\/nifa_theme\/js\/mobile-menu.js":1,"sites\/all\/themes\/nifa_theme\/js\/scripts.js":1,"sites\/all\/themes\/nifa_theme\/js\/mainstage.js":1}},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/topic\/obesity\u0026sa=U\u0026ved=0ahUKEwjJhZfip8XdAhWLGJAKHa4eAyk4RhAWCCAwAg\u0026usg=AOvVaw04nH4zgGjHW12IsTV8VlaH":true}});
+</script>
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Open+Sans:400,600,700:latin', 'Roboto:100,400,400italic,500,500italic:latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+  </head>
+  <body class="not-front not-logged-in page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-386 path-topic-obesity section-topic page-panels">
+    <div class="skiplinks">
+      <a href="#main" class="skiplinks__link element-invisible element-focusable">Skip to main content</a>
+    </div>
+        
+<header class="header" role="banner">
+        <div class="region-header layout-constrain clearfix">  <span class="site-name">
+  <a class="site-name__usda-link" href="https://www.usda.gov/">USDA</a>
+  <a class="site-name__link" href="/" rel="home">
+    <div class="site-name__usda">United States Department of Agriculture</div>
+    <h1 class="site-name__text">National Institute of Food and Agriculture</h1>
+  </a>
+</span>
+<div id="block-gtranslate-gtranslate" class="block  block-gtranslate-gtranslate block--gtranslate block--gtranslate-gtranslate">    <h2 class="block__title">GTranslate</h2>
+  <script type="text/javascript">
+/* <![CDATA[ */
+eval(unescape("eval%28function%28p%2Ca%2Cc%2Ck%2Ce%2Cr%29%7Be%3Dfunction%28c%29%7Breturn%28c%3Ca%3F%27%27%3Ae%28parseInt%28c/a%29%29%29+%28%28c%3Dc%25a%29%3E35%3FString.fromCharCode%28c+29%29%3Ac.toString%2836%29%29%7D%3Bif%28%21%27%27.replace%28/%5E/%2CString%29%29%7Bwhile%28c--%29r%5Be%28c%29%5D%3Dk%5Bc%5D%7C%7Ce%28c%29%3Bk%3D%5Bfunction%28e%29%7Breturn%20r%5Be%5D%7D%5D%3Be%3Dfunction%28%29%7Breturn%27%5C%5Cw+%27%7D%3Bc%3D1%7D%3Bwhile%28c--%29if%28k%5Bc%5D%29p%3Dp.replace%28new%20RegExp%28%27%5C%5Cb%27+e%28c%29+%27%5C%5Cb%27%2C%27g%27%29%2Ck%5Bc%5D%29%3Breturn%20p%7D%28%276%207%28a%2Cb%29%7Bn%7B4%282.9%29%7B3%20c%3D2.9%28%22o%22%29%3Bc.p%28b%2Cf%2Cf%29%3Ba.q%28c%29%7Dg%7B3%20c%3D2.r%28%29%3Ba.s%28%5C%27t%5C%27+b%2Cc%29%7D%7Du%28e%29%7B%7D%7D6%20h%28a%29%7B4%28a.8%29a%3Da.8%3B4%28a%3D%3D%5C%27%5C%27%29v%3B3%20b%3Da.w%28%5C%27%7C%5C%27%29%5B1%5D%3B3%20c%3B3%20d%3D2.x%28%5C%27y%5C%27%29%3Bz%283%20i%3D0%3Bi%3Cd.5%3Bi++%294%28d%5Bi%5D.A%3D%3D%5C%27B-C-D%5C%27%29c%3Dd%5Bi%5D%3B4%282.j%28%5C%27k%5C%27%29%3D%3DE%7C%7C2.j%28%5C%27k%5C%27%29.l.5%3D%3D0%7C%7Cc.5%3D%3D0%7C%7Cc.l.5%3D%3D0%29%7BF%286%28%29%7Bh%28a%29%7D%2CG%29%7Dg%7Bc.8%3Db%3B7%28c%2C%5C%27m%5C%27%29%3B7%28c%2C%5C%27m%5C%27%29%7D%7D%27%2C43%2C43%2C%27%7C%7Cdocument%7Cvar%7Cif%7Clength%7Cfunction%7CGTranslateFireEvent%7Cvalue%7CcreateEvent%7C%7C%7C%7C%7C%7Ctrue%7Celse%7CdoGTranslate%7C%7CgetElementById%7Cgoogle_translate_element2%7CinnerHTML%7Cchange%7Ctry%7CHTMLEvents%7CinitEvent%7CdispatchEvent%7CcreateEventObject%7CfireEvent%7Con%7Ccatch%7Creturn%7Csplit%7CgetElementsByTagName%7Cselect%7Cfor%7CclassName%7Cgoog%7Cte%7Ccombo%7Cnull%7CsetTimeout%7C500%27.split%28%27%7C%27%29%2C0%2C%7B%7D%29%29"))
+/* ]]> */
+</script><style type="text/css">
+<!--
+#goog-gt-tt {display:none !important;}
+
+.goog-te-banner-frame {display:none !important;}
+
+.goog-te-menu-value:hover {text-decoration:none !important;}
+
+body {top:0 !important;}
+
+#google_translate_element2 {display:none!important;}
+-->
+</style><div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script><div class="switcher notranslate"><div class="selected"><a href="#" onclick="return false;"><span class="gflag" style="background-position:-0px -0px"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="English" /></span>English</a></div><div class="option"><a href="#" onclick="doGTranslate('en|en');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="English" class="nturl  selected"><span class="gflag" style="background-position:-0px -0px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="English" /></span>English</a><a href="#" onclick="doGTranslate('en|af');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Afrikaans" class="nturl "><span class="gflag" style="background-position:-300px -500px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Afrikaans" /></span>Afrikaans</a><a href="#" onclick="doGTranslate('en|sq');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Albanian" class="nturl "><span class="gflag" style="background-position:-300px -400px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Albanian" /></span>Albanian</a><a href="#" onclick="doGTranslate('en|am');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Amharic" class="nturl "><span class="gflag" style="background-position:-300px -1100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Amharic" /></span>Amharic</a><a href="#" onclick="doGTranslate('en|ar');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Arabic" class="nturl "><span class="gflag" style="background-position:-100px -0px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Arabic" /></span>Arabic</a><a href="#" onclick="doGTranslate('en|hy');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Armenian" class="nturl "><span class="gflag" style="background-position:-400px -600px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Armenian" /></span>Armenian</a><a href="#" onclick="doGTranslate('en|az');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Azerbaijani" class="nturl "><span class="gflag" style="background-position:-500px -600px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Azerbaijani" /></span>Azerbaijani</a><a href="#" onclick="doGTranslate('en|eu');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Basque" class="nturl "><span class="gflag" style="background-position:-600px -600px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Basque" /></span>Basque</a><a href="#" onclick="doGTranslate('en|be');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Belarusian" class="nturl "><span class="gflag" style="background-position:-0px -600px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Belarusian" /></span>Belarusian</a><a href="#" onclick="doGTranslate('en|bn');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Bengali" class="nturl "><span class="gflag" style="background-position:-200px -700px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Bengali" /></span>Bengali</a><a href="#" onclick="doGTranslate('en|bs');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Bosnian" class="nturl "><span class="gflag" style="background-position:-300px -700px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Bosnian" /></span>Bosnian</a><a href="#" onclick="doGTranslate('en|bg');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Bulgarian" class="nturl "><span class="gflag" style="background-position:-200px -0px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Bulgarian" /></span>Bulgarian</a><a href="#" onclick="doGTranslate('en|ca');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Catalan" class="nturl "><span class="gflag" style="background-position:-0px -300px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Catalan" /></span>Catalan</a><a href="#" onclick="doGTranslate('en|ceb');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Cebuano" class="nturl "><span class="gflag" style="background-position:-400px -700px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Cebuano" /></span>Cebuano</a><a href="#" onclick="doGTranslate('en|ny');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Chichewa" class="nturl "><span class="gflag" style="background-position:-200px -1000px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Chichewa" /></span>Chichewa</a><a href="#" onclick="doGTranslate('en|zh-CN');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Chinese (Simplified)" class="nturl "><span class="gflag" style="background-position:-300px -0px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Chinese (Simplified)" /></span>Chinese (Simplified)</a><a href="#" onclick="doGTranslate('en|zh-TW');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Chinese (Traditional)" class="nturl "><span class="gflag" style="background-position:-400px -0px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Chinese (Traditional)" /></span>Chinese (Traditional)</a><a href="#" onclick="doGTranslate('en|co');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Corsican" class="nturl "><span class="gflag" style="background-position:-400px -1100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Corsican" /></span>Corsican</a><a href="#" onclick="doGTranslate('en|hr');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Croatian" class="nturl "><span class="gflag" style="background-position:-500px -0px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Croatian" /></span>Croatian</a><a href="#" onclick="doGTranslate('en|cs');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Czech" class="nturl "><span class="gflag" style="background-position:-600px -0px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Czech" /></span>Czech</a><a href="#" onclick="doGTranslate('en|da');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Danish" class="nturl "><span class="gflag" style="background-position:-700px -0px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Danish" /></span>Danish</a><a href="#" onclick="doGTranslate('en|nl');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Dutch" class="nturl "><span class="gflag" style="background-position:-0px -100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Dutch" /></span>Dutch</a><a href="#" onclick="doGTranslate('en|eo');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Esperanto" class="nturl "><span class="gflag" style="background-position:-500px -700px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Esperanto" /></span>Esperanto</a><a href="#" onclick="doGTranslate('en|et');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Estonian" class="nturl "><span class="gflag" style="background-position:-400px -400px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Estonian" /></span>Estonian</a><a href="#" onclick="doGTranslate('en|tl');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Filipino" class="nturl "><span class="gflag" style="background-position:-100px -300px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Filipino" /></span>Filipino</a><a href="#" onclick="doGTranslate('en|fi');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Finnish" class="nturl "><span class="gflag" style="background-position:-100px -100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Finnish" /></span>Finnish</a><a href="#" onclick="doGTranslate('en|fr');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="French" class="nturl "><span class="gflag" style="background-position:-200px -100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="French" /></span>French</a><a href="#" onclick="doGTranslate('en|fy');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Frisian" class="nturl "><span class="gflag" style="background-position:-600px -1200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Frisian" /></span>Frisian</a><a href="#" onclick="doGTranslate('en|gl');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Galician" class="nturl "><span class="gflag" style="background-position:-500px -400px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Galician" /></span>Galician</a><a href="#" onclick="doGTranslate('en|ka');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Georgian" class="nturl "><span class="gflag" style="background-position:-700px -600px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Georgian" /></span>Georgian</a><a href="#" onclick="doGTranslate('en|de');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="German" class="nturl "><span class="gflag" style="background-position:-300px -100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="German" /></span>German</a><a href="#" onclick="doGTranslate('en|el');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Greek" class="nturl "><span class="gflag" style="background-position:-400px -100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Greek" /></span>Greek</a><a href="#" onclick="doGTranslate('en|gu');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Gujarati" class="nturl "><span class="gflag" style="background-position:-600px -700px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Gujarati" /></span>Gujarati</a><a href="#" onclick="doGTranslate('en|ha');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Hausa" class="nturl "><span class="gflag" style="background-position:-700px -700px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Hausa" /></span>Hausa</a><a href="#" onclick="doGTranslate('en|haw');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Hawaiian" class="nturl "><span class="gflag" style="background-position:-500px -1100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Hawaiian" /></span>Hawaiian</a><a href="#" onclick="doGTranslate('en|iw');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Hebrew" class="nturl "><span class="gflag" style="background-position:-200px -300px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Hebrew" /></span>Hebrew</a><a href="#" onclick="doGTranslate('en|hi');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Hindi" class="nturl "><span class="gflag" style="background-position:-500px -100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Hindi" /></span>Hindi</a><a href="#" onclick="doGTranslate('en|hmn');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Hmong" class="nturl "><span class="gflag" style="background-position:-0px -800px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Hmong" /></span>Hmong</a><a href="#" onclick="doGTranslate('en|hu');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Hungarian" class="nturl "><span class="gflag" style="background-position:-600px -400px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Hungarian" /></span>Hungarian</a><a href="#" onclick="doGTranslate('en|is');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Icelandic" class="nturl "><span class="gflag" style="background-position:-100px -600px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Icelandic" /></span>Icelandic</a><a href="#" onclick="doGTranslate('en|ig');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Igbo" class="nturl "><span class="gflag" style="background-position:-100px -800px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Igbo" /></span>Igbo</a><a href="#" onclick="doGTranslate('en|id');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Indonesian" class="nturl "><span class="gflag" style="background-position:-300px -300px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Indonesian" /></span>Indonesian</a><a href="#" onclick="doGTranslate('en|ga');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Irish" class="nturl "><span class="gflag" style="background-position:-600px -500px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Irish" /></span>Irish</a><a href="#" onclick="doGTranslate('en|it');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Italian" class="nturl "><span class="gflag" style="background-position:-600px -100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Italian" /></span>Italian</a><a href="#" onclick="doGTranslate('en|ja');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Japanese" class="nturl "><span class="gflag" style="background-position:-700px -100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Japanese" /></span>Japanese</a><a href="#" onclick="doGTranslate('en|jw');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Javanese" class="nturl "><span class="gflag" style="background-position:-200px -800px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Javanese" /></span>Javanese</a><a href="#" onclick="doGTranslate('en|kn');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Kannada" class="nturl "><span class="gflag" style="background-position:-300px -800px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Kannada" /></span>Kannada</a><a href="#" onclick="doGTranslate('en|kk');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Kazakh" class="nturl "><span class="gflag" style="background-position:-300px -1000px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Kazakh" /></span>Kazakh</a><a href="#" onclick="doGTranslate('en|km');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Khmer" class="nturl "><span class="gflag" style="background-position:-400px -800px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Khmer" /></span>Khmer</a><a href="#" onclick="doGTranslate('en|ku');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Kurdish (Kurmanji)" class="nturl "><span class="gflag" style="background-position:-600px -1100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Kurdish (Kurmanji)" /></span>Kurdish (Kurmanji)</a><a href="#" onclick="doGTranslate('en|ky');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Kyrgyz" class="nturl "><span class="gflag" style="background-position:-700px -1100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Kyrgyz" /></span>Kyrgyz</a><a href="#" onclick="doGTranslate('en|lo');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Lao" class="nturl "><span class="gflag" style="background-position:-500px -800px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Lao" /></span>Lao</a><a href="#" onclick="doGTranslate('en|la');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Latin" class="nturl "><span class="gflag" style="background-position:-600px -800px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Latin" /></span>Latin</a><a href="#" onclick="doGTranslate('en|lv');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Latvian" class="nturl "><span class="gflag" style="background-position:-400px -300px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Latvian" /></span>Latvian</a><a href="#" onclick="doGTranslate('en|lt');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Lithuanian" class="nturl "><span class="gflag" style="background-position:-500px -300px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Lithuanian" /></span>Lithuanian</a><a href="#" onclick="doGTranslate('en|lb');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Luxembourgish" class="nturl "><span class="gflag" style="background-position:-0px -1200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Luxembourgish" /></span>Luxembourgish</a><a href="#" onclick="doGTranslate('en|mk');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Macedonian" class="nturl "><span class="gflag" style="background-position:-200px -600px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Macedonian" /></span>Macedonian</a><a href="#" onclick="doGTranslate('en|mg');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Malagasy" class="nturl "><span class="gflag" style="background-position:-400px -1000px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Malagasy" /></span>Malagasy</a><a href="#" onclick="doGTranslate('en|ms');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Malay" class="nturl "><span class="gflag" style="background-position:-400px -500px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Malay" /></span>Malay</a><a href="#" onclick="doGTranslate('en|ml');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Malayalam" class="nturl "><span class="gflag" style="background-position:-500px -1000px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Malayalam" /></span>Malayalam</a><a href="#" onclick="doGTranslate('en|mt');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Maltese" class="nturl "><span class="gflag" style="background-position:-700px -400px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Maltese" /></span>Maltese</a><a href="#" onclick="doGTranslate('en|mi');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Maori" class="nturl "><span class="gflag" style="background-position:-700px -800px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Maori" /></span>Maori</a><a href="#" onclick="doGTranslate('en|mn');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Mongolian" class="nturl "><span class="gflag" style="background-position:-100px -900px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Mongolian" /></span>Mongolian</a><a href="#" onclick="doGTranslate('en|my');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Myanmar (Burmese)" class="nturl "><span class="gflag" style="background-position:-100px -1000px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Myanmar (Burmese)" /></span>Myanmar (Burmese)</a><a href="#" onclick="doGTranslate('en|ne');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Nepali" class="nturl "><span class="gflag" style="background-position:-200px -900px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Nepali" /></span>Nepali</a><a href="#" onclick="doGTranslate('en|no');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Norwegian" class="nturl "><span class="gflag" style="background-position:-100px -200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Norwegian" /></span>Norwegian</a><a href="#" onclick="doGTranslate('en|ps');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Pashto" class="nturl "><span class="gflag" style="background-position:-100px -1200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Pashto" /></span>Pashto</a><a href="#" onclick="doGTranslate('en|fa');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Persian" class="nturl "><span class="gflag" style="background-position:-200px -500px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Persian" /></span>Persian</a><a href="#" onclick="doGTranslate('en|pl');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Polish" class="nturl "><span class="gflag" style="background-position:-200px -200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Polish" /></span>Polish</a><a href="#" onclick="doGTranslate('en|pt');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Portuguese" class="nturl "><span class="gflag" style="background-position:-300px -200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Portuguese" /></span>Portuguese</a><a href="#" onclick="doGTranslate('en|pa');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Punjabi" class="nturl "><span class="gflag" style="background-position:-300px -900px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Punjabi" /></span>Punjabi</a><a href="#" onclick="doGTranslate('en|ro');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Romanian" class="nturl "><span class="gflag" style="background-position:-400px -200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Romanian" /></span>Romanian</a><a href="#" onclick="doGTranslate('en|ru');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Russian" class="nturl "><span class="gflag" style="background-position:-500px -200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Russian" /></span>Russian</a><a href="#" onclick="doGTranslate('en|sm');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Samoan" class="nturl "><span class="gflag" style="background-position:-200px -1200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Samoan" /></span>Samoan</a><a href="#" onclick="doGTranslate('en|gd');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Scottish Gaelic" class="nturl "><span class="gflag" style="background-position:-300px -1200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Scottish Gaelic" /></span>Scottish Gaelic</a><a href="#" onclick="doGTranslate('en|sr');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Serbian" class="nturl "><span class="gflag" style="background-position:-600px -300px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Serbian" /></span>Serbian</a><a href="#" onclick="doGTranslate('en|st');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Sesotho" class="nturl "><span class="gflag" style="background-position:-700px -1000px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Sesotho" /></span>Sesotho</a><a href="#" onclick="doGTranslate('en|sn');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Shona" class="nturl "><span class="gflag" style="background-position:-400px -1200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Shona" /></span>Shona</a><a href="#" onclick="doGTranslate('en|sd');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Sindhi" class="nturl "><span class="gflag" style="background-position:-500px -1200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Sindhi" /></span>Sindhi</a><a href="#" onclick="doGTranslate('en|si');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Sinhala" class="nturl "><span class="gflag" style="background-position:-600px -1000px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Sinhala" /></span>Sinhala</a><a href="#" onclick="doGTranslate('en|sk');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Slovak" class="nturl "><span class="gflag" style="background-position:-700px -300px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Slovak" /></span>Slovak</a><a href="#" onclick="doGTranslate('en|sl');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Slovenian" class="nturl "><span class="gflag" style="background-position:-0px -400px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Slovenian" /></span>Slovenian</a><a href="#" onclick="doGTranslate('en|so');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Somali" class="nturl "><span class="gflag" style="background-position:-400px -900px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Somali" /></span>Somali</a><a href="#" onclick="doGTranslate('en|es');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Spanish" class="nturl "><span class="gflag" style="background-position:-600px -200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Spanish" /></span>Spanish</a><a href="#" onclick="doGTranslate('en|su');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Sudanese" class="nturl "><span class="gflag" style="background-position:-0px -1100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Sudanese" /></span>Sudanese</a><a href="#" onclick="doGTranslate('en|sw');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Swahili" class="nturl "><span class="gflag" style="background-position:-500px -500px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Swahili" /></span>Swahili</a><a href="#" onclick="doGTranslate('en|sv');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Swedish" class="nturl "><span class="gflag" style="background-position:-700px -200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Swedish" /></span>Swedish</a><a href="#" onclick="doGTranslate('en|tg');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Tajik" class="nturl "><span class="gflag" style="background-position:-100px -1100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Tajik" /></span>Tajik</a><a href="#" onclick="doGTranslate('en|te');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Telugu" class="nturl "><span class="gflag" style="background-position:-600px -900px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Telugu" /></span>Telugu</a><a href="#" onclick="doGTranslate('en|th');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Thai" class="nturl "><span class="gflag" style="background-position:-0px -500px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Thai" /></span>Thai</a><a href="#" onclick="doGTranslate('en|tr');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Turkish" class="nturl "><span class="gflag" style="background-position:-100px -500px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Turkish" /></span>Turkish</a><a href="#" onclick="doGTranslate('en|uk');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Ukrainian" class="nturl "><span class="gflag" style="background-position:-100px -400px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Ukrainian" /></span>Ukrainian</a><a href="#" onclick="doGTranslate('en|ur');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Urdu" class="nturl "><span class="gflag" style="background-position:-100px -700px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Urdu" /></span>Urdu</a><a href="#" onclick="doGTranslate('en|uz');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Uzbek" class="nturl "><span class="gflag" style="background-position:-200px -1100px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Uzbek" /></span>Uzbek</a><a href="#" onclick="doGTranslate('en|vi');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Vietnamese" class="nturl "><span class="gflag" style="background-position:-200px -400px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Vietnamese" /></span>Vietnamese</a><a href="#" onclick="doGTranslate('en|cy');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Welsh" class="nturl "><span class="gflag" style="background-position:-700px -500px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Welsh" /></span>Welsh</a><a href="#" onclick="doGTranslate('en|xh');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Xhosa" class="nturl "><span class="gflag" style="background-position:-700px -1200px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Xhosa" /></span>Xhosa</a><a href="#" onclick="doGTranslate('en|yi');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Yiddish" class="nturl "><span class="gflag" style="background-position:-300px -600px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Yiddish" /></span>Yiddish</a><a href="#" onclick="doGTranslate('en|yo');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Yoruba" class="nturl "><span class="gflag" style="background-position:-700px -900px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Yoruba" /></span>Yoruba</a><a href="#" onclick="doGTranslate('en|zu');jQuery(this).parent().parent().find('div.selected a').html(jQuery(this).html());return false;" title="Zulu" class="nturl "><span class="gflag" style="background-position:-0px -1000px;"><img src="/sites/all/modules/contrib/gtranslate/gtranslate-files/blank.png" height="16" width="16" alt="Zulu" /></span>Zulu</a></div></div>  </div><nav id="block-menu-block-2" class="block block--menu-secondary-menu block--menu-block block--menu-block-2" role="navigation" >      <ul class="nav nav--menu-secondary-menu nav--menu-block-2">
+  <li class="nav__item has-children"><a href="/about-nifa" class="nav__link">About</a></li>
+<li class="nav__item has-children"><a href="/tools" class="nav__link">Tools</a></li>
+<li class="nav__item"><a href="/data" class="nav__link">Data Gateway</a></li>
+<li class="nav__item has-children"><a href="/budget-legislation" class="nav__link">Budget &amp; Legislation</a></li>
+<li class="nav__item"><a href="/contact-us" class="nav__link">Contact</a></li>
+</ul>
+  </nav>  </div>  </header>
+
+    <div class="region-navigation">  <div class="layout-constrain">
+  <nav id="block-menu-block-1" class="block block--main-menu clearfix block--menu-block block--menu-block-1" role="navigation" >      <ul class="nav nav--main-menu nav--menu-block-1">
+  <li class="nav__item"><a href="/" title="" class="nav__link">Home</a></li>
+<li class="nav__item has-children is-active-trail"><a href="/topics" title="" class="nav__link is-active-trail">Topics</a></li>
+<li class="nav__item"><a href="/programs" class="nav__link">Programs</a></li>
+<li class="nav__item has-children"><a href="/grants" class="nav__link">Grants</a></li>
+<li class="nav__item has-children"><a href="/newsroom" class="nav__link">Newsroom</a></li>
+<li class="nav__item"><a href="/impacts" class="nav__link">Impacts</a></li>
+<li class="nav__item has-children"><a href="/resources" class="nav__link">Resources</a></li>
+<li class="nav__item"><a href="/search" class="nav__link search__link">Search</a></li>
+</ul>
+  </nav><div id="block-search-form" class="block block--search-dropdown block--search block--search-form">      <form action="/topic/obesity&amp;sa=U&amp;ved=0ahUKEwjJhZfip8XdAhWLGJAKHa4eAyk4RhAWCCAwAg&amp;usg=AOvVaw04nH4zgGjHW12IsTV8VlaH" method="post" id="search-block-form" accept-charset="UTF-8"><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-item--searchfield form-item--search-block-form">
+  <label class="form-item__label element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Keywords" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search" />
+</div>
+<div class="form-actions" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="button button--submit" /></div><input type="hidden" name="form_build_id" value="form-hGNC4pkshwdF3bddXUF5a8Lkjp6XWU16AbNsrg58IA0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</form>  </div>	</div>
+  </div>
+            <nav class="breadcrumb" role="navigation"><h2 class="breadcrumb__title">You are here</h2><ol class="breadcrumb__list layout-constrain"><li class="breadcrumb__item"><a href="/topics">Topics</a></li> <li class="breadcrumb__item">Current page</li></ol></nav>        <div class="view view--section-banner view--id-section_banner view--display-id-section_banner section-banner view--dom-id-2543443136f78d12a6e33a902eb6f890 view-section-banner view-id-section_banner view-display-id-section_banner view-dom-id-2543443136f78d12a6e33a902eb6f890">
+  
+  
+  
+  
+  
+  
+      
+
+        
+          <div class="section-banner" style="background-image: url(https://nifa.usda.gov/sites/default/files/section/Topics_Obesity_Banner_iStock_000017352519Medium_resized.jpg);"></div>    
+  
+  
+  
+  
+  
+  
+</div>
+    
+      <main id="main" class="main clearfix" role="main" tabindex="-1">
+  
+    
+    
+        
+<div class="layout-page clearfix has-sidebar">
+  <div class="layout-constrain">
+    <div class="layout-listing__row clearfix">
+      <div class="layout-page__main clearfix">        <article class="taxonomy-term vocabulary-topic view-mode-full taxonomy-term--topic taxonomy-term--full" role="article">
+      <h1 class="taxonomy-term__title">Obesity</h1>  
+  
+  <p>Obesity, defined as having a <a href="/glossary#B">body mass index</a> over 30, results from factors such as genetics, lifestyle, and access to food. The prevalence of obesity has increased dramatically in the United States since the mid-1970s. More than <a href="https://www.cdc.gov/obesity/data/adult.html">one-third of adults</a>, 39.8% (over 93.9 million people) and 18.5% (13.7 million) <a href="https://www.cdc.gov/obesity/data/childhood.html">children and adolescents</a> are obese.</p>
+
+<h2>The Importance of Addressing Obesity</h2>
+
+<p>This country’s obesity levels are producing staggering increases in health care costs. In the U.S. alone, the condition has resulted in costs of over <a href="https://www.cdc.gov/obesity/data/adult.html">$147 billion</a> for a single year. The human suffering and health care costs linked to obesity continue to mount. Over the past 30 years, <a href="https://letsmove.obamawhitehouse.archives.gov/learn-facts/epidemic-childhood-obesity">childhood obesity rates in America have tripled</a>; today, nearly one in three children in America is overweight or obese. Estimates show that by 2030, almost half of Americans will be obese. If trends are not reversed, more people will suffer from diabetes at some point in their lives. Others will face chronic obesity-related health problems such as:</p>
+
+<ul>
+	<li>Heart disease</li>
+	<li>High blood pressure</li>
+	<li>Cancer</li>
+	<li>Asthma</li>
+</ul>
+
+<h2>NIFA’s Impact</h2>
+
+<p>Addressing the causes of obesity and finding effective interventions is a priority of USDA research and a key mission area for NIFA. NIFA provides funding and leadership to fight the obesity epidemic by conducting educational programs. We support research to gain new insights into causes and prevention and disseminate that information to help low-income and at-risk communities learn how to make healthier lifestyles and food choices.</p>
+
+<p>NIFA initiatives:</p>
+
+<ul>
+	<li>Help parents foster environments that support healthy choices for pre-school children</li>
+	<li>Provide teenagers with the guidance and information they need to learn healthier eating habits</li>
+	<li>Conduct research to discover the mechanisms of metabolic disorders that contribute to obesity</li>
+	<li>Study the prevalence of trends in rural and urban communities</li>
+</ul>
+<p class="field"><div class="field__label field__label--inline">Primary Point of Contact:</div><a href="/staff-contact/deirdra-chester-phd-rdn">Deirdra Chester, Ph.D., RDN</a></p></article>
+      </div>
+      <div class="layout-page__sidebar clearfix">        <div class="pane pane--menu-block-6">
+
+  
+      
+  <div class="pane__content">
+    <ul class="nav nav--sidebar-menu">
+  <li class="nav__item has-children"><a href="/topic/advanced-technologies" class="nav__link">Advanced Technologies</a></li>
+<li class="nav__item has-children"><a href="/topic/animals" class="nav__link">Animals </a></li>
+<li class="nav__item has-children"><a href="/topic/business-and-economics" class="nav__link">Business and Economics</a></li>
+<li class="nav__item has-children"><a href="/topic/education" class="nav__link">Education</a></li>
+<li class="nav__item has-children"><a href="/topic/environment" class="nav__link">Environment</a></li>
+<li class="nav__item has-children"><a href="/topic/farming-and-ranching" class="nav__link">Farming and Ranching</a></li>
+<li class="nav__item has-children"><a href="/topic/food-science" class="nav__link">Food Science</a></li>
+<li class="nav__item is-active-trail has-children has-subnav"><a href="/topic/health" class="nav__link is-active-trail">Health</a><ul class="nav nav--subnav"><li class="nav__item"><a href="/topic/nutrition" class="nav__link">Nutrition</a></li>
+<li class="nav__item is-active-trail is-active"><a href="/topic/obesity" class="nav__link is-active-trail is-active">Obesity</a></li>
+<li class="nav__item"><a href="/topic/wellness" class="nav__link">Wellness</a></li>
+</ul></li>
+<li class="nav__item has-children"><a href="/topic/human-sciences" class="nav__link">Human Sciences</a></li>
+<li class="nav__item has-children"><a href="/topic/international" class="nav__link">International</a></li>
+<li class="nav__item has-children"><a href="/topic/natural-resources" class="nav__link">Natural Resources</a></li>
+<li class="nav__item has-children"><a href="/topic/plants" class="nav__link">Plants</a></li>
+</ul>
+  </div>
+
+  
+  
+  
+</div>
+      </div>    </div>
+</div>
+
+<h2 class="related-heading">Related Content</h2><div class="layout-page__footer clearfix has-3-cols"><div class="layout-constrain"><div class="layout-listing__row clearfix">      <div class="layout-page__footer-column">        <div class="pane pane--latest-related-content" >      
+              <h3 class="pane__title">Latest Programs</h3>
+        
+    
+          <div class="view view--latest-related-content view--id-latest_related_content view--display-id-latest_program view--dom-id-d0ecf8e76df4def4966db6de0783bc23 view-latest-related-content view-id-latest_related_content view-display-id-latest_program view-dom-id-d0ecf8e76df4def4966db6de0783bc23">
+  
+  
+  
+  
+  
+  
+          <ul>          <li class="">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/program/regional-nutrition-education-and-obesity-prevention-centers-excellence-rnece">Regional Nutrition Education and Obesity Prevention Centers of Excellence (RNECE)</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/program/afri-childhood-obesity-prevention-challenge-area">AFRI Childhood Obesity Prevention Challenge Area</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/program/expanded-food-and-nutrition-education-program-efnep">Expanded Food and Nutrition Education Program (EFNEP)</a></span>  </div></li>
+      </ul>  
+  
+  
+  
+  
+  
+</div>
+    
+    
+      </div>      </div>
+      <div class="layout-page__footer-column">        <div class="pane pane--latest-related-content" >      
+              <h3 class="pane__title">Latest Funding Opportunities</h3>
+        
+    
+          <div class="view view--latest-related-content view--id-latest_related_content view--display-id-latest_funding_opportunity view--dom-id-1e4a18444d7bd88457a20e23a4b6bdc5 view-latest-related-content view-id-latest_related_content view-display-id-latest_funding_opportunity view-dom-id-1e4a18444d7bd88457a20e23a4b6bdc5">
+  
+  
+  
+  
+  
+  
+          <ul>          <li class="">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funding-opportunity/supplemental-nutrition-assistance-program-and-expanded-food-and-nutrition">Supplemental Nutrition Assistance Program and Expanded Food and Nutrition Education Program (SNAP &amp; EFNEP): Regional Nutrition Education and Obesity Prevention Centers of Excellence (RNECE)</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funding-opportunity/agriculture-and-food-research-initiative-childhood-obesity-prevention-challenge"> Agriculture and Food Research Initiative - Childhood Obesity Prevention Challenge Area</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/funding-opportunity/agriculture-and-food-research-initiative-education-workforce-development">Agriculture and Food Research Initiative Education and Workforce Development</a></span>  </div></li>
+      </ul>  
+  
+  
+  
+  
+  
+</div>
+    
+    
+      </div>      </div>
+                    
+      <div class="layout-page__footer-column">        <div class="pane pane--latest-related-content" >      
+              <h3 class="pane__title">Latest Blogs</h3>
+        
+    
+          <div class="view view--latest-related-content view--id-latest_related_content view--display-id-latest_blog view--dom-id-d6018947f73c604a86611730f9477efc view-latest-related-content view-id-latest_related_content view-display-id-latest_blog view-dom-id-d6018947f73c604a86611730f9477efc">
+  
+  
+  
+  
+  
+  
+          <ul>          <li class="">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/national-ag-day-giving-thanks-agriculture-farm-fork">National Ag Day: Giving Thanks for Agriculture, From Farm to Fork </a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/high-five-nifa-programs-help-you-know-your-farmerknow-your-food">High Five: NIFA Programs Help You to Know Your Farmer/Know Your Food</a></span>  </div></li>
+          <li class="">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/investments-efnep-pay-big-dividends-now-and-future">Investments in EFNEP Pay Big Dividends, Now and in the Future</a></span>  </div></li>
+      </ul>  
+  
+  
+  
+  
+  
+</div>
+    
+    
+      </div>      </div></div></div></div>    </main>
+
+
+  <footer class="footer" role="contentinfo">
+      <div class="region-footer">  <nav id="block-menu-block-4" class="block block--menu-footer-menu block--menu-block block--menu-block-4" role="navigation" >      <ul class="nav nav--menu-footer-menu nav--menu-block-4">
+  <li class="nav__item has-children has-subnav"><a href="/grants" class="nav__link">Grants</a><ul class="nav nav--subnav"><li class="nav__item"><a href="/page/search-grant" class="nav__link">Search for a Funding Opportunity</a></li>
+<li class="nav__item"><a href="/apply-grant" class="nav__link">Apply for a Grant</a></li>
+<li class="nav__item"><a href="/wait-notification" class="nav__link">Wait for Grant Notification </a></li>
+<li class="nav__item"><a href="https://nifa.usda.gov/grant-payments" class="nav__link">Grant Payments</a></li>
+<li class="nav__item"><a href="/manage-grant" class="nav__link">Manage a Grant </a></li>
+<li class="nav__item"><a href="/close-grant" class="nav__link">Close a Grant</a></li>
+</ul></li>
+<li class="nav__item has-children has-subnav"><a href="/programs" class="nav__link">Programs</a><ul class="nav nav--subnav"><li class="nav__item"><a href="/program/agriculture-and-food-research-initiative-afri" class="nav__link">AFRI</a></li>
+<li class="nav__item"><a href="/program/small-business-innovation-research-program-sbir" class="nav__link">SBIR</a></li>
+<li class="nav__item"><a href="/program/beginning-farmer-and-rancher-development-program-bfrdp" class="nav__link">BFRDP</a></li>
+<li class="nav__item"><a href="/program/community-food-projects-competitive-grant-program-cfpcgp" class="nav__link">CFP</a></li>
+</ul></li>
+<li class="nav__item has-children has-subnav"><a href="/newsroom" class="nav__link">Newsroom</a><ul class="nav nav--subnav"><li class="nav__item"><a href="/newsroom?f%5B0%5D=type%3Aannouncement" class="nav__link">Announcements</a></li>
+<li class="nav__item"><a href="/newsroom?f%5B0%5D=type%3Apress_release" class="nav__link">Press Releases</a></li>
+<li class="nav__item"><a href="/newsroom?f%5B0%5D=type%3Ablog" class="nav__link">Blogs</a></li>
+<li class="nav__item"><a href="/newsroom?f%5B0%5D=field_resource_type%3A40" class="nav__link">Speeches</a></li>
+</ul></li>
+<li class="nav__item has-children has-subnav"><a href="/resources" class="nav__link">Resources</a><ul class="nav nav--subnav"><li class="nav__item"><a href="/calendar" class="nav__link">Calendar</a></li>
+<li class="nav__item"><a href="/resources?f%5B0%5D=field_resource_type%3A17" class="nav__link">Brochures</a></li>
+<li class="nav__item"><a href="/resources?f%5B0%5D=field_resource_type%3A15" class="nav__link">Factsheets</a></li>
+<li class="nav__item"><a href="/resources?f%5B0%5D=field_resource_type%3A19" class="nav__link">Videos</a></li>
+<li class="nav__item"><a href="/resources?f%5B0%5D=field_resource_type%3A18" class="nav__link">Webinars</a></li>
+<li class="nav__item"><a href="/archive" class="nav__link">Archive</a></li>
+</ul></li>
+<li class="nav__item has-children has-subnav"><a href="/tools" class="nav__link">Tools </a><ul class="nav nav--subnav"><li class="nav__item"><a href="/tool/peer-review-system" class="nav__link">PRS</a></li>
+<li class="nav__item"><a href="/tool/reeport" class="nav__link">REEport </a></li>
+<li class="nav__item"><a href="/tool/pow" class="nav__link">POW</a></li>
+<li class="nav__item"><a href="/tool/lmd" class="nav__link">LMD</a></li>
+<li class="nav__item"><a href="/tool/cris" class="nav__link">CRIS</a></li>
+</ul></li>
+<li class="nav__item has-children has-subnav"><a href="/search" class="nav__link">Search</a><ul class="nav nav--subnav"><li class="nav__item"><a href="/program/capacity-grants" class="nav__link">Capacity Grants</a></li>
+<li class="nav__item"><a href="http://nifa.usda.gov/organizational-structure" class="nav__link">Organization Chart</a></li>
+<li class="nav__item"><a href="/glossary" class="nav__link">Glossary</a></li>
+<li class="nav__item"><a href="/land-grant-colleges-and-universities-partner-website-directory" class="nav__link">Land-Grant University Website Directory</a></li>
+<li class="nav__item"><a href="https://nifa.usda.gov/site-map" title="Sitemap" target="_blank" class="nav__link">Sitemap</a></li>
+</ul></li>
+</ul>
+  </nav><nav id="block-menu-block-3" class="block block--menu-legal-menu layout-constrain block--menu-block block--menu-block-3" role="navigation" >      <ul class="nav nav--menu-legal-menu nav--menu-block-3">
+  <li class="nav__item"><a href="https://www.usda.gov/" class="nav__link">USDA.gov</a></li>
+<li class="nav__item"><a href="https://www.usda.gov/policies-and-links" class="nav__link">Policies &amp; Links</a></li>
+<li class="nav__item"><a href="/strategic-plan" class="nav__link">Our Performance </a></li>
+<li class="nav__item"><a href="https://www.usda.gov/oig/contractorform.htm" class="nav__link"> Report Fraud on USDA Contracts</a></li>
+<li class="nav__item"><a href="https://www.usda.gov/oig/" class="nav__link">OIG</a></li>
+<li class="nav__item"><a href="https://www.usda.gov/plain-writing" class="nav__link">Plain Writing</a></li>
+<li class="nav__item"><a href="https://www.usda.gov/open" class="nav__link">Open</a></li>
+<li class="nav__item"><a href="https://nifa.usda.gov/foia" class="nav__link">FOIA</a></li>
+<li class="nav__item"><a href="https://www.usda.gov/accessibility-statement" class="nav__link">Accessibility and Plug-ins</a></li>
+<li class="nav__item"><a href="https://www.usda.gov/privacy-policy" class="nav__link">Privacy Policy </a></li>
+<li class="nav__item"><a href="https://www.usda.gov/non-discrimination-statement" class="nav__link">Non-Discrimination Statement</a></li>
+<li class="nav__item"><a href="https://nifa.usda.gov/resource/usda-information-quality" class="nav__link">Information Quality </a></li>
+<li class="nav__item"><a href="https://www.usa.gov/" class="nav__link">USA.gov</a></li>
+<li class="nav__item"><a href="https://www.whitehouse.gov/" class="nav__link">White House</a></li>
+<li class="nav__item"><a href="https://nifa.usda.gov/google-translate-disclaimer" class="nav__link">Google Translate Disclaimer</a></li>
+<li class="nav__item"><a href="/visit-nifa" class="nav__link">Visit NIFA</a></li>
+</ul>
+  </nav><div id="block-usda-nifa-general-nifa-govdelivery" class="block  block-usda-nifa-general-nifa-govdelivery block--usda-nifa-general block--usda-nifa-general-nifa-govdelivery">      <!-- GovDelivery Subscription Overlay --><script src="https://content.govdelivery.com/overlay/js/1609.js"></script><!-- End GovDelivery Overlay -->  </div><div id="block-usda-nifa-general-nifa-fed-analytics" class="block  block-usda-nifa-general-nifa-fed-analytics block--usda-nifa-general block--usda-nifa-general-nifa-fed-analytics">      <script language="javascript" id="_fed_an_ua_tag" src="/sites/all/libraries/fed-analytics/Universal-Federated-Analytics-Min.js?agency=USDA&subagency=NIFA"></script>  </div><div id="block-panels-mini-subfooter-logo-and-social-media-" class="block  block-panels-mini-subfooter-logo-and-social-media- block--panels-mini block--panels-mini-subfooter-logo-and-social-media-">      <div class="pane-1 pane pane--custom">
+
+  
+      
+  <div class="pane__content">
+    <div class="usa-grid usda-footer-branding">
+<div>
+<span class="site-name">
+<a class="site-name__usda-link ext" href="https://www.usda.gov/">USDA<span class="ext"><span class="element-invisible"> (link is external)</span></span></a>
+<a class="site-name__link" href="/" rel="home"><div class="site-name__usda">United States Department of Agriculture</div><h1 class="site-name__text">National Institute of Food and Agriculture</h1></a>
+</span>
+</div>
+<div class="footer-social">
+<div class="footer-social-set"><a class="usa-link-twitter ext" href="https://www.twitter.com/usda_nifa" id="anch_87" target="_top"><span>Twitter</span></a> <a class="usa-link-facebook ext" href="https://www.facebook.com/USDA" id="anch_88" target="_top"><span>Facebook</span></a> <a class="usa-link-govdelivery ext" href="https://public.govdelivery.com/accounts/USDANIFA/subscriber/new?qsp=USDANIFA_2" id="anch_90" target="_top"><span>GovDelivery</span></a></div>
+<div class="footer-social-set"><a class="usa-link-flickr ext" href="https://flickr.com/usda_nifa" id="anch_92" rel="publisher" target="_top"><span>Flickr</span></a> <a class="usa-link-youtube ext" href="https://www.youtube.com/user/usdaagscience" id="anch_93" target="_top"><span>Youtube</span></a> <a class="usa-link-rss" href="https://nifa.usda.gov/rss-newsroom" id="anch_94" target="_top"><span>USDA RSS</span></a></div>
+</div>
+</div>  </div>
+
+  
+  
+  
+</div>
+  </div>  </div>  </footer>
+    <script>
+
+				    jQuery(document).ready(function() {
+					  jQuery('.switcher .selected').click(function() {if(!(jQuery('.switcher .option').is(':visible'))) {jQuery('.switcher .option').stop(true,true).delay(50).slideDown(800);}});
+					  jQuery('body').not('.switcher .selected').mousedown(function() {if(jQuery('.switcher .option').is(':visible')) {jQuery('.switcher .option').stop(true,true).delay(300).slideUp(800);}});
+					});
+			    
+</script>
+  </body>
+</html>

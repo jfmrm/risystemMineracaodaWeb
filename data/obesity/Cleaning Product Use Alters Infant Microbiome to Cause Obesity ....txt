@@ -1,0 +1,883 @@
+
+<!DOCTYPE html>
+<html ng-app="app">
+<head xmlns:fb="http://ogp.me/ns/fb#">
+    
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, width=1040" />
+<meta property="og:title" content="Not Found" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.genengnews.com/media/images/genlogo_fb.png" />
+<meta property="og:url" content="https://www.genengnews.com/404?404;https://www.genengnews.com:443/404" />
+<meta property="og:site_name" content="GEN" />
+<meta property="og:admins" content="100002028374988" />
+<meta name="google-site-verification" content="FhehE9L_SV8-bWBgmizETarZeL7bvF3h1vvVMSekizM" />
+<meta name="description" content="" />
+<meta name="apple-itunes-app" content="app-id=742072886" />
+
+    <meta name="date" content="08-18-2018" />
+
+    <meta name="twitter:card" content="summary">
+
+<meta name="twitter:site" content="@genbio">
+<meta name="twitter:title" content="Not Found">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://www.genengnews.com/media/images/genlogo_fb.png">
+
+
+    <title>
+        Not Found
+    </title>
+    <!--remove javascript from thunder start-->
+<script>
+  if (window.top !== window.self)
+  {
+    document.write = "";
+    window.top.location = window.self.location;
+    setTimeout(function () { document.body.innerHTML = ''; }, 1);
+    window.self.onload = function (evt)
+    {
+      document.body.innerHTML = '';
+    };
+  }
+</script>
+<script src="/bundles/genjs?v=p3S8bFDfNbny_MQ527B_Ob6ub7XFHp1u7cCFc3Tx-Oc1"></script>
+
+<script src="/scripts/htmlParser.js" type="text/javascript"></script>
+<script src="/scripts/postscribe.v1.3.2.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+  $(function ()
+  {
+    // NOWBAR Ad Injection
+
+    var myTimeout;
+    var flashEnabled = (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)) ? 'false' : 'true';
+    $("ul.channelbar > li").hover(
+      function()
+      {
+        var adNumber = $(this).index();
+        var positionId = 220;
+        switch (adNumber)
+        {
+        case 0: // gen logo
+          positionId = 220;
+          break;
+        case 1: // exclusives
+          positionId = 221;
+          break;
+        case 2: // news
+          positionId = 222;
+          break;
+        case 3: // the lists
+          positionId = 223;
+          break;
+        case 4: // magazine
+          positionId = 224;
+          break;
+        case 5: // more gen
+          positionId = 225;
+          break;
+        }
+        var adContainer = $(this).find('div.nowbar_ad');
+
+        myTimeout = setTimeout(function()
+          {
+            var ipAddress = '172.68.218.33';
+
+            var src = "https://serve.liebertpub.com/script/GEN/1/" + positionId + "/" + ipAddress + "/" + flashEnabled;
+            postscribe(adContainer, "<script src='" + src + "'><\/script>");
+          },
+          300);
+      },
+      function()
+      {
+        var adContainer = $(this).find('div.nowbar_ad');
+        adContainer.html('');
+        clearTimeout(myTimeout);
+      }
+    );
+
+    // NOWBAR Ad Injection * END
+
+    // VIEWPORT Resizing
+    if (navigator.userAgent.match(/iPhone/i) ||
+      navigator.userAgent.match(/iPad/i) ||
+      navigator.userAgent.match(/Android/i))
+    {
+      var viewportmeta = document.querySelector('meta[name="viewport"]');
+      if (viewportmeta)
+      {
+        viewportmeta.content = 'width=device-width, width=1040';
+      }
+    }
+    // VIEWPORT Resizing * END
+
+    // NOWBAR Touch Events
+    if ($('html').hasClass('touch'))
+    {
+      $('.channelbar > li').click(function()
+      {
+        if ($(this).find('.dropdown').hasClass('hidden'))
+        {
+          $(this).addClass('navbar-item-selected');
+          $(this).find('.more-gen').removeClass('text-white').addClass('text-black');
+          $(this).find('.dropdown').removeClass('hidden');
+        } else
+        {
+          $(this).find('.dropdown').addClass('hidden');
+          $(this).find('.more-gen').removeClass('text-black').addClass('text-white');
+
+          var adNumber = $(this).index();
+          if (adNumber === 5)
+          {
+            $(this).removeClass('navbar-item-selected').addClass('navbar-item-default');
+          };
+        }
+      });
+    }
+    // NOWBAR Touch Events * END
+  });
+
+</script>
+<!--remove javascript from thunder end-->
+    <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/85bbc957-4a49-4cd1-88e9-fb63ff413e05.css" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+<link rel="shortcut icon" href="/css/images/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="GEN" href="//www.genengnews.com/gen.rss" />
+<link href="/content/gencss?v=YY1UZ7R6N0Y2l4zp_QFdGMVtxcRIXt80Qq-P3CNUjL41" rel="stylesheet"/>
+
+    
+<!-- Declare GTM -->
+<script src="/Scripts/gtm/main.js"></script>
+<!-- End Declare GTM -->
+
+        <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window,document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '196615734230866');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=196615734230866&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code --> 
+
+    <script src="/Scripts/processUtms.js"></script>
+    
+    <link href="/css/cookies-message.css" rel="stylesheet">
+</head>
+<body>
+    
+<!-- Start analytics/tracking tags (GTM) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5BT2W7" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+</noscript>
+<!-- End analytics/tracking tags (GTM) -->
+
+
+<!-- Olytics -->
+<script>
+    var olyticsKey = 'sv3ZBJExps245y82gMJeAdAWHvfXRjBm';
+    var parentCategory = 'GENWebsite | Webpage';
+    var olyticsTag = 'GENWebsite | Webpage |  Item Page';
+    //console.log("olyticsTag = '"+ olyticsTag+"'");
+</script>
+
+<script src="/bundles/olytics?v=MD7yWhO4PwEhge5pX5UjeFJWHEqoYErgtHLw_pW1Yrg1"></script>
+
+
+<script>
+    $(document).ready(function() {
+            setOlyticsTag(parentCategory, olyticsTag);
+        });
+</script>
+<!-- End Olytics -->
+
+    
+<!--remove nowbar from thunder start-->
+<link href="/css/navbar-style.css" rel="stylesheet" />
+
+<div class="navbar-default navbar-fixed-top" style="box-sizing:border-box">
+    <div class="container">
+        <div class="row py-2">
+
+            <div class="col-md-6">
+                <a href="/" title="Genetic Engineering &amp; Biotechnology News">
+                    <img src="/css/Images/GEN-logo-new.png" class="img-responsive">
+                </a>
+            </div>
+
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-10 text-right">
+                        <ul class="search-user-box">
+                            <li>
+                                <form action="/search">
+                                    <input name="q" type="text" class="text" placeholder="Search GEN" value="">
+                                    <button type="submit" class="search-trigger"><span class="glyphicon glyphicon-search"></span></button>
+                                </form>
+                            </li>
+                            <li>
+                                <!-- Sign-in/Register -->
+                                
+    <ul class="subscribe-signedin">
+        <li>
+            <a href="https://geneng.omeda.com/gen/index.do?p=GENWEB16NOW" class="subsLnk" target="_blank" onmousedown="dataLayer.push({'event': 'eventTracker', 'eventCat': 'Subscriptions', 'eventAct':'Newsletter - Initiate Subscription', 'eventLbl': 'Header', 'eventVal': 0});">Subscribe</a>
+        </li>
+        <li>
+            <a href="/genselect/access">GEN Select Login/Register</a>
+        </li>
+    </ul>
+
+
+
+
+                                <!-- End of Sign-in/Register -->
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="row">
+                            <ul class="list-inline pb-1 sm-icons">
+                                <li>
+                                    <a href="https://www.facebook.com/gennews/" title="Facebook" target="_blank">
+                                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://twitter.com/genbio" title="Twitter" target="_blank">
+                                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <ul class="list-inline pb-1 sm-icons">
+                                <li>
+                                    <a href="http://www.youtube.com/gennews" title="YouTube" target="_blank">
+                                        <i class="fa fa-youtube" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://www.linkedin.com/company/1385856" title="RSS" target="_blank">
+                                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="row">
+                            <ul class="list-inline sm-icons">
+                                <li>
+                                    <a href="https://plus.google.com/u/0/b/102699752399929565368/102699752399929565368/posts" title="Google Plus" target="_blank">
+                                        <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="http://feeds.feedburner.com/genengnews/PbGW" title="RSS" target="_blank">
+                                        <i class="fa fa-feed" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row" style="background:#cdcdcd">
+        <div class="container">
+            <ul class="channelbar nav-justified">
+                <li class="navbar-item">
+
+                    <a class="channel-hdr-caps" href="/gen-exclusives">Insight & Intelligence</a>
+                    <span class="caret hidden-xs hidden-sm hidden-md"></span>
+
+                    <div class="dropdown showDropdown hidden-xs hidden-sm hidden-md">
+                        <div class="list-wrap ">
+                            <div class="list-contr group">
+                                <ul class="left">
+                                            <li>
+                                                <a href="/gen-exclusives/eyeing-epigenetic-markers/77901138" class="channel-hdl">
+                                                    Eyeing Epigenetic Markers
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-exclusives/duchenne-muscular-dystrophy-mutation-in-dogs-reversed-by-crispr-cas9/77901142" class="channel-hdl">
+                                                    Duchenne Muscular Dystrophy Mutation in Dogs Reversed by CRISPR-Cas9
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-exclusives/leukemia-mrna-processing-pathways-contribute-to-disease-progression/77901141" class="channel-hdl">
+                                                    Leukemia mRNA Processing Pathways Contribute to Disease Progression
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-exclusives/scaling-up-cell-therapy-manufacturing/77901128" class="channel-hdl">
+                                                    Scaling Up Cell Therapy Manufacturing
+                                                </a>
+                                            </li>
+
+                                </ul>
+                                <ul class="right">
+                                            <li>
+                                                <a href="/gen-exclusives/vertexs-david-altshuler-humanizes-drug-discovery/77901148" class="channel-hdl">
+                                                    Vertex’s David Altshuler Humanizes Drug Discovery
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-exclusives/the-100000-genomes-club/77901146" class="channel-hdl">
+                                                    The 100,000 Genomes Club
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-exclusives/bioprocessing-companies-push-limits-of-upstream-technologies/77901147" class="channel-hdl">
+                                                    Bioprocessing Companies Push Limits of Upstream Technologies
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-exclusives/why-do-polygenic-risk-scores-get-so-much-hype/77901139" class="channel-hdl">
+                                                    Why Do Polygenic Risk Scores Get So Much Hype?
+                                                </a>
+                                            </li>
+
+                                </ul>
+                            </div>
+                            <div class="sponsor-contr">
+                                <div id="nowbar1" class="nowbar_ad"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li id="channel-news" class="navbar-item">
+
+                    <a class="channel-hdr-caps" href="/gen-news-highlights">News</a>
+                    <span class="caret hidden-xs hidden-sm hidden-md"></span>
+
+                    <div class="dropdown showDropdown hidden-xs hidden-sm hidden-md">
+                        <div class="list-wrap ">
+                            <div class="list-contr group">
+
+                                <ul class="left">
+                                            <li>
+                                                <a href="/gen-news-highlights/united-therapeutics-acquires-north-american-rights-to-samumed-ipf-candidate-sm04646/81256243" class="channel-hdl">
+                                                    United Therapeutics Acquires North American Rights to Samumed IPF Candidate SM04646
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-news-highlights/googles-ai-trained-to-see-mutations/81256247" class="channel-hdl">
+                                                    Google’s AI Trained to “See” Mutations
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-news-highlights/shark-dna-in-the-water-cue-music-from-jaws/81256244" class="channel-hdl">
+                                                    Shark DNA in the Water? Cue Music from Jaws
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-news-highlights/administering-malaria-drugs-to-mosquitoes/81256249" class="channel-hdl">
+                                                    Administering Malaria Drugs to Mosquitoes
+                                                </a>
+                                            </li>
+
+                                </ul>
+                                <ul class="right">
+                                            <li>
+                                                <a href="/gen-news-highlights/machine-learning-method-sheds-light-on-cell-organization/81256246" class="channel-hdl">
+                                                    Machine Learning Method Sheds Light on Cell Organization
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-news-highlights/lymphatic-vessels-in-brain-provide-new-route-to-treat-ms/81256245" class="channel-hdl">
+                                                    Lymphatic Vessels in Brain Provide New Route to Treat MS
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-news-highlights/cleaning-product-use-alters-infant-microbiome-to-cause-obesity/81256242" class="channel-hdl">
+                                                    Cleaning Product Use Alters Infant Microbiome to Cause Obesity
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-news-highlights/novo-nordisk-eliminating-400-jobs-in-rd-restructuring/81256248" class="channel-hdl">
+                                                    Novo Nordisk Eliminating 400 Jobs in R&D Restructuring
+                                                </a>
+                                            </li>
+
+                                </ul>
+
+                            </div>
+                            <div class="sponsor-contr">
+                                <div id="nowbar2" class="nowbar_ad"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="navbar-item">
+
+                    <a class="channel-hdr-caps" href="/the-lists">The Lists</a>
+                    <span class="caret hidden-xs hidden-sm hidden-md"></span>
+
+                    <div class="dropdown showDropdown hidden-xs hidden-sm hidden-md">
+                        <div class="list-wrap ">
+                            <div class="list-contr group">
+
+                                <ul class="left">
+                                            <li>
+                                                <a href="/the-lists/top-10-biopharma-ipos-of-januaryndashjune-2018/77901114" class="channel-hdl">
+                                                    Top 10 Biopharma IPOs of January&ndash;June 2018
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-lists/top-50-nih-funded-institutions-of-2018/77901101" class="channel-hdl">
+                                                    Top 50 NIH-Funded Institutions of 2018
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-lists/top-10-under-40/77901097" class="channel-hdl">
+                                                    Top 10 Under 40
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-lists/top-10-ma-deals-of-januaryndashjune-2018/77901109" class="channel-hdl">
+                                                    Top 10 M&A Deals of January&ndash;June 2018
+                                                </a>
+                                            </li>
+
+                                </ul>
+                                <ul class="right">
+                                            <li>
+                                                <a href="/the-lists/the-top-10-highest-paid-women-executives-in-biopharma/77901106" class="channel-hdl">
+                                                    The Top 10 Highest-Paid Women Executives in Biopharma
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-lists/10-takeover-targets-to-watch-this-fall/77901143" class="channel-hdl">
+                                                    10 Takeover Targets to Watch This Fall
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-lists/what-the-top-10-biopharma-ceos-are-making/77901129" class="channel-hdl">
+                                                    What the Top 10 Biopharma CEOs Are Making
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/the-lists/top-10-companies-leveraging-gene-editing/77901140" class="channel-hdl">
+                                                    Top 10 Companies Leveraging Gene Editing
+                                                </a>
+                                            </li>
+
+                                </ul>
+
+                            </div>
+                            <div class="sponsor-contr">
+                                <div id="nowbar3" class="nowbar_ad"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="navbar-item">
+
+                    <a class="channel-hdr-caps" href="/issue/toc/0">Magazine</a>
+                    <span class="caret hidden-xs hidden-sm hidden-md"></span>
+
+                    <div class="dropdown showDropdown hidden-xs hidden-sm hidden-md">
+                        <div class="list-wrap ">
+                            <div class="list-contr group">
+
+                                <ul class="left">
+                                            <li>
+                                                <a href="/gen-articles/gen-roundup-multiplexed-immunoassays-small-samples-big-pictures/6408" class="channel-hdl">
+                                                    GEN Roundup: Multiplexed Immunoassays: Small Samples, Big Pictures
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-articles/shadowy-particles-flow-into-the-light/6411" class="channel-hdl">
+                                                    Shadowy Particles Flow into the Light
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-articles/short-stories-to-perusewith-info-you-might-use/6409" class="channel-hdl">
+                                                    Short Stories to Peruse—With Info You Might Use...
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-articles/in-the-mab-race-dont-stumble-at-characterization/6407" class="channel-hdl">
+                                                    In the mAb Race, Don’t Stumble at Characterization
+                                                </a>
+                                            </li>
+
+                                </ul>
+                                <ul class="right">
+                                            <li>
+                                                <a href="/gen-articles/kinetic-analysis-of-peptide-aggregation/6414" class="channel-hdl">
+                                                    Kinetic Analysis of Peptide Aggregation
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-articles/application-note-vortex-actuated-cell-sorting-for-new-research-and-clinical-applications/6385" class="channel-hdl">
+                                                    Application Note: Vortex-Actuated Cell Sorting for New Research and Clinical Applications
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-articles/this-is-your-brain-on-dreadds/6406" class="channel-hdl">
+                                                    This is Your Brain on DREADDs
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="/gen-articles/translational-platform-for-immuno-oncology-discovery/6412" class="channel-hdl">
+                                                    Translational Platform for Immuno-Oncology Discovery
+                                                </a>
+                                            </li>
+
+                                    <li>
+                                        <div class="mag-links">
+                                            <a href="/issue/toc/0" class="more-news3">Current Issue » </a>
+                                            <a href="/issue/past" class="more-news2">Past Issues » </a>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                            </div>
+                            <div class="sponsor-contr">
+                                <div id="nowbar4" class="nowbar_ad"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="navbar-item">
+
+                    <a class="channel-hdr-caps" href="/more-gen">More GEN</a>
+                    <span class="caret hidden-xs hidden-sm hidden-md"></span>
+
+                    <div class="dropdown showDropdown hidden-xs hidden-sm hidden-md">
+                        <div class="list-wrap ">
+                            <div class="list-contr group">
+                                <ul class="left">
+                                            <li>
+                                                    <a href="/best-of-the-web" class="channel-hdl-more">
+                                                        Best of the Web
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="/webinars" class="channel-hdl-more">
+                                                        Webinars
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="/events" class="channel-hdl-more">
+                                                        Events
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="/new-products" class="channel-hdl-more">
+                                                        New Products
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="https://geneng.omeda.com/gen/index.do?p=GENWEB16NOW" class="channel-hdl-more subsLnk" target="_blank"
+                                                       onmousedown="dataLayer.push({'event': 'eventTracker', 'eventCat': 'Subscriptions', 'eventAct':'Newsletter - Initiate Subscription', 'eventLbl': 'Header', 'eventVal': 0});">
+                                                        Subscribe to GEN
+                                                    </a>
+                                            </li>
+
+                                </ul>
+                                <ul class="right">
+                                            <li>
+                                                    <a href="/video-channel" class="channel-hdl-more">
+                                                        Video
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="/gen-podcasts" class="channel-hdl-more">
+                                                        Podcasts
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="/bioperspectives" class="channel-hdl-more">
+                                                        BioPerspectives
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="/ebooks" class="channel-hdl-more">
+                                                        eBooks
+                                                    </a>
+                                            </li>
+                                            <li>
+                                                    <a href="/best-science-apps" class="channel-hdl-more">
+                                                        Best Apps
+                                                    </a>
+                                            </li>
+
+                                </ul>
+                            </div>
+                            <div class="sponsor-contr">
+                                <div id="nowbar5" class="nowbar_ad"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--remove nowbar from thunder end-->
+    <div id="main_wrapper">
+        
+
+      
+     
+        <div id="Container">       
+            <div id="Content_main">
+                
+    
+<div class="error-wrap">
+    <div class="error-inside clearfix">
+        <div class="error-left">
+            <p>
+                We’re sorry, we seem to have lost this page, but you’re bound to find something of interest here:
+            </p>
+            <ul class="link-list">
+                <li><a href="/gen-news-highlights" >GEN News Highlights</a></li>
+                <li><a href="/gen-exclusives" >Insight & Intelligence</a></li>
+                <li><a href="/the-lists" >The Lists</a></li>
+                <li><a href="/issue/toc/0" >GEN Magazine</a></li>
+                <li><a href=""  data-toggle="modal" data-target="#searchModal">Search</a></li>
+            </ul>
+        </div>
+        <div class="error-right">
+            <img src="/css/Images/404-page-not-found.jpg" alt="Page Not Found" title="Page Not Found" />
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="searchModal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="searchModal">A vast collection of biotech news and analysis is only a few clicks away. <strong>Search for it here:</strong></h4>
+            </div>
+            <div class="modal-body">
+                <div class="gen-container">
+                    <ul class="search-user-box">
+                        <li>
+                            <form action="/search" class="ng-pristine ng-valid">
+                                <input name="q" type="text" class="text" placeholder="Search GEN" value="">
+                                <button type="submit" class="search-trigger"><span class="glyphicon glyphicon-search"></span></button>
+                            </form>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="modal-footer">
+                &nbsp;
+            </div>
+        </div>
+    </div>
+</div>
+            </div>          
+        </div>
+    </div>
+    
+
+<!-- WEBSITE FOOTER -->
+
+ <!--remove footer from thunder start-->
+<div id="dna_top"></div>
+<div id="Footer">
+    <div id="navcontainer">
+        <ul id="navlist">
+            <li>
+                <a href="/">
+                    <img src="/css/Images/GEN-logo-new.png" title="Genetic Engineering &amp; Biotechnology News"
+                         alt="Genetic Engineering &amp; Biotechnology News" border="0" style="width: 150px"/>
+                </a>
+                <p class="copyright">&copy; 2018 Genetic Engineering &amp;<br /> Biotechnology News<br /> All Rights Reserved</p>
+            </li>
+            <li>
+                <div class="footer_hdls">GEN</div>
+                <a href="/about-gen" class="footer_links">About GEN</a><br />
+                <a href="/press-releases" class="footer_links">Press Releases</a><br />
+                <a href="/reprints-and-permissions" class="footer_links">Reprints & Permissions</a><br />
+                <a href="/contact-gen" class="footer_links">Contact GEN</a><br />
+            </li>
+            <li>
+                <div class="footer_hdls">GEN EDITORIAL</div>
+                <a href="/editorial-staff" class="footer_links">Editorial Staff</a><br />
+                <a href="/advisory-board" class="footer_links">Scientific Advisory Board</a><br />
+                <a href="/media/pdf/2017_editorial_guidelines.pdf" class="footer_links">Editorial Guidelines</a><br />
+                <a href="/media/pdf/2018_GEN_PlanCalendar.pdf" class="footer_links" target="_blank">2018 Planning Calendar</a><br />
+            </li>
+            <li>
+                <div class="footer_hdls">ADVERTISE</div>
+                <a href="http://www.genmediakit.com" class="footer_links" target="_blank">GEN Media Kit</a><br />
+                <a href="/media/pdf/GEN_Classified_MediaKit.pdf " class="footer_links" target="_blank">Classified Media Kit</a><br />
+                <a href="/media/pdf/GEN_Terms_Conditions.pdf" class="footer_links" target="_blank">Ad Terms & Conditions</a><br />
+                <a href="http://www.genmediakit.com/products/list-rental" class="footer_links" target="_blank">GEN List Rental</a><br />
+            </li>
+            <li>
+                <div class="footer_hdls">SUBSCRIPTION CENTER</div>
+                <a href="https://geneng.omeda.com/gen/select.do?p=GENWEB16FTRMAG" id="ctl00_MasterFooter1_sub_mag" class="footer_links subsLnk" target="_blank"
+                    onmousedown="dataLayer.push({'event': 'VPTracker', 'VPUrl': '/virtual/magazine-subscribe-footer-link', 'VPTitle':'Magazine Subscribe Footer Link'});">GEN Magazine</a>
+                <br/>
+                <a href="https://geneng.omeda.com/gen/nlet.do?p=GENWEB16FTRNL" id="ctl00_MasterFooter1_subs_enews" class="footer_links subsLnk" target="_blank"
+                    onmousedown="dataLayer.push({'event': 'VPTracker', 'VPUrl': '/virtual/newsletter-subscribe-footer-link', 'VPTitle':'Newsletter Subscribe Footer Link'});">eNewsletters</a>
+            </li>
+            <li class="last">
+                <div class="footer_hdls">RESOURCES</div>
+                <a href="/application-notes" class="footer_links">App Notes</a><br />
+                <a href="/biotechblvd" class="footer_links" target="_blank">Biotech Boulevard</a><br />
+                <a href="http://clinicalomics.com/" class="footer_links" target="_blank">Clinical OMICs</a><br />
+                <a href="/new-products" class="footer_links">New Products</a><br />
+                <a href="/gen-podcasts" class="footer_links">Podcasts</a>
+            </li>
+        </ul>
+        <div id="bottom_links_spot">
+            <a href="/" class="bottom_links">Home</a> |
+            <a href="/terms-of-use" class="bottom_links">Terms of Use</a> |
+            <a href="/privacy" class="bottom_links">Privacy Statement</a> |
+            <a href="/legal" class="bottom_links">Legal</a> |
+            <a href="http://www.liebertpub.com/#utm_source=gen&utm_medium=homepage&utm_campaign=gen" class="bottom_links" target="_blank" onClick="dataLayer.push({ 'event': 'eventTracker', 'eventCat': 'External', 'eventAct': 'Homepage', 'eventLbl': 'LiebertPub', 'eventVal': 0, 'nonInteraction': 0 });">Mary Ann Liebert, Inc.</a>
+        </div>
+    </div>
+</div>
+<!-- END OF FOOTER -->
+ <!--remove footer from thunder end-->
+
+    
+        <!-- START Parse.ly Include: Standard -->
+    <div id="parsely-root" style="display: none">
+        <span id="parsely-cfg" data-parsely-site="genengnews.com"></span>
+    </div>
+    <script>
+        (function (s, p, d) {
+            var h = d.location.protocol, i = p + "-" + s,
+                e = d.getElementById(i), r = d.getElementById(p + "-root"),
+                u = h === "https:" ? "d1z2jf7jlzjs58.cloudfront.net"
+                    : "static." + p + ".com";
+            if (e) return;
+            e = d.createElement(s); e.id = i; e.async = true;
+            e.src = h + "//" + u + "/p.js"; r.appendChild(e);
+        })("script", "parsely", document);
+    </script>
+    <!-- END Parse.ly Include: Standard -->
+
+
+    <!--GDPR Cookie -->
+    <script src="/Scripts/gdpr/cookies-message.js"></script>
+    <script src="/Scripts/gdpr/gdprCookie.js"></script>
+
+    <script id="hidden-template" type="text/x-custom-template">
+    <div id="detectAdBlockModal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                </div>
+                <div class="modal-body">
+                    <ul class="list-unstyled">
+                        <li class="hp_subhead_ed text-center">
+                            <b>Thanks for visiting GEN</b>
+                        </li>
+                        <li class="text-center">
+                            We noticed that you have an ad blocker on.<br/>
+                            Advertisements help us provide quality content to you.<br />
+                            Please support us by whitelisting our website in your ad blocker.
+                        </li>
+                        <li class="text-center">
+                            <button type="button" class="gen-btn-red btn-info btn-lg" data-dismiss="modal">Ok, I will whitelist the GEN website</button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script>
+    function adBlockNotDetected()
+    {
+        console.log('AdBlock is not enabled');
+    }
+
+    function adBlockDetected()
+    {
+        console.log('AdBlock is enabled');
+
+        setCookie('detectAdBlock', true, 1);
+
+        var template = $('#hidden-template').html();
+        $('body').append(template);
+        $('#detectAdBlockModal').modal();
+    }
+
+    function setCookie(cname, cvalue, exdays)
+    {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        var expires = "expires=" + d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
+
+    function getCookie(cname)
+    {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i < ca.length; i++)
+        {
+            var c = ca[i];
+            while (c.charAt(0) == ' ')
+            {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0)
+            {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }
+
+    var detectAdBlockCookie = getCookie('detectAdBlock');
+    if (detectAdBlockCookie.length === 0)
+    {
+        if (typeof fuckAdBlock !== 'undefined' || typeof FuckAdBlock !== 'undefined')
+        {
+            adBlockDetected();
+        } else
+        {
+            var importFAB = document.createElement('script');
+            importFAB.onload = function ()
+            {
+                fuckAdBlock.onDetected(adBlockDetected);
+                fuckAdBlock.onNotDetected(adBlockNotDetected);
+            };
+            importFAB.onerror = function ()
+            {
+                adBlockDetected();
+            };
+            importFAB.integrity = 'sha256-xjwKUY/NgkPjZZBOtOxRYtK20GaqTwUCf7WYCJ1z69w=';
+            importFAB.crossOrigin = 'anonymous';
+            importFAB.src = 'https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js';
+            document.head.appendChild(importFAB);
+        }
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,980 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- META TAGS -->
+    <meta charset="UTF-8">
+
+            <link rel="dns-prefetch" href="https://cdn.perfdrve.com/">
+        <link rel="dns-prefetch" href="https://ads.servebom.com/">
+        <link rel="preconnect" href="https://cdn.perfdrve.com/">
+        <link rel="preconnect" href="https://ads.servebom.com/">
+    
+        
+<meta name="description" content="We’re sorry, but this page cannot be found.">
+
+    <title>Page Not Found - Live Science</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+<meta name="google-site-verification" content="9idATXqhUCskCzkXvGEmuGx6t9G5-cpFLIVMpREAg-8">
+
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!--[if IE ]>
+
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+
+    <![endif]-->
+
+    
+    
+        
+            <link rel="apple-touch-icon" sizes="57x57" href="/resources/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/resources/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/resources/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/resources/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/resources/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/resources/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/resources/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/resources/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/resources/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/resources/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/resources/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/resources/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/resources/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/resources/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+    
+
+            <script type="text/javascript">
+            var image_server = 'https://www.livescience.com';
+        </script>
+    
+            <script type="text/javascript">
+    window.addEventListener('DOMContentLoaded', function() {
+        var loadFont = function(url){
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', url, true);
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    var css = xhr.responseText;
+                    css = css.replace(/}/g, 'font-display: swap; }');
+                    var head = document.getElementsByTagName('head')[0];
+                    var style = document.createElement('style');
+                    style.appendChild(document.createTextNode(css));
+                    head.appendChild(style);
+                }
+            };
+            xhr.send();
+        }
+        loadFont('https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700|Oswald:400,300,700');
+    }, false);
+</script>    
+                    <link type="text/css" rel="stylesheet" href="/css/compiled/grunt/livescience.all.css?2018-09-18-15">
+    
+            <script type="text/javascript" language="JavaScript">
+    var Purch = Purch || {};
+</script>
+    <script src="https://www.livescience.com/resources/js/jquery.min.js?fa4ecf0" defer></script>
+    <script type="text/javascript" language="JavaScript">
+        (function(){window.addEventListener("breakpoint-change",function(e){if(e.breakpoint=="large"){document.querySelector("meta[name=viewport]").setAttribute("content","width=1020")}else{document.querySelector("meta[name=viewport]").setAttribute("content","width=device-width, initial-scale=1")}})})();
+    </script>
+    
+    
+                
+            <!-- SiteCatalyst code version: H.19.4.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+    <script language="JavaScript" type="text/javascript">
+        if (typeof s == "undefined") {
+            var s = {};
+        }
+    </script>
+
+<script language="JavaScript" type="text/javascript">
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+            s.pageName = null;
+                s.prop4 = "d=v4";
+                s.eVar4 = 404;
+                s.prop5 = "d=v5";
+                s.eVar5 = 404;
+                s.pageType = "errorpage";
+    
+    
+
+
+ /* Hierarchy Variables */
+s.hier1="";
+s.eVar15=s.prop15;
+s.eVar4=s.prop4;
+s.eVar16=s.prop16;
+s.eVar17=s.prop17;
+s.eVar18=s.prop18;
+
+    s.pageType = "errorPage";
+
+    </script>
+    
+    
+    
+        <script type="text/javascript">
+    var _gaq = _gaq || [];
+
+        _gaq.push(['_setAccount', 'UA-11681412-2'],
+            ['_setDomainName', 'livescience.com'],
+            ['_setCustomVar', 1, 'Section', 'home', 3],
+            ['_trackPageview' , '/404error/?url=' + document.location.pathname + document.location.search + '&ref=' + document.referrer ]);
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+                                
+<style>  #header_leaderboard{min-height:0px} @media only screen and (min-width:728px) {#header_leaderboard{min-height:90px}}  #rightcol_top{min-height:0px} @media only screen and (min-width:300px) {#rightcol_top{min-height:250px}}</style>
+<style>.space-t40 { margin-top:40px; }</style>
+<script type="text/javascript">
+    // Polyfill for IE
+    if (window.Element && !Element.prototype.closest) {
+        Element.prototype.closest = function(s) {
+            var matches = (this.document || this.ownerDocument).querySelectorAll(s),
+            i,
+            el = this;
+            do {
+                i = matches.length;
+                while (--i >= 0 && matches.item(i) !== el) {};
+            } while ((i < 0) && (el = el.parentElement));
+            return el;
+        };
+    }
+
+    </script>
+
+<style>
+  .prism-modal-banner p { color : #fff;}
+  .prism-modal-banner p a { color : #fff; font-weight:bold;}
+</style>
+<script>
+var Purch = Purch || {};
+Purch.JwDisableSticky = document.location.pathname === "/";
+</script>
+<script type="text/javascript">
+  
+(function () {
+	
+function getOmnitureData() {
+  return (Purch.Omniture.params) || {};
+}
+		
+var DiscoveryConf = {
+  'etype': 'click',
+  
+  'p': {
+	 'tid%7C\\w+': function(conf) {
+		 try{
+			if(conf.el.getAttribute('data-omniture-tracking')){ 
+				var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+				var parsedVars = JSON.parse(omnitureTrackingVars);
+				return 'tid%7C' + parsedVars["evars"]["transactionID"];
+			  }
+		 }catch(e){}
+	}
+  },
+  'providers': ['out.tomsguide.fr', 'amazon.fr', 'amazon.co.uk',
+	  'amazon.de', 'Mediaplex.com', 'amazon.com', 'Geni.us',
+	  'linksynergy.com', 'lenovo.7eer.net',
+	  'sharesale.com', 'evyy.net', 'dpbolvw.net',
+	  'kqzyfj.com', 'anrdoezrs.net', 'tkqlhce.com', 'jdoqocy.com',
+	  'parrot.com'
+  ],
+ 'noDiscoverSelector': 'a[class*="hawk-"]',
+  'd': {
+	  'esubtype': 'buybttn',
+	  'buttonId': function(conf) {
+		 try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["eVar18"];
+			} else {
+			  return null;
+			}
+		 }catch(e){}
+	
+	  },
+	  'productId': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  var productId = parsedVars["evars"]["eVar18"];
+			  return productId && productId.substr(productId.indexOf('-') + 1);
+			} else {
+			  return null;
+			}
+		 }catch(e){}
+	  },
+	  'merchant': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["eVar34"];
+			} else {
+			  return null;
+			}
+		}catch(e){}
+		
+	  },
+	  'price': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["eVar43"];
+			} else {
+			  return null;
+			}
+		}catch(e){}
+	
+	  },
+	  'adPlacement': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["eVar23"];
+			} else {
+			  return null;
+			}			  
+		}catch(e){}
+		
+	  },
+	  'categories': function() {
+		try{
+			return getOmnitureData()['eVar2'];  
+		}catch(e){}
+	  },
+	  'tags': function() {
+		try{
+			var tags = getOmnitureData()['prop34'];
+			return tags && (typeof tags === 'string') && (tags.split('|').join(','));
+		}catch(e){}
+		 
+	  },
+	  'adblock': function() {
+		try{
+			return !!window.abp;  
+		}catch(e){}
+	  },
+	  'transactionId': function(conf) {
+		try{
+			if(conf.el.getAttribute('data-omniture-tracking')){
+			  var omnitureTrackingVars = conf.el.getAttribute('data-omniture-tracking');
+			  var parsedVars = JSON.parse(omnitureTrackingVars);
+			  return parsedVars["evars"]["transactionID"];
+			} else {
+			  return null
+			}
+		}catch(e){}
+	  }
+	  
+  }
+};
+
+window.cs_cmd = window.cs_cmd || [];
+
+window.cs_cmd.push(function() {
+	if(typeof window.Purch.cs_data !== "undefined"){
+		delete window.Purch.cs_data['PAGE'];
+		delete window.Purch.cs_data['PAGE_DOMAIN'];
+        delete window.Purch.cs_data['COOKIES'];
+		DiscoveryConf.d['timestamp'] =  '%CB%';
+		DiscoveryConf.d['client_ts'] = '%CB%';
+	}else{
+		DiscoveryConf.d['SITE'] =  '%SITE%';
+		DiscoveryConf.d['clickURL'] =  '%URL%';
+		DiscoveryConf.d['GAID'] =  '%GAID%';
+		DiscoveryConf.d['client_ts'] =  '%CB%';        
+	}
+	try{
+		DiscoveryConf.init = false;
+		var dscv = new window.Purch.Discovery(DiscoveryConf);
+		dscv.init();
+ 
+	}catch(e){}
+});
+
+})();
+
+/*Do not change the way clickstream is loaded please!!!*/
+(function(url) { var s=document.createElement('script');s.type='text/javascript';document.getElementsByTagName('head')[0].appendChild(s);s.src = url;
+})('//assets.purch.com/loe/latest/REVISION.js?t='+(new Date()).getTime());
+
+/*ICU load && push*/
+(function(){
+    const country = "BR";
+    const EU = ['AT','BE','BG','CY','CZ','DE','DK','EE','ES','FI','FR','GB','GR','HR','HU','IE','IS','IT','LI','LT','LU','LV','MT','NL','NO','PL','PT','RO','SE','SI','SK'];
+
+    if(!EU.includes(country)) {
+        Purch.cs_extradata = Purch.cs_extradata || {};
+        var gtmdl;
+        if(!window.gtmDataLayer && ! window.dataLayer){
+            gtmdl = gtmDataLayer  = dataLayer = []
+        }else{
+            gtmdl = window.gtmDataLayer ||  window.dataLayer;
+        }
+
+        Purch.cs_extradata = Purch.cs_extradata || {};
+        Purch.ICU_CONF = {"gtmDataLayer":gtmdl , "dataLayers":[Purch.cs_extradata], debug:true};
+
+        (function(url) { var s=document.createElement('script');s.type='text/javascript';document.getElementsByTagName('head')[0].appendChild(s);s.src = url;
+        })('//assets.purch.com/loe/2.4.0-28/icu.js?t='+(new Date()).getTime());
+    }
+})();
+
+</script>
+<script>
+(function() {
+  var init = function() {
+    /* ftc-pixel */
+    var soConf = {
+      "insertMethod": "afterbegin",
+      "sentence": "<div class='pure-u-1'>Live Science reviews products independently. When you click links to buy products we may earn money to support <a href='http://www.livescience.com/about' target='_blank'>our work</a>.</div>",
+      "targetSlot": ".container",
+      "productsCond": typeof Purch !== "undefined" &&
+        typeof Purch.obfCssMap !== "undefined" &&
+        document.querySelector("." + Purch.obfCssMap["shop-btn-tracking"]) !== null ||
+        window.raasOffers && Object.keys(window.raasOffers).length > 0 ||
+        document.querySelector(".buyBtn") !== null ||
+        document.querySelector(".ntShoppingWidget") !== null ||
+        document.querySelector(".otm-buy-block") !== null ||
+        window.ad_keywords === "laptop-finder"
+    };
+
+    if (soConf.targetSlot.indexOf("${") >= 0) {
+      soConf.targetSlot = ".page-top-promo";
+    }
+    if (soConf.insertMethod.indexOf("${") >= 0) {
+      soConf.insertMethod = "beforeend";
+    }
+
+    var styles = [
+      "<style>",
+      ".fct-text{font-size:11px;text-align:center;font-style:italic;padding:10px;line-height:13px;}",
+      ".center-content .fct-text {width:100%;margin:-10px 0 5px;}", // space|ls,
+      ".topic_menu ~ .fct-text {margin-bottom:0;}", // anandtech
+      "</style>"
+    ].join("");
+
+    var slot = document.querySelector(soConf.targetSlot);
+    if (slot && soConf.productsCond === true) {
+      try {
+        slot.insertAdjacentHTML(soConf.insertMethod, styles + "<div class='fct-text'>" + soConf.sentence + "</div>");
+      } catch (e) {}
+    }
+  }
+
+  document.addEventListener('readystatechange', function() {
+    if (document.readyState === "interactive") {
+      init();
+    }
+  });
+})();
+</script>
+<style>
+.right-rail.sticky-sticked,
+.right-rail.sticky-followed{
+   max-width: 326px;
+}
+</style>
+<script type="text/javascript">
+function consentCallback(config) {
+  var newsletter_consent_container = document.querySelectorAll('.newsletter_consent_container');
+  if (typeof config.message !== 'undefined') for (var i = 0; i < newsletter_consent_container.length; i++) newsletter_consent_container[i].innerHTML = config.message;
+}
+</script>
+<link rel="manifest" href="/manifest.json" />
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async ></script>
+<script>var OneSignal = OneSignal || [];</script>
+<script>
+    var one_signal_start=new Date().getTime();
+    var popover_allowed=false;
+    var gtmdl = window.gtmDataLayer ||  window.dataLayer || [];
+    
+    function get_notification_label(label){
+        var new_label=window.location.href.split(":")[0]
+        if(popover_allowed)
+            new_label+=" - popover"
+        return (new_label+" - "+label)
+    }
+
+    function get_notification_time(){
+        return ((new Date().getTime())-one_signal_start)
+    }
+
+    //gtmdl.push({"event":"onesignal_on_page", "action":"onesignal_on_page", "label":get_notification_label("loaded"), "value":get_notification_time()});
+
+    OneSignal.push(function() {
+        if (OneSignal.isPushNotificationsSupported()) {
+            //gtmdl.push({"event":"onesignal_notifications_supported", "action":"push_notification_support", "label":get_notification_label("supported"), "value": get_notification_time()});
+        }else{
+            //gtmdl.push({"event":"onesignal_notifications_supported", "action":"push_notification_support", "label":get_notification_label("unsupported"), "value": get_notification_time()});
+        }
+        
+
+        if(window.location.href.split(":")[0]=='https'){
+            console.log('Onesignal:HTTPS init')
+            OneSignal.init({
+                appId: "5c99bb14-923c-4bea-be28-34e14f32c9c6",
+                requiresUserPrivacyConsent: false,
+                autoRegister: false,
+                persistNotification: false
+            });
+            if (!/onesignal_shown=1/.test(document.cookie)){
+                OneSignal.registerForPushNotifications();
+                var d = new Date();
+                d.setTime(d.getTime() + (3*24*60*60*1000));
+                document.cookie = "onesignal_shown=1;expires=" + d.toUTCString() + ";path=/";
+            }
+        }
+        else{
+            console.log('Onesignal:HTTP init')
+            OneSignal.init({
+                appId: "148387c0-db70-4024-9238-9d03af4866fd",
+                requiresUserPrivacyConsent: false,
+                autoRegister: false,
+                persistNotification: false
+            });
+            OneSignal.showHttpPrompt({force: false});
+        }
+
+        OneSignal.isPushNotificationsEnabled().then(function(isEnabled) {
+            //gtmdl.push({"event":"onesignal_current_notifications", "action":"current_subscription_status", "label": get_notification_label(isEnabled), "value": get_notification_time()} );
+        });
+
+        OneSignal.getNotificationPermission(function(permission) {
+            //gtmdl.push({"event":"onesignal_current_permission", "action":"browser_permission", "label": get_notification_label(permission), "value": get_notification_time()});
+        });
+
+       OneSignal.on('popupLoad', function () {
+            gtmdl.push({"event":"onesignal_popup_load", "action":"impression", "label":get_notification_label("popup"), "value": get_notification_time()});
+        });
+
+       OneSignal.on('popupClose', function () {
+            gtmdl.push({"event":"onesignal_popup_close", "action":"close", "label":get_notification_label("popup"), "value": get_notification_time()});
+        });
+
+       OneSignal.on('popoverShown', function () {
+            gtmdl.push({"event":"onesignal_popover_shown", "action":"impression", "label":get_notification_label("popover"), "value": get_notification_time()});
+        });
+
+        OneSignal.on('permissionPromptDisplay', function (permissionChange) {
+            gtmdl.push({"event":"onesignal_permission_prompt_display", "action":"native_permission_prompt", "label":get_notification_label("display"), "value": get_notification_time()});
+        });
+
+        OneSignal.on('popoverAllowClick', function () {
+            gtmdl.push({"event":"onesignal_popover_allowed", "action":"allow", "label":get_notification_label("popover"), "value": get_notification_time()});
+            popover_allowed=true;
+        });
+
+        OneSignal.on('popoverCancelClick', function () {
+            gtmdl.push({"event":"onesignal_popover_cancelled", "action":"deny", "label":get_notification_label("popover"), "value": get_notification_time()});
+        });
+
+        OneSignal.on('popoverClosed', function () {
+            gtmdl.push({"event":"onesignal_popover_closed", "action":"close", "label":get_notification_label("popover"), "value": get_notification_time()});
+        });
+
+        OneSignal.on('customPromptClick', function(promptClick) {
+            var gtmdl = window.gtmDataLayer ||  window.dataLayer || [];
+            if(promptClick.result=='denied'){
+                gtmdl.push({"event":"onesignal_prompt_clicked", "action":"deny", "label":get_notification_label("custom_prompt"), "value": get_notification_time()});
+            }
+            else if(promptClick.result=='granted'){
+                gtmdl.push({"event":"onesignal_prompt_clicked", "action":"allow", "label":get_notification_label("custom_prompt"), "value": get_notification_time()});
+            }
+            else{
+                gtmdl.push({"event":"onesignal_prompt_clicked", "action":"custom_prompt_clicked", "label":get_notification_label("unhandled "+promptClick.result), "value": get_notification_time()});
+            }
+        });
+
+        OneSignal.on('notificationPermissionChange', function(permissionChange) {
+            var gtmdl = window.gtmDataLayer ||  window.dataLayer || [];
+            gtmdl.push({"event":"onesignal_permission_changed", "action":"native_permission_prompt", "label":get_notification_label(permissionChange.to), "value": get_notification_time()});
+        });
+
+        OneSignal.on('subscriptionChange', function (isSubscribed) {
+            var gtmdl = window.gtmDataLayer ||  window.dataLayer || [];
+            gtmdl.push({"event":"onesignal_subsciption_changed",  "action":"subsciption_changed", "label": get_notification_label(isSubscribed), "value": get_notification_time()});
+            updateOneSignalUser(isSubscribed);
+        });
+    });
+
+    function updateOneSignalUser(shouldUpdate) {
+        if (shouldUpdate) {
+            OneSignal.getUserId().then(process_onesignal_id);
+        }
+    }
+
+    function process_onesignal_id(one_id) {
+        console.log("OneSignal User ID:", one_id);
+        var cookies = document.cookie;
+        if (!/oidProced=1/.test(cookies)) {
+            var d = new Date();
+            d.setTime(d.getTime() + (365*24*60*60*1000));
+            document.cookie = "oidProced=1;expires=" + d.toUTCString() + ";path=/";
+            httpRequest = new XMLHttpRequest();
+            httpRequest.open('GET', 'onesignal-gus');
+            httpRequest.setRequestHeader('oneid', one_id);
+            httpRequest.send();
+        }
+    }
+</script>
+
+    
+    </head>
+
+<body class="error"  >
+
+    
+
+        <script type="text/javascript">
+        var omnVars = {};
+        for (var key in s) {
+            if (!s.hasOwnProperty(key)) continue;
+            var obj = s[key];
+            if (key.indexOf('prop') == 0 || key.indexOf('eVar') == 0 || key.indexOf('pageName') == 0 || key.indexOf('channel') == 0 || key.indexOf('pageType') == 0 || key.indexOf('contentID') == 0) {
+                omnVars[key] = typeof s[key] !== 'undefined' ? s[key] : '';
+            }
+        }
+    </script>
+
+    <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-56QKB5"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-56QKB5');
+
+        if (dataLayer) {
+            dataLayer.push({'PurchOmnitureVars': omnVars });
+        }
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Skin ads -->
+    <div id="out-of-page"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('out-of-page', false); });</script></div>
+
+        <script type="text/javascript" language="JavaScript">
+        var mediaQuery="small";window.addEventListener("breakpoint-change",function(e){if(e.breakpoint==="small"){mediaQuery="small"}if(e.breakpoint==="med"){mediaQuery="med"}if(e.breakpoint==="large"){mediaQuery="large"}});var Z63=function(parent,w){var MediaQueryListener=function(){this.afterElement=w.getComputedStyle?w.getComputedStyle(document.body,":after"):false;this.currentBreakpoint="";this.lastBreakpoint="";this.init()};MediaQueryListener.prototype={init:function(){this._checker();this._resizeListener()},_resizeListener:function(){var self=this;var checker=self._checker.bind(self);w.addEventListener("resize",function(){checker()});w.addEventListener("orientationchange",function(){checker()});w.addEventListener("load",function(){checker()})},_checker:function(){var self=this;if(!self.afterElement){return}self.currentBreakpoint=self.afterElement.getPropertyValue("content").replace(/^["']|["']$/g,"");if(self.currentBreakpoint!==self.lastBreakpoint){w.dispatchEvent(self.initEvent(self.currentBreakpoint));self.lastBreakpoint=self.currentBreakpoint}},initEvent:function(val){var event=null;if(typeof Event==="function"){event=new Event("breakpoint-change")}else{event=document.createEvent("Event");event.initEvent("breakpoint-change",true,true)}event.breakpoint=val;return event}};parent.mediaqueryListener=parent.mediaqueryListener||new MediaQueryListener;return parent}(Z63||{},window);
+    </script>
+    <script type="text/javascript" language="JavaScript">
+        var Purch=Purch||{};Purch.queue=Purch.queue||[];Purch.queue.push([["jquery","Purch/UI/StickyAnything"],function($,StickyAnything){$("[data-stickya]").each(function(){var e=this;var oconf=$(this).data("stickya-options")?$(this).data("stickya-options"):{};oconf["element"]=this;var stickyAnything=new StickyAnything(oconf)})}]);
+    </script>
+
+    <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+<label for="nav-trigger" class="mq-lg-off">
+    <s class="bar"></s>
+    <s class="bar"></s>
+    <s class="bar"></s>
+</label>
+<ul class="mobile-nav mq-lg-off">
+    <li class="non-item mq-small-on mq-med-off">
+        <form action="https://www.livescience.com/search" class="inline-form space-L5">
+            <input type="text" name="q" required placeholder="" class="search-form"><button class="search-btn btn"></button>
+        </form>
+    </li>
+           <li><a class="nav-item  " href="/news" >News</a></li>
+           <li><a class="nav-item  " href="/technology" >Tech</a></li>
+           <li><a class="nav-item  " href="/health" >Health</a></li>
+           <li><a class="nav-item  " href="/environment" >Planet Earth</a></li>
+           <li><a class="nav-item  " href="/strange-news" >Strange News</a></li>
+           <li><a class="nav-item  " href="/animals" >Animals</a></li>
+           <li><a class="nav-item  " href="/history" >History</a></li>
+           <li><a class="nav-item  " href="/culture" >Culture</a></li>
+           <li><a class="nav-item  " href="/space" >Space</a></li>
+        <li class="non-item search-social mq-small-on mq-med-off">
+                                                        <a href="https://www.facebook.com/livescience?cmpid=556687" ><i class="fa fa-facebook"></i></a>
+                                    <a href="https://flipboard.com/@Livescience" ><i class="fa fa-flipboard"></i></a>
+                                    <a href="https://twitter.com/LiveScience?cmpid=556688" ><i class="fa fa-twitter"></i></a>
+                                    <a href="https://plus.google.com/+livescience/posts?cmpid=556690" rel="publisher"><i class="fa fa-google-plus"></i></a>
+                                                                                                                        </li>
+</ul>
+
+
+
+<div class="site-wrapper">
+    
+                
+<header class="header content-wrapper">
+    <div class="center-content pure-g" id="menu">
+        <div class="pure-u-1 pure-u-sm-1-3 pure-u-md-1-3 pure-u-lg-1-4">
+            <div class="logo-wrapper">
+                                    <a class="hdr-logo" href="/"><svg version="1.1" id="ls-logo" class="hdr-svg" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 396 50" xml:space="preserve">
+    <style>
+        .live { fill:#FAAF3B;}
+        .science { fill:#FFFFFF;}
+    </style>
+    <title>Live Science</title>
+    <g class="science">
+        <path d="M359.3,48V1.8h34.9v9.1h-24.9v9.3h24.3v9.1h-24.3V39h25.1V48H359.3z"/>
+        <path d="M154.9,48.6c-7,0-14.1-2.4-19.7-7.5l6-7.2c4.2,3.4,8.5,5.6,13.8,5.6c4.2,0,6.6-1.7,6.6-4.3v-0.1
+            c0-2.6-1.6-3.9-9.3-5.9c-9.3-2.4-15.4-5-15.4-14.1V15C137,6.6,143.7,1,153.2,1c6.8,0,12.5,2.2,17.2,5.9l-5.3,7.6
+            c-4.2-2.9-8.2-4.6-12.1-4.6c-3.9,0-5.9,1.7-5.9,4v0.1c0,3,2,4,10.1,6c9.3,2.4,14.7,5.9,14.7,13.9v0.1
+            C171.9,43.4,164.8,48.6,154.9,48.6z"/>
+        <path d="M199,48.8c-13.7,0-23.7-10.5-23.7-23.9v-0.1c0-13.2,9.9-24,24.1-24c8.8,0,13.9,2.9,18.3,7.2
+            l-6.5,7.5c-3.6-3.3-7.2-5.2-11.8-5.2c-7.8,0-13.4,6.5-13.4,14.4v0.1c0,7.9,5.5,14.5,13.4,14.5c5.3,0,8.5-2.2,12.2-5.5l6.5,6.6
+            C213.3,45.6,207.9,48.8,199,48.8z"/>
+        <path d="M336,48.8c-13.7,0-23.7-10.5-23.7-23.9v-0.1c0-13.2,9.9-24,24.1-24c8.8,0,13.9,2.9,18.3,7.2
+            l-6.5,7.5c-3.6-3.3-7.2-5.2-11.8-5.2c-7.8,0-13.4,6.5-13.4,14.4v0.1c0,7.9,5.5,14.5,13.4,14.5c5.3,0,8.5-2.2,12.2-5.5l6.5,6.6
+            C350.2,45.6,344.9,48.8,336,48.8z"/>
+        <g>
+            <path d="M222.3,48V1.8h10.2V48H222.3z"/>
+            <polygon points="297.9,1.8 297.9,30.2 276.2,1.8 266.9,1.8 266.9,10.8 242.4,10.8 242.4,20.2 266.9,20.2
+                266.9,29.2 242.4,29.2 242.4,38.8 266.9,38.8 266.9,48 276.9,48 276.9,18.6 299.3,48 308,48 308,1.8 		"/>
+        </g>
+    </g>
+    <g class="live">
+        <path d="M1,1.5h5.2V43h26v4.9H1V1.5z"/>
+        <path d="M42.8,1.5v46.3h-5.2V1.5H42.8z"/>
+        <path d="M86.9,1.5h5.6L72.7,48.2h-4.6l-20-46.7H54l16.5,40L86.9,1.5z"/>
+        <path d="M131.3,6.4H103v15.8h25.3v4.7H103v16.2h28.6v4.7H97.9V1.5h33.5V6.4z"/>
+    </g>
+</svg></a>
+                            </div>
+        </div>
+        <div class="pure-u-1 pure-u-sm-2-3 pure-u-md-2-3 pure-u-lg-3-4">
+            <div class="pure-g">
+                <nav class="search-social pure-u-1 mq-small-on">
+                                                                                                                                            <a href="https://www.facebook.com/livescience?cmpid=556687" target="_blank"><i class="fa fa-facebook"></i></a>  
+                                                   
+                                                                                                <a href="https://flipboard.com/@Livescience" target="_blank">
+                                        <svg version="1.1" class="flipboardHeader" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+     viewBox="-16.531 -10 40 40" xml:space="preserve">
+    <polygon points="-16.531,-10 -16.531,3.301 -16.531,16.579 -16.531,29.879 -3.23,29.879 -3.23,16.579
+		-3.23,3.301 -3.23,-10 	"/>
+    <rect x="-3.23" y="3.301" width="13.278" height="13.278"/>
+    <polygon  points="10.048,-10 -3.23,-10 -3.23,3.301 10.048,3.301 23.348,3.301 23.348,-10 	"/>
+</svg>                                    </a>
+                                                   
+                                                                                                <a href="https://twitter.com/LiveScience?cmpid=556688" target="_blank"><i class="fa fa-twitter"></i></a>  
+                                                   
+                                                                                                <a href="https://plus.google.com/+livescience/posts?cmpid=556690" target="_blank"><i class="fa fa-google-plus"></i></a>  
+                                                   
+                                                                                                                                                                                                                                                                            <form action="https://www.livescience.com/search" class="inline-form unit-r space-L10">
+                        <input class="form-inset search-form" type="text" name="q" required placeholder="">
+                        <button class="search-btn btn"></button>
+                    </form>
+                </nav>
+                <div class="pure-u-1">
+                    <nav class="pure-menu pure-menu-horizontal custom-can-transform categories-menu mq-small-off mq-lg-on">
+                        <ul class="pure-menu-list">
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/news">News</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/technology">Tech</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/health">Health</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/environment">Planet Earth</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/strange-news">Strange News</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/animals">Animals</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/history">History</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/culture">Culture</a></li>
+                                                                                            <li class="pure-menu-item"><a class="nav-item  " href="/space">Space</a></li>
+                                                    </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="sticky-header content-wrapper" id="sticky-header" data-stickya="sticky-header" data-stickya-options='{"zindex":10002,"maxHeightContainer": ".filling"}'>
+    <div class="center-content">
+        <a href="/" alt="Live Science">
+            <svg version="1.1" id="ls-logo" class="sticky-logo" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 396 50" xml:space="preserve">
+    <style>
+        .live { fill:#FAAF3B;}
+        .science { fill:#FFFFFF;}
+    </style>
+    <title>Live Science</title>
+    <g class="science">
+        <path d="M359.3,48V1.8h34.9v9.1h-24.9v9.3h24.3v9.1h-24.3V39h25.1V48H359.3z"/>
+        <path d="M154.9,48.6c-7,0-14.1-2.4-19.7-7.5l6-7.2c4.2,3.4,8.5,5.6,13.8,5.6c4.2,0,6.6-1.7,6.6-4.3v-0.1
+            c0-2.6-1.6-3.9-9.3-5.9c-9.3-2.4-15.4-5-15.4-14.1V15C137,6.6,143.7,1,153.2,1c6.8,0,12.5,2.2,17.2,5.9l-5.3,7.6
+            c-4.2-2.9-8.2-4.6-12.1-4.6c-3.9,0-5.9,1.7-5.9,4v0.1c0,3,2,4,10.1,6c9.3,2.4,14.7,5.9,14.7,13.9v0.1
+            C171.9,43.4,164.8,48.6,154.9,48.6z"/>
+        <path d="M199,48.8c-13.7,0-23.7-10.5-23.7-23.9v-0.1c0-13.2,9.9-24,24.1-24c8.8,0,13.9,2.9,18.3,7.2
+            l-6.5,7.5c-3.6-3.3-7.2-5.2-11.8-5.2c-7.8,0-13.4,6.5-13.4,14.4v0.1c0,7.9,5.5,14.5,13.4,14.5c5.3,0,8.5-2.2,12.2-5.5l6.5,6.6
+            C213.3,45.6,207.9,48.8,199,48.8z"/>
+        <path d="M336,48.8c-13.7,0-23.7-10.5-23.7-23.9v-0.1c0-13.2,9.9-24,24.1-24c8.8,0,13.9,2.9,18.3,7.2
+            l-6.5,7.5c-3.6-3.3-7.2-5.2-11.8-5.2c-7.8,0-13.4,6.5-13.4,14.4v0.1c0,7.9,5.5,14.5,13.4,14.5c5.3,0,8.5-2.2,12.2-5.5l6.5,6.6
+            C350.2,45.6,344.9,48.8,336,48.8z"/>
+        <g>
+            <path d="M222.3,48V1.8h10.2V48H222.3z"/>
+            <polygon points="297.9,1.8 297.9,30.2 276.2,1.8 266.9,1.8 266.9,10.8 242.4,10.8 242.4,20.2 266.9,20.2
+                266.9,29.2 242.4,29.2 242.4,38.8 266.9,38.8 266.9,48 276.9,48 276.9,18.6 299.3,48 308,48 308,1.8 		"/>
+        </g>
+    </g>
+    <g class="live">
+        <path d="M1,1.5h5.2V43h26v4.9H1V1.5z"/>
+        <path d="M42.8,1.5v46.3h-5.2V1.5H42.8z"/>
+        <path d="M86.9,1.5h5.6L72.7,48.2h-4.6l-20-46.7H54l16.5,40L86.9,1.5z"/>
+        <path d="M131.3,6.4H103v15.8h25.3v4.7H103v16.2h28.6v4.7H97.9V1.5h33.5V6.4z"/>
+    </g>
+</svg>        </a>
+        <nav class="sticky-nav unit-r space-T10">
+            <span class="nav-pipe-right">
+                                                        <a class="nav-item " href="/news">News</a>
+                                                        <a class="nav-item " href="/technology">Tech</a>
+                                                        <a class="nav-item " href="/health">Health</a>
+                                                        <a class="nav-item " href="/environment">Planet Earth</a>
+                                                        <a class="nav-item " href="/strange-news">Strange News</a>
+                                                        <a class="nav-item " href="/animals">Animals</a>
+                                                        <a class="nav-item " href="/history">History</a>
+                                                        <a class="nav-item " href="/culture">Culture</a>
+                                                        <a class="nav-item " href="/space">Space</a>
+                            </span>
+            <span class="nav-pipe-right search-social">
+                                                                                                                        <a href="https://www.facebook.com/livescience?cmpid=556687" target="_blank"><i class="fa fa-facebook"></i></a>  
+                             
+                                                                                    <a href="https://flipboard.com/@Livescience" target="_blank">
+                                    <svg version="1.1" class="flipboardStickyHeader" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" width="40px" height="40px"
+     viewBox="-16.531 -10 40 40" xml:space="preserve">
+    <polygon points="-16.531,-10 -16.531,3.301 -16.531,16.579 -16.531,29.879 -3.23,29.879 -3.23,16.579
+		-3.23,3.301 -3.23,-10 	"/>
+    <rect x="-3.23" y="3.301" width="13.278" height="13.278"/>
+    <polygon  points="10.048,-10 -3.23,-10 -3.23,3.301 10.048,3.301 23.348,3.301 23.348,-10 	"/>
+</svg>                                </a>
+                             
+                                                                                    <a href="https://twitter.com/LiveScience?cmpid=556688" target="_blank"><i class="fa fa-twitter"></i></a>  
+                             
+                                                                                    <a href="https://plus.google.com/+livescience/posts?cmpid=556690" target="_blank"><i class="fa fa-google-plus"></i></a>  
+                             
+                                                                                                                                                                                                                        </span>
+            <div class="search-social nav-search">
+                <div class="search-icon"><i class="fa fa-search"></i></div>
+                <div class="search-panel">
+                                        <form action="https://www.livescience.com/search" class="inline-form">
+                        <input class="unit form-inset search-form" type="text" name="q" required placeholder="">
+                        <button class="search-btn btn"></button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>    
+    <!-- Start overAll -->
+    <div id="ctBoc">
+        <div class="content-wrapper filling overall ">
+            <div class="center-content pure-g container">
+                    <div class="main wrap">
+        <section class="four04 oneOff line" id="nointelliTXT">
+            <h1 class="h1"><span class="alert">Oops!</h1>
+						<h3>Things we can't find:</h3>
+						<p><strong>The page you're looking for.</strong></p>
+						<h3>Things we have found:</h3>
+						<script id="most-popular-template" type="text/x-handlebars-template">
+							    
+										<ul class="recent-items">
+												{{#each items}}
+														<li>
+															<a href="{{ url }}">{{ title }}</a>
+														</li>
+												{{/each}}
+										</ul>
+
+								
+						</script>
+						<div id="most-popular-render"></div>
+						
+						
+            <p>Please accept our apologies.<br> Hopefully these links will get you on your way.</p>
+            <ul class="menu-404">
+                <li><a href="/">Home</a></li>
+                <li><a href="/technology">Tech</a></li>
+                <li><a href="/health">Health</a></li>
+                <li><a href="/environment">Planet Earth</a></li>
+                <li><a href="/space">Space</a></li>
+                <li><a href="/strange-news">Strange News</a></li>
+				<li><a href="/animals">Animals</a></li>
+				<li><a href="/history">History</a></li>
+				<li><a href="/culture">Culture</a></li>
+            </ul>
+
+        </section>
+    </div>
+            </div>
+            <div class="full-width-content pure-g container"></div>
+            <div class="center-content pure-g container"></div>
+        </div><!-- end content-wrapper -->
+    </div><!-- end ctBoc -->
+
+            <footer class="footer content-wrapper">
+	<div class="center-content pure-g">
+		<div class="pure-u-1 mq-lg-off m-net-links space-B30">
+			<a href="/">Home</a><a href="/about">About Us</a>
+		</div>
+		<div class="net-links pure-u-1 pure-u-med-1-4 pure-u-lg-1-4">
+			<header class="footer-title">Company</header>
+			<ul>
+				<li class="net-link"><a href="http://purch.com/" target="_blank">Company Info</a></li>
+				<li class="net-link"><a href="/about">About Us</a></li>
+				<li class="net-link"><a href="http://purch.com/#contact" target="_blank">Contact Us</a></li>
+				<li class="net-link"><a href="http://purch.com/advertise/" target="_blank">Advertise with Us</a></li>
+				<li class="net-link"><a href="http://purch.com/#contact" target="_blank">Using Our Content</a></li>
+				<li class="net-link"><a href="https://enveritasgroup.com/contact-us/" target="_blank">Licensing &amp; Reprints</a></li>
+				<li class="net-link"><a href="http://purch.com/terms-of-use/" target="_blank">Terms of Use</a></li>
+				<li class="net-link"><a href="http://purch.com/copyright-policy/" target="_blank">Copyright Policy</a></li>
+				<li class="net-link"><a href="http://purch.com/privacy-policy/" target="_blank">Privacy Policy</a></li>
+			</ul>
+		</div>
+		<div class="net-links pure-u-1 pure-u-med-1-4 pure-u-lg-1-4">
+			<header class="footer-title">Network</header>
+			<ul>
+				<li class="net-link"><a href="http://www.toptenreviews.com/">Top Ten Reviews</a></li>
+				<li class="net-link"><a href="http://www.tomsguide.com/">Tom's Guide</a></li>
+				<li class="net-link"><a href="https://www.laptopmag.com/">Laptop Mag</a></li>
+				<li class="net-link"><a href="http://www.tomshardware.com/">Tom's Hardware</a></li>
+				<li class="net-link"><a href="https://www.space.com/">Space.com</a></li>
+				<li class="net-link"><a href="https://www.livescience.com/">Live Science</a></li>
+				<li class="net-link"><a href="http://activejunky.com/">Active Junky</a></li>
+				<li class="net-link"><a href="http://shopsavvy.com/">ShopSavvy</a></li>
+				<li class="net-link"><a href="http://www.anandtech.com/">AnandTech</a></li>
+				<li class="net-link"><a href="https://www.dignifyed.com/">Dignifyed</a></li>
+			</ul>
+		</div>
+		<div class="pure-u-1 pure-u-med-1-2 pure-u-lg-1-2">
+			<div class="unit-r">
+				<div class="follow mod top-mod">
+					<header class="footer-title">FOLLOW US</header>
+					<div class="footer-social">
+                        							<a href="/home/feed/site.xml" target="_blank" class="fa fa-rss"></a>
+                        							<a href="https://www.facebook.com/livescience" target="_blank" class="fa fa-facebook"></a>
+                        							<a href="https://plus.google.com/+livescience/posts" target="_blank" class="fa fa-google-plus"></a>
+                        							<a href="https://twitter.com/LiveScience" target="_blank" class="fa fa-twitter"></a>
+                        							<a href="https://www.youtube.com/user/LiveScienceVideos" target="_blank" class="fa fa-youtube"></a>
+                        							<a href="https://www.linkedin.com/company/livescience-com?cmpid=556689" target="_blank" class="fa fa-linkedin"></a>
+                        					</div>
+				</div>
+				<div class="mod line">
+					<header class="footer-title"> Subscribe</header>
+                    						<form class="inline-form" action="https://www.livescience.com/newsletter" method="post" id="footer-newsletter">
+							<input class="subscribe unit form-inset" type="email" name="email" placeholder="enter email here ..." required>
+							<input type="hidden" name="nlPlacement" value="footer">
+							<button class="btn">SUBMIT</button>
+						</form>
+                    				</div>
+				<div class="mod branding">
+					<a href="//purch.com/">
+                        						<img src="https://www.livescience.com/resources/img/purch-logo.png?fa4ecf0" width="135" height="41" alt="Purch">
+                        					</a>
+					<p class="copy-right">Copyright &copy;
+						<script type="text/javascript">document.write(new Date().getFullYear());</script>
+						All Rights Reserved.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+    
+    
+            <div id="mobile-anchor"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('mobile-anchor', false); });</script></div>
+    
+            <div id="interstitial"><script type='text/javascript'>tmntag.cmd.push(function(){ tmntag.adTag('interstitial', false); });</script></div>
+    
+        </div><!-- end site-wrapper -->
+
+            <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Live Science",
+        "url": "https://www.livescience.com"
+    }
+</script>
+
+
+
+
+    
+                <script src="https://www.livescience.com/resources/js/require.min.js?fa4ecf0" defer onload="requireReady()"></script>
+        <script type="text/javascript" language="JavaScript">
+        var Purch = Purch || {};
+        Purch.queue = Purch.queue || [];
+        function requireReady() {
+            requirejs.config({
+                baseUrl: '/js',
+                urlArgs: 'v=2018-09-18-15',
+                map: {
+                    // '*' means all modules will get 'jquery-private'
+                    // for their 'jquery' dependency.
+                    '*': { 'jquery': '/resources/js/jquery-private.js' },
+
+                    // 'jquery-private' wants the real jQuery module
+                    // though. If this line was not here, there would
+                    // be an unresolvable cyclic dependency.
+                    '/resources/js/jquery-private.js': { 'jquery': 'jquery' }
+                }
+            });
+            if (typeof jQuery === 'function') {
+                define('jquery', function() { return jQuery; });
+            }
+            require(['jquery'], function($) {
+                $.prototype.size = function() { return length; };
+            });
+            Purch.queue.push = function(params) {
+                if (!params instanceof Array) {
+                    require(params);
+                } else if (params.length === 1) {
+                    require(params[0]);
+                } else if (params.length > 1){
+                    require(params[0], params[1]);
+                } else {
+                    throw 'Something wrong is in RequireJS queue.';
+                }
+            };
+            for (var i = 0; i < Purch.queue.length; i++){
+                Purch.queue.push(Purch.queue[i]);
+            }
+                        require(['Purch/Utils/Lazy'], function(Lazy) {
+                new Lazy({init: true, offsetY:150, delegateOn: 'body'});
+            });
+                    }
+    </script>
+                <script type="text/javascript">
+            var tmnramp = {"key_vals":[],"http_cookies":{"cm_7593":"1","cm_5889":"1","cm_4894":"1","cm_5542":"1"},"ts":1537299825527,"server":"us-east1-rtb-adserver32","pixels":[{"content":"try {\nvar ncc_exists=document.querySelector(\".newsletter_consent_container\");if(ncc_exists){var script=document.createElement(\"script\");document.head.appendChild(script);script.src=\"https:\/\/privacy.purch.com\/consent_config\/eb5-1647c07b0bf8?callback=consentCallback&fl=message\"};\n} catch (e) {\nconsole.error(e);\n}\n","onready":false,"donotrender":false,"campaign":"7398","refreshable":false,"prepend":false},{"content":"try {\n(function(a){var b=undefined,c=0;setInterval(function(){if(a.dataLayer&&a.requestid!=b){c++;a.dataLayer.push({event:\"paid-traffic\",\"ramp-id\":a.requestid,count:c});b=a.requestid;console.log(\"%cBRS-1249, BRS-1645 push id %s count\",\"background: #222; color: #bada55\",b,c)}},100)})(top.window);\n} catch (e) {\nconsole.error(e);\n}\n","onready":false,"donotrender":false,"campaign":"5289","refreshable":false,"prepend":false},{"content":"try {\n(function(){if(window.omnVars.prop4===\"article\"){var a=document.getElementById(\"rev_content_placeholder\");if(a)a.insertAdjacentHTML(\"beforebegin\",'<div id=\"calypso_revcontent_below_article\" style=\"text-align:center; margin: 10px 0;\"><script type=\"text\/javascript\">if (window.tmntag && window.tmntag.cmd) { tmntag.cmd.push(function() { if (window.tmntag && tmntag.adTag) { tmntag.adTag(\"calypso_revcontent_below_article\", false); } }); } \\x3c\/script><\/div>')}})();\n} catch (e) {\nconsole.error(e);\n}\n","onready":false,"donotrender":false,"campaign":"7027","refreshable":false,"prepend":false}],"ip":"150.161.2.200","placement":"2500","geo":{"countryAlpha3":"BR","latitude":-8.05,"longitude":-34.9,"ctr":"BR","stt":"PE","dma":0,"ct":"Recife","pc":"","ac":3469034,"tz":"America\/Recife"},"user_agent":{"device":"UNKNOWN","os":"Unknown","browser":"Unknown"},"page":"https:\/\/www.livescience.com\/34787-obesity-high-bmi-causes-diabetes-heart-disease.html&sa=u&ved=0ahukewjuw5ngp8xdahxgijakhsmwcli4fbawcb8wag&usg=aovvaw0utdzx4vygnp3j2v_goekx","page_id":"2f68008f","creatives":[{"div":"mobile-anchor","iframe":false,"key_vals":{"_p":["1"],"_a":["1"],"_trn":["0"]},"width":0,"height":0,"ad_params":{"auto_refresh":"true","anchor":"true"}},{"div":"m-in-content-3","iframe":false,"key_vals":{"_p":["3"],"_a":["0"],"_trn":["0"]},"width":0,"height":0,"ad_params":{"auto_refresh":"true","ad_label_display":"report","ad_label_position":"top_center"}},{"div":"m-in-content-2","iframe":false,"key_vals":{"_p":["2"],"_a":["0"],"_trn":["0"]},"width":0,"height":0,"ad_params":{"auto_refresh":"true","ad_label_display":"report","ad_label_position":"top_center"}},{"div":"rightcol_top","iframe":false,"key_vals":{"_p":["1"],"_a":["1"],"_trn":["0"]},"width":0,"height":0,"ad_params":{"auto_refresh":"true","ad_label_display":"report","ad_label_position":"bottom_center","sort_heights":"true"}},{"div":"out-of-page","iframe":false,"key_vals":{"_p":["1"],"_a":["1"]},"width":0,"height":0},{"div":"header_leaderboard","iframe":false,"key_vals":{"_p":["1"],"_a":["1"],"_trn":["0"]},"width":0,"height":0,"ad_params":{"auto_refresh":"true","adunit_style":"padding: 0px 0px !important; ","sort_heights":"true","ad_label_style":"background-color:rgba(0,0,0,0.0) !important;  color:#FFFFFF !important;"}},{"div":"rightcol_bottom","iframe":false,"key_vals":{"_p":["2"],"_a":["0"],"_trn":["0"]},"width":0,"height":0,"ad_params":{"auto_refresh":"true","ad_label_display":"report","ad_label_position":"bottom_center"}},{"div":"rightcol_mid","iframe":false,"key_vals":{"_p":["1"],"_a":["0"],"_trn":["0"]},"width":0,"height":0,"ad_params":{"auto_refresh":"true","ad_label_display":"report","ad_label_position":"bottom_center"}},{"div":"m-in-content-1","iframe":false,"key_vals":{"_p":["1"],"_a":["0"],"_trn":["0"]},"width":0,"height":0,"ad_params":{"auto_refresh":"true","ad_label_display":"report","ad_label_position":"top_center"}}],"latency":17,"html_pre_body":"","html_post_body":"","id":"1512299963345479814"};
+            var Purch = Purch || {};
+            Purch.queue = Purch.queue || [];
+            Purch.queue.push([['jquery'], function ($) {
+                var TMNRAAS_VERSION="1.19",tmntag=tmntag||{};tmntag.isab=false;
+!function(c){function a(){if(!d){d=!0;for(var a=0;a<b.length;a++)b[a].fn.call(window,b[a].ctx);b=[]}}function f(){"complete"===document.readyState&&a()}baseObj=window;var b=[],d=!1,h=!1;baseObj[c]=function(c,k){return d?void setTimeout(function(){c(k)},1):(b.push({fn:c,ctx:k}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(a,1):h||(document.addEventListener?(document.addEventListener("DOMContentLoaded",a,!1),window.addEventListener("load",
+a,!1)):(document.attachEvent("onreadystatechange",f),window.attachEvent("onload",a)),h=!0)))}}("tmntag_ready_2");String.prototype.startsWith||(String.prototype.startsWith=function(c,a){return a=a||0,this.substr(a,c.length)===c});
+Array.prototype.find||Object.defineProperty(Array.prototype,"find",{value:function(c,a){if(null==this)throw new TypeError('"this" is null or not defined');var f=Object(this),b=f.length>>>0;if("function"!=typeof c)throw new TypeError("predicate must be a function");a=a;for(var d=0;d<b;){var h=f[d];if(c.call(a,h,d,f))return h;d++}}});"remove"in Element.prototype||(Element.prototype.remove=function(){this.parentNode&&this.parentNode.removeChild(this)});
+tmntag.refreshPixels=function(){if(typeof tmntag.tmn_pixels!="undefined")for(var c=0;c<tmntag.tmn_pixels.length;c++){var a=tmntag.tmn_pixels[c];if(a.isRefreshable())a.execute()}};
+tmntag.onAB=function(c){if(typeof c!=="function")return;var a=document.createElement("div"),f="adsbox";a.innerHTML="&nbsp;";a.className=f;document.body.appendChild(a);if(window.I11C){tmntag.isab=window.I11C.Morph===1;if(tmntag.isab)c();return}window.setTimeout(function(){var b=false;if(a.offsetHeight===0){b=true;a.remove()}else{e=document.querySelector("."+f);if(!e)b=true;else{for(var d in document.scripts)if(document.scripts[d].src&&document.scripts[d].src.indexOf("googletagservices.com")>=0)break;
+if(typeof tmnraas_nonadblock!="undefined"&&tmnraas_nonadblock)d=true;else d=false;if(!d)b=true;else if(typeof jQuery!="undefined"&&jQuery&&jQuery("#header_leaderboard"))b="none"==jQuery("#header_leaderboard").css("display")}}if(b){tmntag.isab=true;c()}},2E3)};
+tmntag.incontent=tmntag.incontent||function(c,a,f){if(!c||!a)return false;a=document.querySelector(a);if(!a)return false;var b=document.getElementById(c);if(!b){b=document.createElement("div");b.id=c}if(typeof f=="undefined")f="afterend";if(f==="prepend")a.insertBefore(b,a.firstChild);else a.insertAdjacentElement(f,b);return b};
+var tmntag_raascallback=function(){var c="https:"==document.location.protocol?"https://":"http://",a=function(){console.log("-RAAS- "+TMNRAAS_VERSION+" AB detected");var a=Math.floor(Math.random()*11E3),b=document.createElement("script");b.type="text/javascript";var d=typeof Purch!="undefined"&&typeof Purch.calypso!="undefined"&&Purch.calypso.pvid||"0";b.src=c+"ramp.purch.com/event.js?t=AB&id=0&pvid="+d+"&bid=&cp=0&bdrid=&crid=&ad=&r="+a+"&l="+encodeURIComponent(window.top.document.location.href);
+if(d=document.getElementsByTagName("script")[0])d.parentNode.insertBefore(b,d);if(typeof tmnramp!="undefined"){window.top.tmntag_redirect=function(a,b,c){if(!a)return false;var d={cp:"__CP__",bdrid:"__BDRID__",crid:"__CRID__",ad:"__AD__",pd:"__PRODUCT_ID__",tid:"__TID__",pvid:"__PVID__"};a=typeof b==="object"?a.href:b;c=typeof b==="object"?b:c;b=Math.floor(Math.random()*11E3);var g="https:"==document.location.protocol?"https://":"http://";b=g+"ramp.purch.com/event.js?t=CL&id="+(top.window.requestid?
+top.window.requestid:0)+"&r="+b;{c=c;g="";if(c&&d)for(var f in d)if(d.hasOwnProperty(f))if(c.hasOwnProperty(d[f]))if(f==="pd")g+="&"+f+"=|"+c[d[f]]+"|";else g+="&"+f+"="+c[d[f]];d=g}f=b+d;d=document.createElement("script");d.type="text/javascript";d.src=f;if(f=document.getElementsByTagName("script")[0])f.parentNode.insertBefore(d,f);a=window.open(a,"_blank");a.focus();return false};if(tmnramp.creatives)for(var h in tmnramp.creatives)if((a=tmnramp.creatives[h])&&a.div&&a.markup){var d=a.markup.replace(/\\n|\\r/g,
+""),d=d.replace(/\\/g,""),g=a.div,b=document.getElementById(g);if(typeof tmntag.incontent!="undefined"&&a.ad_params&&a.ad_params.incontent_css_selector)b=tmntag.incontent(g,a.ad_params.incontent_css_selector,a.ad_params.incontent_position);if(!b)continue;if(a.iframe){g=document.createElement("iframe");g.frameBorder=0;g.name=a.campaign_id+"/"+a.creative_id;g.scrolling="no";g.marginwidth=0;g.marginheight=0;g.style.width=(a.width||0)+"px";g.style.height=(a.height||0)+"px";g.style.border="0pt none";g.style.margin=
+"0px 0 0";g.width=a.width||0;g.height=a.height||0;b.appendChild(g);b="<!DOCTYPE ht"+"ml><bo"+'dy marginheight="0" marginwidth="0">'+d+"</bo"+"dy></ht"+"ml>";g.contentWindow.contents=b;g.src='javascript:window["contents"]'}else{a=Math.floor(Math.random()*11E3);b.id=btoa(a+g+a).replace(/[^a-zA-Z]/g,"");b.innerHTML=d}}}if(typeof tmnramp!="undefined"&&tmnramp.pixels)for(h in tmnramp.pixels)if((b=tmnramp.pixels[h])&&!b.donotrender&&b.content&&b.onready)eval(b.content)};tmntag.onAB(a)};tmntag_ready_2(tmntag_raascallback);
+(function(){if(typeof tmnramp!="undefined"&&tmnramp){if(typeof tmnramp.pixels!="undefined"&&tmnramp.pixels)for(var c in tmnramp.pixels){var a=tmnramp.pixels[c];if(a&&!a.donotrender&&a.content&&!a.onready)eval(a.content)}if(typeof tmnramp.http_cookies!="undefined"&&tmnramp.http_cookies)for(var f in tmnramp.http_cookies){c=tmnramp.http_cookies[f];document.cookie=f+"="+c}}})();
+            }]);
+        </script>
+    
+</body>
+
+</html>

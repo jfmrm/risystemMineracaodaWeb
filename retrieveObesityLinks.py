@@ -1,7 +1,7 @@
 import requests as rq
 from bs4 import BeautifulSoup
 
-url = 'https://www.google.com.br/search?q=obesidade&ei=eMuaW4fhNsn7wQTR5L_gAg&start=%d&sa=N&biw=1280&bih=496'
+url = 'https://www.google.com.br/search?q=obesity&ei=eMuaW4fhNsn7wQTR5L_gAg&start=%d&sa=N&biw=1280&bih=496'
 
 search = []
 for i in range(10):

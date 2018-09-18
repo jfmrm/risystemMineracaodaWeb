@@ -1,0 +1,1500 @@
+<!DOCTYPE html>
+<html lang="en" class="pb-page"  data-request-id="de0cb92b-275c-4cd9-95f3-100e065b4c31"  
+><head data-pb-dropzone="head"><meta name="pbContext" content=";product:product:elsevier\:product\:lancet;page:string:404;wgroup:string:Default Website Group;pageGroup:string:Error;website:website:lancet-site"/><meta data-pb-head="head-widgets-start"/>
+
+
+
+
+
+
+<noscript>
+    <style>.requiresJS {
+        display: none
+    }
+
+    .dartAd {
+        display: block !important
+    }</style>
+</noscript>
+    <script rel="preconnect" async defer src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="/wro/fam2~product.css"/>
+        <link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 480px)"
+              href="/wro/fam2~small-device.css"/>
+        <link rel="stylesheet" type="text/css" href="/pb/css/t1534420480407-v1532122762000/head_1_1621_1623.css" id="pb-css" data-pb-css-id="t1534420480407-v1532122762000/head_1_1621_1623.css"/>
+    
+        <link rel="stylesheet" type="text/css" href="/wro/fam2~lancet.css"/>
+        <script type="text/javascript" src="/wro/fam2~product.js"></script><!--[if IE 6]><link rel="stylesheet" type="text/css" href="/wro/fam2~ie6.css"/><script type="text/javascript" src="/wro/fam2~ie6.js"></script><![endif]-->
+        <!-- Load head/footer Styleguide CSS -->
+        
+            <link rel="stylesheet" type="text/css" href="/products/marlin/lancet/releasedAssets/css/selected.css"/>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <meta name="robots" content="noarchive,noindex,nofollow"/>
+    
+
+
+
+
+
+
+    <meta name="viewport" content="initial-scale=0,maximum-scale=1, user-scalable=1"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <meta name="apple-itunes-app" content="app-id=483025114"/>
+
+
+    <meta name="google-play-app" content="app-id=com.elsevier.jbsm.lancet" />
+
+
+    <meta name="AppTitle" content="The Lancet"/>
+
+
+    <meta name="AppAuthor" content="Elsevier Inc."/>
+
+
+    <meta name="AppIconUrl" content="http://www.thelancet.com.marlin-prod.literatumonline.com/pb-assets/Lancet/Images/lancetLogo.png"/>
+
+
+
+<title>Lancet</title><meta name="name" content="Lancet" />
+
+
+
+<meta data-pb-head="head-widgets-end"/><meta charset="UTF-8" /><!--
+
+    Pagebuild admin UI
+-->
+
+
+<!---->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+    
+        <script type="text/javascript">
+            function optimizelyTimeout() {
+                window.optimizely = window.optimizely || [];
+                if (!window.optimizely.data) {
+                    window.optimizely.push("timeout")
+                }
+            }
+            (function () {
+                var e = "https:" == document.location.protocol ? "https://" : "http://";
+                var t = document.createElement("script");
+                t.type = "text/javascript";
+                t.async = true;
+                t.src = e + "cdn.optimizely.com/js/537390469.js";
+                var n = document.getElementsByTagName("script")[0];
+                n.parentNode.insertBefore(t, n)
+            })();
+            setTimeout(optimizelyTimeout, 1e3)
+        </script>
+    
+</head>
+<body class="pb-ui">
+    <div class="skip">
+        <a href="#pageBody"
+                  id="skipNavigationLink"
+                  title="Skip to Main Content" tabIndex="0">Skip to Main Content</a>
+    </div>
+
+
+<script type="text/javascript">
+
+        if(true) {
+            document.getElementById("skipNavigationLink").onclick =function skipElement () {
+                document.getElementById('pageBody').setAttribute('tabindex','0');
+                document.getElementById('pageBody').focus();
+            }
+
+        }
+
+</script>
+    <div id="pb-page-content" data-ng-non-bindable>
+        <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+
+
+
+
+
+
+
+
+
+
+        <div data-widget-def="ux3-layout-widget" data-widget-id="5019c3ed-aeec-4bec-a97a-cd7d6ecea46c" class="ux3">
+        
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="5019c3ed-aeec-4bec-a97a-cd7d6ecea46c" data-widget-name="ux3-layout-widget"><div>
+    
+
+        
+
+
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="f3868982-daa5-45e3-92f6-84fdcc4ac3fe" data-widget-name="ux3-layout-widget"><header class="header base fixed">
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="ff5ec9a2-0ea8-4f5e-aece-0786cac88a5c" data-widget-name="ux3-layout-widget"><div>
+    
+
+        
+
+
+
+
+
+
+
+
+
+
+
+        <div data-widget-def="ux3-layout-widget" data-widget-id="4014114d-054d-414e-bb5e-ea626d9a028c" class="header__wrapper clearfix" data-db-parent-of="quickSearch">
+        
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="4014114d-054d-414e-bb5e-ea626d9a028c" data-widget-name="ux3-layout-widget"><div class="col-xs-6">
+    
+
+        
+
+
+    
+
+            
+
+            
+                <div class="journal-logos">
+            
+
+            <span data-widget-id="1f3f5ace-3a36-4970-a5f1-d69d6e7bf4b6" data-widget-name="ux3-general-image"><a href="/home" title="The Lancet Home"><img alt="The Lancet Home" src="/pb-assets/ux3/logos/lancet/LANCET.svg"/></a></span>
+
+            
+                </div>
+            
+
+        
+</div><div class="col-xs-6">
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="25bd95c4-9085-4b32-af0e-a8c71015a190" data-widget-name="ux3-layout-widget"><div class="header__nav row">
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="f133594e-2be9-4641-b3aa-38f20dd20d9d" data-widget-name="UX3MenuWidget" class="main-nav menu-drawer"><div class="menu-drawer__ctrl"><a href="#main-menu" data-target="main-menu" data-toggle="nav" title="Explore Lancet.com"><span class="menu-drawer--open"><i aria-hidden="true" class="icon-gizmo-hamburger"></i></span><span class="menu-drawer--close"><i aria-hidden="true" class="icon-close_thin"><span>Close</span></i></span></a></div><nav role="navigation" id="main-menu" data-ctrl-res="screen-sm" class="menu-drawer__nav drawer__nav gutterless"><span class="menu-drawer--holder hidden-md hidden-lg"></span><ul id="menubar" role="menubar" class="menubar rlist--inline"><li role="menuitem" aria-label="Home" id="menu-item-main-menu-0" class="menu-item is--current"><a href="/home" title="Home"><span>Home</span></a></li><li role="menuitem" aria-haspopup="true" aria-label="Journals" id="menu-item-main-menu-1" class="dropdown menu-parent"><a href="#" title="Journals" id="main-menu-0" data-toggle="dropdown" class="dropdown__toggle"><span>Journals</span><i aria-hidden="true" class="icon-arrow_r pull-right"></i></a><ul id="menu-items-0" role="menu" class="rlist dropdown__menu"><li role="menuitem" aria-haspopup="true" class="menu-drawer__back hidden-md hidden-lg"><a href="#" class="menu-drawer__back__ctrl"><i aria-hidden="true" class="icon-arrow_l"></i><span>Back</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet" class="menu-item"><a href="/journals/lancet/issue/current" title="The Lancet"><span>The Lancet</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Child &amp; Adolescent Health" class="menu-item"><a href="/journals/lanchi/issue/current" title="The Lancet Child &amp; Adolescent Health"><span>The Lancet Child & Adolescent Health</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Diabetes &amp; Endocrinology" class="menu-item"><a href="/journals/landia/issue/current" title="The Lancet Diabetes &amp; Endocrinology"><span>The Lancet Diabetes & Endocrinology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Gastroenterology &amp;amp; Hepatology" class="menu-item"><a href="/journals/langas/issue/current" title="The Lancet Gastroenterology &amp;amp; Hepatology"><span>The Lancet Gastroenterology &amp; Hepatology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Global Health" class="menu-item"><a href="/journals/langlo/issue/current" title="The Lancet Global Health"><span>The Lancet Global Health</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Haematology" class="menu-item"><a href="/journals/lanhae/issue/current" title="The Lancet Haematology"><span>The Lancet Haematology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet HIV" class="menu-item"><a href="/journals/lanhiv/issue/current" title="The Lancet HIV"><span>The Lancet HIV</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Infectious Diseases" class="menu-item"><a href="/journals/laninf/issue/current" title="The Lancet Infectious Diseases"><span>The Lancet Infectious Diseases</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Neurology" class="menu-item"><a href="/journals/laneur/issue/current" title="The Lancet Neurology"><span>The Lancet Neurology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Oncology" class="menu-item"><a href="/journals/lanonc/issue/current" title="The Lancet Oncology"><span>The Lancet Oncology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Planetary Health" class="menu-item"><a href="/journals/lanplh/issue/current" title="The Lancet Planetary Health"><span>The Lancet Planetary Health</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Psychiatry" class="menu-item"><a href="/journals/lanpsy/issue/current" title="The Lancet Psychiatry"><span>The Lancet Psychiatry</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Public Health" class="menu-item"><a href="/journals/lanpub/issue/current" title="The Lancet Public Health"><span>The Lancet Public Health</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Respiratory Medicine" class="menu-item"><a href="/journals/lanres/issue/current" title="The Lancet Respiratory Medicine"><span>The Lancet Respiratory Medicine</span></a></li><li role="menuitem" tabindex="-1" aria-label="EBioMedicine" class="menu-item"><a href="http://www.ebiomedicine.com/" title="EBioMedicine"><span>EBioMedicine</span></a></li><li role="menuitem" tabindex="-1" aria-label="EClinicalMedicine" class="menu-item"><a href="/journals/eclinm/issue/current" title="EClinicalMedicine"><span>EClinicalMedicine</span></a></li></ul></li><li role="menuitem" aria-haspopup="true" aria-label="Clinical" id="menu-item-main-menu-2" class="dropdown menu-parent"><a href="#" title="Clinical" id="main-menu-1" data-toggle="dropdown" class="dropdown__toggle"><span>Clinical</span><i aria-hidden="true" class="icon-arrow_r pull-right"></i></a><ul id="menu-items-1" role="menu" class="rlist dropdown__menu level-2"><li role="menuitem" aria-haspopup="true" class="menu-drawer__back hidden-md hidden-lg"><a href="#" class="menu-drawer__back__ctrl"><i aria-hidden="true" class="icon-arrow_l"></i><span>Back</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Clinic" class="menu-item"><a href="/clinical/diseases" title="The Lancet Clinic"><span>The Lancet Clinic</span></a></li><li role="menuitem" tabindex="-1" aria-label="Series" class="menu-item"><a href="/clinical/series" title="Series"><span>Series</span></a></li><li role="menuitem" tabindex="-1" aria-label="Commissions" class="menu-item"><a href="/clinical/commissions" title="Commissions"><span>Commissions</span></a></li><li role="menuitem" tabindex="-1" aria-label="Picture Quiz" class="menu-item"><a href="/picture-quiz" title="Picture Quiz"><span>Picture Quiz</span></a></li></ul></li><li role="menuitem" aria-haspopup="true" aria-label="Global Health" id="menu-item-main-menu-3" class="dropdown menu-parent"><a href="#" title="Global Health" id="main-menu-2" data-toggle="dropdown" class="dropdown__toggle"><span>Global Health</span><i aria-hidden="true" class="icon-arrow_r pull-right"></i></a><ul id="menu-items-2" role="menu" class="rlist dropdown__menu level-3"><li role="menuitem" aria-haspopup="true" class="menu-drawer__back hidden-md hidden-lg"><a href="#" class="menu-drawer__back__ctrl"><i aria-hidden="true" class="icon-arrow_l"></i><span>Back</span></a></li><li role="menuitem" tabindex="-1" aria-label="Hub" class="menu-item"><a href="/global-health" title="Hub"><span>Hub</span></a></li><li role="menuitem" tabindex="-1" aria-label="Series" class="menu-item"><a href="/global-health/series" title="Series"><span>Series</span></a></li><li role="menuitem" tabindex="-1" aria-label="Commissions" class="menu-item"><a href="/global-health/commissions" title="Commissions"><span>Commissions</span></a></li><li role="menuitem" tabindex="-1" aria-label="Global Burden of Diseases" class="menu-item"><a href="/gbd" title="Global Burden of Diseases"><span>Global Burden of Diseases</span></a></li></ul></li><li role="menuitem" aria-haspopup="true" aria-label="Information" id="menu-item-main-menu-4" class="dropdown menu-parent"><a href="#" title="Information" id="main-menu-3" data-toggle="dropdown" class="dropdown__toggle"><span>Information</span><i aria-hidden="true" class="icon-arrow_r pull-right"></i></a><ul id="menu-items-3" role="menu" class="rlist dropdown__menu level-4"><li role="menuitem" aria-haspopup="true" class="menu-drawer__back hidden-md hidden-lg"><a href="#" class="menu-drawer__back__ctrl"><i aria-hidden="true" class="icon-arrow_l"></i><span>Back</span></a></li><li role="menuitem" tabindex="-1" aria-label="About" class="menu-item"><a href="/about-us" title="About"><span>About</span></a></li><li role="menuitem" tabindex="-1" aria-label="Authors" class="menu-item"><a href="/for-authors" title="Authors"><span>Authors</span></a></li><li role="menuitem" tabindex="-1" aria-label="Readers" class="menu-item"><a href="/access-to-content" title="Readers"><span>Readers</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet App" class="menu-item"><a href="/app" title="The Lancet App"><span>The Lancet App</span></a></li><li role="menuitem" tabindex="-1" aria-label="Advertisers" class="menu-item"><a href="/for-advertisers" title="Advertisers"><span>Advertisers</span></a></li><li role="menuitem" tabindex="-1" aria-label="Press" class="menu-item"><a href="/press-room" title="Press"><span>Press</span></a></li><li role="menuitem" tabindex="-1" aria-label="Careers" class="menu-item"><a href="http://careers.thelancet.com/home/" title="Careers"><span>Careers</span></a></li><li role="menuitem" tabindex="-1" aria-label="Conferences" class="menu-item"><a href="/conferences" title="Conferences"><span>Conferences</span></a></li></ul></li><li role="menuitem" aria-haspopup="true" aria-label="Submit a Paper" id="menu-item-main-menu-5" class="dropdown menu-parent"><a href="#" title="Submit a Paper" id="main-menu-4" data-toggle="dropdown" class="dropdown__toggle"><span>Submit a Paper</span><i aria-hidden="true" class="icon-arrow_r pull-right"></i></a><ul id="menu-items-4" role="menu" class="rlist dropdown__menu level-5"><li role="menuitem" aria-haspopup="true" class="menu-drawer__back hidden-md hidden-lg"><a href="#" class="menu-drawer__back__ctrl"><i aria-hidden="true" class="icon-arrow_l"></i><span>Back</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet" class="menu-item"><a href="http://ees.elsevier.com/thelancet/" title="The Lancet"><span>The Lancet</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Child &amp; Adolescent Health" class="menu-item"><a href="/lanchi/about" title="The Lancet Child &amp; Adolescent Health"><span>The Lancet Child & Adolescent Health</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Diabetes &amp; Endocrinology" class="menu-item"><a href="/landia/about" title="The Lancet Diabetes &amp; Endocrinology"><span>The Lancet Diabetes & Endocrinology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Gastroenterology &amp; Hepatology" class="menu-item"><a href="/langas/about" title="The Lancet Gastroenterology &amp; Hepatology"><span>The Lancet Gastroenterology & Hepatology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Global Health" class="menu-item"><a href="/langlo/about" title="The Lancet Global Health"><span>The Lancet Global Health</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Haematology" class="menu-item"><a href="/lanhae/about" title="The Lancet Haematology"><span>The Lancet Haematology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet HIV" class="menu-item"><a href="/lanhiv/about" title="The Lancet HIV"><span>The Lancet HIV</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Infectious Diseases" class="menu-item"><a href="/laninf/about" title="The Lancet Infectious Diseases"><span>The Lancet Infectious Diseases</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Neurology" class="menu-item"><a href="/laneur/about" title="The Lancet Neurology"><span>The Lancet Neurology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Oncology" class="menu-item"><a href="/lanonc/about" title="The Lancet Oncology"><span>The Lancet Oncology</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Planetary Health" class="menu-item"><a href="/lanplh/about" title="The Lancet Planetary Health"><span>The Lancet Planetary Health</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Psychiatry" class="menu-item"><a href="/lanpsy/about" title="The Lancet Psychiatry"><span>The Lancet Psychiatry</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Public Health" class="menu-item"><a href="/lanpub/about" title="The Lancet Public Health"><span>The Lancet Public Health</span></a></li><li role="menuitem" tabindex="-1" aria-label="The Lancet Respiratory Medicine" class="menu-item"><a href="/lanres/about" title="The Lancet Respiratory Medicine"><span>The Lancet Respiratory Medicine</span></a></li><li role="menuitem" tabindex="-1" aria-label="EBioMedicine" class="menu-item"><a href="http://ees.elsevier.com/ebiom/" title="EBioMedicine"><span>EBioMedicine</span></a></li><li role="menuitem" tabindex="-1" aria-label="EClinicalMedicine" class="menu-item"><a href="http://ees.elsevier.com/eclinm/login.asp" title="EClinicalMedicine"><span>EClinicalMedicine</span></a></li></ul></li></ul></nav></div><div class="header__dropzone"><div class="pb-dropzone" data-pb-dropzone="menuDropzone"></div></div>
+
+            
+
+        
+
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="036d7208-4ae6-4144-a35d-6a83657fa8f9" data-widget-name="UX3QuickSearchWidget" class="quick-search"><div class="dropBlock"><a href="#" title="Search" data-db-target-for="quickSearch" aria-expanded="false" aria-controls="quick-search-holder" class="search-drawer"><i aria-hidden="true" class="icon-search"></i></a><div data-db-target-of="quickSearch" id="quick-search-holder" class="dropBlock__holder quick-search__holder"><div class="tab row clearfix quick-search__wrapper"><input type="hidden" name="autoCompleteUrl" value="https://search-autocomplete.elsevier-jbs.com/autocomplete/jsonp" class="autoCompleteServerURL"/><form action="https://www.thelancet.com/action/doSearch?journalCode=" name="quickSearchBar" method="get" title="Quick Search" onSubmit="return validateQuickSearchForm();"><div class="clearfix"><div class="col-sm-5 col-md-6 col-lg-7"><input type="hidden" name="searchType" value="quick" aria-hidden="true"/><div class="input-group quick-search__searchbar"><input type="text" name="searchText" placeholder="Search for..." class="autoComplete"/></div><button type="submit" title="Search" aria-label="Search" class="btn quick-search__button icon-search"><span>Go search</span></button></div><div class="col-sm-4 col-md-4 col-lg-3"><select class="quick-search__dropdown"><option value="all" selected="selected">All Content</option><option value="articleTitleAbstractKeywords">Article Title, Abstract, Keywords</option><option value="author">Authors</option><option value="articleTitle">Article Title</option><option value="abstract">Abstract</option></select><div class="quick-search__scope-options clearfix"></div></div><input type="hidden" name="searchScope" value="fullSite" aria-hidden="true"/><input type="hidden" name="occurrences" value="all" aria-hidden="true"/><div class="col-sm-3 col-md-2 col-lg-2"><div class="quick-search__advanced-region"><a href="https://www.thelancet.com/search/advanced?searchType=advanced" title="Advanced search" class="quick-search__advanced-link">Advanced Search</a></div></div><input type="hidden" name="code" value="lancet-site" aria-hidden="true"/></div></form><a href="#" title="Close search bar" class="quick-search__ctrl quick-search__close hidden-xs hidden-sm"><i class="icon-tools_close"></i></a></div></div></div></div>
+
+            
+
+        
+
+    
+
+        
+
+</div></div>
+
+            
+
+        
+</div></div>
+
+            
+
+        
+
+        </div>
+    
+</div></div>
+
+            
+
+        
+</header></div>
+
+            
+
+        
+</div></div>
+
+            
+
+        
+
+        </div>
+    
+
+    
+
+        
+
+
+    
+
+                
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                            
+                        
+                        
+                            
+                            
+                            
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                
+                <div class="widget layout-frame none main-site-wrap legacy-pb-page-content widget-none  widget-compact-all" id="67b84410-26e6-45f1-8be4-451ef2dbc423">
+                
+                
+
+                <div class="wrapped " >
+                    
+                    <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+    
+
+        
+
+
+    
+
+                
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                            
+                        
+                        
+                            
+                            
+                            
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                
+                <div class="widget layout-frame none journalNavbar widget-none  widget-compact-all" id="d292caa3-1306-4b70-a184-96ef10bd7e9a">
+                
+                
+
+                <div class="wrapped " >
+                    
+                    <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    </div></div>
+                </div>
+                </div>
+
+        
+
+    
+
+        
+
+
+    
+
+                
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                            
+                        
+                        
+                            
+                            
+                            
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                
+                <div class="widget general-html none  widget-none  widget-compact-all" id="1fe778f5-0674-42a9-a26d-f0645e8ab8e2">
+                
+                
+
+                <div class="wrapped " >
+                    
+                    <div class="widget-body body body-none  body-compact-all"><div class="bonnet"></div></div>
+                </div>
+                </div>
+
+        
+
+    
+
+        
+
+
+    
+
+                
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                            
+                        
+                        
+                            
+                            
+                            
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                
+                <div class="widget pageBody none  widget-none  widget-compact-all" id="pageBody">
+                
+                
+
+                <div class="wrapped " >
+                    
+                    <div class="widget-body body body-none  body-compact-all"><!--begin pagefulltext-->
+<div class="page-body pagefulltext">
+    <div data-pb-dropzone="main">
+    
+    
+
+        
+
+
+    
+
+                
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                
+                <div class="widget general-html none  widget-none" id="d3481abf-91d3-4fd0-91b0-6aaacae3c876">
+                
+                
+
+                <div class="wrapped " >
+                    
+                    <div class="widget-body body body-none "><h1>An error has occurred</h1>    <p>The page or action you requested has resulted in an error. Please go back to the previous page by using your browser's Back button, or visit the <a href="/">Home Page</a>.</p>      <h3>This page does not exist</h3></div>
+                </div>
+                </div>
+
+        
+    </div>
+</div><!--end pagefulltext--></div>
+                </div>
+                </div>
+
+        
+
+    
+
+        
+
+</div></div>
+                </div>
+                </div>
+
+        
+
+
+
+
+
+
+
+
+
+
+        <div data-widget-def="ux3-layout-widget" data-widget-id="1f4bb806-6f34-4378-a41c-8b5060df84ee" class="ux3">
+        
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="1f4bb806-6f34-4378-a41c-8b5060df84ee" data-widget-name="ux3-layout-widget"><footer class="footer clearfix">
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="6c6b6950-d88f-47eb-a4a3-88a4d54a3efe" data-widget-name="UX3HTMLWidget"><div class="footer__top">
+            <div class="footer__logo centered"><a href="/home" title="The Lancet logo"><img alt="logo" src="/pb-assets/ux3/logos/lancet/LANCET.svg"></a></div>
+            <div class="footer__social-links">
+              <ul class="rlist rlist--inline centered">
+                <li><a href="https://twitter.com/TheLancet" title="Twitter"><i aria-hidden="true" class="icon-Icon_Twitter"></i></a></li>
+                <li><a href="https://www.facebook.com/TheLancetMedicalJournal/" title="Facebook"><i aria-hidden="true" class="icon-Icon_Facebook"></i></a></li>
+                <li><a href="https://www.linkedin.com/company/the-lancet/" title="LinkedIn"><i aria-hidden="true" class="icon-linkedin"></i></a></li>
+              </ul>
+            </div>
+          </div></div>
+
+            
+
+        
+
+    
+
+        
+
+
+    
+
+            
+
+            
+                <div class="footer__bottom text-onDark">
+            
+
+            <div data-widget-id="990712f4-2a7a-4439-a11d-411ecf08e5c8" data-widget-name="ux3-layout-widget"><div class="col-sm-4 col-md-5 clearfix">
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="21f1d838-df27-4e30-80c7-1b97df750391" data-widget-name="UX3HTMLWidget"><div class="groups bordered">
+                    <div class="group">
+                      <div class="group__title">The Lancet Journals</div>
+                      <ul class="rlist clearfix sided">
+                        <li><a href="/journals/lancet/issue/current">The Lancet</a></li>
+                        <li><a href="/journals/lanchi/issue/current">The Lancet Child &amp; Adolescent Health</a></li>
+                        <li><a href="/journals/landia/issue/current">The Lancet Diabetes &amp; Endocrinology</a></li>
+                        <li><a href="/journals/langas/issue/current">The Lancet Gastroenterology &amp; Hepatology</a></li>
+                        <li><a href="/journals/langlo/issue/current">The Lancet Global Health</a></li>
+                        <li><a href="/journals/lanhae/issue/current">The Lancet Haematology</a></li>
+                        <li><a href="/journals/lanhiv/issue/current">The Lancet HIV</a></li>
+                        <li><a href="/journals/laninf/issue/current">The Lancet Infectious Diseases</a></li>
+                        <li><a href="/journals/laneur/issue/current">The Lancet Neurology</a></li>
+                        <li><a href="/journals/lanonc/issue/current">The Lancet Oncology</a></li>
+                        <li><a href="/journals/lanplh/issue/current">The Lancet Planetary Health</a></li>
+                        <li><a href="/journals/lanpsy/issue/current">The Lancet Psychiatry</a></li>
+                        <li><a href="/journals/lanpub/issue/current">The Lancet Public Health</a></li>
+                        <li><a href="/journals/lanres/issue/current">The Lancet Respiratory Medicine</a></li>
+                        <li><a href="http://www.ebiomedicine.com/">EBioMedicine</a></li>
+                        <li><a href="/eclinicalmedicine">EClinicalMedicine</a></li>
+                      </ul>
+                    </div>
+</div></div>
+
+            
+
+        
+</div><div class="col-sm-4 col-md-3 col-lg-2 clearfix">
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="6a7e5150-5321-421f-8ce9-0223e8bdc674" data-widget-name="UX3HTMLWidget"><div class="groups bordered">
+                    <div class="group">
+                      <div class="group__title">CLINICAL</div>
+                      <ul class="rlist clearfix">
+                        <li><a href="/clinical/diseases">The Lancet Clinic</a></li>
+                        <li><a href="/clinical/commissions">Commissions</a></li>
+                        <li><a href="/clinical/series">Series</a></li>
+                        <li><a href="/picture-quiz">Picture Quiz</a></li>
+                      </ul>
+                    </div>
+                    <div class="group">
+                      <div class="group__title">GLOBAL HEALTH</div>
+                      <ul class="rlist clearfix">
+                        <li><a href="/global-health">Hub</a></li>
+                        <li><a href="/global-health/commissions">Commissions</a></li>
+                        <li><a href="/global-health/series">Series</a></li>
+                        <li><a href="/gbd">Global Burden of Disease</a></li>
+                      </ul>
+                    </div>
+</div></div>
+
+            
+
+        
+</div><div class="col-sm-4 col-md-4 col-lg-5 clearfix">
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="7e537560-25b2-4b1b-8d93-8fe6767a5b3a" data-widget-name="UX3HTMLWidget"><div class="groups ">
+                    <div class="group">
+                      <div class="group__title">Connect</div>
+                      <ul class="rlist clearfix sided">
+                        <li><a href="/about-us">About</a></li>
+                        <li><a href="/contact-us">Contact Us</a></li>
+                        <li><a href="https://service.elsevier.com/app/overview/lancet/" target="_blank">Customer Service</a></li>
+                      </ul>
+                    </div>
+                    <div class="group">
+                      <div class="group__title">Access</div>
+                      <ul class="rlist clearfix sided">
+                        <li><a href="/access-to-content">Information for Readers</a></li>
+                        <li><a href="/action/registration?journal=&amp;redirectUri=https%3A%2F%2Fwww.thelancet.com%2F">Register</a></li>
+                        <li><a href="/journals/lancet/subscribe">Subscription Options</a></li>
+                        <li><a href="/action/showPreferences?menuTab=AccountInfo">My Account</a></li>
+                        <li><a href="/action/activateClaim?journalCode=&amp;class=claimSubscribtion">Existing Print Subscribers</a></li>
+                        <li><a href="http://info.thelancet.com/update-alerts?utm_campaign=tlupdates-signup&amp;utm_source=footer&amp;utm_medium=tlwebsite&amp;utm_content=updates " target="_blank">The Lancet <i>Updates</i></a></li>
+                        <li><a href="http://info.thelancet.com/request-access?utm_campaign=jls-rtl&amp;utm_source=site-footer&amp;utm_medium=website " target="_blank">Recommend Lancet journals to your librarian</a></li>
+                        <li><a href="/app">The Lancet App</a></li>
+                        <li><a href="/choice">The Lancet Choice</a></li>
+                      </ul>
+                    </div>
+                    <div class="group">
+                      <div class="group__title">Information</div>
+                      <ul class="rlist clearfix sided">
+                        <li><a href="/for-authors">Authors</a></li>
+                        <li><a href="/press-room">Press</a></li>
+                        <li><a href="/for-advertisers">Advertisers</a></li>
+                        <li><a href="http://careers.thelancet.com/home" target="_blank">Careers</a></li>
+                        <li><a href="http://www.elsevier.com/legal/privacy-policy" target="_blank">Privacy Policy</a></li>
+                        <li><a href="http://www.elsevier.com/legal/elsevier-website-terms-and-conditions" target="_blank">Terms and Conditions</a></li>
+                        <li><a href="/cookies">Cookies</a></li>
+                      </ul>
+                    </div>
+</div></div>
+
+            
+
+        
+</div></div>
+
+            
+                </div>
+            
+
+        
+
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="ada4f5c8-9450-4183-89fc-051e378ad5b2" data-widget-name="UX3HTMLWidget"><p class="align-center copy-right">
+    Copyright © 2018 Elsevier Limited except certain content provided by third parties.
+The Lancet is a trade mark of Elsevier Limited.
+The Lancet.com website is operated by Elsevier Inc. The content on this site is intended for health professionals.
+Cookies are set by this site. To decline them or learn more, visit our Cookies page.
+The Lancet demonstrates its commitment to accessibility by enabling access and optimising the experience for individuals with disabilities and impairments.
+</p></div>
+
+            
+
+        
+
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="42290e67-abaf-4c5a-9ae7-1de7d79b4373" data-widget-name="UX3HTMLWidget"><style>
+/* Make non-journal Search Bar the website blue */
+.ux3 .quick-search .dropBlock [data-db-target-of] {
+    background: #00539e;
+}
+.ux3 .quick-search .dropBlock [data-db-target-of]:before {
+    background: #00539e;
+}
+/* make Hamburger Menu selected link dark blue */
+.ux3 .menu-drawer ul li.is--current>a {
+    color: #00539e;
+}
+/* Make Magnifying Glass icon go dark grey on hover */
+.ux3 .quick-search [type="submit"]:hover {
+ background: #00539E;
+}
+.ux3 .quick-search [type="submit"]:focus {
+ background: #00539E;
+}
+</style>
+
+</div>
+
+            
+
+        
+
+    
+
+        
+
+
+    
+
+                
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                            
+                        
+                        
+                            
+                            
+                            
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                
+                <div class="widget general-html none  widget-none  widget-compact-all" id="c6175657-20ab-4020-bb18-8948bb4891b3">
+                
+                
+
+                <div class="wrapped " >
+                    
+                    <div class="widget-body body body-none  body-compact-all"><script>
+var _prum = [['id', '552dcbfbabe53d7c1688e85a'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script></div>
+                </div>
+                </div>
+
+        
+
+    
+
+        
+
+
+    
+
+                
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                            
+                        
+                        
+                            
+                            
+                            
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                
+                <div class="widget sessionValidationWidget none  widget-none  widget-compact-all" id="233c371f-f0b7-4cd9-b2b9-1a94969b2c04">
+                
+                
+
+                <div class="wrapped " >
+                    
+                    <div class="widget-body body body-none  body-compact-all"><script>
+    $.ajax({
+        url: "https://www.thelancet.com/ssoSessionCheck",
+        type: "GET",
+        dataType: "jsonp",
+        success: function (data) {
+            if(data.RefreshSession) {
+                location.reload();
+            }
+        },
+        error : function (){
+            console.warn("can't validate CSAS session.");
+        }
+    });
+</script></div>
+                </div>
+                </div>
+
+        
+
+    
+
+        
+
+
+    
+
+                
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                            
+                        
+                        
+                            
+                            
+                            
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                
+                
+                <div class="widget csasSsoUrls none  widget-none  widget-compact-all" id="d3dbd9c8-ebaf-468d-bc43-063d543d0907">
+                
+                
+
+                <div class="wrapped " >
+                    
+                    <div class="widget-body body body-none  body-compact-all"><div id="sso-urls-div" class="hidden ssoUrls">
+    
+</div>
+
+<!-- clear SSO URLs after all iFrames are rendered or after passing a time out-->
+<script>
+    setTimeout(clearSsoUrlsFun,10000);
+    var iFramesList = document.getElementById("sso-urls-div").getElementsByTagName("iframe");
+    var renderedIFramesCount = 0;
+    var numberOfIFrames = iFramesList.length;
+    var skipRefresh = false;
+    for (var i = 0; i < iFramesList.length; i++) {
+        var iFrame = iFramesList[i];
+        iFrame.addEventListener("load", function() {
+            renderedIFramesCount = renderedIFramesCount + 1;
+            if (renderedIFramesCount >= numberOfIFrames)
+            {
+                clearSsoUrlsFun();
+            }
+        });
+    }
+
+    function clearSsoUrlsFun() {
+        if (skipRefresh == false && numberOfIFrames > 0)
+        {
+            skipRefresh = true;
+            $.ajax({
+                url: "https://www.thelancet.com/action/clearSsoUrls",
+                type: "GET",
+                dataType: "jsonp",
+                error : errorCallingAjx
+            });
+        }
+    }
+
+    function errorCallingAjx(){
+        console.log("can't delete sso urls .")
+    }
+</script></div>
+                </div>
+                </div>
+
+        
+
+    
+
+        
+
+
+    
+
+        
+
+
+    
+
+            
+
+            
+
+            <div data-widget-id="711983b9-6e41-4e08-8776-c6541734fc01" data-widget-name="UX3HTMLWidget"><script type="text/javascript"> _linkedin_partner_id = "402924"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=402924&amp;fmt=gif" /> </noscript></div>
+
+            
+
+        
+
+    
+
+        
+
+
+    
+
+            
+
+            
+                <div class="noMargin">
+            
+
+            <div data-widget-id="f8e014fb-0959-477e-8f5b-ccd252852fd6" data-widget-name="UX3HTMLWidget"><!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3798016.js"></script>
+<!-- End of HubSpot Embed Code --></div>
+
+            
+                </div>
+            
+
+        
+</footer></div>
+
+            
+
+        
+
+        </div>
+    
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+            <script type="text/javascript" src="/products/marlin/lancet/releasedAssets/js/selected.bundle.js"></script>
+        
+
+    
+
+
+    <script type="text/javascript">
+        WebFontConfig = {
+            google: {
+                families: ['Source Sans Pro']
+            },
+            loading: function () {
+
+            },
+            active: function () {
+                $(document).trigger("resize");
+            }
+        };
+    </script>
+    <script type="text/javascript"
+            src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+
+
+
+
+    
+
+
+
+
+<script rel="preconnect" src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-8e350dc4ceceb17a5d77c03f66d95608807a5585.js"></script>
+
+
+
+<script type="text/javascript">
+    var pageData =  {"page":{"loadTimestamp":"1537299852444","server":"www.thelancet.com","environment":"prod","businessUnit":"ELS:RAP:JBS","noTracking":"","name":"errorpage","section":"The Lancet","type":"ER-UE","productName":"JB"},"visitor":{"ipAddress":"10.0.10.14","loginStatus":"anonymous"}};
+</script>
+
+<script type="text/javascript">pageDataTracker.trackPageLoad();</script>
+
+
+</body>
+</html>

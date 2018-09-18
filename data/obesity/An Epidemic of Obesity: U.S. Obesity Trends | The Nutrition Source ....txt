@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/images/favicon.ico" />
+	<meta name="msapplication-TileColor" content="#A51C30">
+	<meta name="msapplication-TileImage" content="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/images/ms/ms-tile-icon.png">
+	<link rel="apple-touch-icon" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/images/ios/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/images/ios/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/images/ios/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/images/ios/touch-icon-ipad-retina.png">
+	<meta property="fb:app_id" content="1019010578192159" />
+	<style id="kirki-css-vars">:root{}</style><script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Page not found | The Nutrition Source | Harvard T.H. Chan School of Public Health</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Nutrition Source &raquo; Feed" href="https://www.hsph.harvard.edu/nutritionsource/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.hsph.harvard.edu\/nutritionsource\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='hsph-protected-file-front-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-pin-cas-ldap/assets/css/hsph-pin-file-protect.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-plugin-tagging-topics-pages-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-tagging/assets/css/topics.css?ver=HSPH_PLUGIN_TAGGING_VERSION' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-includes/css/dashicons.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-ui-shortcodes-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-ui-shortcodes//assets/css/hsph-ui-shortcodes.css?ver=1.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ns-recipes-shortcodes-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-nutrition-source-recipe/assets/css/ns-recipes.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-alternate-landing-style-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016-child-alternate-landing/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='hsph-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='hsph-ie-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/css/ie9.css?ver=20150930' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='hsph-ie8-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/css/ie8.css?ver=20151230' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack-widget-social-icons-styles-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/jetpack/css/jetpack.css?ver=6.4.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-ui-shortcodes//assets/scripts/hsph-ui-shortcodes.js?ver=1.3.0'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/js/typekit.js?ver=1.0'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='https://www.hsph.harvard.edu/nutritionsource/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hsph.harvard.edu/nutritionsource/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.hsph.harvard.edu/nutritionsource/wp-includes/wlwmanifest.xml" /> 
+		<script type="text/javascript">
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		
+			ga( 'create', 'UA-16396394-1', 'hsph.harvard.edu', 'trackern1');
+			ga( 'trackern1.require', 'displayfeatures');
+			ga( 'trackern1.require', 'linkid');
+			ga( 'trackern1.set', 'dimension1', 'signed_out' );
+			ga( 'trackern1.set', 'dimension2', 'none' );
+			ga( 'trackern1.send', 'pageview');
+
+				
+			ga( 'create', ' UA-44468534-1', 'hsph.harvard.edu', 'trackern2');
+			ga( 'trackern2.require', 'displayfeatures');
+			ga( 'trackern2.require', 'linkid');
+			ga( 'trackern2.set', 'dimension1', 'signed_out' );
+			ga( 'trackern2.set', 'dimension2', 'none' );
+			ga( 'trackern2.send', 'pageview');
+
+						</script>
+		
+		<meta http-equiv="content-language" content="en-us" />
+		<meta name="copyright" content="Copyright (c) 2018 The President and Fellows of Harvard College" />
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+
+/*Recipe edits to be merged with ns template*/
+
+@media screen and (min-width: 750px) {
+
+.ns-recipe {
+    display: flex;
+    width: unset;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    padding-bottom: 1.5em;
+    border-bottom: 4px solid #f1efeb;
+    padding-top: 1.5em;
+    border-top: 4px solid #f1efeb;
+    margin: 4em 4em;
+}
+
+}
+
+.recipe-ingredients ul li {
+    margin: 0 0 0.5em 0;
+    list-style: none;
+    font-size: 90%;
+}
+
+.recipe-description ol li {
+    margin-bottom: 2.5em;
+}
+
+.recipe-description {
+    margin-top: 0.35em;
+}
+body.page-id-13963 .ui-accordion {
+    margin-bottom: 0;
+}
+body.page-id-13963 .entry-content br {
+    display: none;
+}
+body.page-id-13963 .ns-recipe {
+    margin-top: 0;
+    margin-bottom: 0;
+    border: none;
+}
+body.page-id-13963 .ui-accordion-content > p {
+    display: none;
+}
+
+/*expandable region spacing fix*/
+.page-id-13963 .ui-accordion, .ui-tabs, .expandable {
+    margin-bottom: 2px;
+}		</style>
+	</head>
+
+<body class="error404 hfeed one-column">
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId      : '1019010578192159',
+			xfbml      : true,
+			version    : 'v2.7'
+		});
+		FB.AppEvents.logPageView();
+	};
+
+	(function(d, s, id){
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="wrapper" id="wrapper">
+	<div id="navbar" class="navbar">
+		<div id="nav-utility-menu" class="nav-utility-menu"></div>
+		<div id="nav-primary-menu" class="nav-primary-menu"></div>
+		<div id="nav-audience-menu" class="nav-audience-menu"></div>
+	</div>
+			<button id="main-menu-toggle" class="main-menu-toggle">Menu</button>
+		<button id="main-menu-caption" class="main-menu-caption"><span id="main-menu-caption-text" class="main-menu-caption-text">Close Menu</span></button>
+		<div id="page" class="site">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+		<header id="masthead" class="site-header" role="banner">
+			<div id="audience-bar">
+									<div id="site-audience-menu" class="site-audience-menu">
+						<span class="information-for">Information For:</span>
+						<nav id="audience-navigation" class="audience-navigation" role="navigation" aria-label="Audience Menu">
+							<div class="menu-audience-menu-2016-container"><ul id="menu-audience-menu-2016" class="hsph-audience-menu"><li id="menu-item-111354113411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113411"><a href="/admissions">Prospective Students</a></li>
+<li id="menu-item-111354113412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113412"><a href="/current-students/">Current Students</a></li>
+<li id="menu-item-111354113413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113413"><a href="/alumni">Alumni</a></li>
+<li id="menu-item-111354113414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113414"><a href="/faculty-staff">Faculty &#038; Staff</a></li>
+<li id="menu-item-111354113415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113415"><a href="/campaign">Friends &#038; Supporters</a></li>
+</ul></div>						</nav><!-- .main-navigation -->
+					</div><!-- .site-header-menu -->
+								<div id="index-search">
+											<div id="site-atoz-menu" class="site-atoz-menu">
+							<nav id="atoz-navigation" class="atoz-navigation" role="navigation" aria-label="A to Z Menu">
+								<div class="menu-a-to-z-container"><ul id="menu-a-to-z" class="hsph-atoz-menu"><li id="menu-item-111354113481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113481"><a href="https://www.hsph.harvard.edu/atoz/">A to Z index</a></li>
+</ul></div>							</nav><!-- .main-navigation -->
+
+						</div><!-- .site-header-menu -->
+										<div id="search">
+						<form role="search" method="get" class="search-form" action="/search">
+							<label>
+								<span class="screen-reader-text">Search for:</span>
+								<input type="search" class="search-field" placeholder="Search&hellip;" value="" name="q" id="q" title="Search for:" />
+							</label>
+							<button type="submit" value="Search" alt="Search" class="search-submit"> </button>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="site-header-main">
+				<div class="site-branding">
+					<div class="site-title"><a href="https://www.hsph.harvard.edu/" rel="home">Harvard T.H. Chan School of Public Health</a></div>
+				</div><!-- .site-branding -->
+									<div id="site-utility-menu" class="site-utility-menu">
+						<nav id="utility-navigation" class="utility-navigation" role="navigation" aria-label="Utility Menu">
+							<div class="menu-quicklinks-menu-2016-container"><ul id="menu-quicklinks-menu-2016" class="hsph-utility-menu"><li id="menu-item-111354113419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113419"><a href="/email/">Email</a></li>
+<li id="menu-item-111354113417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113417"><a href="/people/">People</a></li>
+<li id="menu-item-111354113422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113422"><a href="/academics/">Departments</a></li>
+<li id="menu-item-111354113416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113416"><a href="http://ems.sph.harvard.edu/MasterCalendar/MasterCalendar.aspx">Calendar</a></li>
+<li id="menu-item-111354113418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113418"><a href="/employment/">Careers</a></li>
+<li id="menu-item-111354113420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113420"><a href="http://www.hsph.harvard.edu/campaign">Give</a></li>
+<li id="menu-item-111354113421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113421"><a title="Manage Student Information" href="http://my.harvard.edu">my.harvard</a></li>
+</ul></div>						</nav><!-- .main-navigation -->
+
+					</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+							<div id="site-header-menu" class="site-header-menu">
+					<!-- Start Imodules Primary Nav Scrape -->
+					<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+						<div class="menu-main-navigation-2016-container"><ul id="menu-main-navigation-2016" class="hsph-primary-menu"><li id="menu-item-111354113405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113405"><a href="/about">About</a></li>
+<li id="menu-item-111354113406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113406"><a href="/faculty-research">Faculty &#038; Research</a></li>
+<li id="menu-item-111354113407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113407"><a href="/admissions">Admissions &#038; Aid</a></li>
+<li id="menu-item-111354113408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113408"><a href="/departments">Academics</a></li>
+<li id="menu-item-111354113409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113409"><a href="/ecpe/">Executive/Continuing Ed</a></li>
+<li id="menu-item-111354113410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113410"><a href="/news">News</a></li>
+</ul></div>					</nav><!-- .main-navigation -->
+					<!-- End Imodules Primary Nav Scrape -->
+				</div><!-- .site-header-menu -->
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+		
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+			<div id="container">
+				<canvas id="sphere" width="400" height="400"></canvas>
+				<div id="glow-shadows" class="earth"></div>
+				<div id="locations"></div>
+			</div>
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">
+											</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>
+					Sorry, the page you were looking for doesn&#039;t exist or has been moved. Check out some of our <a href="https://www.hsph.harvard.edu/news/topics/">popular tags</a>, <a href="https://www.hsph.harvard.edu/news/">read our news</a>, or try searching for something else below.					</p>
+					<p>
+						<script>
+							function gcseCallback() {
+								if (document.readyState != 'complete')
+									return google.setOnLoadCallback(gcseCallback, true);
+								google.search.cse.element.render({gname:'gsearch', div:'results', tag:'search', attributes:{linkTarget:''}});
+								var element = google.search.cse.element.getElement('gsearch');
+								element.execute('nutritionsourcean epidemic of obesitysauved0ahukewjjhzfip8xdahwlgjakha4eayk4rhawccwwbausgaovvaw2jbjtc9gelcoijglultwtx');
+							};
+							window.__gcse = {
+								parsetags: 'explicit',
+								callback: gcseCallback
+							};
+							(function() {
+								var cx = '011250359073599488307:qs3qff93y7e';
+								var gcse = document.createElement('script');
+								gcse.type = 'text/javascript';
+								gcse.async = true;
+								gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+									'//cse.google.com/cse.js?cx=' + cx;
+								var s = document.getElementsByTagName('script')[0];
+								s.parentNode.insertBefore(gcse, s);
+							})();
+						</script>
+						<div id="results"></div>
+						<gcse:search></gcse:search>
+					</p>
+
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- .site-main -->
+
+	</div><!-- .content-area -->
+
+
+		</div><!-- .site-content -->
+		<section id="twitter-footer" class="twitter-footer">
+		<h3 class="twitter-feed-title">
+			<a href="https://twitter.com/HSPHnutrition">The Nutrition Source on Twitter</a>			</h3>
+			<div id="twitter-carousel-container"><div class="flexslider">	<ul class="slides"><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/HarvardChanSPH">@HarvardChanSPH</a>: Our simple guide to healthy eating is now available in nearly three dozen languages. The latest translations: Vietnames…		</div>	</div></li><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/HarvardChanSPH">@HarvardChanSPH</a>: New Harvard Chan and <a target="_blank" href="http://www.twitter.com/harvardmed">@harvardmed</a> research suggests that exercise and diet modifications may help mitigate PFAS-related…		</div>	</div></li><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/hpfscohort">@hpfscohort</a>: Our <a target="_blank" href="http://www.twitter.com/hpfscohort">@hpfscohort</a> meta-analysis <a target="_blank" href="https://t.co/7ndSWcMptE">https://t.co/7ndSWcMptE</a> of 26 clinical trials by <a target="_blank" href="http://www.twitter.com/MartaGuasch1">@MartaGuasch1</a> <a target="_blank" href="http://www.twitter.com/JordiSalasSalva">@JordiSalasSalva</a> &amp; team reveal…		</div>	</div></li><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/HarvardPRC">@HarvardPRC</a>: State &amp; local health agencies: partner with the <a target="_blank" href="http://www.twitter.com/CHOICESProject">@CHOICESProject</a> to learn about applying cost-effectiveness evaluation to #c…		</div>	</div></li><li>	<div class="twitter-slide">		<div class="twitter-slide-text clearfix">RT <a target="_blank" href="http://www.twitter.com/HarvardChanSPH">@HarvardChanSPH</a>: In our latest podcast: Why redesigning America's streets can improve safety for bicyclists and pedestrians, while comba…		</div>	</div></li>	</ul></div><div id="twitter-slide-controls"></div></div>		</section>
+				<footer id="colophon" class="site-footer" role="contentinfo">
+							<div id="footer-audience-menu" class="footer-audience-menu">
+					<span class="footer-information-for">Information For:</span>
+					<nav id="footer-audience-navigation" class="footer-audience-navigation" role="navigation" aria-label="Audience Menu">
+						<div class="menu-audience-menu-2016-container"><ul id="menu-audience-menu-2016" class="hsph-audience-menu"><li id="menu-item-111354113411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113411"><a href="/admissions">Prospective Students</a></li>
+<li id="menu-item-111354113412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113412"><a href="/current-students/">Current Students</a></li>
+<li id="menu-item-111354113413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113413"><a href="/alumni">Alumni</a></li>
+<li id="menu-item-111354113414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113414"><a href="/faculty-staff">Faculty &#038; Staff</a></li>
+<li id="menu-item-111354113415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113415"><a href="/campaign">Friends &#038; Supporters</a></li>
+</ul></div>					</nav><!-- .footer-audience-navigation -->
+				</div><!-- .footer-audience-menu -->
+										<div id="footer-primary-menu" class="footer-primary-menu">
+					<nav id="footer-primary-navigation" class="footer-primary-navigation" role="navigation" aria-label="Primary Menu">
+						<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="hsph-footer-primary-menu"><li id="menu-item-111354113445" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113445"><a href="https://www.hsph.harvard.edu/about/">About</a>
+<ul  class="sub-menu">
+	<li id="menu-item-111354113446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113446"><a href="https://www.hsph.harvard.edu/about/key-facts/">Key Facts</a></li>
+	<li id="menu-item-111354113447" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113447"><a href="https://www.hsph.harvard.edu/harvard-chan-naming-gift/">Renaming the School</a></li>
+	<li id="menu-item-111354113448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113448"><a href="https://www.hsph.harvard.edu/deans-office/">Office of the Dean</a></li>
+	<li id="menu-item-111354113449" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113449"><a href="https://www.hsph.harvard.edu/about/location-and-directions/">Location and Facilities</a></li>
+	<li id="menu-item-111354113450" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113450"><a href="https://www.hsph.harvard.edu/about/contact-us/administrative-offices/">Administrative Offices</a></li>
+	<li id="menu-item-111354113451" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113451"><a href="https://www.hsph.harvard.edu/about/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113452"><a href="https://www.hsph.harvard.edu/faculty-research/">Faculty and Research</a>
+<ul  class="sub-menu">
+	<li id="menu-item-111354113453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113453"><a href="https://www.hsph.harvard.edu/faculty/">Faculty and Researcher Directory</a></li>
+	<li id="menu-item-111354113454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113454"><a href="https://www.hsph.harvard.edu/departments/">Academic Departments, Divisions and Centers</a></li>
+	<li id="menu-item-111354113455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113455"><a href="https://www.hsph.harvard.edu/world-map/">International Research</a></li>
+	<li id="menu-item-111354113456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113456"><a href="https://www.hsph.harvard.edu/faculty-affairs/postdoctoral-research-fellows/">Postdoctoral Research Fellows</a></li>
+	<li id="menu-item-111354113457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113457"><a href="https://www.hsph.harvard.edu/faculty-affairs/">Office of Faculty Affairs</a></li>
+	<li id="menu-item-111354113458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113458"><a href="https://www.hsph.harvard.edu/searches/">Faculty Searches</a></li>
+	<li id="menu-item-111354113459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113459"><a href="https://www.hsph.harvard.edu/diversity/">Office of Diversity and Inclusion</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113460"><a href="https://www.hsph.harvard.edu/admissions/">Admissions &#038; Aid</a>
+<ul  class="sub-menu">
+	<li id="menu-item-111354113461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113461"><a href="https://www.hsph.harvard.edu/admissions/why-harvard-chan/">Why Harvard Chan</a></li>
+	<li id="menu-item-111354113462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113462"><a href="https://www.hsph.harvard.edu/admissions/degree-programs/">Degree Programs</a></li>
+	<li id="menu-item-111354113463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113463"><a href="https://www.hsph.harvard.edu/admissions/non-degree-programs/">Non-Degree Programs</a></li>
+	<li id="menu-item-111354113464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113464"><a href="https://www.hsph.harvard.edu/admissions/financial-aid/">Financial Aid</a></li>
+	<li id="menu-item-111354113465" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113465"><a href="https://www.hsph.harvard.edu/admissions/student-experience/">Student Experience</a></li>
+	<li id="menu-item-111354113466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113466"><a href="https://www.hsph.harvard.edu/admissions/careers/">Career Advancement</a></li>
+	<li id="menu-item-111354113467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113467"><a href="https://www.hsph.harvard.edu/admissions/admissions/">Apply</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113468" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113468"><a href="https://www.hsph.harvard.edu/academics/">Academics</a>
+<ul  class="sub-menu">
+	<li id="menu-item-111354113469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113469"><a href="https://www.hsph.harvard.edu/departments/#academicdepartments">Academic Departments</a></li>
+	<li id="menu-item-111354113482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113482"><a href="https://www.hsph.harvard.edu/departments/#divisions">Divisions</a></li>
+	<li id="menu-item-111354113470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113470"><a href="https://www.hsph.harvard.edu/departments/#researchcenters">Research Centers</a></li>
+	<li id="menu-item-111354113472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113472"><a href="https://www.hsph.harvard.edu/departments/#flagshipinitiatives">Flagship Initiatives</a></li>
+	<li id="menu-item-111354113473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113473"><a href="https://www.hsph.harvard.edu/departments/#internationalresearch">International Research</a></li>
+	<li id="menu-item-111354113475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113475"><a href="https://www.hsph.harvard.edu/departments/#researchadministration">Research Administration and Support</a></li>
+	<li id="menu-item-111354113474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113474"><a href="https://www.hsph.harvard.edu/departments/#degreeprograms">Degree Programs</a></li>
+	<li id="menu-item-111354113476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113476"><a href="https://www.hsph.harvard.edu/departments/#fellowships">Fellowships and Residencies</a></li>
+	<li id="menu-item-111354113477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113477"><a href="https://www.hsph.harvard.edu/departments/#summerprograms">Summer Programs</a></li>
+	<li id="menu-item-111354113478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113478"><a href="https://ecpe.sph.harvard.edu/">Continuing Professional Education</a></li>
+	<li id="menu-item-111354113615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113615"><a href="https://www.hsph.harvard.edu/admissions/degree-programs/interdisciplinary-concentrations/">Interdisciplinary Concentrations</a></li>
+	<li id="menu-item-111354113616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113616"><a href="https://www.hsph.harvard.edu/registrar/academic-calendar/">Academic Calendar</a></li>
+	<li id="menu-item-111354113617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113617"><a href="https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1904/2015/12/Harvard-Chan-Viewbook-2015-162.pdf">Harvard Chan Viewbook</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113479"><a href="https://ecpe.sph.harvard.edu/">Executive/Continuing Ed</a>
+<ul  class="sub-menu">
+	<li id="menu-item-111354113483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113483"><a href="https://ecpe.sph.harvard.edu/finder.cfm?loc=l">Program Offerings</a></li>
+	<li id="menu-item-111354113484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113484"><a href="https://ecpe.sph.harvard.edu/programs.cfm?CSID=CP0000&#038;pg=cluster&#038;CLID=1&#038;loc=l&#038;loc=l">Custom Programs</a></li>
+	<li id="menu-item-111354113485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113485"><a href="http://execed.sph.harvard.edu/executive-education-program-portfolio?loc=l">Request Information</a></li>
+	<li id="menu-item-111354113486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113486"><a href="https://ecpe.sph.harvard.edu/news.cfm?loc=l">News and Resources</a></li>
+	<li id="menu-item-111354113487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113487"><a href="https://ecpe.sph.harvard.edu/about.cfm">About ECPE</a></li>
+	<li id="menu-item-111354113488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113488"><a href="https://ecpe.sph.harvard.edu/contact.cfm?loc=l">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-111354113480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-111354113480"><a href="https://www.hsph.harvard.edu/news/">News</a>
+<ul  class="sub-menu">
+	<li id="menu-item-111354113493" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113493"><a href="https://www.hsph.harvard.edu/news/features/">Featured News</a></li>
+	<li id="menu-item-111354113494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113494"><a href="https://www.hsph.harvard.edu/news/press-releases/">Press Releases</a></li>
+	<li id="menu-item-111354113495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113495"><a href="https://www.hsph.harvard.edu/news/topic/student-stories/">Student Stories</a></li>
+	<li id="menu-item-111354113496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113496"><a href="https://www.hsph.harvard.edu/news/hsph-in-the-news/">In the News</a></li>
+	<li id="menu-item-111354113497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113497"><a href="https://www.hsph.harvard.edu/news/newsletters/">Newsletters</a></li>
+	<li id="menu-item-111354113498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113498"><a href="https://www.hsph.harvard.edu/news/magazine/">HPH Magazine</a></li>
+	<li id="menu-item-111354113499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113499"><a href="https://www.hsph.harvard.edu/news/magazine-digital-editions/">Digital Magazines</a></li>
+	<li id="menu-item-111354113500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113500"><a href="https://www.hsph.harvard.edu/news/why-public-health/">Why Public Health?</a></li>
+</ul>
+</li>
+</ul></div>					</nav><!-- .footer-primary-menu -->
+				</div><!-- .footer-primary-navigation -->
+			
+			<div class="site-info">
+				<div class="site-footer-logo"><a href="https://www.hsph.harvard.edu/" rel="home">Harvard T.H. Chan School of Public Health</a></div>
+				<address class="vcard">
+					<div class="adr">
+						<span class="street-address">677 Huntington Avenue</span>
+						<span class="locality">Boston</span>,
+						<abbr class="region" title="Massachusetts">MA</abbr>
+						<span class="postal-code">02115</span>
+					</div>
+					<div class="tel">+1 (617) 495‑1000</div>
+				</address>
+			</div><!-- .site-info -->
+							<div id="footer-social-menu" class="footer-social-menu">
+					<nav id="footer-social-navigation" class="footer-social-navigation" role="navigation" aria-label="Primary Menu">
+						<div class="menu-footer-social-container"><ul id="menu-footer-social" class="social-navigation"><li id="menu-item-111354108407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108407"><a title="Twitter" target="_blank" href="http://twitter.com/HarvardChanSPH">Twitter</a></li>
+<li id="menu-item-111354108408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108408"><a title="Facebook" target="_blank" href="http://www.facebook.com/harvardpublichealth">Facebook</a></li>
+<li id="menu-item-111354108409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108409"><a title="YouTube" target="_blank" href="https://www.youtube.com/user/HarvardPublicHealth">YouTube</a></li>
+<li id="menu-item-111354108410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108410"><a title="Google Plus" target="_blank" href="https://plus.google.com/104489268760689389569/posts">GooglePlus</a></li>
+<li id="menu-item-111354108411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108411"><a title="LinkedIn" target="_blank" href="http://www.linkedin.com/edu/school?id=20305&#038;trk=tyah">LinkedIn</a></li>
+<li id="menu-item-111354113570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113570"><a href="https://www.instagram.com/harvardchansph/">Instagram</a></li>
+<li id="menu-item-111354108412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108412"><a title="iTunes U" target="_blank" href="http://itunes.apple.com/us/itunes-u/conversations-on-public-health/id401003463">iTunes</a></li>
+<li id="menu-item-111354108415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354108415"><a title="Apple App Store" target="_blank" href="http://itunes.apple.com/us/app/public-health-news/id382088723?mt=8">Appstore</a></li>
+<li id="menu-item-111354113573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354113573"><a href="http://play.google.com/store/apps/details?id=com.mobileroadie.app_645">Google Play</a></li>
+</ul></div>					</nav><!-- .footer-social-navigation -->
+				</div><!-- .footer-social-menu -->
+										<div id="footer-footer-menu" class="footer-footer-menu">
+					<nav id="footer-navigation" class="footer-navigation" role="navigation" aria-label="Primary Menu">
+						<div class="menu-sub-footer-menu-container"><ul id="menu-sub-footer-menu" class="hsph-footer-menu"><li id="menu-item-1020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1020"><a href="https://www.hsph.harvard.edu/">Harvard Chan Home</a></li>
+<li id="menu-item-111354105449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111354105449"><a href="https://www.hsph.harvard.edu/contact-us/">Contact Us</a></li>
+<li id="menu-item-111354105212" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354105212"><a href="http://www.harvard.edu">Harvard University Home</a></li>
+<li id="menu-item-1021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1021"><a href="https://www.hsph.harvard.edu/campaign/giving/how-to-make-a-gift/">Make a Gift</a></li>
+<li id="menu-item-111354108039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111354108039"><a href="https://www.hsph.harvard.edu/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-111354105198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354105198"><a href="http://www.harvard.edu/copyright-issue">Report Copyright Violation</a></li>
+<li id="menu-item-111354119821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111354119821"><a title="Online Accessibility at Harvard University" href="https://accessibility.huit.harvard.edu">Accessibility</a></li>
+</ul></div>					</nav><!-- .footer-navigation -->
+				</div><!-- .footer-footer-menu -->
+							<div id="copyright" class="copyright">
+					Copyright &copy; 2018 The President and Fellows of Harvard College				</div><!-- .footer-footer-menu -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site -->
+</div><!-- .wrapper -->
+<div class="menu-mask"></div>
+
+
+		<script>
+			// Slide controls for the sub brand carousel template
+			jQuery(document).ready(function($) {
+				if ( $('#sidebar-carousel-widget .flexslider').length && $().flexslider ) {
+					$('#sidebar-carousel-widget .flexslider').flexslider({
+						animation: 'fade',
+						prevText: ' ',
+						nextText: ' ',
+						controlsContainer: '#hsph-carousel-widget-controls',
+					});
+				}
+			});
+		</script>
+		
+		<script>
+			// Slide controls for the sub brand carousel template
+			jQuery(document).ready(function($) {
+				if ( $('#news-sidebar-carousel-widget .flexslider').length && $().flexslider ) {
+					$('#news-sidebar-carousel-widget .flexslider').flexslider({
+						animation: 'fade',
+						prevText: ' ',
+						nextText: ' ',
+						controlsContainer: '#hsph-news-carousel-widget-controls',
+					});
+				}
+			});
+		</script>
+		<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201838'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/plugins/plugin-tagging/assets/js/hsph-plugin-tagging.js?ver=HSPH_PLUGIN_TAGGING_VERSION'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/js/jquery.flexslider-min.js?ver=20151104'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/theme-main-2016-child-alternate-landing/assets/js/alternate-front.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/js/skip-link-focus-fix.js?ver=20151112'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+var hsphFlatEarth = {"mapearth":"https:\/\/www.hsph.harvard.edu\/nutritionsource\/wp-content\/themes\/hsph\/assets\/images\/earth1024x1024.jpg","mapmars":"https:\/\/www.hsph.harvard.edu\/nutritionsource\/wp-content\/themes\/hsph\/assets\/images\/mars1024x1024.jpg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/js/functions-min.js?ver=20151204'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/js/sphere/requestanimationframe.polyfill.js?ver=1'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/js/sphere-hacked.js?ver=1'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-content/themes/hsph/assets/js/jquery.earth-3d.js?ver=1'></script>
+<script type='text/javascript' src='https://www.hsph.harvard.edu/nutritionsource/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201838.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.4.1',blog:'45363862',post:'0',tz:'0',srv:'www.hsph.harvard.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '45363862', '0' ]);
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1739514739';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

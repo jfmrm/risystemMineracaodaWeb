@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>     <html class="no-js lt-ie9" lang="en-AU"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-AU"> <!--<![endif]-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://daa.asn.au/xmlrpc.php">
+    <meta name="msapplication-config" content="https://daa.asn.au/wp-content/themes/daa/ie-config.xml">
+    <link rel="shortcut icon" href="https://daa.asn.au/wp-content/themes/daa/images/favicon.ico">
+    <link rel="apple-touch-icon" href="https://daa.asn.au/wp-content/themes/daa/images/touch-icon.png">
+    <!--[if lte IE 8]><script src="https://daa.asn.au/wp-content/themes/daa/js/vendor/html5shiv.js"></script><![endif]-->
+    <title>Page not found &#8211; Dietitians Association of Australia</title>
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wc-shortcodes-style-css'  href='https://daa.asn.au/wp-content/plugins/wc-shortcodes/includes/css/style.css?ver=1.97' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://daa.asn.au/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://daa.asn.au/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dlm-frontend-css'  href='https://daa.asn.au/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=15963ffdfb1765f7ea74f25b160c607b' type='text/css' media='all' />
+<link rel='stylesheet' id='font-open-sans-css'  href='https://daa.asn.au/wp-content/themes/daa/css/vendor/open-sans.css?ver=15963ffdfb1765f7ea74f25b160c607b' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-main-css'  href='https://daa.asn.au/wp-content/themes/daa/css/main.css?ver=1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-style-css'  href='https://daa.asn.au/wp-content/themes/daa/css/vendor/jquery-ui_1.8.2_smoothness.css?ver=15963ffdfb1765f7ea74f25b160c607b' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpresscanvas-font-awesome-css'  href='https://daa.asn.au/wp-content/plugins/wc-shortcodes/includes/css/font-awesome.min.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://daa.asn.au/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://daa.asn.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://daa.asn.au/wp-includes/wlwmanifest.xml" /> 
+
+<!-- <meta name="vfb" version="2.9.2" /> -->
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<!-- BEGIN GADWP v4.9.6.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script type="text/javascript">
+(function($){
+    $(window).load(function() {
+        
+            //Track Downloads
+            $('a').filter(function() {
+                return this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*)(\?.*)?$/);
+            }).click(function(e) {
+                ga('send','event', 'download', 'click', this.href);
+            });
+
+            //Track Mailto
+            $('a[href^="mailto"]').click(function(e) {
+                ga('send','event', 'email', 'send', this.href);
+             });
+            
+            //Track Outbound Links
+            $('a[href^="http"]').filter(function() {
+                if (!this.href.match(/.*\.(zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*)(\?.*)?$/)){
+                    if (this.href.indexOf('daa.asn.au') == -1) return this.href;
+                }
+            }).click(function(e) {
+                ga('send','event', 'outbound', 'click', this.href);
+            });
+		    		        
+            //Track Affiliates
+            $('a').filter(function() {
+            	if ('/out/'!=''){
+        	       	return this.href.match(/(\/out\/)/);
+            	}
+            }).click(function(event) {
+               		ga('send','event', 'affiliates', 'click', this.href);
+            });
+                });
+})(jQuery);
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-433704-2', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+    
+</head>
+<body class="error404 wc-shortcodes-font-awesome-enabled page-tpl-content">
+
+
+
+<!-- Accessibility -->
+<a href="#content" class="visuallyhidden focusable skip-link button">Skip to content</a>
+<noscript><div class="message message--alert no-margin">This site requires JavaScript. <a href="http://enable-javascript.com/" target="_blank">Click here for instructions on enabling it in your browser</a>.</div></noscript>
+<!--[if lt IE 8]><div class="message no-margin">You are using an <strong>outdated browser</strong>. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+
+
+<header class="header-row">
+	<div class="wrapper">
+		
+		
+		<div class="header-main">
+			
+				<div class="header-logo">
+					<a href="https://daa.asn.au">
+						<!--[if lt IE 9]><img src="https://daa.asn.au/wp-content/themes/daa/images/logo-daa.png" alt="Dietitians Association of Australia" width="160" height="74"><![endif]-->
+						<!--[if gte IE 9]><!--><img src="https://daa.asn.au/wp-content/themes/daa/images/logo-daa.svg" alt="Dietitians Association of Australia" width="160" height="74"><!--<![endif]-->
+					</a>
+					<div>Leadership in Dietetics</div>
+				</div><!-- .header-logo -->
+						</div><!-- .header-main -->
+		
+		
+		<div class="header-side-1">
+			
+	
+	<nav class="social-nav">
+		<p class="visuallyhidden">Social Media</p>
+		<ul  class="clearfix menu"><li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43 menu-level-1"><a target="_blank" href="http://facebook.com/dietitiansassociation"><i class="icon-facebook"></i><span class="visuallyhidden">Facebook</span></a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44 menu-level-1"><a target="_blank" href="http://twitter.com/DAA_feed"><i class="icon-twitter"></i><span class="visuallyhidden">Twitter</span></a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46 menu-level-1"><a target="_blank" href="http://linkedin.com/company/dietitians-association-of-australia"><i class="icon-linkedin"></i><span class="visuallyhidden">LinkedIn</span></a></li>
+<li id="menu-item-462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-462 menu-level-1"><a target="_blank" href="https://www.instagram.com/dietitians_association_aus/"><i class="icon-instagram"></i><span class="visuallyhidden">Instagram</span></a></li>
+<li id="menu-item-356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-356 menu-level-1"><a target="_blank" href="https://www.pinterest.com/DAAdietitians"><i class="icon-pinterest"></i><span class="visuallyhidden">Pinterest</span></a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45 menu-level-1"><a target="_blank" href="http://youtube.com/user/DAAvideos"><i class="icon-youtube"></i><span class="visuallyhidden">YouTube</span></a></li>
+<li id="menu-item-463" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-463 menu-level-1"><a target="_blank" href="https://vimeo.com/dietitians"><i class="icon-vimeo"></i><span class="visuallyhidden">Vimeo</span></a></li>
+</ul>	</nav><!-- .social-nav -->
+	
+<div class="header-links-1">
+						<a href="https://daa.asn.au/contact-us/">Contact Us</a>
+					</div>		</div><!-- .header-side-1 -->
+		
+		
+		<div class="header-side-2">
+			<div role="search" class="search-form">	<form action="https://daa.asn.au/search-results" method="get">		<i class="icon-search"></i>        <input type="search" title="Search for:" placeholder="Search…" name="addsearch" value="">		<button type="submit" class="visuallyhidden">Search</button>	</form></div>			<div class="header-links-2 clearfix">
+				<a href="https://daa.asn.au/member-login/" class="button"><i class="icon-person"></i>Member Login</a>				<a href="#" class="button" id="toggle-main-nav"><span class="visuallyhidden">Toggle main navigation</span>&nbsp;</a>
+			</div>
+		</div><!-- .header-side-2 -->
+		
+		
+	</div><!-- .wrapper -->
+</header><!-- .header-row -->
+
+
+
+<nav class="nav-row">
+	<div class="wrapper">
+		
+		
+		<p class="visuallyhidden">Main navigation</p>
+		<ul  class="clearfix menu"><li id="menu-item-304" class="colour-olive menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-304 menu-level-1"><a href="https://daa.asn.au/about-daa/">About us</a>
+<ul class="sub-menu">
+	<li id="menu-item-2528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2528 menu-level-2"><a href="https://daa.asn.au/about-daa/organisational-strategy/">Organisational Strategy</a></li>
+	<li id="menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-690 menu-level-2"><a href="https://daa.asn.au/about-daa/board-of-directors-and-executives/">Board of Directors and Executive</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3853 menu-level-3"><a href="https://daa.asn.au/about-daa/board-of-directors-and-executives/previous-daa-presidents/">Past Presidents</a></li>
+	</ul>
+</li>
+	<li id="menu-item-19065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19065 menu-level-2"><a href="https://daa.asn.au/about-daa/annual-report/">Annual Report</a></li>
+	<li id="menu-item-2825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2825 menu-level-2"><a href="https://daa.asn.au/about-daa/constitution-and-by-laws/">Constitution and By-laws</a></li>
+	<li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-685 menu-level-2"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/">Celebrating Member Achievements</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1300 menu-level-3"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/daa-awards/">Awards</a></li>
+		<li id="menu-item-1340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1340 menu-level-3"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/prizes/">Prizes</a>
+		<ul class="sub-menu">
+			<li id="menu-item-1343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1343 menu-level-4"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/prizes/josephine-jo-rogers-am/">Josephine (Jo) Rogers AM</a></li>
+		</ul>
+</li>
+		<li id="menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359 menu-level-3"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/research-grants-and-scholarships/">Research Grants and Scholarships</a></li>
+		<li id="menu-item-59346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59346 menu-level-3"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/fellows-of-daa-and-advanced-apds/">Fellows of DAA and Advanced APDs</a></li>
+	</ul>
+</li>
+	<li id="menu-item-692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-692 menu-level-2"><a href="https://daa.asn.au/about-daa/corporate-partners-and-alliances/">Corporate Partners and Alliances</a></li>
+	<li id="menu-item-19075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19075 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/definition-of-a-dietitian/">Definition of a Dietitian</a></li>
+	<li id="menu-item-691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-691 menu-level-2"><a href="https://daa.asn.au/about-daa/professional-affiliations/">Professional Affiliations</a></li>
+	<li id="menu-item-3433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3433 menu-level-2"><a href="https://daa.asn.au/about-daa/public-policies/">Public Policies</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11738 menu-level-3"><a href="https://daa.asn.au/about-daa/public-policies/advertising/">Advertising policies</a></li>
+		<li id="menu-item-39426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39426 menu-level-3"><a href="https://daa.asn.au/general-policies-and-procedures/alliances-and-partnerships/">Alliances and Partnerships</a></li>
+		<li id="menu-item-12295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12295 menu-level-3"><a href="https://daa.asn.au/general-policies-and-procedures/endorsement/">Endorsement</a></li>
+		<li id="menu-item-12302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12302 menu-level-3"><a href="https://daa.asn.au/about-daa/public-policies/website-link-policy/">Website Link Policy</a></li>
+		<li id="menu-item-3441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3441 menu-level-3"><a href="https://daa.asn.au/about-daa/privacy-policy/">Privacy Policy</a></li>
+	</ul>
+</li>
+	<li id="menu-item-27732" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27732 menu-level-2"><a href="https://daa.asn.au/join-daa/membership/">Membership</a></li>
+</ul>
+</li>
+<li id="menu-item-313" class="colour-emerald menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-313 menu-level-1"><a href="https://daa.asn.au/what-dietitans-do/">What Dietitians Do</a>
+<ul class="sub-menu">
+	<li id="menu-item-1123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1123 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/dietitian-or-nutritionist/">Dietitian or Nutritionist?</a></li>
+	<li id="menu-item-5430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5430 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/choosing-your-nutrition-expert/">Why Choose an Accredited Practising Dietitian?</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10797 menu-level-3"><a href="https://daa.asn.au/what-dietitans-do/definition-of-a-dietitian/your-rights-and-responsibilities/">Your Rights and Responsibilities</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/what-do-dietitians-work/">Where do Dietitians Work?</a></li>
+	<li id="menu-item-9665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9665 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/information-for-healthcare-professionals/">Information for Healthcare Professionals</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1125 menu-level-3"><a href="https://daa.asn.au/what-dietitans-do/role-statements/">APD Roles</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-323" class="colour-aqua menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-323 menu-level-1"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/">Becoming a Dietitian in Australia</a>
+<ul class="sub-menu">
+	<li id="menu-item-1659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1659 menu-level-2"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/australian-dietetics-council-adc/">Australian Dietetics Council (ADC)</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2862 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/australian-dietetics-council-adc/adc-policies/">ADC Policies</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1655 menu-level-2"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/accreditation-of-dietetics-education-programs/">Accreditation of Dietetics Education Programs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1383 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/currently-accredited-dietetic-programs/">Accredited Dietetics Education Programs</a></li>
+		<li id="menu-item-1674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1674 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/accreditation-of-dietetics-education-programs/accreditation-standards-and-processes/">Accreditation Standards and Processes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1433 menu-level-2"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/">Recognition of Dietetic Qualifications</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6313 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/dietetic-skills-recognition/">Dietetic Skills Recognition (DSR)</a>
+		<ul class="sub-menu">
+			<li id="menu-item-1432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1432 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/overseas-educated-dietitians-assessment-stage/">Overseas educated dietitians – Assessment Stage</a></li>
+			<li id="menu-item-1437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1437 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/overseas-educated-dietitians-examination-stage/">Overseas educated dietitians – Examination stage</a></li>
+			<li id="menu-item-1460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1460 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/appeals-process/">Appeals Process</a></li>
+		</ul>
+</li>
+		<li id="menu-item-1524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1524 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/mutual-recognition/">Mutual Recognition</a>
+		<ul class="sub-menu">
+			<li id="menu-item-1531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/mutual-recognition/mutual-recognition-new-zealand/">Mutual Recognition – New Zealand</a></li>
+			<li id="menu-item-11288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11288 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/mutual-recognition/mutual-recognition-profiles/">Mutual recognition profiles</a></li>
+			<li id="menu-item-1536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1536 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/mutual-recognition/new-zealand-faqs/">New Zealand FAQs</a></li>
+		</ul>
+</li>
+		<li id="menu-item-1543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1543 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/migration-assessments/">Skills Migration Assessment</a></li>
+		<li id="menu-item-1795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1795 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/fees/">Fees</a></li>
+		<li id="menu-item-1448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1448 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/dsr-faqs/">FAQs</a></li>
+	</ul>
+</li>
+	<li id="menu-item-12490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12490 menu-level-2"><a href="https://daa.asn.au/join-daa/membership/">Membership of DAA</a></li>
+</ul>
+</li>
+<li id="menu-item-327" class="colour-teal menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-327 menu-level-1"><a href="https://daa.asn.au/maintaining-professional-standards/">Maintaining Professional Standards</a>
+<ul class="sub-menu">
+	<li id="menu-item-8064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8064 menu-level-2"><a href="https://daa.asn.au/apd-program/">Accredited Practising Dietitian Program</a></li>
+	<li id="menu-item-1175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1175 menu-level-2"><a href="https://daa.asn.au/apd-program/joining-the-apd-program/">How to Join the APD Program</a></li>
+	<li id="menu-item-1321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1321 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/dietitian-scope-of-practice/">Dietitian Scope of Practice</a></li>
+	<li id="menu-item-1667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1667 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/ncs/">National Competency Standards for Dietitians</a></li>
+	<li id="menu-item-1235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/dietetic-credentialing-council/">Dietetic Credentialing Council</a></li>
+	<li id="menu-item-4146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4146 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/professional-standards/">Professional Standards and Code of Conduct</a></li>
+	<li id="menu-item-42274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42274 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/supporting-best-practice-in-dietetics/">Supporting Best Practice in Dietetics</a></li>
+	<li id="menu-item-9118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9118 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/register-of-apds/">Register of Accredited Practising Dietitians</a>
+	<ul class="sub-menu">
+		<li id="menu-item-44183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44183 menu-level-3"><a href="https://daa.asn.au/apd-registration-number-faqs/">APD registration number FAQ</a></li>
+		<li id="menu-item-11964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11964 menu-level-3"><a href="https://daa.asn.au/maintaining-professional-standards/register-of-apds/not-eligible-for-apd-credential-outstanding-disciplinary-procedures/">Outstanding disciplinary procedures</a></li>
+		<li id="menu-item-4143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4143 menu-level-3"><a href="https://daa.asn.au/maintaining-professional-standards/register-of-apds/expelled-or-suspended-members/">Expelled or Suspended Members</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4149 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/how-to-make-a-complaint/">How to make a complaint</a></li>
+</ul>
+</li>
+<li id="menu-item-361" class="colour-blue menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-361 menu-level-1"><a href="https://daa.asn.au/voice-of-daa/">Voice of Dietitians</a>
+<ul class="sub-menu">
+	<li id="menu-item-2143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2143 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/news-room/">News Room</a>
+	<ul class="sub-menu">
+		<li id="menu-item-776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/media-releases/">Media Releases</a></li>
+		<li id="menu-item-775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/hot-topics/">Hot Topics</a></li>
+		<li id="menu-item-1895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1895 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/dietitians-making-news/">Dietitians Making News</a></li>
+		<li id="menu-item-1898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1898 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/daa-spokespeople/">Our Spokespeople</a></li>
+		<li id="menu-item-1908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1908 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/nutrition-journalism-award/">Nutrition Journalism Award</a>
+		<ul class="sub-menu">
+			<li id="menu-item-22389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22389 menu-level-4"><a href="https://daa.asn.au/voice-of-daa/nutrition-journalism-award/winners-of-the-nutrition-journalism-award/">Nutrition Journalism Award Winners</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-1901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1901 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/editorial/">Editorial</a></li>
+	<li id="menu-item-1904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1904 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/challenging-missinformation/">Challenging Misinformation</a></li>
+	<li id="menu-item-1911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1911 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/outcomes-of-the-daa-media-program/">Outcomes of the DAA Media Program</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1917 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/outcomes-of-the-daa-media-program/journalists-engage-with-daa/">Journalists Engage with DAA</a></li>
+	</ul>
+</li>
+	<li id="menu-item-36787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36787 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/daas-approach-to-social-media/">DAA’s approach to social media</a></li>
+	<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/advocacy/">Advocacy</a></li>
+	<li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-741 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/submissions/">Submissions</a>
+	<ul class="sub-menu">
+		<li id="menu-item-51872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51872 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/submissions/2018-submissions/">2018 Submissions</a></li>
+		<li id="menu-item-32304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32304 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/submissions/2017-submissions/">2017 Submissions</a></li>
+		<li id="menu-item-12008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12008 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/submissions/2016-submissions/">2016 Submissions</a></li>
+		<li id="menu-item-752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-752 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/submissions/2015-submissions/">2015 Submissions</a></li>
+	</ul>
+</li>
+	<li id="menu-item-29305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29305 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/joint-statements/">Joint Statements</a></li>
+	<li id="menu-item-777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/public-statements/">Public Announcements</a></li>
+</ul>
+</li>
+<li id="menu-item-335" class="colour-orange menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-335 menu-level-1"><a href="https://daa.asn.au/smart-eating-for-you/">Smart Eating for a Healthier You</a>
+<ul class="sub-menu">
+	<li id="menu-item-701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-701 menu-level-2"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/">Smart Eating Fast Facts</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4397 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/">Healthy Eating</a>
+		<ul class="sub-menu">
+			<li id="menu-item-40718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40718 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/dietitians-top-healthy-christmas-gift-ideas/">Dietitians&#8217; top (healthy) Christmas gift ideas</a></li>
+			<li id="menu-item-19513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19513 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating-on-a-budget/">Healthy eating on a budget</a></li>
+			<li id="menu-item-19520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19520 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/can-i-drink-alcohol/">Can I drink alcohol?</a></li>
+			<li id="menu-item-11873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11873 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/health-and-wellbeing-of-aboriginal-and-torres-strait-islander-people/">Health and Wellbeing of Aboriginal and Torres Strait Islander people</a></li>
+			<li id="menu-item-4790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4790 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/ive-heard-i-need-2-serves-of-fruit-5-serves-of-vegetables-but-what-is-a-serve/">I’ve heard I need 2 serves of fruit &#038; 5 serves of vegetables, but what is a serve?</a></li>
+			<li id="menu-item-4789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4789 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/im-tired-all-the-time-should-i-try-a-detox-diet/">I&#8217;m tired all the time, should I try a detox diet?</a></li>
+			<li id="menu-item-4772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4772 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/the-low-down-on-paleo-welcome-to-our-three-part-series-on-the-palaeolithic-diet/">The low-down on Paleo – Welcome to our three part series on the Palaeolithic diet.</a></li>
+			<li id="menu-item-4791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4791 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/how-much-exercise-do-i-need-to-stay-healthy/">How much exercise do I need to stay healthy?</a></li>
+			<li id="menu-item-4781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4781 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/whats-the-best-type-of-fat-for-a-healthy-heart/">What’s the best type of fat for a healthy heart?</a></li>
+			<li id="menu-item-4783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4783 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/vegan-diets-facts-tips-and-considerations/">Vegan diets: everything you need to know</a></li>
+			<li id="menu-item-4784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4784 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/vegetarian-diets-the-basics/">Vegetarian diets – the basics</a></li>
+			<li id="menu-item-4785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4785 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/breakfast-how-to-eat-brekkie-like-a-boss/">Breakfast – how to eat brekkie like a boss!</a></li>
+			<li id="menu-item-4787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4787 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/australias-healthy-weight-week/">Australia’s Healthy Weight Week</a></li>
+			<li id="menu-item-52312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52312 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/the-australian-dietary-guidelines/">The Australian Dietary Guidelines</a></li>
+		</ul>
+</li>
+		<li id="menu-item-4400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4400 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/">Children</a>
+		<ul class="sub-menu">
+			<li id="menu-item-30267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30267 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/five-ways-to-help-tackle-fussy-eating/">Five ways to help tackle fussy eating</a></li>
+			<li id="menu-item-4695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4695 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/should-we-be-concerned-about-a-childs-weight/">Should we be concerned about a child’s weight?</a></li>
+			<li id="menu-item-4616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4616 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/how-can-i-prevent-my-child-from-becoming-overweight/">How can I prevent my child from becoming overweight?</a></li>
+			<li id="menu-item-4718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4718 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/my-child-is-overweight-what-should-i-do/">My child is overweight, what should I do?</a></li>
+			<li id="menu-item-4609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4609 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/how-can-i-get-my-child-to-eat-more-fruits-and-vegetables/">How can I get my child to eat more fruits and vegetables?</a></li>
+			<li id="menu-item-4696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4696 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/what-can-i-put-in-my-childs-lunchbox/">What can I put in my child’s lunchbox?</a></li>
+			<li id="menu-item-4716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4716 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/how-much-television-can-my-children-watch-if-i-want-them-to-be-healthy/">How much television can my children watch if I want them to be healthy?</a></li>
+			<li id="menu-item-4721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4721 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/can-food-additives-affect-my-childs-behaviour/">Can food additives affect my child’s behaviour?</a></li>
+		</ul>
+</li>
+		<li id="menu-item-4709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4709 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/teens/">Teens</a></li>
+		<li id="menu-item-4710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4710 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/">Pregnancy</a>
+		<ul class="sub-menu">
+			<li id="menu-item-4728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4728 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/nutrition-for-pregnancy/">Nutrition for pregnancy</a></li>
+			<li id="menu-item-4731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4731 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/is-there-a-special-diet-i-should-follow-while-trying-to-get-pregnant/">Is there a special diet I should follow while trying to get pregnant?</a></li>
+			<li id="menu-item-4734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4734 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/what-extra-nutrients-do-i-need-in-pregnancy/">What extra nutrients do I need in pregnancy?</a></li>
+			<li id="menu-item-4738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4738 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/what-extra-things-do-i-need-to-eat-if-im-breastfeeding/">What do I need to eat if I’m breastfeeding?</a></li>
+			<li id="menu-item-4742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4742 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/why-do-pregnant-and-breastfeeding-women-need-more-iodine/">Why do pregnant and breastfeeding women need more iodine?</a></li>
+		</ul>
+</li>
+		<li id="menu-item-4708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4708 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nutrition-for-men/">Nutrition for Men</a></li>
+		<li id="menu-item-4707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4707 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/">Nourishing Nutrients</a>
+		<ul class="sub-menu">
+			<li id="menu-item-30265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30265 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/pumping-iron/">Pumping iron</a></li>
+			<li id="menu-item-4763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4763 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/anaemia-my-doctor-says-i-need-more-iron/">Anaemia: my doctor says I need more iron</a></li>
+			<li id="menu-item-4767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4767 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/why-do-we-need-calcium/">Why do we need calcium?</a></li>
+			<li id="menu-item-4770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4770 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/carbohydrates-what-you-need-to-know/">Carbohydrates – what you need to know</a></li>
+			<li id="menu-item-4817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4817 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/fat-to-cut-or-not-to-cut-that-is-the-question/">Fat: to cut or not to cut, that is the question</a></li>
+			<li id="menu-item-4836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4836 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/where-do-i-find-saturated-fats-in-food/">Where do I find saturated fats in food</a></li>
+			<li id="menu-item-4835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4835 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/the-ins-and-outs-of-unsaturated-fats/">The ins and outs of unsaturated fats</a></li>
+			<li id="menu-item-4833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4833 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/should-i-be-concerned-about-trans-fats/">Should I be worried about trans fats?</a></li>
+			<li id="menu-item-4839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4839 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/all-about-plant-sterols-and-stanols-for-cholesterol-management/">All about plant sterols and stanols for cholesterol management</a></li>
+			<li id="menu-item-4842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4842 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/all-about-protein-in-your-diet/">All about protein</a></li>
+			<li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4846 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/dietary-fibre-a-key-ingredient-in-gut-happiness/">Dietary fibre: key for a happy, healthy gut</a></li>
+			<li id="menu-item-4849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4849 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/folate-a-crucial-nutrient-for-most-women-under-50/">Folate: crucial for women under 50</a></li>
+			<li id="menu-item-4852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4852 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/what-are-the-current-nutrient-reference-values-nrvs/">What are the current Nutrient Reference Values (NRVs)?</a></li>
+		</ul>
+</li>
+		<li id="menu-item-4855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4855 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/">Food and Food Products</a>
+		<ul class="sub-menu">
+			<li id="menu-item-27866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27866 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/5-minutes-with-matthew-evans-the-gap-between-nourishment-and-pleasure/">5 minutes with Matthew Evans – The gap between nourishment and pleasure</a></li>
+			<li id="menu-item-4858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4858 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/fast-facts-all-about-avocados/">Fast facts: all about avocados</a></li>
+			<li id="menu-item-4778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4778 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/is-organic-food-better-for-my-health/">Is organic food better for my health?</a></li>
+			<li id="menu-item-4782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4782 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/i-dont-eat-a-lot-of-fruit-and-vegetables-should-i-take-a-supplement-instead/">I don’t eat a lot of fruit and vegetables, should I take a supplement instead?</a></li>
+			<li id="menu-item-4780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4780 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/whats-healthier-fresh-frozen-or-canned-foods/">What’s healthier: fresh, frozen or canned foods?</a></li>
+			<li id="menu-item-4777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4777 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/can-i-eat-eggs-if-i-want-to-be-healthy/">Can I eat eggs if I want to be healthy?</a></li>
+			<li id="menu-item-4779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4779 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/are-artificial-sweeteners-safe-to-eat/">Are artificial sweeteners safe to eat?</a></li>
+			<li id="menu-item-4861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4861 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/extra-virgin-olive-oil-the-latest-update/">Extra Virgin Olive Oil – the latest update</a></li>
+			<li id="menu-item-4792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4792 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/if-i-have-high-cholesterol-can-i-eat-foods-containing-cholesterol/">If I have high cholesterol, can I eat foods with cholesterol?</a></li>
+			<li id="menu-item-4774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4774 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/which-type-of-milk-should-i-drink/">Which type of milk should I drink?</a></li>
+			<li id="menu-item-4786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4786 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/which-drinks-are-the-best-choice/">Which drinks are the best choice?</a></li>
+			<li id="menu-item-4793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4793 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/top-take-away-food-tips/">Top take-away food tips</a></li>
+			<li id="menu-item-4864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4864 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/legumes-what-are-they-and-how-can-i-use-them/">Legumes: what are they and how can I use them?</a></li>
+			<li id="menu-item-4867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4867 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/why-dietitians-are-nuts-about-nuts/">Why dietitians are nuts about nuts</a></li>
+			<li id="menu-item-4873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4873 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/the-facts-on-coconut-oil-is-it-the-best-choice/">The facts on coconut oil – is it the best choice?</a></li>
+			<li id="menu-item-4877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4877 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/food-waste-a-bigger-issue-that-youd-think/">Food waste – a bigger issue that you’d think</a></li>
+		</ul>
+</li>
+		<li id="menu-item-4706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4706 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/">Food Labels</a>
+		<ul class="sub-menu">
+			<li id="menu-item-4885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4885 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/how-are-food-products-regulated-in-australia/">How are food products regulated in Australia?</a></li>
+			<li id="menu-item-4888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4888 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/what-are-health-claims-and-what-do-they-mean/">What are health claims and what do they mean?</a></li>
+			<li id="menu-item-4896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4896 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/making-sense-of-the-glycaemic-index/">Making sense of the glycaemic index</a></li>
+			<li id="menu-item-4895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4895 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/what-does-low-fat-mean/">What does low fat mean?</a></li>
+			<li id="menu-item-4899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4899 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/what-does-low-salt-mean/">What does low salt mean?</a></li>
+		</ul>
+</li>
+		<li id="menu-item-4705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4705 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/">Medical</a>
+		<ul class="sub-menu">
+			<li id="menu-item-23097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23097 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-to-eat-for-health-when-you-have-gallstones/">What to eat for health… when you have gallstones</a></li>
+			<li id="menu-item-23096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23096 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/orthorexia-the-unhealthy-side-of-healthy-eating/">Orthorexia: The unhealthy side of healthy eating</a></li>
+			<li id="menu-item-23095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23095 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/fodmaps-and-ibs-whats-the-deal/">FODMAPs and IBS: What&#8217;s the deal?</a></li>
+			<li id="menu-item-4902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4902 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/can-i-lower-my-blood-pressure-by-following-a-healthy-eating-plan/">Can I lower my blood pressure by following a healthy eating plan?</a></li>
+			<li id="menu-item-4905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4905 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/how-can-what-i-eat-to-improve-high-blood-pressure/">How can what I eat improve high blood pressure?</a></li>
+			<li id="menu-item-4908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4908 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/eating-less-salt/">Eating less salt</a></li>
+			<li id="menu-item-4911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4911 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/the-ins-and-outs-of-cholesterol/">The ins and outs of cholesterol</a></li>
+			<li id="menu-item-4914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4914 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/can-i-lower-my-cholesterol-through-dietary-changes/">Can I lower my cholesterol through dietary changes?</a></li>
+			<li id="menu-item-4918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4918 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-is-coeliac-disease/">What is coeliac disease?</a></li>
+			<li id="menu-item-4923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4923 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/dental-health-looking-after-your-teeth-and-gums/">Dental health – looking after your teeth and gums</a></li>
+			<li id="menu-item-4926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4926 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/is-there-a-diet-to-prevent-cancer/">Is there a diet to prevent and treat cancer?</a></li>
+			<li id="menu-item-4932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4932 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/is-there-a-diet-to-treat-arthritis/">Is there a diet to treat arthritis?</a></li>
+			<li id="menu-item-4935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4935 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/the-facts-on-overweight-obesity-in-australia-link-to-ahww/">The facts on overweight &#038; obesity in Australia</a></li>
+			<li id="menu-item-4938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4938 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/my-doctor-has-told-me-i-have-impaired-glucose-tolerance-what-should-i-do/">My doctor has told me I have impaired glucose tolerance, what should I do?</a></li>
+			<li id="menu-item-4941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4941 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/diabetes-the-basics/">Diabetes – the basics</a></li>
+			<li id="menu-item-4944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4944 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-is-insulin-resistance/">What is insulin resistance?</a></li>
+			<li id="menu-item-4947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4947 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-is-metabolic-syndrome/">What is metabolic syndrome?</a></li>
+			<li id="menu-item-4950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4950 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-can-i-do-if-i-am-worried-that-a-friend-has-an-eating-disorder/">What can I do if I am worried that a friend has an eating disorder?</a></li>
+			<li id="menu-item-4953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4953 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/whats-the-difference-between-food-allergy-and-food-intolerance/">What’s the difference between food allergy and food intolerance?</a></li>
+			<li id="menu-item-4956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4956 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/understanding-food-intolerance-sensitivity/">Understanding food intolerance &#038; sensitivity</a></li>
+			<li id="menu-item-4959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4959 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/a-guide-to-irritable-bowel-syndrome/">A guide to irritable bowel syndrome</a></li>
+			<li id="menu-item-4962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4962 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/the-doctor-said-ive-got-diverticular-disease-what-should-i-eat/">My doctor said I’ve got diverticular disease, what should I eat?</a></li>
+			<li id="menu-item-4965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4965 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/helping-to-ease-the-pain-of-gout-through-diet/">Helping to ease the pain of gout through diet</a></li>
+			<li id="menu-item-4968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4968 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/understanding-lactose-intolerance/">Understanding lactose intolerance</a></li>
+			<li id="menu-item-4971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4971 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/are-you-underweight/">Are you underweight?</a></li>
+			<li id="menu-item-4975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4975 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/is-malnutrition-an-issue-in-australia/">Is malnutrition an issue in Australia?</a></li>
+			<li id="menu-item-4978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4978 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/malnutrition-who-is-at-risk-and-things-to-consider/">Malnutrition – who is at risk and things to consider</a></li>
+			<li id="menu-item-4981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4981 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/things-to-consider-with-haemochromatosis/">Things to consider with haemochromatosis</a></li>
+		</ul>
+</li>
+		<li id="menu-item-4713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4713 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/">Weight Management</a>
+		<ul class="sub-menu">
+			<li id="menu-item-30266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30266 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/weight-loss-goals-other-than-the-scales/">Weight loss goals other than the scales</a></li>
+			<li id="menu-item-4985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4985 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/smart-eating-for-weight-management/">Smart eating for weight management</a></li>
+			<li id="menu-item-4990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4990 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/how-to-spot-a-dodgy-weight-loss-diet/">How to spot a dodgy weight loss diet</a></li>
+			<li id="menu-item-4993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4993 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/are-carbohydrates-fattening/">Are carbohydrates fattening?</a></li>
+			<li id="menu-item-4996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4996 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/how-can-i-choose-the-right-weight-loss-plan-for-me/">How can I choose the right weight loss plan for me?</a></li>
+			<li id="menu-item-5000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5000 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/how-can-i-stay-motivated-to-maintain-a-healthy-diet-for-weight-loss/">How can I stay motivated to maintain a healthy diet for weight loss?</a></li>
+			<li id="menu-item-5003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5003 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/what-should-i-do-to-lose-weight/">What should I do to lose weight?</a></li>
+			<li id="menu-item-5006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5006 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/i-need-to-gain-weight-what-should-i-eat/">I need to gain weight, what should I eat?</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702 menu-level-2"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-recipes/">Smart Eating Recipes</a></li>
+	<li id="menu-item-704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704 menu-level-2"><a href="https://daa.asn.au/smart-eating-for-you/latest-in-smart-eating/">Latest in Smart Eating</a></li>
+	<li id="menu-item-3875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3875 menu-level-2"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-newsletter/">Smart Eating Newsletter</a></li>
+	<li id="menu-item-58795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58795 menu-level-2"><a href="https://daa.asn.au/professional-toolbox/smart-eating-for-a-healthier-you/dietitians-day-2018/">Dietitians Day – 19 September 2018</a></li>
+</ul>
+</li>
+<li id="menu-item-1004" class="colour-gold menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1004 menu-level-1"><a href="https://daa.asn.au/marketplace/">Events and Marketplace</a>
+<ul class="sub-menu">
+	<li id="menu-item-3214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3214 menu-level-2"><a href="https://daa.asn.au/marketplace/professional-events/">Professional Events</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2026 menu-level-3"><a href="https://daa.asn.au/submit-public-event/">Submit Public Event</a></li>
+	</ul>
+</li>
+	<li id="menu-item-12586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12586 menu-level-2"><a target="_blank" href="https://daa.asn.au/marketplace/conference/">Conference 2018</a></li>
+	<li id="menu-item-1003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1003 menu-level-2"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/">Centre for Advanced Learning</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7443 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/communicating-with-your-audience/">Communicating with your audience: For Health Professionals</a></li>
+		<li id="menu-item-55182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55182 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/food-allergy-and-intolerance/">Food Allergy and Intolerance</a></li>
+		<li id="menu-item-29153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29153 menu-level-3"><a href="https://daa.asn.au/medical-nutrition-therapy-in-bariatric-surgery/">Medical Nutrition Therapy in Bariatric Surgery</a></li>
+		<li id="menu-item-7442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7442 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/national-paediatric-dietetic-training-course/">National Paediatric Dietetic Training</a></li>
+		<li id="menu-item-54752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54752 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/psychology-of-eating-weight-body-image/">Psychology of Eating, Weight, and Body Image</a></li>
+		<li id="menu-item-52986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52986 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/sports-nutrition-essentials/">Sports Nutrition Essentials</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1276 menu-level-2"><a href="https://daa.asn.au/marketplace/pen-practice-based-evidence-in-nutrition/">PEN – Practice-based Evidence in Nutrition®</a></li>
+	<li id="menu-item-10193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10193 menu-level-2"><a href="https://daa.asn.au/marketplace/advertise-with-us/">Advertise with us</a></li>
+	<li id="menu-item-915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-915 menu-level-2"><a href="https://daa.asn.au/locum-list/">Find a Locum</a></li>
+	<li id="menu-item-2379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379 menu-level-2"><a href="https://daa.asn.au/marketplace/publications/webinar-recordings/">Webinar Recordings</a></li>
+	<li id="menu-item-1005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1005 menu-level-2"><a href="https://daa.asn.au/marketplace/publications/">Publications &#038; Resources</a>
+	<ul class="sub-menu">
+		<li id="menu-item-26873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26873 menu-level-3"><a href="https://daa.asn.au/marketplace/publications/resources-available-for-purchase/">Resources available for purchase</a></li>
+		<li id="menu-item-2844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2844 menu-level-3"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/">Nutrition &#038; Dietetics Journal</a>
+		<ul class="sub-menu">
+			<li id="menu-item-2850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2850 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/editorial-board/">Editorial Board</a></li>
+			<li id="menu-item-2946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2946 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/for-authors/">For Authors</a></li>
+			<li id="menu-item-2952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2952 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/for-reviewers/">For Reviewers</a></li>
+			<li id="menu-item-3084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3084 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/associate-editor-centre/">Associate Editor Centre</a></li>
+			<li id="menu-item-2957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2957 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/nutrition-dietetics-app/">Nutrition &#038; Dietetics Journal App</a></li>
+			<li id="menu-item-18460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18460 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/lectures-in-honour-obituaries/">Lectures in Honour &#038; Obituaries</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>		
+		
+	</div><!-- .wrapper -->
+</nav><!-- .nav-row -->
+
+
+
+<main class="main-row">
+	<div class="wrapper">
+		
+		
+		<div class="standard-layout">
+			<div class="standard-sidebar extend-left standard-sidebar--olive">
+				
+				
+				<aside>
+	<nav class="secondary-nav">
+		<p class="visuallyhidden">Secondary navigation</p>
+		<a class="menu-item-home" href="https://daa.asn.au">Home</a>
+		<ul  class="clearfix menu"><li class="colour-olive menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-304 menu-level-1"><a href="https://daa.asn.au/about-daa/">About us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2528 menu-level-2"><a href="https://daa.asn.au/about-daa/organisational-strategy/">Organisational Strategy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-690 menu-level-2"><a href="https://daa.asn.au/about-daa/board-of-directors-and-executives/">Board of Directors and Executive</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3853 menu-level-3"><a href="https://daa.asn.au/about-daa/board-of-directors-and-executives/previous-daa-presidents/">Past Presidents</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19065 menu-level-2"><a href="https://daa.asn.au/about-daa/annual-report/">Annual Report</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2825 menu-level-2"><a href="https://daa.asn.au/about-daa/constitution-and-by-laws/">Constitution and By-laws</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-685 menu-level-2"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/">Celebrating Member Achievements</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1300 menu-level-3"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/daa-awards/">Awards</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1340 menu-level-3"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/prizes/">Prizes</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1343 menu-level-4"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/prizes/josephine-jo-rogers-am/">Josephine (Jo) Rogers AM</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359 menu-level-3"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/research-grants-and-scholarships/">Research Grants and Scholarships</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59346 menu-level-3"><a href="https://daa.asn.au/about-daa/awards-prizes-grants-and-scholarships/fellows-of-daa-and-advanced-apds/">Fellows of DAA and Advanced APDs</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-692 menu-level-2"><a href="https://daa.asn.au/about-daa/corporate-partners-and-alliances/">Corporate Partners and Alliances</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19075 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/definition-of-a-dietitian/">Definition of a Dietitian</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-691 menu-level-2"><a href="https://daa.asn.au/about-daa/professional-affiliations/">Professional Affiliations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3433 menu-level-2"><a href="https://daa.asn.au/about-daa/public-policies/">Public Policies</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11738 menu-level-3"><a href="https://daa.asn.au/about-daa/public-policies/advertising/">Advertising policies</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39426 menu-level-3"><a href="https://daa.asn.au/general-policies-and-procedures/alliances-and-partnerships/">Alliances and Partnerships</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12295 menu-level-3"><a href="https://daa.asn.au/general-policies-and-procedures/endorsement/">Endorsement</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12302 menu-level-3"><a href="https://daa.asn.au/about-daa/public-policies/website-link-policy/">Website Link Policy</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3441 menu-level-3"><a href="https://daa.asn.au/about-daa/privacy-policy/">Privacy Policy</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27732 menu-level-2"><a href="https://daa.asn.au/join-daa/membership/">Membership</a></li>
+</ul>
+</li>
+<li class="colour-emerald menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-313 menu-level-1"><a href="https://daa.asn.au/what-dietitans-do/">What Dietitians Do</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1123 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/dietitian-or-nutritionist/">Dietitian or Nutritionist?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5430 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/choosing-your-nutrition-expert/">Why Choose an Accredited Practising Dietitian?</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10797 menu-level-3"><a href="https://daa.asn.au/what-dietitans-do/definition-of-a-dietitian/your-rights-and-responsibilities/">Your Rights and Responsibilities</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/what-do-dietitians-work/">Where do Dietitians Work?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9665 menu-level-2"><a href="https://daa.asn.au/what-dietitans-do/information-for-healthcare-professionals/">Information for Healthcare Professionals</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1125 menu-level-3"><a href="https://daa.asn.au/what-dietitans-do/role-statements/">APD Roles</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="colour-aqua menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-323 menu-level-1"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/">Becoming a Dietitian in Australia</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1659 menu-level-2"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/australian-dietetics-council-adc/">Australian Dietetics Council (ADC)</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2862 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/australian-dietetics-council-adc/adc-policies/">ADC Policies</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1655 menu-level-2"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/accreditation-of-dietetics-education-programs/">Accreditation of Dietetics Education Programs</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1383 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/currently-accredited-dietetic-programs/">Accredited Dietetics Education Programs</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1674 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/accreditation-of-dietetics-education-programs/accreditation-standards-and-processes/">Accreditation Standards and Processes</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1433 menu-level-2"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/">Recognition of Dietetic Qualifications</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6313 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/dietetic-skills-recognition/">Dietetic Skills Recognition (DSR)</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1432 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/overseas-educated-dietitians-assessment-stage/">Overseas educated dietitians – Assessment Stage</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1437 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/overseas-educated-dietitians-examination-stage/">Overseas educated dietitians – Examination stage</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1460 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/appeals-process/">Appeals Process</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1524 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/mutual-recognition/">Mutual Recognition</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1531 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/mutual-recognition/mutual-recognition-new-zealand/">Mutual Recognition – New Zealand</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11288 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/mutual-recognition/mutual-recognition-profiles/">Mutual recognition profiles</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1536 menu-level-4"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/mutual-recognition/new-zealand-faqs/">New Zealand FAQs</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1543 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/migration-assessments/">Skills Migration Assessment</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1795 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/fees/">Fees</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1448 menu-level-3"><a href="https://daa.asn.au/becoming-a-dietitian-in-australia/recognition-of-dietetic-qualifications/dsr-faqs/">FAQs</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12490 menu-level-2"><a href="https://daa.asn.au/join-daa/membership/">Membership of DAA</a></li>
+</ul>
+</li>
+<li class="colour-teal menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-327 menu-level-1"><a href="https://daa.asn.au/maintaining-professional-standards/">Maintaining Professional Standards</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8064 menu-level-2"><a href="https://daa.asn.au/apd-program/">Accredited Practising Dietitian Program</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1175 menu-level-2"><a href="https://daa.asn.au/apd-program/joining-the-apd-program/">How to Join the APD Program</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1321 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/dietitian-scope-of-practice/">Dietitian Scope of Practice</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1667 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/ncs/">National Competency Standards for Dietitians</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/dietetic-credentialing-council/">Dietetic Credentialing Council</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4146 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/professional-standards/">Professional Standards and Code of Conduct</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42274 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/supporting-best-practice-in-dietetics/">Supporting Best Practice in Dietetics</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9118 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/register-of-apds/">Register of Accredited Practising Dietitians</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44183 menu-level-3"><a href="https://daa.asn.au/apd-registration-number-faqs/">APD registration number FAQ</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11964 menu-level-3"><a href="https://daa.asn.au/maintaining-professional-standards/register-of-apds/not-eligible-for-apd-credential-outstanding-disciplinary-procedures/">Outstanding disciplinary procedures</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4143 menu-level-3"><a href="https://daa.asn.au/maintaining-professional-standards/register-of-apds/expelled-or-suspended-members/">Expelled or Suspended Members</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4149 menu-level-2"><a href="https://daa.asn.au/maintaining-professional-standards/how-to-make-a-complaint/">How to make a complaint</a></li>
+</ul>
+</li>
+<li class="colour-blue menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-361 menu-level-1"><a href="https://daa.asn.au/voice-of-daa/">Voice of Dietitians</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2143 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/news-room/">News Room</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-776 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/media-releases/">Media Releases</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/hot-topics/">Hot Topics</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1895 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/dietitians-making-news/">Dietitians Making News</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1898 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/daa-spokespeople/">Our Spokespeople</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1908 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/nutrition-journalism-award/">Nutrition Journalism Award</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22389 menu-level-4"><a href="https://daa.asn.au/voice-of-daa/nutrition-journalism-award/winners-of-the-nutrition-journalism-award/">Nutrition Journalism Award Winners</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1901 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/editorial/">Editorial</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1904 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/challenging-missinformation/">Challenging Misinformation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1911 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/outcomes-of-the-daa-media-program/">Outcomes of the DAA Media Program</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1917 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/outcomes-of-the-daa-media-program/journalists-engage-with-daa/">Journalists Engage with DAA</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36787 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/daas-approach-to-social-media/">DAA’s approach to social media</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/advocacy/">Advocacy</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-741 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/submissions/">Submissions</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51872 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/submissions/2018-submissions/">2018 Submissions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32304 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/submissions/2017-submissions/">2017 Submissions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12008 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/submissions/2016-submissions/">2016 Submissions</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-752 menu-level-3"><a href="https://daa.asn.au/voice-of-daa/submissions/2015-submissions/">2015 Submissions</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29305 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/joint-statements/">Joint Statements</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-777 menu-level-2"><a href="https://daa.asn.au/voice-of-daa/public-statements/">Public Announcements</a></li>
+</ul>
+</li>
+<li class="colour-orange menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-335 menu-level-1"><a href="https://daa.asn.au/smart-eating-for-you/">Smart Eating for a Healthier You</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-701 menu-level-2"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/">Smart Eating Fast Facts</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4397 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/">Healthy Eating</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40718 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/dietitians-top-healthy-christmas-gift-ideas/">Dietitians&#8217; top (healthy) Christmas gift ideas</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19513 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating-on-a-budget/">Healthy eating on a budget</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19520 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/can-i-drink-alcohol/">Can I drink alcohol?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11873 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/health-and-wellbeing-of-aboriginal-and-torres-strait-islander-people/">Health and Wellbeing of Aboriginal and Torres Strait Islander people</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4790 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/ive-heard-i-need-2-serves-of-fruit-5-serves-of-vegetables-but-what-is-a-serve/">I’ve heard I need 2 serves of fruit &#038; 5 serves of vegetables, but what is a serve?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4789 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/im-tired-all-the-time-should-i-try-a-detox-diet/">I&#8217;m tired all the time, should I try a detox diet?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4772 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/the-low-down-on-paleo-welcome-to-our-three-part-series-on-the-palaeolithic-diet/">The low-down on Paleo – Welcome to our three part series on the Palaeolithic diet.</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4791 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/how-much-exercise-do-i-need-to-stay-healthy/">How much exercise do I need to stay healthy?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4781 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/whats-the-best-type-of-fat-for-a-healthy-heart/">What’s the best type of fat for a healthy heart?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4783 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/vegan-diets-facts-tips-and-considerations/">Vegan diets: everything you need to know</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4784 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/vegetarian-diets-the-basics/">Vegetarian diets – the basics</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4785 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/breakfast-how-to-eat-brekkie-like-a-boss/">Breakfast – how to eat brekkie like a boss!</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4787 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/australias-healthy-weight-week/">Australia’s Healthy Weight Week</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52312 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/the-australian-dietary-guidelines/">The Australian Dietary Guidelines</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4400 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/">Children</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30267 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/five-ways-to-help-tackle-fussy-eating/">Five ways to help tackle fussy eating</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4695 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/should-we-be-concerned-about-a-childs-weight/">Should we be concerned about a child’s weight?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4616 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/how-can-i-prevent-my-child-from-becoming-overweight/">How can I prevent my child from becoming overweight?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4718 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/my-child-is-overweight-what-should-i-do/">My child is overweight, what should I do?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4609 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/how-can-i-get-my-child-to-eat-more-fruits-and-vegetables/">How can I get my child to eat more fruits and vegetables?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4696 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/what-can-i-put-in-my-childs-lunchbox/">What can I put in my child’s lunchbox?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4716 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/how-much-television-can-my-children-watch-if-i-want-them-to-be-healthy/">How much television can my children watch if I want them to be healthy?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4721 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/children/can-food-additives-affect-my-childs-behaviour/">Can food additives affect my child’s behaviour?</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4709 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/teens/">Teens</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4710 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/">Pregnancy</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4728 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/nutrition-for-pregnancy/">Nutrition for pregnancy</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4731 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/is-there-a-special-diet-i-should-follow-while-trying-to-get-pregnant/">Is there a special diet I should follow while trying to get pregnant?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4734 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/what-extra-nutrients-do-i-need-in-pregnancy/">What extra nutrients do I need in pregnancy?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4738 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/what-extra-things-do-i-need-to-eat-if-im-breastfeeding/">What do I need to eat if I’m breastfeeding?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4742 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/pregnancy/why-do-pregnant-and-breastfeeding-women-need-more-iodine/">Why do pregnant and breastfeeding women need more iodine?</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4708 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nutrition-for-men/">Nutrition for Men</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4707 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/">Nourishing Nutrients</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30265 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/pumping-iron/">Pumping iron</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4763 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/anaemia-my-doctor-says-i-need-more-iron/">Anaemia: my doctor says I need more iron</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4767 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/why-do-we-need-calcium/">Why do we need calcium?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4770 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/carbohydrates-what-you-need-to-know/">Carbohydrates – what you need to know</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4817 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/fat-to-cut-or-not-to-cut-that-is-the-question/">Fat: to cut or not to cut, that is the question</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4836 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/where-do-i-find-saturated-fats-in-food/">Where do I find saturated fats in food</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4835 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/the-ins-and-outs-of-unsaturated-fats/">The ins and outs of unsaturated fats</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4833 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/should-i-be-concerned-about-trans-fats/">Should I be worried about trans fats?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4839 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/all-about-plant-sterols-and-stanols-for-cholesterol-management/">All about plant sterols and stanols for cholesterol management</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4842 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/all-about-protein-in-your-diet/">All about protein</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4846 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/dietary-fibre-a-key-ingredient-in-gut-happiness/">Dietary fibre: key for a happy, healthy gut</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4849 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/folate-a-crucial-nutrient-for-most-women-under-50/">Folate: crucial for women under 50</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4852 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/nourishing-nutrients/what-are-the-current-nutrient-reference-values-nrvs/">What are the current Nutrient Reference Values (NRVs)?</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4855 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/">Food and Food Products</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27866 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/5-minutes-with-matthew-evans-the-gap-between-nourishment-and-pleasure/">5 minutes with Matthew Evans – The gap between nourishment and pleasure</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4858 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/fast-facts-all-about-avocados/">Fast facts: all about avocados</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4778 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/is-organic-food-better-for-my-health/">Is organic food better for my health?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4782 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/i-dont-eat-a-lot-of-fruit-and-vegetables-should-i-take-a-supplement-instead/">I don’t eat a lot of fruit and vegetables, should I take a supplement instead?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4780 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/whats-healthier-fresh-frozen-or-canned-foods/">What’s healthier: fresh, frozen or canned foods?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4777 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/can-i-eat-eggs-if-i-want-to-be-healthy/">Can I eat eggs if I want to be healthy?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4779 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/are-artificial-sweeteners-safe-to-eat/">Are artificial sweeteners safe to eat?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4861 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/extra-virgin-olive-oil-the-latest-update/">Extra Virgin Olive Oil – the latest update</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4792 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/if-i-have-high-cholesterol-can-i-eat-foods-containing-cholesterol/">If I have high cholesterol, can I eat foods with cholesterol?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4774 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/which-type-of-milk-should-i-drink/">Which type of milk should I drink?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4786 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/which-drinks-are-the-best-choice/">Which drinks are the best choice?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4793 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/top-take-away-food-tips/">Top take-away food tips</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4864 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/legumes-what-are-they-and-how-can-i-use-them/">Legumes: what are they and how can I use them?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4867 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/why-dietitians-are-nuts-about-nuts/">Why dietitians are nuts about nuts</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4873 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/the-facts-on-coconut-oil-is-it-the-best-choice/">The facts on coconut oil – is it the best choice?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4877 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-and-food-products/food-waste-a-bigger-issue-that-youd-think/">Food waste – a bigger issue that you’d think</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4706 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/">Food Labels</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4885 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/how-are-food-products-regulated-in-australia/">How are food products regulated in Australia?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4888 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/what-are-health-claims-and-what-do-they-mean/">What are health claims and what do they mean?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4896 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/making-sense-of-the-glycaemic-index/">Making sense of the glycaemic index</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4895 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/what-does-low-fat-mean/">What does low fat mean?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4899 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/food-labels/what-does-low-salt-mean/">What does low salt mean?</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4705 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/">Medical</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23097 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-to-eat-for-health-when-you-have-gallstones/">What to eat for health… when you have gallstones</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23096 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/orthorexia-the-unhealthy-side-of-healthy-eating/">Orthorexia: The unhealthy side of healthy eating</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23095 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/fodmaps-and-ibs-whats-the-deal/">FODMAPs and IBS: What&#8217;s the deal?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4902 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/can-i-lower-my-blood-pressure-by-following-a-healthy-eating-plan/">Can I lower my blood pressure by following a healthy eating plan?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4905 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/how-can-what-i-eat-to-improve-high-blood-pressure/">How can what I eat improve high blood pressure?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4908 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/healthy-eating/eating-less-salt/">Eating less salt</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4911 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/the-ins-and-outs-of-cholesterol/">The ins and outs of cholesterol</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4914 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/can-i-lower-my-cholesterol-through-dietary-changes/">Can I lower my cholesterol through dietary changes?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4918 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-is-coeliac-disease/">What is coeliac disease?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4923 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/dental-health-looking-after-your-teeth-and-gums/">Dental health – looking after your teeth and gums</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4926 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/is-there-a-diet-to-prevent-cancer/">Is there a diet to prevent and treat cancer?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4932 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/is-there-a-diet-to-treat-arthritis/">Is there a diet to treat arthritis?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4935 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/the-facts-on-overweight-obesity-in-australia-link-to-ahww/">The facts on overweight &#038; obesity in Australia</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4938 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/my-doctor-has-told-me-i-have-impaired-glucose-tolerance-what-should-i-do/">My doctor has told me I have impaired glucose tolerance, what should I do?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4941 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/diabetes-the-basics/">Diabetes – the basics</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4944 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-is-insulin-resistance/">What is insulin resistance?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4947 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-is-metabolic-syndrome/">What is metabolic syndrome?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4950 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/what-can-i-do-if-i-am-worried-that-a-friend-has-an-eating-disorder/">What can I do if I am worried that a friend has an eating disorder?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4953 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/whats-the-difference-between-food-allergy-and-food-intolerance/">What’s the difference between food allergy and food intolerance?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4956 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/understanding-food-intolerance-sensitivity/">Understanding food intolerance &#038; sensitivity</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4959 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/a-guide-to-irritable-bowel-syndrome/">A guide to irritable bowel syndrome</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4962 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/the-doctor-said-ive-got-diverticular-disease-what-should-i-eat/">My doctor said I’ve got diverticular disease, what should I eat?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4965 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/helping-to-ease-the-pain-of-gout-through-diet/">Helping to ease the pain of gout through diet</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4968 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/understanding-lactose-intolerance/">Understanding lactose intolerance</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4971 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/are-you-underweight/">Are you underweight?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4975 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/is-malnutrition-an-issue-in-australia/">Is malnutrition an issue in Australia?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4978 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/malnutrition-who-is-at-risk-and-things-to-consider/">Malnutrition – who is at risk and things to consider</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4981 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/medical/things-to-consider-with-haemochromatosis/">Things to consider with haemochromatosis</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4713 menu-level-3"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/">Weight Management</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30266 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/weight-loss-goals-other-than-the-scales/">Weight loss goals other than the scales</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4985 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/smart-eating-for-weight-management/">Smart eating for weight management</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4990 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/how-to-spot-a-dodgy-weight-loss-diet/">How to spot a dodgy weight loss diet</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4993 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/are-carbohydrates-fattening/">Are carbohydrates fattening?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4996 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/how-can-i-choose-the-right-weight-loss-plan-for-me/">How can I choose the right weight loss plan for me?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5000 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/how-can-i-stay-motivated-to-maintain-a-healthy-diet-for-weight-loss/">How can I stay motivated to maintain a healthy diet for weight loss?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5003 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/what-should-i-do-to-lose-weight/">What should I do to lose weight?</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5006 menu-level-4"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-fast-facts/weight-management/i-need-to-gain-weight-what-should-i-eat/">I need to gain weight, what should I eat?</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-702 menu-level-2"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-recipes/">Smart Eating Recipes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704 menu-level-2"><a href="https://daa.asn.au/smart-eating-for-you/latest-in-smart-eating/">Latest in Smart Eating</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3875 menu-level-2"><a href="https://daa.asn.au/smart-eating-for-you/smart-eating-newsletter/">Smart Eating Newsletter</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58795 menu-level-2"><a href="https://daa.asn.au/professional-toolbox/smart-eating-for-a-healthier-you/dietitians-day-2018/">Dietitians Day – 19 September 2018</a></li>
+</ul>
+</li>
+<li class="colour-gold menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1004 menu-level-1"><a href="https://daa.asn.au/marketplace/">Events and Marketplace</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3214 menu-level-2"><a href="https://daa.asn.au/marketplace/professional-events/">Professional Events</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2026 menu-level-3"><a href="https://daa.asn.au/submit-public-event/">Submit Public Event</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12586 menu-level-2"><a target="_blank" href="https://daa.asn.au/marketplace/conference/">Conference 2018</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1003 menu-level-2"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/">Centre for Advanced Learning</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7443 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/communicating-with-your-audience/">Communicating with your audience: For Health Professionals</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55182 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/food-allergy-and-intolerance/">Food Allergy and Intolerance</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29153 menu-level-3"><a href="https://daa.asn.au/medical-nutrition-therapy-in-bariatric-surgery/">Medical Nutrition Therapy in Bariatric Surgery</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7442 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/national-paediatric-dietetic-training-course/">National Paediatric Dietetic Training</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54752 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/psychology-of-eating-weight-body-image/">Psychology of Eating, Weight, and Body Image</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52986 menu-level-3"><a href="https://daa.asn.au/member-community/blog/centre-for-advanced-learning/sports-nutrition-essentials/">Sports Nutrition Essentials</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1276 menu-level-2"><a href="https://daa.asn.au/marketplace/pen-practice-based-evidence-in-nutrition/">PEN – Practice-based Evidence in Nutrition®</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10193 menu-level-2"><a href="https://daa.asn.au/marketplace/advertise-with-us/">Advertise with us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-915 menu-level-2"><a href="https://daa.asn.au/locum-list/">Find a Locum</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2379 menu-level-2"><a href="https://daa.asn.au/marketplace/publications/webinar-recordings/">Webinar Recordings</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1005 menu-level-2"><a href="https://daa.asn.au/marketplace/publications/">Publications &#038; Resources</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26873 menu-level-3"><a href="https://daa.asn.au/marketplace/publications/resources-available-for-purchase/">Resources available for purchase</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2844 menu-level-3"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/">Nutrition &#038; Dietetics Journal</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2850 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/editorial-board/">Editorial Board</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2946 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/for-authors/">For Authors</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2952 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/for-reviewers/">For Reviewers</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3084 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/associate-editor-centre/">Associate Editor Centre</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2957 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/nutrition-dietetics-app/">Nutrition &#038; Dietetics Journal App</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18460 menu-level-4"><a href="https://daa.asn.au/marketplace/publications/nutrition-dietetics-journal/lectures-in-honour-obituaries/">Lectures in Honour &#038; Obituaries</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>	</nav><!-- .secondary-nav -->
+</aside>
+				
+				
+			</div><!-- .standard-sidebar -->
+			<div class="standard-main" id="content">
+				
+				
+				<div class="content-area content-area--olive clearfix">
+				
+<article>
+	<h1 class="page-title">Page not found</h1>
+	<p>The page you requested could not be found.</p>
+</article>
+				</div><!-- .content-area -->
+				
+				
+				<footer class="footer-row">
+					
+<div class="social-nav-container">
+	
+	
+	<nav class="social-nav">
+		<p class="visuallyhidden">Social Media</p>
+		<ul  class="clearfix menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43 menu-level-1"><a target="_blank" href="http://facebook.com/dietitiansassociation"><i class="icon-facebook"></i><span class="visuallyhidden">Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44 menu-level-1"><a target="_blank" href="http://twitter.com/DAA_feed"><i class="icon-twitter"></i><span class="visuallyhidden">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46 menu-level-1"><a target="_blank" href="http://linkedin.com/company/dietitians-association-of-australia"><i class="icon-linkedin"></i><span class="visuallyhidden">LinkedIn</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-462 menu-level-1"><a target="_blank" href="https://www.instagram.com/dietitians_association_aus/"><i class="icon-instagram"></i><span class="visuallyhidden">Instagram</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-356 menu-level-1"><a target="_blank" href="https://www.pinterest.com/DAAdietitians"><i class="icon-pinterest"></i><span class="visuallyhidden">Pinterest</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45 menu-level-1"><a target="_blank" href="http://youtube.com/user/DAAvideos"><i class="icon-youtube"></i><span class="visuallyhidden">YouTube</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-463 menu-level-1"><a target="_blank" href="https://vimeo.com/dietitians"><i class="icon-vimeo"></i><span class="visuallyhidden">Vimeo</span></a></li>
+</ul>	</nav><!-- .social-nav -->
+	
+	<div class="social-nav-text">Socialise<br>with DAA</div>
+</div><!-- .social-nav-container -->
+					
+	<nav class="footer-nav">
+		<p class="visuallyhidden">Footer navigation</p>
+		<ul  class="clearfix menu"><li id="menu-item-2284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2284 menu-level-1"><a href="https://daa.asn.au/find-an-apd/">Find an Accredited Practising Dietitian</a></li>
+<li id="menu-item-927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927 menu-level-1"><a href="https://daa.asn.au/about-daa/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928 menu-level-1"><a href="https://daa.asn.au/contact-us/">Contact Us</a></li>
+</ul>	</nav><!-- .footer-nav -->
+
+<p class="footer-copy">&copy;&nbsp;Copyright 2018 Dietitians Association of Australia<br>All rights reserved</p>
+				</footer><!-- .footer-row -->
+				
+				
+			</div><!-- .standard-main -->
+		</div><!-- .standard-layout -->
+		
+		
+	</div><!-- .wrapper -->
+</main><!-- .main-row -->
+
+
+
+
+
+
+	
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 871439352;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/871439352/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+	
+	<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WCShortcodes = {"ajaxurl":"https:\/\/daa.asn.au\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://daa.asn.au/wp-content/plugins/wc-shortcodes/includes/js/rsvp.js?ver=1.97'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/daa.asn.au\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://daa.asn.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.3.4'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://daa.asn.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d8337a804e0ab470de5864364e38b0b6","fragment_name":"wc_fragments_d8337a804e0ab470de5864364e38b0b6"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://daa.asn.au/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.3.4'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-content/themes/daa/js/vendor/modernizr.js'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-content/themes/daa/js/plugins.js?ver=1.12'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://daa.asn.au/wp-content/themes/daa/js/main.js?ver=1.12'></script>
+<script type='text/javascript' src='https://daa.asn.au/wp-includes/js/wp-embed.min.js?ver=15963ffdfb1765f7ea74f25b160c607b'></script>
+</body>
+</html>

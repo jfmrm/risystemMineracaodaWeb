@@ -1,0 +1,1272 @@
+<!DOCTYPE html>
+<html id="htmlBaseLayout" class="supports-no-js site-bhc " lang="en">
+<head>
+    <script type="text/javascript">
+        var appInsights = window.appInsights || function (a) {
+            function b(a) { c[a] = function () { var b = arguments; c.queue.push(function () { c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function () { var b = d.createElement("script"); b.src = a.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js", d.getElementsByTagName("script")[0].parentNode.appendChild(b) }); try { c.cookie = d.cookie } catch (a) { } c.queue = []; for (var f = ["Event", "Exception", "Metric", "PageView", "Trace", "Dependency"]; f.length;) b("track" + f.pop()); if (b("setAuthenticatedUserContext"), b("clearAuthenticatedUserContext"), b("startTrackEvent"), b("stopTrackEvent"), b("startTrackPage"), b("stopTrackPage"), b("flush"), !a.disableExceptionTracking) { f = "onerror", b("_" + f); var g = e[f]; e[f] = function (a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 !== i && c["_" + f](a, b, d, e, h), i } } return c
+        }({
+            instrumentationKey: "e7cf4582-1667-4ee1-80da-6c21ca456525"
+    });
+
+window.appInsights = appInsights, appInsights.queue && 0 === appInsights.queue.length && appInsights.trackPageView();
+    </script>
+    <meta name="p:domain_verify" content="0c5044537bc65e8316a90c4310c5df67"/>
+<meta name="google-site-verification" content="cdbOpWH3c5euKWtFllMl3QuzSAHjeOIQ4_v4O3BEJP0" />
+<meta name="google-site-verification" content="lNEcSvxQRQc9Gaz1xePiyBAMW35qcRcc-FEk2aJAouY" />
+<meta name="msvalidate.01" content="AFA705CF6056D0F46967D63D3AF12D24" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W8BK9SD');</script>
+<!-- End Google Tag Manager --><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no">
+    <title>Error - Better Health Channel</title>
+    <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<link rel="schema.AGLSTERMS" href="http://www.agls.gov.au/agls/terms" />
+<meta name="title" content="Error" />
+<meta name="modified" content="2014-12-03" />
+<meta name="contenttype" content="Status page" />
+<meta name="robots" content="noindex" />
+<meta name="DCTERMS.creator" content="Department of Health &amp; Human Services" scheme="AGLSTERMS.AglsAgent" />
+<meta name="DCTERMS.publisher" content="Department of Health &amp; Human Services" />
+<meta name="DCTERMS.title" content="Error" />
+<meta name="DCTERMS.modified" content="2014-12-03" scheme="DCTERMS.ISO8601" />
+<meta name="DCTERMS.created" content="2014-12-03" scheme="DCTERMS.ISO8601" />
+<meta name="DCTERMS.identifier" content="https://www.betterhealth.vic.gov.au:443/error" />
+<meta name="DCTERMS.language" content="en" />
+<meta name="AGLSTERMS.jurisdiction" content="Victoria" />
+<meta name="AGLSTERMS.category" content="document" />
+<meta name="AGLSTERMS.stateTerritory" content="VIC" />
+<meta name="AGLSTERMS.sector" content="Health" />
+<meta name="DCTERMS.rights" content="Department of Health &amp; Human Services" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Error" />
+<meta name="twitter:image" content="https://www.betterhealth.vic.gov.au:443/-/media/bhc/images/bhc-ogimg.png" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.betterhealth.vic.gov.au:443/error" />
+<meta property="og:image" content="https://www.betterhealth.vic.gov.au:443/-/media/bhc/images/bhc-ogimg.png" />
+<meta property="og:title" content="Error" />
+
+    
+<link rel="alternate" type="application/rss+xml" title="RSS" href="" />
+
+    <!-- START website related assets -->
+    
+
+<meta name="msapplication-TileImage" content="https://prodstaticdhhs.azureedge.net/assets/img/bhc/icons/metro-tile.png" />
+<link rel="apple-touch-icon-precomposed" href="https://prodstaticdhhs.azureedge.net/assets/img/bhc/icons/apple-touch-icon.png" />
+<link rel="shortcut icon" href="https://prodstaticdhhs.azureedge.net/assets/img/bhc/icons/favicon.ico" />
+
+
+    
+    
+    
+	
+
+    
+	        <!--[if lte IE 8]>
+		        <link rel="stylesheet" href="https://prodstaticdhhs.azureedge.net/assets/css/bhc/style.static.ie.css" />
+	        <![endif]-->
+
+	        <!--[if gt IE 8]><!-->
+		        <meta name="viewport" content="width=device-width,initial-scale=1" />
+	        <!--<![endif]-->
+
+	        <!--[if IE 9]>
+		        <link rel="stylesheet" href="https://prodstaticdhhs.azureedge.net/assets/css/bhc/style.ie.css" />
+	        <![endif]-->
+
+	        <!--[if !IE]><!-->
+		    <link rel="stylesheet" href="https://prodstaticdhhs.azureedge.net/assets/css/bhc/style.css" />
+	        <!--<![endif]-->
+
+
+            <script>
+                /* grunticon Stylesheet Loader | https://github.com/filamentgroup/grunticon | (c) 2012 Scott Jehl, Filament Group, Inc. | MIT license. */
+                window.grunticon = function (e, t) { if (!e || e.length !== 3) return; var n = window, r = !!n.document.createElementNS && !!n.document.createElementNS("http://www.w3.org/2000/svg", "svg").createSVGRect, i = function (t) { var i = n.document.createElement("link"), s = n.document.getElementsByTagName("script")[0]; i.rel = "stylesheet", i.href = e[t && r ? 0 : t ? 1 : 2], s.parentNode.insertBefore(i, s) }, s = new n.Image; s.onerror = function () { i(!1) }, s.onload = function () { i(s.width === 1 && s.height === 1) }, s.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" };
+                window.callgrunticon = function () {
+                    window.grunticon(["https://prodstaticdhhs.azureedge.net/assets/img/bhc/svgs/svg.data.svg.css", "https://prodstaticdhhs.azureedge.net/assets/img/bhc/svgs/svg.data.png.css", "https://prodstaticdhhs.azureedge.net/assets/img/bhc/svgs/svg.fallback.css"]);
+                };
+                window.callgrunticon();
+			</script>
+    
+
+	
+    	
+	<link href='https://fonts.googleapis.com/css?family=Signika:600,400,300' rel='stylesheet' type='text/css'>
+
+
+	<noscript>
+		<link rel="stylesheet" href="https://prodstaticdhhs.azureedge.net/assets/css/bhc/style.css" />
+		<link href="https://prodstaticdhhs.azureedge.net/assets/img/bhc/svgs/svg.fallback.css" rel="stylesheet" />
+	</noscript>
+
+	<script src="https://prodstaticdhhs.azureedge.net/assets/js/framework/head.js"></script>
+
+	
+<!--[if lt IE 9]>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="https://prodstaticdhhs.azureedge.net/assets/js/framework/libs/jquery-1.11.1.min.js"><\/script>')</script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="https://prodstaticdhhs.azureedge.net/assets/js/framework/libs/jquery-2.1.1.min.js"><\/script>')</script>
+<!--<![endif]-->
+
+
+
+<script src="https://prodstaticdhhs.azureedge.net/assets/js/framework/analytics.js"></script>
+
+<script>
+    // Site Specific BHC
+DOH_ANALYTICS.tracker.create('UA-6341178-2');
+
+    
+    // Goals
+    DOH_ANALYTICS.goals.init('/api/goal/trigger'); // Goals endpoint
+</script>
+
+    <!-- END website related assets -->
+    
+<meta name="VIcurrentDateTime" content="636728966801757697" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    <script type="text/javascript">
+var fby = fby || [];
+fby.push(['showTab', {id: '9912', position: 'right', color: '#37474f'}]);
+fby.push(['setEmail', 'noemail']);(function () {
+    var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true;
+    f.src = '//cdn.feedbackify.com/f.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s);
+})();
+</script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0010/9224.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
+    <script></script>
+</head>
+<body id="bodyBaseLayout" itemscope="" itemtype="http://schema.org/WebPage">
+    
+       
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8BK9SD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <form method="post" action="/error?aspxerrorpath=/health/healthyliving/obesity&amp;sa=U&amp;ved=0ahUKEwi9_K_hp8XdAhXDjpAKHdo7DIM4MhAWCD8wCA&amp;usg=AOvVaw3tF2bjULnVN35ulYo612LE" id="frmMain" class="fn_validate_container">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="PCfCH45jbiSOKhVsPnS2XhbkiyO4aaghDnl3fKiGlTWWS6EK+tUid0345YFnGpdnYU6wQftgVFPQOkJ/tXuOoJyN8QrS/Jm5dmiJ+yLRTIL8+SlOSUEH34zzRiEwW8eOza9P00LyK3oULP/eT6ubQG2Xl7SzmUveWDnRWSEVFWtNIb0wPDtJzUOVzvhhAv+czqkIGEvgLJMDtejChOyNgsYYHSxQZ35H7XJpDaBzJbOLPQ3tzA+i5pceqs/4D8H/PCicjXfp6sueVwxMFtK0LqlBfyQNM++ZDJ/EwrnZW8fuRm/Q" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="62B45F8D" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="bEqHHqHiMjRhmvfv6ePV3qFuS3nIwvL70UaTuEMbwutK5Hq1bA5xBSut+y62fMKrTT1MoJA9B2oOXZQF3+sfrT4OjKOiFWQXxbWLQe3Y8jKwm0Aj/1j/epnakh5IsWonRmQHPQ==" />
+</div>
+             
+        <noscript>
+			<div class="page-warning"><div class="l-padding">Please enable JavaScript in order to get the best experience when using this site.</div></div>
+		</noscript>
+         
+        
+               
+        <!--[if lte IE 7]>
+			<div class="page-warning"><div class="l-padding">We've noticed that you're using an unsupported version of Internet Explorer. For the best experience please <a href="http://windows.microsoft.com/en-au/internet-explorer/download-ie" target="_blank" rel="nofollow">upgrade</a> or <a href="http://www.browserchoice.eu/BrowserChoice/browserchoice_en.htm" target="_blank" rel="nofollow">use another browser</a>.</div></div>
+		<![endif]-->
+
+    	<!-- START Accessibility Links - NOTE: these will change per template as not all areas will be on the page at once -->
+		<ul id="top" class="accessibility-links" tabindex="-1">
+			<li><a href="#nav">Site Navigation</a></li>
+			<li><a href="#main">Page Content</a></li>
+		</ul>
+		<!-- END Accessibility Links -->
+
+		<div id="outer-wrap">
+			<div id="inner-wrap">
+                
+<div class="bhc-backdrop"></div>
+    
+<div id="header" class="header">
+	
+	<div class="header-container l-container cf">
+		<div class="l-container brand-container cf">
+			<div class="btn-nav-toggle">
+				<a href="#nav" class="nav-toggle">
+					<span class="vh">Menu</span>
+				</a>
+			</div>
+
+           
+             
+
+<div class="logo" role="banner">
+    <a href="http://www.vic.gov.au/">
+        <img src="https://prodstaticdhhs.azureedge.net/assets/img/bhc/logo/vicgov.jpg" class="doh-logo" alt="State Government Victoria" />
+    </a>
+
+    <a href="/">
+        <img src="https://prodstaticdhhs.azureedge.net/assets/img/bhc/logo/header_logo.png" alt="Better Health Channel Logo" class="bhc-logo" />
+    </a>
+
+    <div class="other-sites">
+        <div>
+            <a href="#" class="toggle-dropdown-modal"><span class="vh">Caret</span></a>
+            <div class="dropdown modal">
+                <ul>
+                    
+                    <li>
+                        <a href="http://www2.health.vic.gov.au" target="_blank">
+                            <img src="/-/media/health/images/configurations/websitelinks/vicsquarefw.jpg" alt="" />
+                            <div>
+                                <h2>Health.vic</h2>
+                                <p>Victoria's hub for health services and business</p>
+                            </div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="http://www.dhhs.vic.gov.au/" target="_blank">
+                            <img src="/-/media/health/images/configurations/websitelinks/vicsquarefw.jpg" alt="" />
+                            <div>
+                                <h2>DHHS</h2>
+                                <p>A gateway to the strategies, policies, programs and services delivered by the Department of Health & Human Services.</p>
+                            </div>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="http://www.seniorsonline.vic.gov.au" target="_blank">
+                            <img src="/-/media/bhc/images/configurations/websitelinks/so-icon.png" alt="" />
+                            <div>
+                                <h2>Seniors Online</h2>
+                                <p>Victorian government portal for older people, with information about government and community services and programs.</p>
+                            </div>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+
+			<div class="btn-search-toggle">
+				<a href="#site-search" class="search-toggle">
+					<span class="vh">Show search toolbar</span>
+				</a>
+			</div>
+		</div>
+
+		<div id="site-search" class="search-container" tabindex="-1">
+			<a href="#" class="standard contrast fn_toggle-contrast">Contrast</a>
+			  
+    <a href="/myhealthlife/register" class="standard">Sign Up</a>
+    <a class="cta cta-secondary cta-login" href="/myhealthlife/login">Login</a>
+
+
+
+
+			<a href="#" class="toggle-search-button fn_toggle_search" title="Toggle Search Panel"></a>
+			<div class="l-container">
+				
+<div class="search-form">
+	<div class="ctrl-holder">
+
+	
+		<label class="vh" for="phbody_0_txtHeaderSearch">Search</label>
+		
+
+
+	<p class="vh">Type a minimum of three characters then press UP or DOWN on the keyboard to navigate the autocompleted search results</p>
+        
+      <div id="phbody_0_pnlAutocompleteWrap" class="text autocomplete fn_autocomplete full" data-autocomplete-url="/api/autocomplete/search" data-autocomplete-type="search" data-autocomplete-id="phbody_0_txtHeaderSearch">
+	
+                            <input name="phbody_0$txtHeaderSearch" id="phbody_0_txtHeaderSearch" name="header-search" type="search" class="text full" placeholder="Search site or services" autocomplete="off" />
+                            <input type="submit" name="phbody_0$btnSubmitSearch" value="search" id="phbody_0_btnSubmitSearch" class="search" />
+	         
+</div>  
+
+	
+
+		
+	
+
+
+</div>
+
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+</div>
+
+
+
+
+<div id="nav" class="slide-out-nav" role="navigation" tabindex="-1">
+	<nav>
+		<div class="nav-inner">
+			<h2 class="vh">Navigation</h2>
+
+			<div class="nav-header">
+				<a href='/' class="home"><span class="vh">Home</span></a>
+				<a href="#" class="nav-toggle"><span class="vh">Close Menu</span></a>
+			</div>
+
+			<ul>
+			
+                <li class=" has-children">
+                    <div class="nav-item">
+                        <a class="nav-lvl1" href="/conditionsandtreatments">Conditions and treatments</a>
+                        
+                        
+						    <div class="is-collapsed">
+						        <a href="#nav-ec-0" class="js-ec-link expandcollapse">Conditions and treatments</a>
+						    </div>
+                        
+					</div>
+                    
+                    
+    				    <div id="nav-ec-0" class="js-ec menu expandcollapse-content is-collapsed">
+					        <ul>
+					            
+						            <li class=" has-children">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/allergies">Allergies</a>
+                                        
+                                            
+									            <div class="is-collapsed">
+										            <a href="#nav-ec-0-0" class="js-ec-link expandcollapse">Allergies</a>
+									            </div>
+                                            
+								        </div>
+                    
+                                        
+                                            <div id="nav-ec-0-0" class="js-ec menu expandcollapse-content is-collapsed">
+								                <ul>
+								                    
+										                <li class="">
+										                    <a class="nav-lvl3" href="/conditionsandtreatments/allergies/food-safety-report-allergens-in-food">Allergic reaction to packaged food</a>
+										                </li>
+                                                    
+									            </ul>
+								            </div>
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/anxiety">Anxiety</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/arthritis">Arthritis</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/asthma">Asthma</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/behavioural-conditions">Behavioural conditions</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/birth-defects">Birth defects</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/blood-and-blood-vessels">Blood and blood vessels</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class=" has-children">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/bones-muscles-and-joints">Bones muscles and joints</a>
+                                        
+                                            
+									            <div class="is-collapsed">
+										            <a href="#nav-ec-0-7" class="js-ec-link expandcollapse">Bones muscles and joints</a>
+									            </div>
+                                            
+								        </div>
+                    
+                                        
+                                            <div id="nav-ec-0-7" class="js-ec menu expandcollapse-content is-collapsed">
+								                <ul>
+								                    
+										                <li class="">
+										                    <a class="nav-lvl3" href="/conditionsandtreatments/bones-muscles-and-joints/foot-care-podiatrists">Foot care - podiatrists</a>
+										                </li>
+                                                    
+									            </ul>
+								            </div>
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/brain-and-nerves">Brain and nerves</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/cancer">Cancer</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/complementary-and-alternative-care">Complementary and alternative care</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/conditionsandtreatments/dementia">Dementia</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						    </ul>
+					    </div>
+                    
+                </li>
+            
+                <li class=" has-children">
+                    <div class="nav-item">
+                        <a class="nav-lvl1" href="/healthyliving">Healthy living</a>
+                        
+                        
+						    <div class="is-collapsed">
+						        <a href="#nav-ec-1" class="js-ec-link expandcollapse">Healthy living</a>
+						    </div>
+                        
+					</div>
+                    
+                    
+    				    <div id="nav-ec-1" class="js-ec menu expandcollapse-content is-collapsed">
+					        <ul>
+					            
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/alcohol">Alcohol</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/babies-and-toddlers-0-3">Babies and toddlers (0-3)</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/children-4-12">Children (4-12)</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/drugs">Drugs and addictive behaviours</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/environmental-health">Environmental health</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/family-violence">Family Violence</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/get-well-soon">Older people in hospital – Get well soon</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/health-checks">Health checks</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class=" has-children">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/healthy-eating">Healthy Eating</a>
+                                        
+                                            
+									            <div class="is-collapsed">
+										            <a href="#nav-ec-1-8" class="js-ec-link expandcollapse">Healthy Eating</a>
+									            </div>
+                                            
+								        </div>
+                    
+                                        
+                                            <div id="nav-ec-1-8" class="js-ec menu expandcollapse-content is-collapsed">
+								                <ul>
+								                    
+										                <li class="">
+										                    <a class="nav-lvl3" href="/healthyliving/healthy-eating/nutrition-for-life">Nutrition for life</a>
+										                </li>
+                                                    
+									            </ul>
+								            </div>
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/healthy-mind">Healthy mind</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/healthy-pregnancy">Healthy pregnancy</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/healthyliving/immunisation">Immunisation</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						    </ul>
+					    </div>
+                    
+                </li>
+            
+                <li class=" has-children">
+                    <div class="nav-item">
+                        <a class="nav-lvl1" href="/servicesandsupport">Services and support</a>
+                        
+                        
+						    <div class="is-collapsed">
+						        <a href="#nav-ec-2" class="js-ec-link expandcollapse">Services and support</a>
+						    </div>
+                        
+					</div>
+                    
+                    
+    				    <div id="nav-ec-2" class="js-ec menu expandcollapse-content is-collapsed">
+					        <ul>
+					            
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/aged-care-services">Aged care services</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/alcohol-and-drug-services">Alcohol and drug services</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/lgbti-services">LGBTI support</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/carers-caring-and-respite-care-services">Carers, caring and respite care services</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/child-family-and-relationship-services">Child, family and relationship services</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/disability-services">Disability services</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/emergency-crisis-and-support-services">Emergency, crisis and support services</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/end-of-life-and-palliative-care-services">End of life and palliative care services</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/hospitals-surgery-and-procedures">Hospitals, surgery and procedures</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/mental-health-services">Mental health services</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/planning-and-coordinating-healthcare">Planning and coordinating healthcare</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/servicesandsupport/pregnancy-and-birth-services">Pregnancy and birth services</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						    </ul>
+					    </div>
+                    
+                </li>
+            
+                <li class=" has-children">
+                    <div class="nav-item">
+                        <a class="nav-lvl1" href="/a-zofhealthcontent">A-Z</a>
+                        
+                        
+						    <div class="is-collapsed">
+						        <a href="#nav-ec-3" class="js-ec-link expandcollapse">A-Z</a>
+						    </div>
+                        
+					</div>
+                    
+                    
+    				    <div id="nav-ec-3" class="js-ec menu expandcollapse-content is-collapsed">
+					        <ul>
+					            
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/a-zofhealthcontent/a-zconditionsandtreatments">Conditions and treatments</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/a-zofhealthcontent/a-zhealthyliving">Healthy living</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/a-zofhealthcontent/a-zservicesandsupport">Services and support</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/a-zofhealthcontent/a-zsurgicalbrochures">Surgical brochures</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/a-zofhealthcontent/a-zvideos">Videos</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/a-zofhealthcontent/a-zserviceprofiles">Service profiles</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						    </ul>
+					    </div>
+                    
+                </li>
+            
+                <li class=" has-children">
+                    <div class="nav-item">
+                        <a class="nav-lvl1" href="/blog">Blog</a>
+                        
+                        
+						    <div class="is-collapsed">
+						        <a href="#nav-ec-4" class="js-ec-link expandcollapse">Blog</a>
+						    </div>
+                        
+					</div>
+                    
+                    
+    				    <div id="nav-ec-4" class="js-ec menu expandcollapse-content is-collapsed">
+					        <ul>
+					            
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/blog/blogauthorlisting">Blog authors</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						            <li class="">
+							            <div class="nav-item">
+								            <a class="nav-lvl2" href="/blog/blogtopiclisting">Topics</a>
+                                        
+                                            
+								        </div>
+                    
+                                        
+							        </li>
+                                
+						    </ul>
+					    </div>
+                    
+                </li>
+            
+            </ul>
+            
+            
+
+<ul class="site-tools">
+	<li>
+		<div>
+			<a href="#nav-other-sites" class="js-ec-link expandcollapse">Other sites</a>
+		</div>
+
+		<div id="nav-other-sites" class="menu js-ec expandcollapse-content">
+			<ul>
+				<li>
+                    
+                        <a href="http://www2.health.vic.gov.au" class="nav-lvl3" target="_blank">
+                            <img src="/-/media/health/images/configurations/websitelinks/vicsquarefw.jpg?h=40&amp;la=en&amp;w=40&amp;hash=79CE01A630E1AA53311E4E5CC5EF63A14A2238AF" class="menu-thumb so" alt="Victorian government logo" width="40" height="40" />
+							<span>Health.vic</span>
+                        </a>
+                    
+                        <a href="http://www.dhhs.vic.gov.au/" class="nav-lvl3" target="_blank">
+                            <img src="/-/media/health/images/configurations/websitelinks/vicsquarefw.jpg?h=40&amp;la=en&amp;w=40&amp;hash=79CE01A630E1AA53311E4E5CC5EF63A14A2238AF" class="menu-thumb so" alt="Victorian government logo" width="40" height="40" />
+							<span>DHHS</span>
+                        </a>
+                    
+                        <a href="http://www.seniorsonline.vic.gov.au" class="nav-lvl3" target="_blank">
+                            <img src="/-/media/bhc/images/configurations/websitelinks/so-icon.png?h=40&amp;la=en&amp;w=40&amp;hash=18D3EE73AEF43B451A2DC1ED4543A346A19BD4DF" class="menu-thumb so" alt="SO-Icon" width="40" height="40" />
+							<span>Seniors Online</span>
+                        </a>
+                    
+                </li>
+			</ul>
+		</div>
+	</li>
+                
+    
+        <li><a class="nav-lvl1" href="/sitemap">Sitemap</a></li>
+    
+        <li></li>
+    
+        <li></li>
+        
+    <li><a class="nav-lvl1 login" href="/myhealthlife/login">My Health Life</a></li>
+
+
+
+
+</ul>
+
+<ul class="links-connect">
+	
+        <li><a href="http://facebook.com" class="connect facebook" target="_blank"><span class="vh">Facebook</span></a></li>
+    
+        <li><a href="https://plus.google.com" class="connect googleplus" target=""><span class="vh">Googleplus</span></a></li>
+    
+        <li><a href="https://twitter.com/" class="connect twitter" target=""><span class="vh">Twitter</span></a></li>
+    
+        <li><a href="https://www.youtube.com/" class="connect youtube" target="_blank"><span class="vh">Youtube</span></a></li>
+    
+        <li><a href="http://google.com" class="connect rss" target="_blank"><span class="vh">Rss</span></a></li>
+    
+</ul>
+
+
+		</div>
+	</nav>
+</div>
+
+
+<div class="header-nav">
+    <div class="navbar l-container">
+        
+
+<ul class="nav cf">
+    
+    <li class=''>
+        <a href="/conditionsandtreatments">Conditions and treatments</a>
+        
+            
+
+    </li>
+    
+    <li class=''>
+        <a href="/healthyliving">Healthy living</a>
+        
+            
+
+    </li>
+    
+    <li class=''>
+        <a href="/servicesandsupport">Services and support</a>
+        
+            
+
+    </li>
+    
+    <li class=''>
+        <a href="/a-zofhealthcontent">A-Z</a>
+        
+            
+
+    </li>
+    
+    <li class=''>
+        <a href="/blog">Blog</a>
+        
+            
+
+    </li>
+    
+</ul>
+
+
+
+
+
+
+
+
+    </div>
+</div>
+
+
+<div id="layout" class="clearfix l-one-column">
+    
+
+<div class="print-header">
+    <img id="phbody_1_ctl01_ctl00_imgPrintHeaderLogo" src="/-/media/bhc/images/placeholder/print-bhc.jpg" />
+</div>
+
+
+<div class="content-header">
+    <div class="l-container">
+        
+
+        
+		
+        
+
+<div class="breadcrumbs rs_skip">
+    
+    <a href="/" class="back-to-parent">Back to 
+        Home</a>
+
+    
+    <ul itemprop="breadcrumb">
+        
+            <li class="home">
+                <a rel="home" href="/">Home</a>
+            </li>
+
+            
+        <li class="is-active">
+            Error
+        </li>
+        
+    </ul>
+
+    
+
+</div>
+
+
+        
+
+        <div class="page-heading">
+            
+			<h1 id="phbody_1_ctl01_h1Title">Error  </h1>
+            
+                <span class="subtitle h3"></span>
+            
+            
+        </div>
+        
+        
+    </div>
+</div>
+    
+    
+    <div class="content-container l-container clearfix">
+        
+        <div class="content-column">            
+            <div id="main" tabindex="-1" role="main" class="main">                <div id="phbody_1_phcontentbody_0_pnl" class="l-content">
+	
+    <h3>We're Sorry...</h3>
+The 500 Internal Server Error is a server-side error, meaning the problem is not with your computer or internet connection but instead is a problem with the web site's server. We apologise for this inconvenience<br />
+<br />
+If you continue to experience technical difficulties with the page you are trying to reach please contact <a href="mailto:webservices@health.vic.gov.au">webservices@health.vic.gov.au</a><br />
+<br />
+<a href="/">Back to Home Page</a>&nbsp;
+
+</div>
+            </div>                    </div>                    </div>    </div>
+
+
+<div class="footer">
+    <div class="l-container">
+
+        
+<ul class="nav cf">
+    
+    <li>
+        <h2><a href="/">Health topics</a></h2>        
+        <ul class="links">
+            
+            <li><a href="/conditionsandtreatments">Conditions and treatments</a></li>
+            
+            <li><a href="/healthyliving">Healthy living</a></li>
+            
+            <li><a href="/servicesandsupport">Services and support</a></li>
+            
+            <li></li>
+            
+        </ul>
+    </li>
+    
+    <li>
+        <h2><a href="/">Explore</a></h2>        
+        <ul class="links">
+            
+            <li><a href="/healthyliving/recipes">Recipes</a></li>
+            
+            <li><a href="/health/ingredientsprofiles">Healthy pantry</a></li>
+            
+            <li><a href="/health/videos">Videos</a></li>
+            
+            <li><a href="/tools/cmi-search">Consumer medicine information</a></li>
+            
+            <li><a href="http://healthtranslations.vic.gov.au/" target="_blank">Multilingual health information - Health Translations Directory</a></li>
+            
+        </ul>
+    </li>
+    
+    <li>
+        <h2><a href="/">About</a></h2>        
+        <ul class="links">
+            
+            <li><a href="/about/about-us">About us</a></li>
+            
+            <li><a href="/about/accessibility">Accessibility</a></li>
+            
+            <li><a href="/about/content-partners-listing">Content partners</a></li>
+            
+            <li><a href="/about/privacy">Privacy</a></li>
+            
+            <li><a href="/about/terms-of-use">Terms of use</a></li>
+            
+            <li><a href="/about/contact-us">Contact us</a></li>
+            
+        </ul>
+    </li>
+    
+    <li>        
+        <h2>Connect with us</h2>
+
+        <ul class="links links-connect has-3">
+            
+            
+            <li><a class="connect facebook" title="Facebook" href="https://www.facebook.com/BetterHealthChannel" target="_blank">Facebook</a></li>
+            
+            <li><a class="connect twitter" title="Twitter" href="https://twitter.com/betterhealthgov" target="_blank">Twitter</a></li>
+            
+            <li><a class="connect youtube" title="YouTube" href="https://www.youtube.com/user/betterhealthchannel" target="_blank">YouTube</a></li>
+            
+        </ul>        
+    </li>
+    
+</ul>
+
+
+        <div class="print-information">
+            <p class="last-updated-metadata">Page last reviewed: 03 Dec 2014</p>
+            <p>https://www.betterhealth.vic.gov.au:443/error</p>
+
+            <ul>
+                
+                <li>
+                    <p>https://www.betterhealth.vic.gov.au:443/about/privacy</p>
+                    <a href="https://www.betterhealth.vic.gov.au:443/about/privacy">Privacy Statement</a>
+                </li>
+                
+                <li>
+                    <p>https://www.betterhealth.vic.gov.au:443/about/terms-of-use</p>
+                    <a href="https://www.betterhealth.vic.gov.au:443/about/terms-of-use">Copyright Notice</a>
+                </li>
+                
+                <li>
+                    <p>https://www.betterhealth.vic.gov.au:443/about/terms-of-use</p>
+                    <a href="https://www.betterhealth.vic.gov.au:443/about/terms-of-use">Disclaimer Notice</a>
+                </li>
+                
+            </ul>
+        </div>
+
+        <div class="legal cf">
+            <p class="auth">
+                This web site is managed and authorised by the Department of Health & Human Services, State Government of Victoria, Australia
+            </p>
+            <p class="copyright">
+                © Copyright State of Victoria 2018.
+            </p>
+        </div>
+
+        <a href="#top" class="scrollto back-to-top" data-scroll-tabto="true"><span class="vh">Back to </span>Top</a>
+    </div>
+</div>
+
+            </div>
+        </div>
+        
+        <div id="modal" role="dialog">
+	        <div class="modal-bg"></div>
+        </div>
+
+        <!-- START website related assets -->
+        
+
+<script>
+    window.rsConf = window.rsConf || {};
+    window.rsConf.settings = { hlicon: false };
+    window.rsConf.cb = {};
+    window.rsConf.cb.ui = {};
+    window.rsConf.cb.ui.play = function () {
+        if (typeof (DOH_ANALYTICS) === 'object') {
+            DOH_ANALYTICS.tracker.trackEvent('readspeaker', 'play', window.location.href, 1);
+        }
+    };
+</script>
+
+<script src="https://prodstaticdhhs.azureedge.net/assets/js/framework/libs/readspeaker/ReadSpeaker.js?pids=embhl,exp"></script>
+<script src="https://prodstaticdhhs.azureedge.net/assets/js/framework/libs/readspeaker/ReadSpeakerSampleSkin.js"></script>
+<link rel="stylesheet" href="https://prodstaticdhhs.azureedge.net/assets/js/framework/libs/readspeaker/ReadSpeakerSampleSkin.css" />
+
+
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5008f88f0693aad0"></script>
+
+
+
+
+
+
+
+
+<script src="https://prodstaticdhhs.azureedge.net/assets/js/framework/plugins.js"></script>
+<script src="https://prodstaticdhhs.azureedge.net/assets/js/framework/script.js"></script>
+<script src="https://prodstaticdhhs.azureedge.net/assets/js/bhc/script.js"></script>
+
+        <!-- END website related assets -->        
+    </form>
+    <script src="/~/media/BHC/Files/trackgajs/leader-module-add.js"></script>
+
+</body>
+<script type="text/javascript">
+    var imgs = document.getElementsByTagName("img");
+    for (var i = 0, img;img = imgs[i]; i++) {
+        var alt = img.getAttribute("alt");
+        if (alt == "decorative1") img.setAttribute("alt", "");
+    }
+</script> 
+</html>

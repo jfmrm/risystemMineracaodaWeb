@@ -1,0 +1,231 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" ng-app="CanGuardApp" lang="en" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+    <head ng-controller="HeadCtrl">
+
+        <base href="/causes/obesity/">
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title> Cancer and obesity </title>
+        <meta name="description" content="The Cancer and Obesity website provides a variety of interactive tools for analysing and visualizing data on the estimated global burden of cancer in 2012 attributable to excess body weight.">
+
+        <meta name="image_src" content="http://gco.iarc.fr/obesity/img/carousel/carousel-pie-bar-910-512-mk3.png" /> 
+        <meta name="image_url" content="http://gco.iarc.fr/obesity/img/carousel/carousel-pie-bar-910-512-mk3.png" /> 
+
+        <meta property="submitted-url" content="http://gco.iarc.fr/obesity/img/carousel/carousel-pie-bar-910-512-mk3.png" /> 
+        <meta property="submitted-image-url" content="http://gco.iarc.fr/obesity/img/carousel/carousel-pie-bar-910-512-mk3.png" /> 
+
+        <meta property="og:title" content="Cancer and obesity" /> 
+        <meta property="og:url" content="http://gco.iarc.fr/obesity/home" /> 
+        <meta property="og:description" content="The Cancer and Obesity website provides a variety of interactive tools for analysing and visualizing data on the estimated global burden of cancer in 2012 attributable to excess body weight." /> 
+        <meta property="og:image" content="http://gco.iarc.fr/obesity/img/carousel/carousel-pie-bar-910-512-mk3.png" /> 
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <link rel="Shortcut icon" href="favicon.ico" type="image/x-icon"/>
+
+        <!-- build:css css/style.min.css -->
+        <link rel='stylesheet' href='bower_components/font-awesome/css/font-awesome.css' />
+        <link rel='stylesheet' href='bower_components/bootstrap/dist/css/bootstrap.min.css' />        
+        <link rel="stylesheet" href="css/nv.d3.min.css">
+        <link rel="stylesheet" href="css/flags32.css">
+        <link rel="stylesheet" href="css/flags16.css">
+        <link rel="stylesheet" href="css/main.css">
+        <!-- endbuild -->
+
+        <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,300,400italic,600italic,700italic,900' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body class="index-4 index-6 index-9" ng-controller="MainCtrl">
+
+    <div class="overlay">
+        <div id="spinLoading">
+            <span></span>
+            <i class="fa fa-refresh fa-spin-custom"></i>
+        </div>
+    </div>
+
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <header class="row">
+      <div class="container heading">
+        <a class="navbar-brand" href="http://www.iarc.fr"><img src="img/logo-iarc.gif"></a>
+        <a href="/" id="logo" title="Global Cancer Observatory"> <img src="img/logo-gco.png" alt="Global Cancer Observatory"> </a>
+        <a href="/causes/obesity/home" id="new-logo"> <img src="img/logo.png" alt="Cancer and Obesity"> </a>
+
+        <ul class="social">
+          <li><a href="https://www.linkedin.com/groups/3713610" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
+          <li><a href="http://www.iarc.fr/en/feeds/index.php" target="_blank"><i class="fa fa-rss-square"></i></a></li>
+          <li><a href="https://twitter.com/iarcwho" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+        </ul>
+      </div>
+    </header>
+
+    <nav class="navbar navbar-inverse navbar-reverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav"  auto-active>
+              <li class="col-md-1"><a href="/causes/obesity" ng-class="{ active: isActive('/') }" ><i class="fa fa-home"></i></a></li>
+              <li class="col-md-2"><a href="#" data-toggle="modal" data-target="#modal-about">About</a></li>
+              <li class="col-md-3"><a href="/causes/obesity/data-sources-methods" ng-class="{ active: isActive('/data-sources-methods') }" >Data sources & methods</a></li>
+              <li class="col-md-2"><a href="/causes/obesity/tools-pie" ng-class="{ active: isActive('/tools-pie',['/tools-pie','/tools-bars','/tools-map','/tools-treemap','/tools-sunburst']) }" >ANALYSIS TOOLs</a></li>
+              <li class="col-md-2"><a href="#" data-toggle="modal" data-target="#modal-funders" >Funders</a></li>
+              <li class="col-md-2"><a href="/causes/obesity/help" ng-class="{ active: isActive('/help') }">Help</a></li>
+            </ul>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+
+    <div id="container-content">
+
+        <form name="form" action="/print/generate" method="post" id="formPrint"> 
+            <label> Title of page : <input name="meta_title" value="Fact sheets populations"> </label>
+            <label> From source : <input name="extension_from" value="html"> </label>
+            <label> Output source : <input name="extension_out" value="png"> </label>
+            <label> Type : <input name="type_graph" value=""> </label>
+            <label> Embed : <input name="embed" value="0"> </label>
+            <label> Location : <input name="location" value=""> </label>
+            <label> Project : <input name="project" value="obesity"> </label>
+            <label> Content html </label>
+            <textarea name="content" style="width:100%; height: 400px;"></textarea>
+            <input type="submit" value="SUBMIT">
+        </form>
+
+      <div id="main-content" class="svg-hidden" ng-view>
+      </div>
+    </div>
+
+    <footer>
+      <p class="smaller">IARC, 150 Cours Albert Thomas, 69372 Lyon CEDEX 08, France - Tel: +33 (0)4 72 73 84 85 - Fax: +33 (0)4 72 73 85 75 
+      <br/> Â© IARC 2017 - <a href="http://www.iarc.fr/en/copyright.php">All Rights Reserved</a>.</p>
+    </footer>
+    
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>     
+    
+    <!-- build:js js/cangraph.js -->
+    <script src="../../cangraph/vendor/d3.v3.min.js"></script>
+    <script src="../../cangraph/vendor/queue.min.js"></script>
+    <script src="../../cangraph/vendor/d3.geo.projection.min.js"></script> 
+    <script src="../../cangraph/vendor/topojson.v0.min.js"></script>
+    <script src="../../cangraph/vendor/highcharts/highcharts.min.js"></script>
+    <script src="../../cangraph/vendor/highcharts/modules/treemap.src.js"></script>
+    <script src="../../cangraph/vendor/highcharts/modules/funnel.js"></script>
+    <script src="../../cangraph/vendor/sprintf.js"></script>
+    <script src="../../cangraph/vendor/clipboard.js"></script>
+    <script src="../../cangraph/graph/d3/CanPieGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanBarGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanPyramidGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanTreeMapGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanBubbleMapGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanPyramidBarsGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanGlobeGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanMapGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanSunBurstGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanForceBubbleGraph.js"></script>
+    <script src="../../cangraph/graph/d3/CanRadarGraph.js"></script>
+    <script src="../../cangraph/graph/nvd3/CanNvPyramidGraph.js"></script>
+    <script src="../../cangraph/graph/nvd3/CanNvPieGraph.js"></script>
+    <script src="../../cangraph/graph/nvd3/CanNvBarGraph.js"></script>
+    <script src="../../cangraph/graph/nvd3/CanNvMultiBarGraph.js"></script>
+    <script src="../../cangraph/graph/highcharts/CanHCPieGraph.js"></script>
+    <script src="../../cangraph/graph/highcharts/CanHCTreemapGraph.js"></script>
+    <script src="../../cangraph/CanGraph.js"></script>
+    <script src="bower_components/nvd3/build/nv.d3.js"></script>
+    <script src="bower_components/colorbrewer/colorbrewer.js"></script>
+    <!-- endbuild -->
+
+    <!-- build:js js/obesity.js -->
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/angular-loading-bar/build/loading-bar.min.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/MainController.js"></script>
+    <script src="js/DataService.js"></script>
+    <script src="js/controllers/pie.js"></script>
+    <script src="js/controllers/bars.js"></script>
+    <script src="js/controllers/maps.js"></script>
+    <script src="js/controllers/bubbles.js"></script>
+    <script src="js/controllers/treemap.js"></script>
+    <script src="js/controllers/sunburst.js"></script>
+    <!-- endbuild -->
+
+    <!--<script src="build/js/main.js"></script>-->
+
+    
+    
+      
+    <div class="modal fade" id="modal-about" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <a href="#" class="close" onclick="closeModal('modal-about')"><i class="fa fa-times"></i></a>
+            <h2> About  </h2>
+            <p> The International Agency for Research on Cancer (IARC) is renowned for its dissemination of cancer statistics worldwide. This is a core task of IARCâs Section of Cancer Surveillance (CSU) and centres around the systematic and ongoing collection, analysis, interpretation, and dissemination of such statistical information on the global burden of the disease for cancer control action. </p>
+            <p> The Global Cancer Observatory (GCO) is a web-based platform by which to disseminate and visualize global cancer data in an efficient and systemized fashion. </p>
+
+            <h3> The project </h3>
+            <p> The Cancer and Obesity website is part of the GCO and aims to provide estimates of the proportions and numbers of cancer cases attributable to excess body weight in 2012. The database also includes estimates of the potentially preventable cancer burden linked to excess body weight. This information can be accessed by cancer type, country, and sex. </p>
+            
+            <h3> Disclaimer </h3>
+            <p> CSU reserves the right to update or change the information contained within this database at any time. CSU is not responsible for the information contained in any linked external websites. </p>
+
+            <h3> Copyright </h3>
+            <p> IARC has proprietary rights to all materials on this website. Publications and data made available by IARC/WHO enjoy copyright protection in accordance with the provisions of Protocol 2 of the Universal Copyright Convention. All rights are reserved. Materials (fact sheets, maps, estimates, and data) may be used "as is" for research, educational, or other non-commercial purposes, but the corresponding reference (see below) must be cited in all cases. Permission requests for any other use, including, but not limited to, use in conjunction with commercial purposes, should be addressed to <a href="mailto:publications@iarc.fr">publications@iarc.fr</a>. Systematic retrieval of data to create or compile, directly or indirectly, a collection, database, or directory without explicit prior written permission from IARC is prohibited. </p>
+            <p> Any use of the data published on this website should cite their source as follows: <br>
+            Arnold M, Lam F, Ervik M, Soerjomataram I (2015). Cancer and Obesity: Global burden of cancer attributable to excess weight. Lyon, France: International Agency for Research on Cancer. Available from: http://gco.iarc.fr/obesity, accessed [day/month/year].
+            </p>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="modal-funders" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <a href="#" class="close" onclick="closeModal('modal-funders')"><i class="fa fa-times"></i></a>
+            <h2> The funders  </h2>
+            <h3> WCRF International </h3>
+            <p> <img src="img/WCRFI-Logo-Artwork_positive_web.png" title="World cancer research fund international" align="right"> <a href="http://www.wcrf.org/" target="_blank">World Cancer Research Fund (WCRF) International </a>is the worldâs leading authority on cancer prevention related to diet, weight, and physical activity.</p>
+
+            <p>A not-for-profit organization, WCRF International leads and unifies a network of cancer charities based in Europe, the Americas, and Asia, giving the organization a global voice to inform people about cancer prevention.</p>
+
+            <p>WCRF champions the latest and most authoritative scientific research from around the world on cancer prevention and improved survival through diet, weight, and physical activity, to help people make informed choices to reduce their cancer risk.</p>
+
+            <p><a href="http://www.wcrf.org/int/research-we-fund/continuous-update-project-cup" target="_blank"> WCRF Internationalâs Continuous Update Project </a> is the worldâs largest ongoing programme to analyse global research on the effects of diet, nutrition, physical activity, and weight on cancer risk and survival. The project serves as an authoritative scientific resource for experts worldwide, underpinning current guidelines and policies for cancer prevention.</p>
+
+            <p>Working at the highest levels of research and policy, WCRF International is a trusted advisor to governments and other official bodies around the world.  </p>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="modal fade" id="modal-embed" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <a href="#" class="close" onclick="closeModal('modal-embed')"><i class="fa fa-times"></i></a>
+            <h2> Embedding a graph  </h2>
+            <p> This feature lets you share this graph in your blog, article or anything </p>
+            <p>
+                <textarea name=""></textarea>
+            </p>
+            <p> Copyright : </p>
+
+        </div>
+      </div>
+    </div>
+
+    </body>
+</html>

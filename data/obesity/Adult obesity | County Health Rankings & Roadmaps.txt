@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="ie6 lt-ie9 lt-ie8 lt-ie7 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>         <html class="ie7 lt-ie9 lt-ie8 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>         <html class="ie8 lt-ie9 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 9]>         <html class="ie9 no-js"  lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"  lang="en" dir="ltr" prefix="fb: http://www.facebook.com/2008/fbml ng: http://angularjs.org og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+<meta property="og:title" content="Adult obesity" />
+<meta property="og:image" content="http://www.countyhealthrankings.org/sites/all/modules/custom/chr_data/images/og_logo_map.png" />
+<meta property="og:description" content="Adult Obesity helps us measure diet and exercise in a county.
+
+What do you need to know about this measure?
+
+Adult Obesity is a percentage.
+
+Adult Obesity is based on responses to the..." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.countyhealthrankings.org/node/34887%3Fsa%3DU%26ved%3D0ahUKEwixpN_hp8XdAhWBD5AKHfcEBv04PBAWCCowBA%26usg%3DAOvVaw3U8zRKL58-Y_RQ6Bf61zpZ" />
+<link rel="shortcut icon" href="http://www.countyhealthrankings.org/sites/all/themes/gesso/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:site_name" content="County Health Rankings &amp; Roadmaps" />
+    <title>Adult obesity | County Health Rankings &amp; Roadmaps</title>
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="http://www.countyhealthrankings.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link rel="stylesheet" href="http://www.countyhealthrankings.org/sites/default/files/css/css_wqwWXG3VnNk4SJlQcJrYg0fcbMxtXY9qjxGAUok_A0I.css" media="all" />
+<link rel="stylesheet" href="http://www.countyhealthrankings.org/sites/default/files/css/css_8pGT_KLqRfrnqxibacsQYjTws3SZlBAxfdhQwLLbq6w.css" media="all" />
+<link rel="stylesheet" href="http://www.countyhealthrankings.org/sites/default/files/css/css_iVd8dtxoXAN3GFti3Rhz8waVAAqBc_UJwMoSQyjNJTs.css" media="all" />
+<link rel="stylesheet" href="http://www.countyhealthrankings.org/sites/default/files/css/css_u3y10yr7_Cfska9jAHdp10qYMqgCj03oL7U4b-JPUIA.css" media="all" />
+    <script src="http://www.countyhealthrankings.org/sites/all/libraries/modernizr/modernizr-custom.js?pf919n"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+</script>
+<script src="http://www.countyhealthrankings.org/sites/default/files/js/js_lGnN-HTD_JYlSA4aIhUOtLvQKYJozxKyQAGMa1eyisI.js"></script>
+<script src="http://www.countyhealthrankings.org/sites/default/files/js/js_-5wUGEXNFNe68YENi2UM25MyUxlgTcc0nhrAQ7WtucQ.js"></script>
+<script src="http://www.countyhealthrankings.org/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?v=2.1.6"></script>
+<script src="http://www.countyhealthrankings.org/sites/default/files/js/js_tQ8iF5m69Sw-RjyzsGPSn3P24i1nDJf3CL5V3ltjNhU.js"></script>
+<script src="http://www.countyhealthrankings.org/sites/default/files/js/js_ek1MBTY1vP7U5uRFRy0H4a3w5VtVp9IB9gJs4tkJEsI.js"></script>
+<script src="http://www.countyhealthrankings.org/sites/default/files/js/js_eEG35ZQnNh69DzVvreCXBNzzyamVxSR6kfl3ZzT8ygw.js"></script>
+<script>
+window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
+</script>
+<script src="http://www.countyhealthrankings.org/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
+<script>
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-13054329-1", {"cookieDomain":"auto"});var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-13054329-1']);
+  // Do not push pageviews here -- let GA module do the lift.
+  // Exception is for app pages handled separately.
+  // _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();ga("send", "pageview");
+</script>
+<script src="http://www.countyhealthrankings.org/sites/default/files/js/js_RjeqnU0o_c6suCRS9TRbYww6UKE2L5APxvAtpb5svyQ.js"></script>
+<script src="http://www.countyhealthrankings.org/sites/default/files/js/js_e3TUwaHeEDMD_Me7jG0J0f4ube_-0m54PlPrp4YwzPY.js"></script>
+<script>
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gesso","theme_token":"5E1nEpt6iazRRBlONyuNLPYG3h4_BqTSn1L4RNTHVR8","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"sites\/all\/modules\/contrib\/field_group\/horizontal-tabs\/horizontal-tabs.css":1,"sites\/all\/modules\/contrib\/footnotes\/footnotes.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"sites\/all\/modules\/contrib\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/menu_minipanels\/css\/menu_minipanels.css":1,"sites\/all\/libraries\/qtip\/jquery.qtip.min.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/gesso\/css\/styles.css":1},"js":{"0":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"sites\/all\/libraries\/modernizr\/modernizr-custom.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/contrib\/beautytips\/js\/jquery.bt.min.js":1,"sites\/all\/modules\/contrib\/beautytips\/js\/beautytips.min.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/contrib\/field_group\/horizontal-tabs\/horizontal-tabs.js":1,"sites\/all\/libraries\/qtip\/jquery.qtip.min.js":1,"sites\/all\/modules\/custom\/chr_ww_source\/chr_ww_source.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/mediaelement\/mediaelement.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/features\/chr_measure\/js\/measure_state_navigation.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/contrib\/search_api_live_results\/js\/search_api_live_results.js":1,"2":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/modules\/custom\/chr_analytics\/js\/navigation_event.js":1,"sites\/all\/modules\/custom\/chr_analytics\/js\/user_available_files_download.js":1,"sites\/all\/modules\/custom\/chr_analytics\/js\/measure_tabs_event.js":1,"sites\/all\/modules\/contrib\/menu_minipanels\/js\/menu_minipanels.js":1,"sites\/all\/themes\/gesso\/js\/mobile-menu.js":1,"sites\/all\/themes\/gesso\/js\/jquery-flexslider-min.js":1,"sites\/all\/themes\/gesso\/js\/hero-image-rotate.js":1,"sites\/all\/themes\/gesso\/js\/header-search-bar.js":1,"sites\/all\/themes\/gesso\/js\/jquery.malihu.PageScroll2id.min.js":1,"sites\/all\/themes\/gesso\/js\/stacktable.js":1,"sites\/all\/themes\/gesso\/js\/sticky-kit.js":1,"sites\/all\/themes\/gesso\/js\/report-sticky-menu.js":1,"sites\/all\/themes\/gesso\/js\/action-step-sticky-menu.js":1,"sites\/all\/themes\/gesso\/js\/accordion-pane.js":1,"sites\/all\/themes\/gesso\/js\/scripts.js":1,"sites\/all\/themes\/gesso\/js\/jquery.stickytableheaders.min.js":1}},"beautytips":{"bt-content":{"cssSelect":"bt-content"},"bt-link":{"cssSelect":"bt-link"},".beautytips":{"cssSelect":".beautytips"}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"mediaelementAll":true,"field_group":{"htab":"ranked_measure_tabs","htabs":"ranked_measure_tabs"},"chr_measure":{"measure_path":"\/2018\/measure\/factors\/11\/data","measure_name":"Adult obesity"},"urlIsAjaxTrusted":{"\/explore-health-rankings\/what-and-why-we-rank\/health-factors\/health-behaviors\/diet-exercise\/adult-obesity\u0026sa=U\u0026ved=0ahUKEwixpN_hp8XdAhWBD5AKHfcEBv04PBAWCCowBA\u0026usg=AOvVaw3U8zRKL58-Y_RQ6Bf61zpZ":true,"\/search":true},"search_api_live_results":{"min_length":3,"auto_hide":true,"view_all":true},"addthis":{"widget_url":"http:\/\/s7.addthis.com\/addthis_widget.js#pubid=ra-513a16c669ef1fb8\u0026domready=1","load_type":"domready"},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"googleanalytics":{"trackColorbox":1},"menuMinipanels":{"panels":{"panel_1368":{"position":{"target":"custom","target_custom":"#zone-menu-wrapper","container":"#zone-menu-wrapper","my":"top left","at":"bottom left"},"show":{"delay":"0","event":"mouseover","effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"tip":false,"classes":"ui-tooltip"},"mlid":"1368"},"panel_4496":{"position":{"target":"custom","target_custom":"#zone-menu-wrapper","container":"#zone-menu-wrapper","my":"top left","at":"bottom left"},"show":{"delay":"0","event":"mouseover","effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"tip":false,"classes":"ui-tooltip","width":"auto"},"mlid":"4496"},"panel_3713":{"position":{"target":"custom","target_custom":"#zone-menu-wrapper","container":"#zone-menu-wrapper","my":"top left","at":"bottom left"},"show":{"delay":"0","event":"mouseover","effect":{"type":"false","length":"0"}},"hide":{"delay":"0","effect":{"type":"false","length":"0"}},"style":{"tip":false,"classes":"ui-tooltip","width":"auto"},"mlid":"3713"}}}});
+</script>
+  </head>
+  <body class="not-front not-logged-in node-type-measure path-explore-health-rankings-what-and-why-we-rank-health-factors-health-behaviors-diet-exercise-adult-obesity section-explore-health-rankings">
+    <div class="skiplinks">
+      <a href="#main" class="skiplinks__link visually-hidden focusable">Skip to main content</a>
+    </div>
+        <div class="site-container">
+
+  
+  <div class="print-header">
+    <div class="l-constrain">
+      <img src="/sites/all/themes/gesso/images/printlogo_full.png" alt="County Health Rankings & Roadmaps, A Healthier Nation, County by County">
+    </div>
+  </div>
+
+  <header class="header" role="banner">
+    <div class="region-header">
+      <div class="l-constrain">
+        <div class="region-header__first">
+            <a class="site-name" href="/" rel="home">
+  <h1 class="site-name__text">County Health Rankings &amp; Roadmaps</h1>
+</a>
+        </div>
+        <div class="region-header__second">
+            <div id="block-menu-menu-utility-menu" class="block  block-menu-menu-utility-menu block--menu block--menu-menu-utility-menu">    <h2 class="element-invisible block__title">Utility Menu</h2>
+  <ul class="nav"><li class="nav__item nav__item--first"><a href="/about-us" title="" class="nav__link">About Us</a></li>
+<li class="nav__item nav__item--last"><a href="/news-events" title="" class="nav__link">News &amp; Events</a></li>
+</ul>  </div>          <a href="http://www.rwjf.org/" class="header-rwjf-logo">A Robert Wood Johnson Foundation program</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+        <div class="region-navigation">    <div class="l-constrain">
+      <div class="region-navigation__inner">
+        <div id="block-system-main-menu" class="block  block-system-main-menu block--system block--system-main-menu">    <h2 class="element-invisible block__title">Main menu</h2>
+  <ul class="nav"><li class="nav__item nav__item--first is-expanded is-active-trail has-children has-subnav"><a href="/explore-health-rankings" class="nav__link is-active-trail">Explore Health Rankings</a><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/reports" class="nav__link">Rankings Reports</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/use-data" class="nav__link">Use the Data</a></li>
+<li class="nav__item is-expanded is-active-trail has-children has-subnav"><a href="/explore-health-rankings/what-and-why-we-rank" class="nav__link is-active-trail">What and Why We Rank</a><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-outcomes" class="nav__link">Health Outcomes</a></li>
+<li class="nav__item is-expanded is-active-trail has-children has-subnav"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors" class="nav__link is-active-trail">Health Factors</a><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-expanded is-active-trail has-children has-subnav"><span title="" class="nav__link is-active-trail nolink">Health Behaviors</span><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/alcohol-and-drug-use" class="nav__link">Alcohol &amp; Drug Use</a></li>
+<li class="nav__item is-expanded is-active-trail has-children has-subnav"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-and-exercise" class="nav__link is-active-trail">Diet &amp; Exercise</a><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-active-trail"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/adult-obesity" class="nav__link is-active-trail is-active">Adult obesity</a></li>
+<li class="nav__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/food-environment-index" class="nav__link">Food environment index</a></li>
+<li class="nav__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/physical-inactivity" class="nav__link">Physical inactivity</a></li>
+<li class="nav__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/access-to-exercise-opportunities" class="nav__link">Access to exercise opportunities</a></li>
+<li class="nav__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/food-insecurity" class="nav__link">Food insecurity*</a></li>
+<li class="nav__item nav__item--last"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/limited-access-to-healthy-foods" class="nav__link">Limited access to healthy foods*</a></li>
+</ul></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/sexual-activity" class="nav__link">Sexual Activity</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/tobacco-use" class="nav__link">Tobacco Use</a></li>
+<li class="nav__item nav__item--last"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/insufficient-sleep" class="nav__link">Other</a></li>
+</ul></li>
+<li class="nav__item is-expanded has-children has-subnav"><span title="" class="nav__link nolink">Clinical Care</span><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/clinical-care/access-care" class="nav__link">Access to Care</a></li>
+<li class="nav__item nav__item--last is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/clinical-care/quality-care" class="nav__link">Quality of Care</a></li>
+</ul></li>
+<li class="nav__item is-expanded has-children has-subnav"><span title="" class="nav__link nolink">Social and Economic Factors</span><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/community" class="nav__link">Community Safety</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/education" class="nav__link">Education</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/employment" class="nav__link">Employment</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/family-and" class="nav__link">Family &amp; Social Support</a></li>
+<li class="nav__item nav__item--last is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/income" class="nav__link">Income</a></li>
+</ul></li>
+<li class="nav__item nav__item--last is-expanded has-children has-subnav"><span title="" class="nav__link nolink">Physical Environment</span><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/physical-environment/air-and-water" class="nav__link">Air &amp; Water Quality</a></li>
+<li class="nav__item nav__item--last is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/physical-environment/housing-and-transit" class="nav__link">Housing &amp; Transit</a></li>
+</ul></li>
+</ul></li>
+<li class="nav__item nav__item--last"><a href="/explore-health-rankings/what-and-why-we-rank/policies-and-programs" class="nav__link">Policies and Programs</a></li>
+</ul></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/our-methods" class="nav__link">Our Methods</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/why-ranks-change" class="nav__link">Why Ranks Change</a></li>
+<li class="nav__item nav__item--last is-collapsed has-children"><a href="/explore-health-rankings/rankings-data-documentation" class="nav__link">Rankings Data &amp; Documentation</a></li>
+</ul></li>
+<li class="nav__item is-expanded has-children has-subnav"><a href="/take-action-to-improve-health" class="nav__link menu-minipanel menu-minipanel-1368">Take Action to Improve Health</a><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/take-action-to-improve-health/what-works-for-health" class="nav__link">What Works for Health</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/take-action-improve-health/action-center" class="nav__link">Action Center</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/take-action-to-improve-health/partner-center" class="nav__link">Partner Center</a></li>
+<li class="nav__item nav__item--last"><a href="/take-action-improve-health/community-coaching" class="nav__link">Community Coaching</a></li>
+</ul></li>
+<li class="nav__item is-expanded has-children has-subnav"><a href="/learn-from-others" class="nav__link menu-minipanel menu-minipanel-4496">Learn From Others</a><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/webinars" title="" class="nav__link">Webinars</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/learn-from-others/rwjf-culture-of-health-prize" class="nav__link">RWJF Culture of Health Prize</a></li>
+<li class="nav__item"><a href="/learn-others/working-with-others" class="nav__link">Working With Others</a></li>
+<li class="nav__item"><a href="/learn-others/research-articles" class="nav__link">Research Articles</a></li>
+<li class="nav__item nav__item--last is-collapsed has-children"><a href="/learn-from-others/stories" class="nav__link">Stories</a></li>
+</ul></li>
+<li class="nav__item nav__item--last"><a href="/what-is-health" title="" class="nav__link menu-minipanel menu-minipanel-3713">What Is Health?</a></li>
+</ul>  </div>        <button class="region-navigation__search-button">Search</button>
+      </div>
+    </div>
+  </div>  
+        <div class="region-search">    <div class="l-constrain">
+      <div id="block-views-exp-search-results-search-pane" class="block  block-views-exp-search-results-search-pane block--views block--views--exp-search-results-search-pane">      <form action="/search" method="get" id="views-exposed-form-search-results-search-pane" accept-charset="UTF-8">      <div id="edit-search-api-views-fulltext-wrapper" class="views-widget views-widget--filter-search_api_views_fulltext">
+                  <input placeholder="Search by county, state, or topic" type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" class="form-text form-autocomplete live-results-search-textfield" /><input type="hidden" id="edit-search-api-views-fulltext-autocomplete" value="http://www.countyhealthrankings.org/search_api_live_results/search_api_views_search_results" disabled="disabled" class="live-result-autocomplete" />          </div>
+          <div class="views-widget views-widget--submit">
+    <input type="submit" id="edit-submit-search-results" name="" value="Search" class="button button--submit">  </div>
+  </form>  </div>    </div>
+  </div>  
+  
+  
+        <div class="region-breadcrumb-region">    <div class="l-constrain">
+      <div id="block-blockify-blockify-breadcrumb" class="block  block-blockify-blockify-breadcrumb block--blockify block--blockify-blockify-breadcrumb">      <nav class="breadcrumb" role="navigation"><h2 class="breadcrumb__title">You are here</h2><ol class="breadcrumb__list"><li class="breadcrumb__item"><a href="/">Home</a></li><li class="breadcrumb__item"><a href="/explore-health-rankings">Explore Health Rankings</a></li><li class="breadcrumb__item"><a href="/explore-health-rankings/what-and-why-we-rank">What and Why We Rank</a></li><li class="breadcrumb__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors">Health Factors</a></li><li class="breadcrumb__item"><span title="" class="nolink">Health Behaviors</span></li><li class="breadcrumb__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-and-exercise">Diet &amp; Exercise</a></li></ol></nav>  </div><div id="block-addthis-addthis-block" class="block  block-addthis-addthis-block block--addthis block--addthis-addthis-block">      <div class="addthis_toolbox addthis_default_style  "><a href="http://www.addthis.com/bookmark.php?v=300" class="addthis_button_print"></a>
+<a href="http://www.addthis.com/bookmark.php?v=300" class="addthis_button_email"></a>
+<a href="http://www.addthis.com/bookmark.php?v=300" class="addthis_button_facebook"></a>
+<a href="http://www.addthis.com/bookmark.php?v=300" class="addthis_button_twitter"></a>
+<a href="http://www.addthis.com/bookmark.php?v=300" class="addthis_button_google_plusone_share"></a>
+</div>
+  </div>    </div>
+  </div>  
+      <main id="main" class="main" role="main" tabindex="-1">
+      <div class="l-left-content-two-column">
+  <div class="l-constrain">
+    <div class="l-left-content-two-column__wrapper">
+      <aside class="l-left-content-two-column__sidebar-left">          <div class="pane pane--main-menu">
+
+    
+            
+    <div class="pane__content">
+      <ul class="nav nav--main-menu nav--menu-block-ctools-main-menu-1 has-parent-mlid-1385 is-level-2">
+  <li class="nav__item nav__item--first is-expanded is-active-trail has-children has-subnav"><span title="" class="nav__link is-active-trail nolink">Health Behaviors</span><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/alcohol-and-drug-use" class="nav__link">Alcohol &amp; Drug Use</a></li>
+<li class="nav__item is-expanded is-active-trail has-children has-subnav"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-and-exercise" class="nav__link is-active-trail">Diet &amp; Exercise</a><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-active-trail is-active"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/adult-obesity" class="nav__link is-active-trail is-active">Adult obesity</a></li>
+<li class="nav__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/food-environment-index" class="nav__link">Food environment index</a></li>
+<li class="nav__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/physical-inactivity" class="nav__link">Physical inactivity</a></li>
+<li class="nav__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/access-to-exercise-opportunities" class="nav__link">Access to exercise opportunities</a></li>
+<li class="nav__item"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/food-insecurity" class="nav__link">Food insecurity*</a></li>
+<li class="nav__item nav__item--last"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/limited-access-to-healthy-foods" class="nav__link">Limited access to healthy foods*</a></li>
+</ul></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/sexual-activity" class="nav__link">Sexual Activity</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/tobacco-use" class="nav__link">Tobacco Use</a></li>
+<li class="nav__item nav__item--last"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/insufficient-sleep" class="nav__link">Other</a></li>
+</ul></li>
+<li class="nav__item is-expanded has-children has-subnav"><span title="" class="nav__link nolink">Clinical Care</span><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/clinical-care/access-care" class="nav__link">Access to Care</a></li>
+<li class="nav__item nav__item--last is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/clinical-care/quality-care" class="nav__link">Quality of Care</a></li>
+</ul></li>
+<li class="nav__item is-expanded has-children has-subnav"><span title="" class="nav__link nolink">Social and Economic Factors</span><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/community" class="nav__link">Community Safety</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/education" class="nav__link">Education</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/employment" class="nav__link">Employment</a></li>
+<li class="nav__item is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/family-and" class="nav__link">Family &amp; Social Support</a></li>
+<li class="nav__item nav__item--last is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/social-and-economic-factors/income" class="nav__link">Income</a></li>
+</ul></li>
+<li class="nav__item nav__item--last is-expanded has-children has-subnav"><span title="" class="nav__link nolink">Physical Environment</span><ul class="nav nav--subnav"><li class="nav__item nav__item--first is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/physical-environment/air-and-water" class="nav__link">Air &amp; Water Quality</a></li>
+<li class="nav__item nav__item--last is-collapsed has-children"><a href="/explore-health-rankings/what-and-why-we-rank/health-factors/physical-environment/housing-and-transit" class="nav__link">Housing &amp; Transit</a></li>
+</ul></li>
+</ul>
+    </div>
+
+    
+    
+    
+  </div>
+  <div class="pane-1 pane pane--custom">
+
+    
+            
+    <div class="pane__content">
+      <p><span style="color:#919191;">*Non-Ranked Measure</span></p>
+    </div>
+
+    
+    
+    
+  </div>
+      </aside>      <div class="l-left-content-two-column__content-wrapper">
+        <div class="l-left-content-two-column__content-wrapper-inner">
+          <div class="l-left-content-two-column__preface-wrapper">
+                                                  <div class="l-left-content-two-column__preface">                <div class="pane pane--node-title">
+
+    
+            
+    <div class="pane__content">
+      <h1>Adult obesity</h1>
+    </div>
+
+    
+    
+    
+  </div>
+  <div class="pane-node-field-measure-data-description pane pane--nodefield-measure-data-description">
+
+    
+            
+    <div class="pane__content">
+      <div class="field field--measure-data-description">
+    <div class="field__items">
+          <div class="field__item">
+        <p>Adult Obesity is the percentage of the adult population (age 20 and older) that reports a body mass index (BMI) greater than or equal to 30 kg/m<sup>2</sup>.</p>      </div>
+      </div>
+</div>
+    </div>
+
+    
+    
+    
+  </div>
+            </div>          </div>
+          <div class="l-left-content-two-column__main">              <div class="pane pane--node node node--display-mode-ranked-measure-tabs node--type-measure">
+
+    
+            
+    <div class="pane__content">
+      <div class="field-group-htabs-wrapper group-measure-tabs field-group-htabs"><h2 class="element-invisible">Measure Tabs</h2><div class="horizontal-tabs-panes"><fieldset class="group-measure-description field-group-htab fieldset--collapsible js-collapsible fieldset"><legend class="fieldset__legend"><span class="fieldset__legend-text">Description</span></legend><div class="fieldset__content"><div class="reason-for-ranking field field--measure-data-reason"><div class="field__label field__label--above reason-for-ranking">Reason for Ranking</div><p>Obesity is often the result of an overall energy imbalance due to poor diet and limited physical activity. Obesity increases the risk for health conditions such as coronary heart disease, type 2 diabetes, cancer, hypertension, dyslipidemia, stroke, liver and gallbladder disease, sleep apnea and respiratory problems, osteoarthritis, and poor health status.[1,2]</p></div><div class="measurement-strengths field field--measure-data-strengths"><div class="field__label field__label--above">Measurement Strengths and Limitations</div><p>When comparing estimates of obesity, physical inactivity and diabetes included in this year's release with prior releases, caution should be used due to changes in the BRFSS methodology. More information can be found here: <a href="http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html">http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html</a>.</p><p>Caution should be used when comparing these estimates across state lines, particularly when comparing bordering states. The model used to create these estimates includes a state-level factor that limits comparability between neighboring counties of adjacent states.</p><p>The BRFSS measures of weight and BMI have very high reliability (repeatability) scores.[3] The self-reported weight and BMI measure data are also representative across different subsets of the population. Although the reliability and validity of the BRFSS measures of weight and BMI are high, an analysis found that BRFSS data generally underestimate the obese population compared with studies that directly measure height and weight.[4]</p><p>Another limitation is that the Rankings use obesity rates as a proxy measure for healthiness of food consumption and exercise participation. Obesity is a complex measure that is affected through several different pathways: genetics, metabolic processes, education, built environment, behavioral choices, socioeconomic status and education.[1] The final limitation of the data is that they do not include data on childhood obesity. These additional data would provide a more comprehensive measure of the current and future health risks of a county.</p></div></div></fieldset>
+<fieldset class="group-measure-tabs-datasource field-group-htab fieldset--collapsible js-collapsible is-collapsed fieldset"><legend class="fieldset__legend"><span class="fieldset__legend-text">Data Source</span></legend><div class="fieldset__content"><div class="data-source field field--measure-data-source"><h2 class="datasource-years-title">Years of Data Used</h2><p>2014</p>
+<h2 class="datasource-system-title">CDC Diabetes Interactive Atlas</h2><p>The National Diabetes Surveillance System provides county-level estimates of obesity, physical inactivity, and diabetes using three years of data from CDC's Behavioral Risk Factor Surveillance System (BRFSS) and data from the U.S. Census Bureau&rsquo;s Population Estimates Program. The county-level estimates are based on indirect model-dependent estimates. Bayesian multilevel modeling techniques are used to obtain estimates.</p></div><div class="field__label field__label--above">Digging Deeper</div><p><a id="DiggingDeeper" name="DiggingDeeper"></a>There are several methods to try to get more specific data than the county-level. For larger counties, you can access county- or MSA-specific data from the CDC at <a href="http://www.cdc.gov/brfss/smart/smart_data.htm" target="_blank">http://www.cdc.gov/brfss/smart/smart_data.htm</a>. However, using this data requires somewhat advanced analytic capabilities. In many states, you can access county level BRFSS estimates, and in some cases you can stratify those estimates by age, gender or race. You can find BRFSS resources for most states in our <a href="/using-the-rankings-data/finding-more-data">Finding More Data</a> section.</p>
+<div class="field field--data-source-urls">
+    <div class="field__items">
+          <div class="field__item">
+        <div class="download-url"><a href="http://www.cdc.gov/diabetes/atlas/countydata/County_ListofIndicators.html" external="1">Website to download data</a></div><div class="download-url"><a href="http://www.cdc.gov/diabetes/pdfs/data/calculating-methods-references-county-level-estimates-ranks.pdf" external="1">For more detailed methodological information</a></div>      </div>
+      </div>
+</div>
+</div></fieldset>
+<fieldset class="group-measure-tabs-references field-group-htab fieldset--collapsible js-collapsible is-collapsed fieldset"><legend class="fieldset__legend"><span class="fieldset__legend-text">References</span></legend><div class="fieldset__content"><div class="measure-references"><p>[1] Centers for Disease Control and Prevention. Overweight and obesity: Causes and consequences. Centers for Disease Control and Prevention Web Site. <a href="http://www.cdc.gov/obesity/adult/defining.html" target="_blank">http://www.cdc.gov/obesity/adult/defining.html</a>. Updated June 16, 2016. Accessed June 27, 2016.<br />[2] Mokdad AH, Ford ES, Bowman BA, et al. Prevalence of obesity, diabetes, and obesity-related health risk factors, 2001. JAMA.2003;289:76-79.<br />[3] Nelson DE, Holtzman D, Bolen J, Stanwyck CA, Mack KA. Reliability and validity of measures from the Behavioral Risk Factor Surveillance System (BRFSS). Soz Praventivmed. 2001;46:S3-S42.<br />[4] Stewart AL. The reliability and validity of self-reported weight and height. J Chronic Dis. 1982;25:295-309.</p></div></div></fieldset>
+</div></div>    </div>
+
+    
+    
+    
+  </div>
+          </div>          <aside class="l-left-content-two-column__sidebar-content">              <div class="pane pane--measure-state-navigation">
+
+    
+              <h4 class="pane__title">Explore the Data</h4>
+        
+    <div class="pane__content">
+      <form action="/explore-health-rankings/what-and-why-we-rank/health-factors/health-behaviors/diet-exercise/adult-obesity&amp;sa=U&amp;ved=0ahUKEwixpN_hp8XdAhWBD5AKHfcEBv04PBAWCCowBA&amp;usg=AOvVaw3U8zRKL58-Y_RQ6Bf61zpZ" method="post" id="measure-state-navigation-form" accept-charset="UTF-8"><div class="form-item form-item--select form-item--state-path">
+ <select id="measure-state-navigation-statelist" name="state_path" class="form-select"><option value="" selected="selected">Select a state</option><option value="alabama">Alabama</option><option value="alaska">Alaska</option><option value="arizona">Arizona</option><option value="arkansas">Arkansas</option><option value="california">California</option><option value="colorado">Colorado</option><option value="connecticut">Connecticut</option><option value="delaware">Delaware</option><option value="district-of-columbia">District of Columbia</option><option value="florida">Florida</option><option value="georgia">Georgia</option><option value="hawaii">Hawaii</option><option value="idaho">Idaho</option><option value="illinois">Illinois</option><option value="indiana">Indiana</option><option value="iowa">Iowa</option><option value="kansas">Kansas</option><option value="kentucky">Kentucky</option><option value="louisiana">Louisiana</option><option value="maine">Maine</option><option value="maryland">Maryland</option><option value="massachusetts">Massachusetts</option><option value="michigan">Michigan</option><option value="minnesota">Minnesota</option><option value="mississippi">Mississippi</option><option value="missouri">Missouri</option><option value="montana">Montana</option><option value="nebraska">Nebraska</option><option value="nevada">Nevada</option><option value="new-hampshire">New Hampshire</option><option value="new-jersey">New Jersey</option><option value="new-mexico">New Mexico</option><option value="new-york">New York</option><option value="north-carolina">North Carolina</option><option value="north-dakota">North Dakota</option><option value="ohio">Ohio</option><option value="oklahoma">Oklahoma</option><option value="oregon">Oregon</option><option value="pennsylvania">Pennsylvania</option><option value="rhode-island">Rhode Island</option><option value="south-carolina">South Carolina</option><option value="south-dakota">South Dakota</option><option value="tennessee">Tennessee</option><option value="texas">Texas</option><option value="utah">Utah</option><option value="vermont">Vermont</option><option value="virginia">Virginia</option><option value="washington">Washington</option><option value="west-virginia">West Virginia</option><option value="wisconsin">Wisconsin</option><option value="wyoming">Wyoming</option></select>
+</div>
+<input class="button--tertiary button button--submit is-disabled" disabled="disabled" type="submit" id="edit-submit" name="op" value="Go"><input type="hidden" name="form_build_id" value="form-sUEf4_DWZaJ83HZNVpjVGeUPPIIe96YelFl7A-8KMac" />
+<input type="hidden" name="form_id" value="chr_measure_measure_state_navigation_form" />
+</form>    </div>
+
+    
+    
+    
+  </div>
+  <div class="pane pane--measure-policies-panel-pane-2">
+
+    
+            
+    <div class="pane__content">
+      <div class="view view--measure-policies view--id-measure_policies view--display-id-panel_pane_2 view--simple-list view--dom-id-cebd141c1946cbe78c007aac83d834a9 view-measure-policies view-id-measure_policies view-display-id-panel_pane_2 view-dom-id-cebd141c1946cbe78c007aac83d834a9">
+  
+  
+  
+      <div class="view__header">
+      <h4>Policies &amp; Programs</h4>    </div>
+  
+  
+  
+      <div class="view__content view-content">
+      
+
+  <div class="view__row views-row views-row-1 views-row-odd views-row-first">      
+  <div class="views-field views-field-title">        <a href="/take-action-to-improve-health/what-works-for-health/policies/fruit-vegetable-incentive-programs">Fruit &amp; vegetable incentive programs</a>  </div>  </div>
+
+  <div class="view__row views-row views-row-2 views-row-even">      
+  <div class="views-field views-field-title">        <a href="/take-action-to-improve-health/what-works-for-health/policies/screen-time-interventions-for-children">Screen time interventions for children</a>  </div>  </div>
+
+  <div class="view__row views-row views-row-3 views-row-odd views-row-last">      
+  <div class="views-field views-field-title">        <a href="/take-action-to-improve-health/what-works-for-health/policies/exercise-prescriptions">Exercise prescriptions</a>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view__footer">
+      <a class="button button--tertiary" href="/policies?f%5B0%5D=field_program_health_factors%3A12058">View All</a>    </div>
+  
+  
+</div>
+    </div>
+
+    
+    
+    
+  </div>
+          </aside>        </div>
+                                </div>
+    </div>
+  </div>
+</div>
+    </main>
+  
+  
+  <footer class="footer" role="contentinfo">
+    <div class="region-footer-first">
+      <div class="l-constrain">
+        <div class="region-footer-first__inner">
+          <div class="region-footer-first__left">
+              <div id="block-boxes-footer-get-help" class="block block-boxes-simple  block-boxes-footer-get-help block--boxes block--boxes-footer-get-help">    <h2 class="block__title">Ready to take action, but not sure where to start?</h2>
+  <div id='boxes-box-footer_get_help' class='boxes-box'><div class="boxes-box-content"><a class="button" href="/contact">Contact Us</a></div></div>  </div>          </div>
+          <div class="region-footer-first__center">
+              <div id="block-boxes-footer-menu" class="block block-boxes-simple  block-boxes-footer-menu block--boxes block--boxes-footer-menu">      <div id='boxes-box-footer_menu' class='boxes-box'><div class="boxes-box-content"><ul><li><a href="/explore-health-rankings">Explore Health Rankings</a></li>
+	<li><a href="/take-action-to-improve-health">Take Action To Improve Health</a></li>
+	<li><a href="/learn-from-others">Learn From Others</a></li>
+	<li><a href="/what-is-health">What is Health?</a></li>
+	<li><a href="/about-us">About Us</a></li>
+	<li><a href="/news-events">News and Events</a></li>
+</ul><ul><li><a href="/explore-health-rankings/faq-page">FAQ</a></li>
+	<li><a href="/resources">Tools &amp; Resources</a></li>
+	<li><a href="/credits">Credits</a></li>
+	<li><a href="/privacy-policy">Privacy Policy</a></li>
+	<li><a href="/terms-use">Terms of Use</a></li>
+</ul></div></div>  </div>          </div>
+          <div class="region-footer-first__right">
+              <div id="block-boxes-stay-in-touch" class="block block-boxes-simple  block-boxes-stay-in-touch block--boxes block--boxes-stay-in-touch">    <h2 class="element-invisible block__title">Stay In Touch</h2>
+  <div id='boxes-box-stay_in_touch' class='boxes-box'><div class="boxes-box-content"><div class="subscription-information"><a class="button" href="/mailchimp/subscribe">Sign up for our emails</a></div>
+
+<div class="social-list social-list--inverted"><a class="social-list__link facebook" href="https://www.facebook.com/CountyHealthRankings">Facebook</a><a class="social-list__link twitter" href="https://twitter.com/CHRankings">Twitter</a><a class="social-list__link youtube" href="http://www.youtube.com/user/CountyHealthRankings">YouTube</a><a class="rss social-list__link" href="/rss.xml">RSS</a></div>
+</div></div>  </div>          </div>
+        </div>
+      </div>
+    </div>
+    <div class="region-footer-second">
+      <div class="l-constrain">
+        <div class="region-footer-second__inner">
+          <div class="region-footer-second__left">
+              <div id="block-boxes-footer-credits" class="block block-boxes-simple  block-boxes-footer-credits block--boxes block--boxes-footer-credits">      <div id='boxes-box-footer_credits' class='boxes-box'><div class="boxes-box-content"><a href="http://uwphi.pophealth.wisc.edu" target="_blank"><img alt="University of Wisconsin Population Health Institute" src="/sites/all/themes/gesso/images/logo-uwi.png" /></a>
+<a href="http://www.rwjf.org" target="_blank"><img alt="Robert Wood Johnson Foundation" src="/sites/all/themes/gesso/images/logo-rwjf.png" /></a>
+</div></div>  </div>          </div>
+          <div class="region-footer-second__right">
+              <div id="block-boxes-footer-copyright" class="block block-boxes-simple  block-boxes-footer-copyright block--boxes block--boxes-footer-copyright">      <div id='boxes-box-footer_copyright' class='boxes-box'><div class="boxes-box-content"><p>© 2018 County Health Rankings. All rights reserved.</p>
+</div></div>  </div>          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</div>
+        <div class="menu-minipanels menu-minipanel-1368"></div><div class="menu-minipanels menu-minipanel-4496"></div><div class="menu-minipanels menu-minipanel-3713"></div>  <script>
+var addthis_config = {"pubid":"ra-513a16c669ef1fb8","services_compact":"email,facebook_like,google_plusone,print,twitter,more","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"}
+var addthis_share = {"templates":{"twitter":"{{title}} via @CHRankings"}}
+</script>
+<script src="http://www.countyhealthrankings.org/sites/default/files/js/js_33BaXx14mLWwIKRLHiDD1YUISrtmHDN9BKx9c77CeZ0.js"></script>
+  </body>
+
+</html>

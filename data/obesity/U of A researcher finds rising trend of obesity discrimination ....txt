@@ -1,0 +1,2593 @@
+<!DOCTYPE html>
+<!--[if IE 6]><html class="is_ie6 is_ie" lang="en"><![endif]-->
+<!--[if IE 7]><html class="is_ie7 is_ie" lang="en"><![endif]-->
+<!--[if IE 8]><html class="is_ie8 is_ie" lang="en"><![endif]-->
+<!--[if IE 9]><html class="is_ie9 is_ie enhanced" lang="en"><![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8) | !(IE 9) ]><!--><html lang="en" class="enhanced"  itemscope  itemtype="http://schema.org/NewsArticle" ><!--<![endif]-->
+<head>
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    <meta charset="UTF-8" />
+    <meta name="theme-color" content="#133F6F" />
+		<link rel="manifest" href="/manifest.json">
+		<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+		<script src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/js/min/one-signal.min.js?v=1.0.0" async=""></script>
+			<script src="/ads.js?v=1.0.0"></script>
+
+							<link rel="amphtml" href="https://globalnews.ca/news/4453585/u-of-a-researcher-finds-rising-trend-of-obesity-discrimination/amp/">
+					
+		<script>
+		var gnca_omniture_config_params = {"trackingDomain":"metrics.corus.ca","StrackingDomain":"smetrics.corus.ca","accounts":"corus-tv-globalnews"};
+	</script>
+		
+	
+
+    <meta id="metaViewport" name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="https://plus.google.com/+GlobalnewsCaHeadlines" rel="publisher"/>
+    <title>U of A researcher finds rising trend of obesity discrimination  | Globalnews.ca</title>
+			<meta name="title" content="U of A researcher finds rising trend of obesity discrimination  | Globalnews.ca"  itemprop="headline" />
+		<script type="application/ld+json">
+		{"@context":"http:\/\/schema.org","@type":"WebPage","name":"U of A researcher finds rising trend of obesity discrimination","url":"http:\/\/globalnews.ca\/news\/4453585\/u-of-a-researcher-finds-rising-trend-of-obesity-discrimination\/","speakable":{"@type":"SpeakableSpecification","cssSelector":[".gn-speakable-title",".gn-speakable-description p:first-of-type"]}}	</script>
+	<meta name="medium" content="news" itemprop="genre" />
+<link href="https://globalnews.ca/news/4453585/u-of-a-researcher-finds-rising-trend-of-obesity-discrimination/" rel="canonical"/>
+<meta content="2018-09-15T14:56" itemprop="datePublished" name="pubdate"/>
+<meta content="2018-09-15T14:56" name="dateCreated"/>
+<meta content="2018-09-15T14:56" property="article:published_time"/>
+<meta content="2018-09-15T14:57" itemprop="dateModified"/>
+		
+		<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+			<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+				<meta itemprop="url" content="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/logo-amp.png?v=2">
+				<meta itemprop="width" content="107">
+				<meta itemprop="height" content="60">
+			</div>
+			<meta itemprop="name" content="Global News">
+		</div>
+		
+		<meta content="2018-09-15T14:57" property="article:modified_time"/>
+<meta property="article:publisher" content="https://www.facebook.com/630CHED/"/>
+<meta content="630CHED" itemprop="sourceOrganization" name="source"/>
+<meta property="article:section" content="Health"/>
+<meta content="Health" itemprop="articleSection" />
+<meta content="Adam Brilz" itemprop="author"/><meta property="article:author" content="https://www.facebook.com/630CHED/"/>
+<meta property="og:see_also" content="https://globalnews.ca/news/4457020/university-of-alberta-study-household-cleaners-increased-weight-gain/" /><meta property="og:see_also" content="https://globalnews.ca/news/4418456/cosmo-cover-tess-holiday/" /><meta property="og:see_also" content="https://globalnews.ca/news/4426286/cosmo-editor-defends-tess-holliday/" />		<meta name="description" content="One University of Alberta researcher believes obesity discrimination is as common as racism."  itemprop="description" />
+			<meta name="keywords" content="Obesity, Discrimination, Obese, U Of A, weight loss, Health"  itemprop="keywords" />
+	<meta name="news_keywords" content="Obesity, Discrimination, Obese, U Of A, weight loss, Health">
+<meta property="article:tag" content="Obesity">
+<meta property="article:tag" content="Discrimination">
+<meta property="article:tag" content="Obese">
+<meta property="article:tag" content="U Of A">
+<meta property="article:tag" content="weight loss">
+<meta property="article:tag" content="Health">
+<meta property="fb:app_id" content="318812448281278"/>
+<meta name="thumbnail" content="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&strip=all&lb=720,405" itemprop="thumbnailUrl"/><meta itemprop="image" content="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&strip=all&lb=720,405"/>
+		<link type="image/jpg" rel="image_src" href="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&strip=all&lb=720,405"/>
+
+	
+<!-- og: starts here -->
+<meta property="og:title" content="U of A researcher finds rising trend of obesity discrimination"/>
+<meta property="og:description" content="One University of Alberta researcher believes obesity discrimination is as common as racism."/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://globalnews.ca/news/4453585/u-of-a-researcher-finds-rising-trend-of-obesity-discrimination/"/>
+<meta property="og:site_name" content="630CHED"/>
+<meta property="og:image" content="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&strip=all&lb=720,405"/>
+
+<!-- og: ends here -->
+
+<!-- twitter: starts here -->
+<meta name="twitter:title" content="U of A researcher finds rising trend of obesity discrimination"/>
+<meta name="twitter:url" content="https://globalnews.ca/news/4453585/u-of-a-researcher-finds-rising-trend-of-obesity-discrimination/"/>
+<meta name="twitter:description" content="One University of Alberta researcher believes obesity discrimination is as common as racism."/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@630ched"/>
+<meta name="twitter:image" content="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&strip=all&lb=720,405"/>
+
+<!-- twitter: ends here -->
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://globalnews.ca/xmlrpc.php">
+    		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=globalnews.ca&amp;id=43869434&amp;t=1537299960&amp;back=https%3A%2F%2Fglobalnews.ca%2Fnews%2F4453585%2Fu-of-a-researcher-finds-rising-trend-of-obesity-discrimination%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//platform.twitter.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//f1-na.readspeaker.com' />
+<link rel='dns-prefetch' href='//shawglobalnews.wordpress.com' />
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1532082729h&ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s2.wp.com/_static/??-eJx9j90OgjAMhV/IOTX+xAvjs2yjgcI6Flscj2/RQEw03Cxn7XdOW1uyCX0SSGJpMDkONSa2ETtg24JkFzrz/m0D88b+x0P/AK1TdjIRBBU6iECKrdkKVjWI2nnWRmBctVA+z4Mm2eh6q5uVrLTxPj+A2ehLOJCRRnf79X3K9onZcuOKqWPvXUxQ2GIKcai0OQdLARDnI3zJJXChp8sqxw3qCN4Spl+k1QDtd74fFzFRd7rtT4fj5XzdHU7tCyiknu4=?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='screen-css-1-1' href='https://s2.wp.com/_static/??-eJytlU1uhDAMhS/UgPo3nU3VRS/QK5hgwJ3EjhJnEHP6RozUTVeVWSAkiD89Pdsv/ZqcF1Zk7XXBiKW/UurLAqubgwwQGNfS+9IeYQ/as+QIgW7YBRq6SNy1nw/9vzlTO106CMHAGKCQNzLuX61KAmxS1QhJ5LVmnKhRbOZGKFYxEbkaEdTeVmMnEcVshHjIUguGVhaj8FE0RShmbUUlby7KWANa/Y4w414DxGZhxKFRXFHyl81daUQxEjUjj8Sz1bHUxkoyjtb0yAgXu5w2UKh0AyXzZIlODkbryuhKat+ZqeW8VUmSVm5DLNIO+Yxo9faIAf7d/CNgO+OrXRzmVtU0guKnVLa3vYgnsDbtHkRZVuv81LK4QjPXZN1174jdnrVGUoaRrK3fGe6Qq+2OguiGDEeEqzSXSNGxKE3k/6TaR3x/fH1+ezq/nM6n7x8zdNwV?cssminify=yes' type='text/css' media='screen' />
+<link rel='stylesheet' id='screenandmin-width36em-css-2-1' href='https://s0.wp.com/_static/??-eJyt0UEOgjAQBdALCSMGMS6MJ/AQhY5Q7cyQzmCDp5etS1MXf/WTl598yHM1CBuygU1IqPAKM+jkcjVG6V1kzAqDbhEenAE5tToHjzUFrrdiBz8b0a2yFCuEvJQadxHDVKqoSVpv4peIpZQlZB94LJ40C6sk9KVQn9A9/zCIhNHC21kQLn8tkX4hV7o0x0PTtafzvnt8AFhkEVE=?cssminify=yes' type='text/css' media='screen and (min-width:36em)' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-normalize-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/normalize.lib.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-fonts-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/fonts.all.ie.css?m=1499368331h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-basic-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/basic.all.ie.css?m=1511475036h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-globals-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/globals.all.ie.css?m=1526050786h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-layout-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/layout.all.ie.css?m=1537284686h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-picturefill-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/picturefill.lib.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-mast-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/mast.all.ie.css?m=1522072041h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-menu-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/menu.all.ie.css?m=1505142288h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-icons-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/icons.all.ie.css?m=1520447655h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-footer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/footer.all.ie.css?m=1511458363h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-carousel-common-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/carousel-common.all.ie.css?m=1501797629h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-carousel-teaser-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/carousel-teaser.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-story-module-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/story-module.all.ie.css?m=1536763156h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-image-container-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/image-container.all.ie.css?m=1536851197h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-inline-sticky-video-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/inline-sticky-video.all.ie.css?m=1531840464h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-trending-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/trending.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-sponsored-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/sponsored.all.ie.css?m=1502831730h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-breaking-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/breaking.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-monetization-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/monetization.all.ie.css?m=1524747849h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-otf-ads-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/otf-ads.all.ie.css?m=1529521386h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-twitter-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/twitter.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-forms-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/forms.all.ie.css?m=1532707072h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-poll-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/poll.all.ie.css?m=1518542195h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-homescreen-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/homescreen.all.ie.css?m=1417555925h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-video-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/video.all.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-carousel-video-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/carousel-video.all.ie.css?m=1533661884h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-videoPlayer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/videoPlayer.all.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-updateCounter-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/updateCounter.all.ie.css?m=1525104548h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-social-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/social.all.ie.css?m=1523979864h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-image-row-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/image-row.all.ie.css?m=1521573321h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-push-signup-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/push-signup.all.ie.css?m=1535028985h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-bc-in-story-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/bc-in-story.all.ie.css?m=1521643560h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-radio-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/radio.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-radio-footer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/radio-footer.all.ie.css?m=1519940659h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-radio-am-branding-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/radio-am-branding.all.ie.css?m=1525787395h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-on-site-notification-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/on-site-notification.all.ie.css?m=1535033388h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-mast-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/mast.wide.ie.css?m=1504624217h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-layout-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/layout.wide.ie.css?m=1461610567h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-menu-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/menu.wide.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-footer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/footer.wide.ie.css?m=1505142288h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-storyModule-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/storyModule.wide.ie.css?m=1521647906h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-trending-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/trending.wide.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-sponsored-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/sponsored.wide.ie.css?m=1389020413h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-breaking-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/breaking.wide.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-monetization-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/monetization.wide.ie.css?m=1447193443h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-forms-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/forms.wide.ie.css?m=1506522868h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='gnca-fontawesome-lib-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='screen-css-97-1' href='https://s2.wp.com/_static/??-eJyt0rEOwjAMBNAfIg0UocKAWBjhI5xgGiM3iWLTCr6ejMyE4bbTG05nl2x8iopRrQacUOxM2UqAxYycHHDERayXmhQ9qIWi5BnPqEDcAXM3UexqYWV/ta6QGyEPJT0F2YzVwfJq5MQXco7xQjM2UlwJx2lsZBRaBQZFURMQbkwRpXWizKSZfMfkGph7bRuhN5b/XMkEGgPX6Ld3mo6b3Xbo98O6Pzw+MOwbtA==?cssminify=yes' type='text/css' media='screen' />
+<link rel='stylesheet' id='screenandmin-width36em-css-98-1' href='https://s1.wp.com/_static/??-eJylzDsOhDAMANELQcxHiKVANLQcwmQtMEqciFjk+tBuuxTTjR7kWNogSqKgO3lKcHGEtGMuNxdWdEI5gU1PQSwq4KlsHc2kyM5k/pLxLOY5CvgXWzC+lRS3H2LyY921ffPpq2Y4bpVfVWE=?cssminify=yes' type='text/css' media='screen and (min-width:36em)' />
+<link rel='stylesheet' id='print-css-99-1' href='https://s1.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/print-article.all.min.css?m=1500562933h&cssminify=yes' type='text/css' media='print' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-articleDetail-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/articleDetail.all.ie.css?m=1537287029h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-articleMap-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/articleMap.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-carousel-gallery-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/carousel-gallery.all.ie.css?m=1537287029h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-scribbleLive-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/scribbleLive.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-liveblog-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/liveblog.all.ie.css?m=1521492596h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-tag-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/tag.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-latest-headlines-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/latest-headlines.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-splitpic-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/splitpic.lib.ie.css?m=1427749187h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-font-sizer-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/font-sizer.all.ie.css?m=1443193312h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-article-highlight-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/article-highlight.all.ie.css?m=1446214269h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-articleDetail-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/articleDetail.wide.ie.css?m=1537287029h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-articleMap-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/articleMap.wide.ie.css?m=1385049069h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-36em-tag-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/tag.wide.ie.css?m=1391005995h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-print-article-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/print-article.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='print' />
+<![endif]-->
+<link rel='stylesheet' id='screen-css-128-1' href='https://s0.wp.com/_static/??-eJylkjsOAjEMRC9ENrAIAQXiLE5i7Rqcj2KzEbcnlJQohRt79DSasW3F+JwUk1pdMaLYjYqVFZpZODvghE2slz45eVAr7+gyC+rE5KZIaerHnf2bE0HU9OUEzAMYzcWI5kooJubwYhwEeoVBAgbqhsQU8k8ZZAkFdFBHKdytDDIaQhdW0ygsvfzB1igiUxrtSrfvB/Wka14qxJ+w7/F2OB3P8+W8n6+PD8boFwg=?cssminify=yes' type='text/css' media='screen' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-symbolset-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/symbolset.lib.ie.css?m=1484859383h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-mast-new-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/mast-new.all.ie.css?m=1536098027h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-top-stories-module-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/top-stories-module.all.ie.css?m=1537287029h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-cta-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/cta.all.ie.css?m=1477417039h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-editors-picks-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/editors-picks.all.ie.css?m=1503585558h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-sidebar-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/sidebar.all.ie.css?m=1517934794h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-slick-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/slick.all.ie.css?m=1444074517h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-weather-widget-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/weather-widget.all.ie.css?m=1531332805h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-timeline-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/timeline.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-tv-news-programs-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/tv-news-programs.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='screen-css-148-1' href='https://s1.wp.com/_static/??-eJytzEsOwjAMRdENkbpQFYkBYi0mfWqCnI9it9k+HTIGBnd2dahX50s2ZCMLSFDaYyUN3N0q5cmS0ZW8HpXs2UjBzQcXwAvawCJDink4hhN9a/W4rLD/WA26iemPGG9WfElVYPikHul+nsdxvl5u0/R6A0f1dgQ=?cssminify=yes' type='text/css' media='screen' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-search-header-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/search-header.all.ie.css?m=1425412221h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-search-widget-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/search-widget.all.ie.css?m=1500562933h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-search-results-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/search-results.all.ie.css?m=1426694712h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='gnca-IE8-autocomplete-css'  href='https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/css/concat/autocomplete.all.ie.css?m=1425412221h&#038;ver=1' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-157-1' href='https://s1.wp.com/_static/??-eJx9jFEKwkAMRC/kGlYL6od4lu0a00i6KU1Kr9+VIlgU/+YxbwbmIWQtjsWhn8IgE3ExmPlO6AammZMErsoW9tlsBwxFfS3fYS1+vxJqEM3JWcsGwkMSj/+mI7aiVCNBtT7wa+Qd9mjQNUCibZKXcOuvsbmcDucYj/G5ADITWkE=?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcom_geo_settings = {"geolocation_endpoint":"https:\/\/public-api.wordpress.com\/geo\/","locations":["gnca-national","gnca-barrie","gnca-bc","gnca-calgary","gnca-durham","gnca-guelph","gnca-edmonton","gnca-halifax","gnca-hamilton","gnca-kingston","gnca-kitchener","gnca-lethbridge","gnca-london","gnca-montreal","gnca-new-brunswick","gnca-okanagan","gnca-ottawa","gnca-peterborough","gnca-regina","gnca-saskatoon","gnca-toronto","gnca-winnipeg","gnca-national"],"default_location":"gnca-national","cookie_name":"_wpcom_geo","expiry_date":"Tue, 25 Sep 2018 19:46:00 UTC","expiry_time":"604800"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_sticky_ad_settings = {"stick_on_demand":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gncaGetInTouch = {"ajaxurl":"https:\/\/shawglobalnews.wordpress.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_sticky_video_settings = {"enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_inline_video_settings = {"muted_autoplay":"1","mobile_muted_autoplay":"1","slimcut_url":"https:\/\/static.freeskreen.com\/ba\/31\/freeskreen.min.js"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_ad_settings = {"amazon_bidding_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gncaPageVars = {"queryType":"single","post_id":"4453585","enable_lazy_load_ads":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyll2tu2zAMgC801W2XAuuPYUcpaIm2mUiiJ8l2k9OPSpMBwYIOpZAASWTyE0XxlW6bDUXrF4e528v794LpePl42Odv3WcCJtCYoOBDoHgVthwLxlJlA/fk0SwZE4yyJqCB78jNnEvAnEXoztNbkyiuhNt/xfZYZrAHkzDT6R9qmVD261aau9kvI8UsTy0HMyKbJZIwzof9u/gJIE+wmdFzDz7idlb7soKnvhMXdmO0YJZCPt/z6BcYGxQ7YWqkQLQTp2ZMLmQPRwNOz8leEHr1S7Ra5gPdDdbPMRXhOAhNbwJxNmwniCOagd51Rkg0Bo463YQjcTRyo5w1V1oZKzlJkNnDUUsIkItOMyMkOzWGooXEUo58a0SzJWiAiActglsxFcqiEBU+ubIcFpCCYWb2x4F8g1WBHaZIp4Z8D7XuBHQEDc4hW5aEurNUAIhXrfQdD732pgnzROvXt67R8ZbfrHhSZ/shLe9mQj9rE4zLIJVW0T/O5mPt0abwYiezkZPfSlDNkrJRKZg+cA0c2IOiXt5rQef61Yii6CniB0pbCW+A8oWaaurEImAT4k1nuDO0LdThMKBtuVRPK0qAgqteaBhTEswToDfP5sk8t2NOLIPao7x2yprhpDf4lrkLApykv/bkHMWxKYeDDF11JtZm8fmeWI5UQS0JDOP5qjG1WBKh1JhRF6UEjtgMzKVl6DCy0KCdl4bZb0MQwdRUUQv0Sv9ddldum2AYyCqV1+p1GU0Sy9/E0JJcg3pmzlKoe7ge/1f4+fTyffe6e3n98bj/A3nOm8s='></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rsConf = {"settings":{"hlicon":"iconoff","hltext":"#fff","hlsent":"#133E6E","hlword":"#045999","enlarge":"enlargeon"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://f1-na.readspeaker.com/script/8024/ReadSpeaker.js?pids=embhl&#038;ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_story_processor_setting = {"frequency":"200"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydj8EOgjAQRH/IskCC8WK8+CNtXcuS0q3dhUa/XkLi3XCemZc3ULPxnBSTgo44o8BKGWS01YTIzsaEVWASmClBSN4aUS5vkwt7FOHSbEEzyQn+JkVyO80uykIfNPQsdusfJ4kv5FzESCuaSo+Aehy2n/Q2K3E64LT7jFzvJK/lt7/N127oz+3QXvpu+gITeosV'></script>
+<link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&cssminify=yes' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://shawglobalnews.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="http://globalnews.ca/news/4453585/u-of-a-researcher-finds-rising-trend-of-obesity-discrimination/" />
+<link rel='shortlink' href='https://wp.me/p2Y4rw-iGA1' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fglobalnews.ca%2Fnews%2F4453585%2Fu-of-a-researcher-finds-rising-trend-of-obesity-discrimination%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fglobalnews.ca%2Fnews%2F4453585%2Fu-of-a-researcher-finds-rising-trend-of-obesity-discrimination%2F&amp;for=wpcom-auto-discovery" /><link rel="shortcut icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/134ef81f5668dc78080f6bd19ca2310b?s=32" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="https://secure.gravatar.com/blavatar/134ef81f5668dc78080f6bd19ca2310b?s=32" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="https://secure.gravatar.com/blavatar/134ef81f5668dc78080f6bd19ca2310b?s=114" />
+<link rel='openid.server' href='https://shawglobalnews.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://shawglobalnews.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://globalnews.ca/osd.xml" title="Global News" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<link rel="alternate" type="application/rss+xml" title="Global News U of A researcher finds rising trend of obesity discrimination Feed" href="https://globalnews.ca/news/4453585/u-of-a-researcher-finds-rising-trend-of-obesity-discrimination/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Global News  Feed" href="https://globalnews.ca/feed/" />
+		
+		<script type='text/javascript'>
+			var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
+			(function() { var gads = document.createElement('script'); gads.async = true; gads.type = 'text/javascript'; var useSSL = 'https:' == document.location.protocol; gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; var node = document.getElementsByTagName('script')[0]; node.parentNode.insertBefore(gads, node); })();
+		</script>
+
+				<!-- District M Header Bid Script for globalnews.ca -->
+		<script type='text/javascript' async="async" src='//cdn.districtm.ca/merge/merge.v4.2.102885.js'></script>
+		<!-- End District M Header Bid Script -->	
+		
+		<script async src="//js-sec.indexww.com/ht/p/183422-173052907676579.js"></script>
+		
+			
+		
+		<script type='text/javascript'>
+			gnca_ad_slots = [];
+			gnca_late_ad_slots = [];
+			var adskip = false;
+			var mapping;
+			var adlocation = document.location.href.toLowerCase();
+			if ( adlocation.indexOf('?') > -1 ) {
+				adlocation = adlocation.split('?')[1];
+				if ( adlocation.indexOf('email=') >-1 || adlocation.indexOf('email-address=') > -1 ) {
+					adskip = true;
+				}
+			}
+
+			if ( !adskip ) {
+			googletag.cmd.push(function() {
+				var gptadpath = "\/6872\/shaw.globalnews.ca\/obesity\/4453585\/adambrilzyeg";
+				if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+					gNewsWP.Ads.setAdPath( gptadpath );
+				}
+gnca_ad_slots['div-gpt-gnca-ads-6872-72890-1'] = googletag.defineSlot(gptadpath, [728,90], 'div-gpt-gnca-ads-6872-72890-1').addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads6872728901 = {
+								'id': "div-gpt-gnca-ads-6872-72890-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-72890-1" ]
+							};
+																var divgptgncaads6872728901Mapping = googletag.sizeMapping()
+																			.addSize( [970,0], [[970,90],[728,90]] )
+																			.addSize( [728,0], [[728,90]] )
+																			.addSize( [0,0], [[320,100],[320,50]] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-72890-1" ].defineSizeMapping( divgptgncaads6872728901Mapping );
+									divgptgncaads6872728901['mapping'] = divgptgncaads6872728901Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads6872728901);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-300150-1'] = googletag.defineSlot(gptadpath, [300,150], 'div-gpt-gnca-ads-6872-300150-1').addService(googletag.pubads()).setTargeting("pos","1").setTargeting( "strnativekey","w3JqtE5R2zBzdkCVjBgA3YD9");
+							var divgptgncaads68723001501 = {
+								'id': "div-gpt-gnca-ads-6872-300150-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300150-1" ]
+							};
+														if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723001501);	
+							}
+							gnca_ad_slots['div-gpt-gnca-ads-6872-300150-2'] = googletag.defineSlot(gptadpath, [300,150], 'div-gpt-gnca-ads-6872-300150-2').addService(googletag.pubads()).setTargeting("pos","2").setTargeting( "strnativekey","w3JqtE5R2zBzdkCVjBgA3YD9");
+							var divgptgncaads68723001502 = {
+								'id': "div-gpt-gnca-ads-6872-300150-2",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300150-2" ]
+							};
+														if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723001502);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-300250-1'] = googletag.defineSlot(gptadpath, [[300,250],[300,600]], 'div-gpt-gnca-ads-6872-300250-1').addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads68723002501 = {
+								'id': "div-gpt-gnca-ads-6872-300250-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300250-1" ]
+							};
+																var divgptgncaads68723002501Mapping = googletag.sizeMapping()
+																			.addSize( [897,0], [[300,600],[300,250]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-300250-1" ].defineSizeMapping( divgptgncaads68723002501Mapping );
+									divgptgncaads68723002501['mapping'] = divgptgncaads68723002501Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723002501);	
+							}
+							gnca_ad_slots['div-gpt-gnca-ads-6872-300250-2'] = googletag.defineSlot(gptadpath, [300,250], 'div-gpt-gnca-ads-6872-300250-2').addService(googletag.pubads()).setTargeting("pos","2");
+							var divgptgncaads68723002502 = {
+								'id': "div-gpt-gnca-ads-6872-300250-2",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300250-2" ]
+							};
+														if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723002502);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-300100-1'] = googletag.defineSlot(gptadpath, [300,100], 'div-gpt-gnca-ads-6872-300100-1').addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads68723001001 = {
+								'id': "div-gpt-gnca-ads-6872-300100-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300100-1" ]
+							};
+																var divgptgncaads68723001001Mapping = googletag.sizeMapping()
+																			.addSize( [897,0], [[300,100]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-300100-1" ].defineSizeMapping( divgptgncaads68723001001Mapping );
+									divgptgncaads68723001001['mapping'] = divgptgncaads68723001001Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723001001);	
+							}
+							gnca_ad_slots['div-gpt-gnca-ads-6872-300100-2'] = googletag.defineSlot(gptadpath, [300,100], 'div-gpt-gnca-ads-6872-300100-2').addService(googletag.pubads()).setTargeting("pos","2");
+							var divgptgncaads68723001002 = {
+								'id': "div-gpt-gnca-ads-6872-300100-2",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-300100-2" ]
+							};
+																var divgptgncaads68723001002Mapping = googletag.sizeMapping()
+																			.addSize( [897,0], [[300,100]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-300100-2" ].defineSizeMapping( divgptgncaads68723001002Mapping );
+									divgptgncaads68723001002['mapping'] = divgptgncaads68723001002Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68723001002);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-30050-2'] = googletag.defineSlot(gptadpath, [300,50], 'div-gpt-gnca-ads-6872-30050-2').addService(googletag.pubads()).setTargeting("pos","2");
+							var divgptgncaads6872300502 = {
+								'id': "div-gpt-gnca-ads-6872-30050-2",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-30050-2" ]
+							};
+																var divgptgncaads6872300502Mapping = googletag.sizeMapping()
+																			.addSize( [897,0], [[300,50]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-30050-2" ].defineSizeMapping( divgptgncaads6872300502Mapping );
+									divgptgncaads6872300502['mapping'] = divgptgncaads6872300502Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads6872300502);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-140100-1'] = googletag.defineSlot(gptadpath, [140,100], 'div-gpt-gnca-ads-6872-140100-1').addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads68721401001 = {
+								'id': "div-gpt-gnca-ads-6872-140100-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-140100-1" ]
+							};
+														if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads68721401001);	
+							}
+							
+gnca_ad_slots['div-gpt-gnca-ads-6872-11-1'] = googletag.defineOutOfPageSlot(gptadpath, 'div-gpt-gnca-ads-6872-11-1').addService(googletag.companionAds()).addService(googletag.pubads()).setTargeting("pos","1");
+							var divgptgncaads6872111 = {
+								'id': "div-gpt-gnca-ads-6872-11-1",
+								'slot': gnca_ad_slots[ "div-gpt-gnca-ads-6872-11-1" ]
+							};
+																var divgptgncaads6872111Mapping = googletag.sizeMapping()
+																			.addSize( [1120,0], [[1,1]] )
+																			.addSize( [0,0], [] )
+																			.build();
+									gnca_ad_slots[ "div-gpt-gnca-ads-6872-11-1" ].defineSizeMapping( divgptgncaads6872111Mapping );
+									divgptgncaads6872111['mapping'] = divgptgncaads6872111Mapping;
+															if ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) {
+								gNewsWP.Ads.registerAd(divgptgncaads6872111);	
+							}
+							
+				
+				// Network targets
+				googletag.pubads().setTargeting("site","globalnews").setTargeting("network","shaw");
+
+				// Watson categorization data
+				if ( typeof( window.DFP_AI_channel ) !== 'undefined' && window.DFP_AI_channel ) {
+					googletag.pubads().setTargeting( 'AI_channel', window.DFP_AI_channel );	
+				}
+				if ( typeof( window.DFP_AI_section ) !== 'undefined' && window.DFP_AI_section ) {
+					googletag.pubads().setTargeting( 'AI_section', window.DFP_AI_section );
+				}
+
+				// Page targets
+				googletag.pubads().setTargeting("userregion","national").setTargeting("contentregion","national").setTargeting("page","4453585").setTargeting("template","single").setTargeting("category","health").setTargeting("tags",["weight-loss","obesity","u-of-a","discrimination","obese"]).setTargeting("radio",["630ched","inews880"]).setTargeting("weathertemp","27").setTargeting("weatherprec","0");
+								var adslot_vals = [];
+				var i = 0;
+				for(var key in gnca_ad_slots) {
+    				adslot_vals[i] = gnca_ad_slots[key];
+    				i++;
+				}
+
+				// Slot render ended listener
+				googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+					var divId = event.slot.getSlotElementId();
+					var adDiv = document.querySelector('#' + divId);
+					adDiv.classList.add('is-loaded');
+					adDiv.dataset.loadTime = (new Date()).getTime();
+					if ( event.isEmpty ) {
+						adDiv.classList.add('is-empty');
+					}
+					if ( typeof( GNCA_Watcher ) !== 'undefined' ) {
+						GNCA_Watcher.fireWindowEvent( 'adCompleted', { id: divId } );
+					}
+				});
+				
+				//Settings
+				googletag.pubads().collapseEmptyDivs();
+				googletag.companionAds().setRefreshUnfilledSlots(true);
+
+				// Batch SRA implemented
+				googletag.pubads().enableSingleRequest();
+				googletag.pubads().disableInitialLoad();
+				googletag.enableServices();
+							});	
+			}			
+		</script>
+		<script type="text/javascript">
+			function gnca_load_late_ads(){
+				var current_late_ads = [];
+				var current_late_idx = 0;
+				var gptadpath = "\/6872\/shaw.globalnews.ca\/obesity\/4453585\/adambrilzyeg";
+				jQuery(".gnca_late_ads").each(function(){
+					
+					var par_div = jQuery(this).parent();
+					if( par_div.attr('data-lateprocessed') == '1' ){
+						return;
+					}
+					var my_id = par_div.attr("id");
+					if ( !my_id ) { return; }					
+					
+					if ( my_id.indexOf('{pgno}') ) {
+						var bd_no = document.body.getAttribute( 'data-page-num' );
+						if(  bd_no && parseInt( bd_no ) > 1 && parseInt( bd_no ) < 7 ){
+							bd_no = parseInt( bd_no ) - 1;
+							my_id = my_id.replace( '{pgno}', bd_no );
+							par_div.attr( 'id', my_id );
+						} else { par_div.css( 'display', 'none' ); return; }
+					}
+
+					var posid = my_id.replace('-pos','|').split('|');
+					posid = posid[2];
+					if( ! gnca_late_ad_slots[my_id] ) {
+						gnca_late_ad_slots[my_id] = googletag.defineSlot(gptadpath, [300,250], my_id).addService(googletag.pubads()).setTargeting("pos",posid);	
+
+						if( typeof cygnus_index_start == 'function' ) {
+							cygnus_index_start();
+						}
+
+						googletag.display( my_id );
+					}
+															
+					current_late_ads[current_late_idx]   = gnca_late_ad_slots[my_id];
+					current_late_idx++;
+					par_div.attr('data-lateprocessed','1');
+				});
+				
+				googletag.pubads().refresh( current_late_ads );
+				
+			}
+			var gnca_ads_page_ad_targets = "userregion=national&lt;br/&gt;contentregion=national&lt;br/&gt;page=4453585&lt;br/&gt;template=single&lt;br/&gt;category%5B0%5D=health&lt;br/&gt;tags%5B0%5D=weight-loss&lt;br/&gt;tags%5B1%5D=obesity&lt;br/&gt;tags%5B2%5D=u-of-a&lt;br/&gt;tags%5B3%5D=discrimination&lt;br/&gt;tags%5B4%5D=obese&lt;br/&gt;radio%5B0%5D=630ched&lt;br/&gt;radio%5B1%5D=inews880&lt;br/&gt;weathertemp=27&lt;br/&gt;weatherprec=0";
+		</script>
+	<script>
+    // Load the APS JavaScript Library
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+    // Initialize the Library
+    apstag.init({
+         pubID: '3311',
+         adServer: 'googletag'
+    });
+
+    googletag.cmd.push(function() {
+    var biddingSlots = [];
+      var ads = ( typeof( gNewsWP ) !== 'undefined' && typeof( gNewsWP.Ads ) !== 'undefined' ) ? gNewsWP.Ads.getAds() : {};
+
+              var divgptgncaads6872728901Mapping = typeof( ads["div-gpt-gnca-ads-6872-72890-1"] ) !== 'undefined' ? ads["div-gpt-gnca-ads-6872-72890-1"].mapping : undefined;
+      biddingSlots.push({
+         slotID: "div-gpt-gnca-ads-6872-72890-1",
+         slotName: "\/6872\/shaw.globalnews.ca\/obesity\/4453585\/adambrilzyeg\/div-gpt-gnca-ads-6872-72890-1",
+           sizes: typeof( divgptgncaads6872728901Mapping ) !== 'undefined' ? GNCA_APS_Helper.parseSizeMappings( divgptgncaads6872728901Mapping ) : [[728,90],[970,90],[320,100],[320,50]]      });
+              var divgptgncaads68723002501Mapping = typeof( ads["div-gpt-gnca-ads-6872-300250-1"] ) !== 'undefined' ? ads["div-gpt-gnca-ads-6872-300250-1"].mapping : undefined;
+      biddingSlots.push({
+         slotID: "div-gpt-gnca-ads-6872-300250-1",
+         slotName: "\/6872\/shaw.globalnews.ca\/obesity\/4453585\/adambrilzyeg\/div-gpt-gnca-ads-6872-300250-1",
+           sizes: typeof( divgptgncaads68723002501Mapping ) !== 'undefined' ? GNCA_APS_Helper.parseSizeMappings( divgptgncaads68723002501Mapping ) : [[300,250],[300,600]]      });
+              var divgptgncaads68723002502Mapping = typeof( ads["div-gpt-gnca-ads-6872-300250-2"] ) !== 'undefined' ? ads["div-gpt-gnca-ads-6872-300250-2"].mapping : undefined;
+      biddingSlots.push({
+         slotID: "div-gpt-gnca-ads-6872-300250-2",
+         slotName: "\/6872\/shaw.globalnews.ca\/obesity\/4453585\/adambrilzyeg\/div-gpt-gnca-ads-6872-300250-2",
+           sizes: typeof( divgptgncaads68723002502Mapping ) !== 'undefined' ? GNCA_APS_Helper.parseSizeMappings( divgptgncaads68723002502Mapping ) : [300,250]      });
+      
+    apstag.fetchBids({
+      slots: biddingSlots, 
+      timeout: 700
+    }, function(bids) {
+      // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration 
+      googletag.cmd.push(function(){
+        apstag.setDisplayBids();
+          var adSlots = [];
+          for (var key in ads) {
+              adSlots.push( ads[key].slot );
+        }
+          googletag.pubads().refresh( adSlots );
+        });
+      });
+    });
+</script>
+			<style>
+				.sub-mast-radio {
+					border-bottom: 2px solid #DF070D;
+					background-color: #FFFFFF;
+				}
+			</style>
+							<style>
+				.sub-mast-radio .listen-live a:link, .sub-mast-radio .listen-live a:visited  {
+					color: #DF070D;
+				}
+				</style>
+						<style>
+
+				.sub-mast-radio .listen-live svg .circle {
+					fill: #DF070D;
+				}
+
+				.sub-mast-radio .listen-live svg .triangle {
+					fill: #FFFFFF;
+				}
+
+				.sub-mast-radio a:link, .sub-mast-radio a:visited  {
+					color: #444444;
+				}
+
+				.sub-mast-radio .top-row .social i {
+					color: #444444;
+				}
+
+				.sub-mast-radio .radio-menu-toggle span {
+					background-color: #DF070D;
+					color: #FFFFFF;
+				}
+
+				.sub-mast-radio .radio-menu-toggle.active {
+					background-color: #DF070D;
+				}
+				
+				.sub-mast-radio .radio-menu-toggle.active span {
+					background-color: #FFFFFF;
+					color: #DF070D;
+				}
+
+				.sub-mast-radio.sub-mast .sm-info ul {
+					background-color: #DF070D;
+				}
+
+				.sub-mast-radio.sub-mast .sm-info li a:hover {
+					background-color: #252525;
+				}
+
+				.sub-mast-radio.sub-mast .sm-info ul.social {
+					background-color: #252525;
+				}
+
+				.rotator.radio .rotator-slide h1 {
+					color: #DF070D;
+				}
+
+				.rotator.radio .rotator-slide h2 {
+					color: #444444;
+				}
+
+				.rotator.radio .ls-nav-prev:before, .rotator.radio .ls-nav-next:before {
+					color: #DF070D;
+				}
+
+				.tvnp-schedule-container.radio {
+					background: #DF070D;
+				}
+
+				.tvnp-schedule-container.radio .tvnp-schedule:nth-child(2) {
+					border-top: 1px solid #252525;
+				}
+
+				.radio-schedule .schedule-filter {
+					background-color: #DF070D;
+				}
+
+				.header-sponsored {
+					border-top: none;
+				}
+
+				@media (min-width: 769px) {
+					.sub-mast-radio.sub-mast .sm-more > a:after {
+						border-top: 5px solid #444444;
+					}
+					
+					.sub-mast-radio.sub-mast .sm-more ul {
+						background-color: #DF070D;
+					}
+
+					.sub-mast-radio.sub-mast .sm-more li a:hover {
+						background-color: #252525;
+					}
+				}
+
+				@media (min-width: 1120px) {
+					.tvnp-schedule-container.radio .tvnp-schedule:nth-child(2) {
+						border-top: none;
+						border-left: 1px solid #252525;
+					}
+				}
+
+				@media (min-width: 732px) and (max-width: 767px), (min-width: 1145px) {
+					.radio-schedule .show-listings .show-info {
+						border-bottom-color: #DF070D;
+					}
+				}
+			</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Global News" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://globalnews.ca/feed/;icon-uri=https://secure.gravatar.com/blavatar/134ef81f5668dc78080f6bd19ca2310b?s=16" />		<script type="text/javascript">
+			var _gaq = _gaq || [];
+						
+				if( document.referrer == "" ){
+					if( document.location.href.toLowerCase().indexOf('campaign_id=a100') > -1 ) {
+						_gaq.push( ['_setReferrerOverride', 'https://apple-news-article.apple.com/'] );						
+					}
+				}
+			
+						_gaq.push(['_setAccount', 'UA-37934458-1']);
+			_gaq.push(['_setDomainName', 'globalnews.ca']);
+			_gaq.push(['_setCustomVar', 1, 'UserRegion', 'national' , 1]);
+			_gaq.push(['_setCustomVar', 2, 'ContentRegion', 'national' , 3]);
+			_gaq.push(['_setCustomVar', 3, 'Credit' , '630CHED', 3 ]);_gaq.push(['_setCustomVar', 5, 'Title' , 'U of A researcher finds rising trend of obesity discrimination', 3 ]);_gaq.push(['_setCustomVar', 5, 'ID' , '4453585', 3 ]);_gaq.push(['_setCustomVar', 5, 'Category:Health' , '4453585', 3 ]);			
+										_gaq.push(['_trackPageview']);
+									
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<style type="text/css" id="syntaxhighlighteranchor"></style>
+
+	<!-- DNS prefetch -->
+	<link rel='dns-prefetch' href='//api.flyertown.ca' />
+	<link rel='dns-prefetch' href='//metrics.corus.ca' />
+	<link rel='dns-prefetch' href='//aip.context.corus.ca' />
+	<link rel='dns-prefetch' href='//i0.wp.com' />
+	<link rel='dns-prefetch' href='//i1.wp.com' />
+	<link rel='dns-prefetch' href='//i2.wp.com' />
+	<link rel='dns-prefetch' href='//s0.wp.com' />
+	<link rel='dns-prefetch' href='//s1.wp.com' />
+	<link rel='dns-prefetch' href='//s2.wp.com' />
+	<link rel='dns-prefetch' href='//www.facebook.com' />
+	<link rel='dns-prefetch' href='//cdn.krxd.net' />
+	<link rel='dns-prefetch' href='//beacon.krxd.net' />
+	<link rel='dns-prefetch' href='//widgets.outbrain.com' />
+	<link rel='dns-prefetch' href='//ping.chartbeat.net' />
+	
+	
+				<style type="text/css">
+			.gnca_do_not_show_on_me_4453585 {
+				display: none;
+			}
+		</style>
+	
+	<!-- FB link ownership meta tags -->
+	<meta property="fb:pages" content="114019975312443" />
+	<meta property="fb:pages" content="115413405149434" />
+	<meta property="fb:pages" content="156752041012592" />
+	<meta property="fb:pages" content="85920510328" />
+	<meta property="fb:pages" content="147876361920969" />
+	<meta property="fb:pages" content="135368173158417" />
+	<meta property="fb:pages" content="78585693009" />
+	<meta property="fb:pages" content="130968530253684" />
+	<meta property="fb:pages" content="209712602400859" />
+	<meta property="fb:pages" content="160347210655494" />
+	<meta property="fb:pages" content="104554073627" />
+	<meta property="fb:pages" content="130660530344466" />
+	<meta property="fb:pages" content="475237565520" />
+	<meta property="fb:pages" content="101827423245383" />
+	<meta property="fb:pages" content="10080840973" />
+	<meta property="fb:pages" content="115446208478014" />
+	<meta property="fb:pages" content="8475622807" />
+	<meta property="fb:pages" content="116588618370885" />
+	<meta property="fb:pages" content="7078490926" />
+	<meta property="fb:pages" content="63750601090" />
+	<meta property="fb:pages" content="17283404678" />
+	<meta property="fb:pages" content="122301577965124" />
+	<meta property="fb:pages" content="111515975551979" />
+	<meta property="fb:pages" content="125250400820441" />
+	<meta property="fb:pages" content="133713529984442" />
+	<meta property="fb:pages" content="429228375456" />
+	
+	<!-- FB link ownership meta tags for FM -->
+	<meta property="fb:pages" content="881072405358139" />
+	<meta property="fb:pages" content="12799224100" />
+	<meta property="fb:pages" content="257080087687534" />
+	<meta property="fb:pages" content="789314681157775" />
+	<meta property="fb:pages" content="112905142082887" />
+	<meta property="fb:pages" content="19003505092" />
+	<meta property="fb:pages" content="103411603025398" />
+	<meta property="fb:pages" content="525962767428911" />
+	<meta property="fb:pages" content="146507038705131" />
+	<meta property="fb:pages" content="182496758453639" />
+	<meta property="fb:pages" content="434208840045103" />
+	<meta property="fb:pages" content="1559293260991262" />
+	<meta property="fb:pages" content="880316541988529" />
+	<meta property="fb:pages" content="16751766462" />
+	<meta property="fb:pages" content="193313102322" />
+	<meta property="fb:pages" content="478019845595073" />
+	<meta property="fb:pages" content="1523209977908749" />
+	<meta property="fb:pages" content="863955850330486" />
+	<meta property="fb:pages" content="376802075093" />
+	<meta property="fb:pages" content="270951586402505" />
+	<meta property="fb:pages" content="296232292622" />
+	<meta property="fb:pages" content="222336294466387" />
+	<meta property="fb:pages" content="59903172026" />
+	<meta property="fb:pages" content="15041172220" />
+	<meta property="fb:pages" content="251425722777" />
+	<meta property="fb:pages" content="51570824279" />
+	<meta property="fb:pages" content="118387401802" />
+	<meta property="fb:pages" content="91251252807" />
+
+	
+	<!-- MOAT Analytics Code -->
+	<script>(function() { try{var a={l1:document.location.host.replace(/^www\./,""),l2:document.title||"Untitled",l3:"__page__",l4:"-",sa:"",sn:""},b=[],c;for(c in a)b.push(c+"="+encodeURIComponent(a[c]));b=b.join("&");(new Image).src="//d3elyky6ck2w00.cloudfront.net?a=4e06069f74504ba68f7fdece906ab9ba";var d=document.createElement("script");d.type="text/javascript";d.async=!0;var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(d,e);d.src="https://z.moatads.com/shaw307wLtn52/moatcontent.js#"+b}catch(f){try{var g="//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&ac=1&k="+encodeURIComponent(f)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();(new Image).src=g}catch(h){}};})();</script>
+	<!-- End of MOAT Analytics Code -->
+
+	
+		<!-- BEGIN Krux Control Tag for "GlobalNews" -->
+				<script src="https://aip.context.corus.ca/globalnews_ca_news_4453585_u_of_a_researcher_finds_rising_trend_of_obesity_discrimination.js"></script>
+			
+	
+<script class="kxct" data-id="KmBBKjN2" data-timing="async" data-version="3.0" type="text/javascript">
+	window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+	(function(){
+	var k = document.createElement('script'); k.type = 'text/javascript'; k.async = true;
+    k.src = (location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag/KmBBKjN2.js";
+    var tag=document.getElementsByTagName('script')[0];tag.parentNode.insertBefore(k,tag);
+	}());
+</script>
+
+		<!-- END Krux Controltag -->
+	
+	
+	
+	<script type="text/javascript">
+		var _sf_async_config          = {};
+		_sf_async_config.uid          = 51927;
+		_sf_async_config.domain       = 'globalnews.ca';
+		_sf_async_config.useCanonical = true;
+	</script>
+	<script src="//mab.chartbeat.com/js/chartbeat_mab.js"></script>
+		
+	
+	<script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
+</head>
+<body class="post-template-default single single-post postid-4453585 single-format-standard mp6 customizer-styles-applied gnca-national reskin-enabled highlander-enabled highlander-light" data-page-num="1">
+	
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=318812448281278&version=v2.9";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+	<script id="gnca-sponsored-most-popular" type="text/template">
+	<div class="story" id="{{template_id}}">
+		<article>
+			<a href="{{data.url}}" class="story-img-link">
+				<img width="150" height="84" src="{{data.image}}" class="story-img wp-post-image"/>
+			</a>
+			<h3 class="story-h">
+				<a href="{{data.url}}">{{data.title}}</a>
+			</h3>
+		</article> 
+		<div class="sponsor"> 
+				<span>Sponsored by</span>
+				<a href="{{data.url}}">
+					<img width="34" height="34" src="{{data.logo}}" class="story-img wp-post-image"/>
+				</a>
+		</div>
+		<br style="clear:both">
+	</div>
+</script>
+<script id="gnca-header-sponsored" type="text/template">
+	<div class="header-sponsored {{data.gradient}}" id="{{template_id}}" style="background-image: url({{data.background}}); ?>)">
+		<a href="{{data.url}}" target="{{data.target}}">
+			<span style="color:{{data.color}}" class="header-sponsored-text small">{{data.label}}</span>
+			<img src="{{data.logo}}" class="header-sponsored-logo"/>
+			<span style="color:{{data.color}}; width: calc(100% - {{data.width}}px);" class="header-sponsored-text large">
+				<span>{{data.label}}</span>
+			</span>
+			<img class="inline-pixel" src="{{data.impression}}" style="max-width: 1px; max-height: 1px;"/>
+		</a>	
+	</div>
+</script>	
+		<div class="contain">
+    	
+    	    		<div id="header-ad-wrapper" class="leaderboard-wrapper stickable-ad-wrapper">
+	<div class="leaderboard-container ad-container">
+		<div class="leaderboard-tab-wrapper">
+			<div class="ad-countdown"></div>
+			<div id="div-gpt-gnca-ads-6872-72890-1" class="leaderboard-big-main header-ad gnca-ad">
+					<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-72890-1");
+			      	});
+	</script>	
+			</div>
+			<div class="leaderboard-tab"></div>
+		</div>
+	</div>
+</div>
+
+ 
+		
+		
+<header class="mast" role="banner">
+	<nav role="navigation">
+		<ul class="primary clearfix">
+			<li class="logo top-item">
+				<a href="https://globalnews.ca">
+					<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" alt="Global">
+				</a>
+			</li>
+			<li class="mobile-toggles top-item">
+				<a href class="menu-toggle" data-toggle="menu">
+					<i class="menu-icon"></i>
+					<span>Menu</span>
+				</a><!-- Hack to fix inline-block space issue. http://css-tricks.com/fighting-the-space-between-inline-block-elements/
+			 --><a class="social-toggle" href="https://globalnews.ca/pages/twitter/">
+					<i class="ss-social-regular ss-twitter"></i>
+				</a><!--
+			 --><a class="social-toggle" href="https://globalnews.ca/pages/facebook/">
+					<i class="ss-social-regular ss-facebook"></i>
+				</a><!--
+			--><a href class="search-toggle" data-toggle="search">
+					<i class="ss-standard ss-search"></i>
+				</a>
+			</li>
+						<li class="regions top-item parent" data-toggle-open="menu">
+				<a href="https://globalnews.ca/national/">
+				<span>
+					<h3>National <i class="ss-standard ss-navigatedown"></i>
+						<span class="change-location"><i class="ss-standard ss-navigate"></i>Change Location</span>
+					</h3>
+					<p>Change Location</p>
+				</span>
+				</a>
+				<h3 class="change-location">Select Location<i class="ss-standard ss-delete"></i></h3>
+				<ul id="regions-menu" class="child"><li id="menu-item-4149994" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4149994"><a href="https://globalnews.ca/barrie/">Barrie</a></li>
+<li id="menu-item-1560848" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560848"><a href="https://globalnews.ca/bc/">BC</a></li>
+<li id="menu-item-1560878" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560878"><a href="https://globalnews.ca/calgary/">Calgary</a></li>
+<li id="menu-item-3619455" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-3619455"><a href="https://globalnews.ca/durham/">Durham</a></li>
+<li id="menu-item-1560880" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560880"><a href="https://globalnews.ca/edmonton/">Edmonton</a></li>
+<li id="menu-item-3752539" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-3752539"><a href="https://globalnews.ca/guelph/">Guelph</a></li>
+<li id="menu-item-1560887" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560887"><a href="https://globalnews.ca/halifax/">Halifax</a></li>
+<li id="menu-item-3321790" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-3321790"><a href="https://globalnews.ca/hamilton/">Hamilton</a></li>
+<li id="menu-item-3619454" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-3619454"><a href="https://globalnews.ca/kingston/">Kingston</a></li>
+<li id="menu-item-4176515" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4176515"><a href="https://globalnews.ca/kitchener/">Kitchener</a></li>
+<li id="menu-item-1560888" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560888"><a href="https://globalnews.ca/lethbridge/">Lethbridge</a></li>
+<li id="menu-item-3226778" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-3226778"><a href="https://globalnews.ca/london/">London</a></li>
+<li id="menu-item-1560882" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560882"><a href="https://globalnews.ca/montreal/">Montreal</a></li>
+<li id="menu-item-1560851" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560851"><a href="https://globalnews.ca/new-brunswick/">New Brunswick</a></li>
+<li id="menu-item-1560881" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560881"><a href="https://globalnews.ca/okanagan/">Okanagan</a></li>
+<li id="menu-item-4149995" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-4149995"><a href="https://globalnews.ca/ottawa/">Ottawa</a></li>
+<li id="menu-item-3619452" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-3619452"><a href="https://globalnews.ca/peterborough/">Peterborough</a></li>
+<li id="menu-item-1560889" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560889"><a href="https://globalnews.ca/regina/">Regina</a></li>
+<li id="menu-item-1560885" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560885"><a href="https://globalnews.ca/saskatoon/">Saskatoon</a></li>
+<li id="menu-item-1560877" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560877"><a href="https://globalnews.ca/toronto/">Toronto</a></li>
+<li id="menu-item-1560884" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-regions menu-item-1560884"><a href="https://globalnews.ca/winnipeg/">Winnipeg</a></li>
+</ul>				<ul id="locality-menu" class="child"><li id="menu-item-3498219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498219"><a href="/national">News</a></li>
+<li id="menu-item-3498221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498221"><a href="/national/weather">Weather</a></li>
+<li id="menu-item-3498234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498234"><a href="/national/videos">National Video</a></li>
+<li id="menu-item-3498239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498239"><a href="/national/contests">Contests</a></li>
+<li id="menu-item-3498243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498243"><a href="/national/traffic">Traffic</a></li>
+</ul>			</li>
+							<li class="programs top-item parent" data-toggle-open="menu">
+					<a href="https://globalnews.ca/national/tv-news-program/">
+						<span>
+							<h3>TV News Programs <i class="ss-standard ss-navigatedown"></i></h3>
+							<p>Newscasts &amp; Videos</p>
+						</span>
+					</a>
+					<div class="child tv-only">	
+						<div class="programs-wrapper clearfix">
+							<a href="https://globalnews.ca/national/tv-news-program/">
+								<h3>TV</h3>
+							</a>
+							<ul id="programs-menu" class=""><li id="menu-item-1564339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1564339"><a href="#">Global National</a>
+<ul class="sub-menu">
+	<li id="menu-item-1564346" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-program menu-item-1564346"><a href="https://globalnews.ca/national/program/global-national/">Global National</a></li>
+	<li id="menu-item-1564347" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-program menu-item-1564347"><a href="https://globalnews.ca/national/program/the-west-block/">The West Block</a></li>
+	<li id="menu-item-1564349" class="menu-item menu-item-type-taxonomy menu-item-object-gnca-program menu-item-1564349"><a href="https://globalnews.ca/national/program/the-morning-show/">The Morning Show</a></li>
+	<li id="menu-item-1564351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564351"><a href="/national/programs/">More &#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-1564352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564352"><a href="/national/staff/personalities/">Personalities</a></li>
+<li id="menu-item-1564364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564364"><a href="/national/videos/">Video Centre</a></li>
+</ul>						</div>
+
+							
+					</div>
+				</li>
+
+			<li class="search top-item" data-toggle-open="search">
+				<form class="search-form" method="get" action="https://globalnews.ca/search/">
+					<input id="top-item-search" type="text" name="s" placeholder="Search" class="nav-input" value="">
+					<i class="ss-standard ss-search"></i>
+					<button type="submit" id="searchsubmit" class="submit-button">Go</button>
+				</form>
+			</li>
+
+				<li class="ad-choices">
+				<a href="http://www.corusent.com/privacy-policy/#adchoices" target="_blank" data-trackable="true" data-track-desc="launches ad choices privacy in new tab">
+						<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/ad-choices.png"> Ad Choices
+					</a>
+				</li>
+		</ul>
+				<h3 class="topics-header topics" data-toggle-open="menu"><span>Topics</span></h3>
+		<ul id="topics-menu" class="topics clearfix" data-toggle-open="menu"><li id="menu-item-1560662" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560662"><a href="https://globalnews.ca/world/">World</a></li>
+<li id="menu-item-1560663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560663"><a href="https://globalnews.ca/canada/">Canada</a></li>
+<li id="menu-item-1560690" class="local-news parent menu-item menu-item-type-custom menu-item-object-custom menu-item-1560690"><a href="https://globalnews.ca/national/">Local</a><ul id="topics-sub-menu" class="child"><li id="menu-item-3498219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498219"><a href="/national">News</a></li>
+<li id="menu-item-3498221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498221"><a href="/national/weather">Weather</a></li>
+<li id="menu-item-3498234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498234"><a href="/national/videos">National Video</a></li>
+<li id="menu-item-3498239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498239"><a href="/national/contests">Contests</a></li>
+<li id="menu-item-3498243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3498243"><a href="/national/traffic">Traffic</a></li>
+</ul></li>
+<li id="menu-item-1560702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560702"><a href="https://globalnews.ca/politics/">Politics</a></li>
+<li id="menu-item-2982734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2982734"><a href="https://globalnews.ca/tag/smart-living/">Smart Living</a></li>
+<li id="menu-item-1560689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560689"><a href="https://globalnews.ca/money/">Money</a></li>
+<li id="menu-item-1560894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560894"><a href="https://globalnews.ca/entertainment/">Entertainment</a></li>
+<li id="menu-item-1560897" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560897"><a href="https://globalnews.ca/health/">Health</a></li>
+<li id="menu-item-3590510" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3590510"><a href="https://globalnews.ca/commentary/">Commentary</a></li>
+<li id="menu-item-3557668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3557668"><a href="https://globalnews.ca/trending/">Trending</a></li>
+<li id="menu-item-1560931" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560931"><a href="https://globalnews.ca/sports/">Sports</a></li>
+<li id="menu-item-1560934" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1560934"><a href="/videos">Video</a></li>
+<li id="menu-item-1560935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1560935"><a href="/contests">Contests</a></li>
+<li id="menu-item-2174199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2174199"><a href="https://globalnews.ca/live">Live</a></li>
+<li id="menu-item-1655407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1655407"><a href="https://globalnews.ca/tech/">Tech</a></li>
+		<li class="social">
+			<a href="https://globalnews.ca/pages/facebook/">
+				<i class="ss-social-regular ss-facebook"></i>
+				<span>Like</span>
+			</a>
+		</li>
+		<li class="social">
+			<a href="https://globalnews.ca/pages/twitter/">
+				<i class="ss-social-regular ss-twitter"></i>
+				<span>Follow</span>
+			</a>
+		</li>
+			<h3><!-- horizontal bar 0--></h3>
+		<li class="ad-choices">
+			<a href="http://www.corusent.com/privacy-policy/#adchoices" target="_blank" data-trackable="true" data-track-desc="launches ad choices privacy in new tab">
+									<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/ad-choices.png">
+								Ad Choices
+			</a>
+		</li>
+	</ul>	</nav>
+</header>
+
+         
+			<div class="layout-header clearfix">
+
+	            	            <!-- /.breaking-news-site -->
+
+			
+						<div class="sub-mast sub-mast-taxonomy sub-mast-tag clearfix">
+						
+			</div>
+								
+						</div>
+			<span id="div-gpt-gnca-ads-6872-140100-1" style="display:none">
+			<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-140100-1");
+			      	});
+	</script>	
+					</span>
+					<!-- /.longform template check -->
+<div class="layout-contain right-well-article">
+    <div class="stream">
+        <section>
+            <div class="story story-detail article-detail">
+                <article>
+
+                    <div class="meta-bar">
+                        <div class="meta-bar-cat category"><a href="https://globalnews.ca/health/">Health</a></div>
+
+								<div class="meta-bar-time-group">
+			<span class="meta-bar-date">September 15, 2018</span>
+			<span class="meta-bar-time">2:56 pm</span>
+		</div> <!-- /.meta-bar-time-group -->
+
+					<div class="meta-bar-time-group meta-bar-time-modified">
+				<span>Updated:</span>
+				<span class="meta-bar-date">September 15, 2018</span>
+				<span class="meta-bar-time">2:57 pm</span>
+			</div> <!-- /.meta-bar-time-group -->
+			
+                    </div> <!-- /.meta-bar -->
+					                    <h1 class="story-h gn-speakable-title">U of A researcher finds rising trend of obesity discrimination</h1>
+										
+					                    <div class="story-byline">
+                    		
+					<a href="https://globalnews.ca/radio/630ched/">			
+							<img width="99" height="30" src="https://shawglobalnews.files.wordpress.com/2018/03/630ched_230x70.png?h=60&#038;w=198" alt="630CHED" class="story-radio-logo">
+					</a>
+	
+	<div class="byline-wrapper">				<!-- Post author Image -->
+					<a href="https://globalnews.ca/author/adam-brilz/">
+			 		<img width="55" height="55" src="https://shawglobalnews.files.wordpress.com/2018/01/adam-brilz.png?w=55&amp;h=55&amp;crop=1&amp;quality=60&amp;strip=all" class="story-author-avatar landscape wp-post-image" alt="" data-attachment-id="3994278" data-permalink="https://globalnews.ca/author/adam-brilz/adam-brilz/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/01/adam-brilz.png" data-orig-size="300,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Adam Brilz" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/01/adam-brilz.png?w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/01/adam-brilz.png?w=300" />					</a>
+					<!-- Post Author Credit -->
+	<span class="story-author">By
+		<a href="https://globalnews.ca/author/adam-brilz/" title="Posts by Adam Brilz" class="author url fn" rel="author">Adam Brilz</a>	</span>
+					<!-- Author position -->
+				<span class="story-author-position story-author-has-thumbnail">
+					Radio anchor/reporter					&nbsp;<span class="story-via">630CHED</span>				</span>
+			</div>                        
+                    </div>
+					                    
+	<div class="socialShare" data-socialshare="comments,facebook,twitter,email,whatsapp,print" data-socialshare-more="google,linkedin,reddit,pinterest,tumblr,stumbleupon" data-socialshare-collapsable="false" data-socialshare-count="false"></div>
+
+
+					
+<div class="article-photo photoCaptionWrapper ">
+	<figure>
+		<div data-picture="" data-class="story-img" data-alt="Don&#039;t skip breakfast if you want to lose weight, experts say." class="loading">
+		<div data-src="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&#038;strip=all&#038;w=720"></div>
+		<!--[if lte IE 8]> <div data-src="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&#038;strip=all&#038;w=720"></div> <![endif]-->
+		<div data-src="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&#038;strip=all&#038;w=450" data-media="(min-width: 321px)"></div>
+		<div data-src="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&#038;strip=all&#038;w=720" data-media="(-webkit-min-device-pixel-ratio: 1.5),(min--moz-device-pixel-ratio: 1.5),(-o-min-device-pixel-ratio: 3/2),(min-device-pixel-ratio: 1.5),(min-resolution: 1.5dppx)"></div>
+					<div data-src="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&#038;strip=all&#038;w=720" data-media="(min-width: 491px)"></div>
+					<div data-src="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&#038;strip=all&#038;w=1200" data-media="(min-width: 491px) and (-webkit-min-device-pixel-ratio: 1.5),(min-width: 491px) and (min--moz-device-pixel-ratio: 1.5),(min-width: 491px) and (-o-min-device-pixel-ratio: 3/2),(min-width: 491px) and (min-device-pixel-ratio: 1.5),(min-width: 491px) and (min-resolution: 1.5dppx)"></div>
+		<noscript>
+				<img class="story-img" src="https://shawglobalnews.files.wordpress.com/2018/02/scal.jpg?quality=70&#038;strip=all&#038;w=282" alt="Don&#039;t skip breakfast if you want to lose weight, experts say." />;
+		</noscript>
+	</div>
+				<figcaption>
+			<div class="caption">
+						<p>Don&#039;t skip breakfast if you want to lose weight, experts say.</p> 
+									<cite>Getty Images</cite>
+					</div>
+		</figcaption>
+		</figure>
+</div>
+<div id="gnca_sponsored_small_otf_ad_single_page" class="sponsored sponsored-small-otf" style="display:none;">
+    <a class="sponsored-logo otf-small-company-url" href="#">
+        <img src="" class="sponsored-logo-hd otf-small-image-src" style="max-width:38px;max-height:38px;">
+        <img src="" class="sponsored-logo-sd otf-small-image-src" style="max-width:38px;max-height:38px;">
+    </a>
+    <h5 class="sponsored-h">
+		<a class="otf-small-company-url otf-small-presented-label" href="#">
+		</a>
+	</h5>
+    <div class="sponsored-sponsor">
+		<a  class="otf-small-company-url otf-small-company-name" href="#">
+			
+		</a>
+        <div class="sponsored-tip">
+            <div class="sponsor-help">
+                <div class="sponsor-help-content">
+                    <h5></h5>
+                    <p>
+	                    <b></b><span></span>
+						<a href="https://globalnews.ca/pages/sponsored-content-on-global-news/"></a>
+					</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h5 class="sponsored-help-text"><a href="#modalId123"><span></span><div class="sponsored-tip"></div></a></h5>
+    <div class="sponsored-tip-modal">
+        <div class="sponsor-help" id="modalId123">
+            <div class="sponsor-help-content">
+                <a href="#close" title="Close" class="modal-close">X</a>
+				<h5></h5>
+				<p>
+	                <b></b><span></span>
+					<a href="https://globalnews.ca/pages/sponsored-content-on-global-news/"></a>
+				</p>
+            </div>
+        </div>
+    </div>
+</div>
+<script language="javascript" type="text/javascript" >
+function gnca_render_small_sponsored_otf_ad( img_url, company_url, company_name, presented_label ) {
+	var main_div = jQuery("#gnca_sponsored_small_otf_ad_single_page");
+	main_div.find("a.otf-small-company-url").attr( "href", company_url );
+	main_div.find("img.otf-small-image-src").attr( "src", img_url );
+	main_div.find("a.otf-small-company-name").html( company_name );
+	main_div.find("a.otf-small-presented-label").html( presented_label );
+    main_div.find(".sponsor-help-content h5").text("What is this?");
+    main_div.find(".sponsor-help-text span").text("What is this");
+    main_div.find(".sponsor-help-text div").text("?");
+    main_div.find(".sponsor-help-content p b").text("Sponsored content");
+    main_div.find(".sponsor-help-content p span").text(" is written by Global News' without any editorial influence by the sponsor.");
+    main_div.find(".sponsor-help-content p a").text("If you'd like to learn more...");
+	main_div.css( "display","inline" );
+}
+</script>                    
+<div class="story-txt"  >
+		<div class="story-actions">
+
+<div class="fontSizer">
+	<button class="fontButton fontDecrease">-</button>
+	
+	<span class="fontSizerLetters">
+		<span class="small">A</span>
+		<span class="big">A</span>
+	</span>
+
+	<button class="fontButton fontIncrease">+</button>
+</div><div class="readspeaker-wrapper">
+	<div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve">
+				<a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="https://app-na.readspeaker.com/cgi-bin/rsent?customerid=8024&amp;lang=en_us&amp;readid=gnca_article_body_for_read&amp;url=https://globalnews.ca/gnca-ajax/read-aloud/4453585/">
+			<span class="rsbtn_left rsimg rspart">
+				<span class="rsbtn_text">
+					<span>Listen</span>
+				</span>
+			</span>
+			<span class="rsbtn_right rsimg rsplay rspart"></span>
+		</a>
+	</div>
+	<div id='gnca_article_body_for_read' style="display: none;">
+	</div>
+</div>
+	</div>
+	
+	<span class="gnca-article-story-txt gn-speakable-description" itemprop="articleBody">
+		
+		
+    	<p>A <a href="https://www.ualberta.ca/">University of Alberta</a> researcher believes obesity discrimination is as common as racism.</p><p>Ximena Ramos-Salas, who is also the managing director at Obesity Canada, tells the Alberta Morning News discriminating against someone based on their weight has been a growing issue for decades. She says people can lose out on promotions, may be paid less, or might even have their comments ignored by physicians because they are overweight.</p><p>	<a class="interactive-link hide-all" target="_blank" href="https://omny.fm/shows/alberta-morning-news/obesity-issues/embed">		View link &raquo;	</a>	</p><div class="interactive-wrapper-blank" 					style="max-width:710px;"				>		<iframe									frameborder="0"			border="0"			src="https://omny.fm/shows/alberta-morning-news/obesity-issues/embed"			width="100%"			height="180"								></iframe>	</div><p>Ramos-Salas blames stereotypes for the discrimination.</p><p>&#8220;Our cultural bias is that having a larger body means, stereotypically, that you don&#8217;t take care of yourself, you don&#8217;t eat healthy, you don&#8217;t exercise regularly.&#8221;</p><blockquote><p>&#8220;In our society, we tend to think that having a larger body makes you a bad person.&#8221;</p></blockquote><br />	<div class="story-ad-read-more"><a href="javascript:void(0);">Story continues below</a></div>
+	<script>
+		jQuery(".story-ad-read-more a").click(function() {
+			jQuery("html, body").animate({ scrollTop: jQuery("#div-gpt-gnca-ads-6872-300250-2").offset().top + jQuery("#div-gpt-gnca-ads-6872-300250-2").height()  }, "fast");
+			return false;
+		});
+	</script>
+				<div class="story-ad">
+			<section class="ad" id="div-gpt-gnca-ads-6872-300250-2">
+			<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300250-2");
+			      	});
+	</script>	
+	</section>
+</div>
+			<div class="related-stories-sidebar">
+			<section>
+				<div>
+					<div class="related-stories">
+						<section>
+							
+							<h3 class="section-h-new"><span>Related</span></h3>
+							
+							<ul class="stories-list">
+																<li class="wThumb">
+									<h3>
+										<a href="https://globalnews.ca/news/4417395/obesity-linked-to-brain-and-genes-says-montreal-researcher/">
+											<img width="70" height="46" src="https://shawglobalnews.files.wordpress.com/2018/08/obeses.jpg?quality=70&amp;strip=all&amp;w=70&amp;h=46&amp;crop=1" class="related-item-img landscape wp-post-image" alt="" data-attachment-id="4417451" data-permalink="https://globalnews.ca/news/4417395/obesity-linked-to-brain-and-genes-says-montreal-researcher/obeses/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/08/obeses.jpg?quality=70&amp;strip=all" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Obesity comes from the mind, brain, and genes, according to a Montreal researcher. Aug 29, 2018." data-image-description="&lt;p&gt;Obesity comes from the mind, brain, and genes, according to a Montreal researcher. Aug 29, 2018.&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/08/obeses.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/08/obeses.jpg?quality=70&amp;strip=all&amp;w=1024" />											<span>
+												Obesity linked to brain and genes, says Montreal researcher											</span>
+										</a>
+									</h3>
+								</li>
+																<li>
+									<h3>
+										<a href="https://globalnews.ca/video/4412217/weight-loss-pill-deemed-safe-in-fight-against-obesity">
+																						<span>
+												Weight-loss pill deemed safe in fight against obesity											</span>
+										</a>
+									</h3>
+								</li>
+															</ul>
+						</section>
+					</div><!-- /.related-stories -->
+				</div>
+            </section>
+		</div>
+	<p>But she says exercise and diet aren&#8217;t the only factors in gaining weight. She also says there&#8217;s genetic, psychological and biological aspects that play a role.</p><p>Ramos-Salas says there&#8217;s also a problem in the health care system, where some aren&#8217;t educated on the surgical treatments or medications people with obesity can take to manage their health.</p><p>&#8220;There&#8217;s lots of strategies to help people living with obesity to help manage the weight, but instead they don&#8217;t hear about them.&#8221;</p><blockquote><p>&#8220;Instead, they hear the same message, &#8216;Go home, eat less, move more. If you don&#8217;t do it, you&#8217;re going to live shorter, you&#8217;re going to die&#8217;.&#8221;</p></blockquote><p>She suggests policies that prevent weight-bias attitudes, similar to policies in the Alberta Human Rights Act against discriminating someone based on their age, race, or gender.</p> 		<section class="newsletter-signup">
+			<form class="newsletter-signup__form" method="GET" target="_blank" action="https://globalnews.ca/pages/email-alerts/">
+				<h3 class="newsletter-signup__header">Get daily local headlines and alerts</h3>
+				<div class="newsletter-signup__container">
+					<input type="email" name="email" class="newsletter-signup__email" placeholder="Email Address" />
+					<input type="hidden" name="category" value="local" />
+				</div>
+				<input type="submit" class="newsletter-signup__submit" value="Sign up" />
+			</form>
+		</section>
+					<script type="text/javascript">
+				jQuery('document').ready(function() {
+					// localize widget
+					var nl_region_name = jQuery('.regions.top-item .current-region a').text()
+					if ( nl_region_name.length > 0 ) {
+						jQuery('.newsletter-signup__header').text('Get daily ' + nl_region_name + ' headlines and alerts');
+					}
+
+					// hide widget if user has already signed up
+						var storedValue = jQuery.cookie( 'newsletter-' + currentgeo );
+						if ( 'registered' === storedValue ) {
+							jQuery( '.newsletter-signup' ).hide();
+						}
+				});
+			</script>
+				
+		
+			</span>
+
+    		<p class="article-copyright">
+			&copy;&nbsp;2018&nbsp;Global News, a division of Corus Entertainment Inc.		</p>
+				<div class="report-article-error">
+			<a href='https://globalnews.ca/gnca-ajax/contact-me/%7B%22author_id%22%3A%2297882961%22%2C%22type%22%3A%22report%22%2C%22post_id%22%3A%224453585%22%7D/' target='_self' class="thickbox">
+				<span class="fa fa-exclamation-triangle"></span> Report an error
+			</a>
+		</div>
+	</div>
+
+                   
+                    
+					
+						<div class="OUTBRAIN" data-src="https://globalnews.ca/news/4453585/u-of-a-researcher-finds-rising-trend-of-obesity-discrimination/" data-widget-id="AR_2" data-ob-template="GlobalNews.ca" ></div>
+	<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+		
+ <!-- no more stories returned -->
+					
+					
+                    
+<div class="story-tags">
+                        <div class="story-tag"><a href="https://globalnews.ca/tag/discrimination/">Discrimination</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/obese/">Obese</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/obesity/">Obesity</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/u-of-a/">U Of A</a></div>
+                                <div class="story-tag"><a href="https://globalnews.ca/tag/weight-loss/">weight loss</a></div>
+            </div>
+                        <div class="socialShare" data-socialshare="comments,facebook,twitter,email,whatsapp,print,google,linkedin,reddit,pinterest,tumblr,stumbleupon" data-socialshare-collapsable="true"></div>
+
+                    		<div class="stream-ad mobile-only" id="div-gpt-gnca-ads-6872-300250-5">
+		<script type="text/javascript">
+			jQuery(function() {
+				gNewsWP.Ads.createDynamicAd({
+					id: "div-gpt-gnca-ads-6872-300250-5",
+					$target: jQuery( "#div-gpt-gnca-ads-6872-300250-5" ),
+					sizes: [[300,600],[300,250]],
+					mapping: false,
+					height: 250,
+					pos: 5,
+					initialized: false
+				});
+			});
+		</script>
+	</div>
+	
+							
+		<section class="editors-picks-container ep-single">
+				<!-- <div id="editors-picks-video-holder"></div> -->
+				
+				<h3>
+					<span>Editor's Picks</span>
+					<nav role="navigation"></nav>
+				</h3>
+
+				<div class="editors-picks" data-slick-show="2.2" data-slick-scroll="2">
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/4446424/here-are-the-hot-topics-set-to-dominate-the-fall-political-agenda-as-parliament-hill-returns/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="178" src="https://shawglobalnews.files.wordpress.com/2017/04/cpt109401706_high.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="3400019" data-permalink="https://globalnews.ca/cpt109401706_high-jpg/" data-orig-file="https://shawglobalnews.files.wordpress.com/2017/04/cpt109401706_high.jpg?quality=70&amp;strip=all" data-orig-size="650,419" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;11&quot;,&quot;credit&quot;:&quot;Sean Kilpatrick&quot;,&quot;camera&quot;:&quot;NIKON D4&quot;,&quot;caption&quot;:&quot;AppleMark&quot;,&quot;created_timestamp&quot;:&quot;1383643124&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;17&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.0025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Extended EI benefit spending tops 1B" data-image-description="&lt;p&gt;The Peace Tower is seen on Parliament Hill in Ottawa on November 5, 2013. THE CANADIAN PRESS/Sean Kilpatrick&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2017/04/cpt109401706_high.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2017/04/cpt109401706_high.jpg?quality=70&amp;strip=all&amp;w=650" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/4446424/here-are-the-hot-topics-set-to-dominate-the-fall-political-agenda-as-parliament-hill-returns/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Here are the hot topics set to dominate the fall political agenda as Parliament Hill returns								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/4457928/leona-alleslev-crossing-floor-conservative/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="175" src="https://shawglobalnews.files.wordpress.com/2018/09/18559544.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="4457862" data-permalink="https://globalnews.ca/news/4457806/leona-alleslev-crossing-floor-conservatives/leona-alleslev/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/09/18559544.jpg?quality=70&amp;strip=all" data-orig-size="760,483" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;The Canadian Press&quot;,&quot;camera&quot;:&quot;NIKON D4&quot;,&quot;caption&quot;:&quot;Liberal MP Leona Alleslev rises in the House of Commons in Ottawa on Friday, June 17, 2016. THE CANADIAN PRESS\/Adrian Wyld&quot;,&quot;created_timestamp&quot;:&quot;1518629086&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;5000&quot;,&quot;shutter_speed&quot;:&quot;0.00625&quot;,&quot;title&quot;:&quot;Leona Alleslev&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Leona Alleslev" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/09/18559544.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/09/18559544.jpg?quality=70&amp;strip=all&amp;w=760" />							</a>
+															<p>
+									<a href="https://globalnews.ca/politics/">
+										Politics									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/4457928/leona-alleslev-crossing-floor-conservative/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Why MPs cross the floor and the impact of Leona Alleslev&#039;s Tory flip								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/4405495/waterloo-engineering-grade-inflation-list/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="184" src="https://shawglobalnews.files.wordpress.com/2018/09/gettyimages-940353854.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="4438300" data-permalink="https://globalnews.ca/news/4405495/waterloo-engineering-grade-inflation-list/france-education-university-sorbonne/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/09/gettyimages-940353854.jpg?quality=70&amp;strip=all" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AFP\/Getty Images&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;A  student sits in a classroom at Paris I Pantheon-Sorbonne University in Paris on March 30, 2018.  \/ AFP PHOTO \/ STEPHANE DE SAKUTIN        (Photo credit should read STEPHANE DE SAKUTIN\/AFP\/Getty Images)&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;FRANCE-EDUCATION-UNIVERSITY-SORBONNE&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FRANCE-EDUCATION-UNIVERSITY-SORBONNE" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/09/gettyimages-940353854.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/09/gettyimages-940353854.jpg?quality=70&amp;strip=all&amp;w=1024" />							</a>
+															<p>
+									<a href="https://globalnews.ca/education/">
+										Education									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/4405495/waterloo-engineering-grade-inflation-list/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									One university&#039;s secret list to judge applicants by their high schools - not just their marks								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/4442869/toronto-terrorist-on-social-media/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="207" src="https://shawglobalnews.files.wordpress.com/2018/09/36856410_197785374403140_3283082952501624832_n.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="4442914" data-permalink="https://globalnews.ca/news/4442869/toronto-terrorist-on-social-media/36856410_197785374403140_3283082952501624832_n/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/09/36856410_197785374403140_3283082952501624832_n.jpg?quality=70&amp;strip=all" data-orig-size="960,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="36856410_197785374403140_3283082952501624832_n" data-image-description="&lt;p&gt;Former Toronto 18 terrorist leader Zakaria Amara sending a message to his mother on Facebook.&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/09/36856410_197785374403140_3283082952501624832_n.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/09/36856410_197785374403140_3283082952501624832_n.jpg?quality=70&amp;strip=all&amp;w=960" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/4442869/toronto-terrorist-on-social-media/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Toronto terrorist leader is locked up, but was still on social media								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/4428067/buy-marijuana-varieties/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="187" src="https://shawglobalnews.files.wordpress.com/2018/09/11425247.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="4432021" data-permalink="https://globalnews.ca/news/4428067/buy-marijuana-varieties/marijuana-opioid-alternative/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/09/11425247.jpg?quality=70&amp;strip=all" data-orig-size="1000,676" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;6.3&quot;,&quot;credit&quot;:&quot;The Associated Press&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X&quot;,&quot;caption&quot;:&quot;In this Friday, April 22, 2016 photo, a jar containing a strain of marijuana nicknamed \&quot;Killer D\&quot; is seen at a medical marijuana facility in Unity, Maine. A growing number of health experts and law enforcement officials are making the case that marijuana could help reduce the numbers of overdoses and redirect money into fighting heroin and other opiates. (AP Photo\/Robert F. Bukaty)&quot;,&quot;created_timestamp&quot;:&quot;-62135596800&quot;,&quot;copyright&quot;:&quot;Copyright 2016 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistribu&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;Marijuana Opioid Alternative&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Marijuana Opioid Alternative" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/09/11425247.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/09/11425247.jpg?quality=70&amp;strip=all&amp;w=1000" />							</a>
+															<p>
+									<a href="https://globalnews.ca/science/">
+										Science									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/4428067/buy-marijuana-varieties/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Are marijuana strains what they say on the label? Often they&#039;re not, DNA testing shows								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/4431314/nafta-donald-trump-canadian-dairy-market-access/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<img width="276" height="196" src="https://shawglobalnews.files.wordpress.com/2018/06/cows.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="4279181" data-permalink="https://globalnews.ca/news/4279157/fourth-revolution-in-farming/dairy-cows-2/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/06/cows.jpg?quality=70&amp;strip=all" data-orig-size="1200,850" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;THE CANADIAN PRESS&quot;,&quot;camera&quot;:&quot;NIKON D4S&quot;,&quot;caption&quot;:&quot;Dairy cows are shown in a barn on a farm in Eastern Ontario on Wednesday, April 19, 2017. U.S. President Donald Trump sharply criticized Canada&#039;s supply-managed dairy sector yesterday, sparking a new cross-border spat. THE CANADIAN PRESS\/Sean Kilpatrick&quot;,&quot;created_timestamp&quot;:&quot;1529283271&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;17&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;Dairy Cows&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Dairy Cows" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/06/cows.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/06/cows.jpg?quality=70&amp;strip=all&amp;w=1024" />							</a>
+															<p>
+									<a href="https://globalnews.ca/canada/">
+										Canada									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/4431314/nafta-donald-trump-canadian-dairy-market-access/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Got milk (farmers)? Here&#039;s how many could be at risk if NAFTA boosts U.S. dairy market access								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/4426065/starving-student-stereotype-masks-bigger-problem/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<img width="276" height="203" src="https://shawglobalnews.files.wordpress.com/2018/04/gettyimages-640107874.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="4147522" data-permalink="https://globalnews.ca/news/4146849/the-scandi-sense-diet/unrecognized-women-preparing-fresh-healthy-salad/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/04/gettyimages-640107874.jpg?quality=70&amp;strip=all" data-orig-size="2021,1484" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Getty Images&quot;,&quot;camera&quot;:&quot;NIKON D800E&quot;,&quot;caption&quot;:&quot;Photo from above of unrecognized women preparing fresh healthy salad using using various kind of vegetables .&quot;,&quot;created_timestamp&quot;:&quot;1485773832&quot;,&quot;copyright&quot;:&quot;RuslanDashinsky&quot;,&quot;focal_length&quot;:&quot;35&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;Unrecognized women preparing fresh healthy salad.&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="The Scandi Sense Diet" data-image-description="&lt;p&gt;The Scandi Sense Diet&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/04/gettyimages-640107874.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/04/gettyimages-640107874.jpg?quality=70&amp;strip=all&amp;w=1024" />							</a>
+															<p>
+									<a href="https://globalnews.ca/education/">
+										Education									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/4426065/starving-student-stereotype-masks-bigger-problem/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									Why we shouldn&#039;t glorify the &#039;starving student&#039; stereotype								</a>
+							</h4>
+							
+						</article>
+										
+										
+						<article>
+						
+							<a href="https://globalnews.ca/news/4414861/oakalla-prison-riot-escape/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015" class="img-link image-container" >
+								<span class="icon-media icon-media-video"> </span><img width="276" height="202" src="https://shawglobalnews.files.wordpress.com/2018/08/oakalla-e1535583250406.jpg?quality=70&amp;strip=all&amp;w=276" class="attachment-article-more-keepratio size-article-more-keepratio landscape" alt="" data-attachment-id="4417562" data-permalink="https://globalnews.ca/news/4414861/oakalla-prison-riot-escape/oakalla/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/08/oakalla-e1535583250406.jpg?quality=70&amp;strip=all" data-orig-size="720,528" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Jon Azpiri&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1535558015&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="oakalla" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/08/oakalla-e1535583250406.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/08/oakalla-e1535583250406.jpg?quality=70&amp;strip=all&amp;w=720" />							</a>
+															<p>
+									<a href="https://globalnews.ca/tag/oakalla-prison/">
+										Oakalla prison									</a>
+								</p>
+							
+							<h4>
+								<a href="https://globalnews.ca/news/4414861/oakalla-prison-riot-escape/?utm_source=Article&#038;utm_medium=EditorsPick&#038;utm_campaign=2015">
+									How a bloody riot and massive prison break brought down Oakalla, B.C.&#039;s most notorious jail								</a>
+							</h4>
+							
+						</article>
+									</div>
+		</section>
+		
+		
+					                </article>
+            </div>
+			
+            			
+			
+			<div class="flyer-info">
+		<section>
+			<h3 class="section-h-light"> FLYERS </h3>
+	
+<div id="flyertown_module_16336"></div>
+<script src="https://api.flyertown.ca/16336/67a2b5665fd8467e/flyertown_module.js"></script>
+
+	<p class="right-more-link">
+		<a href="https://globalnews.ca/pages/flyers/" target="_blank"> More Weekly Flyers </a>
+	</p>
+			</section>
+		
+</div>
+
+			<a name="respond"></a>
+			<div class="article-comments">
+				<div class="comments-info">
+					<section>
+						<h3 class="section-h">Comments</h3>
+					</section>
+				</div>					
+							<div>
+				<p>Want to discuss? Please read our <a href="https://globalnews.ca/pages/global-news-commenting-policy/" target="_blank">Commenting Policy</a> first.</p>
+			</div>
+								<div class="fb-comments" data-href="https://globalnews.ca/news/4453585/u-of-a-researcher-finds-rising-trend-of-obesity-discrimination/" data-numposts="5" data-colorscheme="light" data-width="100%" data-order-by="reverse_time" ></div>
+			 
+					</div>	
+
+										<script language="javascript">
+					jQuery(function($){
+						jQuery("div.article-comments").find("h3.section-h").first().addClass("section-h-light").removeClass("section-h");
+						reskin_header_section_h_light_add();
+					})
+					
+					function reskin_header_section_h_light_add(){
+						
+						var elems_fly  = jQuery("div.flyer-module-article").find("h3.section-h").first();
+						if( elems_fly.length > 0 ) {
+							elems_fly.addClass("section-h-light").removeClass("section-h");	
+							jQuery("div.ws_stacks").css("padding","8px");
+						} else if( jQuery("div.flyer-module-article").length <= 0 ) {
+							setTimeout( "reskin_header_section_h_light_add()", 1000 );
+						}
+					}
+			 
+				</script>
+			 
+		</section>
+	</div>
+	
+	<div class="wells">
+    <aside class="top-sidebar">
+				<section class='gnca_empty_weatherbug'>
+		</section>
+		<section>
+	<div class="weather-ad">
+	
+		<span id="div-gpt-gnca-ads-6872-300100-1">
+				<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300100-1");
+			      	});
+	</script>	
+		</span>
+		<span id="div-gpt-gnca-ads-6872-300100-2" >
+				<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300100-2");
+			      	});
+	</script>	
+		</span>
+		
+	
+	</div><!-- /.weather-ad -->
+</section>
+
+
+<!-- Countdown -->
+<span id="render-countdown" style="display:none;"></span>
+<!-- Live Stream Widget -->
+
+<!-- Sidebar Embed 1 -->
+		
+<!-- Custom Sidebar Promo Banner -->
+
+<section>
+	<div class="sidebar-ad" id="div-gpt-gnca-ads-6872-300250-1">
+	   	<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300250-1");
+			      	});
+	</script>	
+	</div><!-- /.sidebar-ad -->
+		<span class='bt-dfp-tg' style='display: none !important'>
+			<!--
+
+			<script type='text/javascript'> 
+				googletag.cmd.push(function() { 
+					googletag.defineSlot('/6872/btgn.corus', [300, 250], 'div-gpt-ad-1468526038745-0').addService(googletag.pubads()); 
+					googletag.pubads().enableSingleRequest(); 
+					googletag.pubads().collapseEmptyDivs(); 
+					googletag.enableServices(); 
+				}); 
+			</script>
+
+			<div id='div-gpt-ad-1468526038745-0' style='height:250px; width:300px;'>
+				<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1468526038745-0'); });
+				</script>
+			</div>
+
+			-->
+		</span>
+
+	
+	
+	<div class="tile-ads">
+		<span class="pos-3">
+			
+<a href="https://globalnews.ca/live/national/" target="_blank">
+	<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/images/gnlive-ads/default.png"/>
+</a>		</span>
+		<span>
+			
+		</span>
+		<span class="pos-4" id="div-gpt-gnca-ads-6872-30050-2" >
+				<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-30050-2");
+			      	});
+	</script>	
+		</span>
+		
+				
+	</div>
+</section>
+
+<!-- Custom Callout Widget -->
+	
+<!-- Sidebar Embed 2 -->
+
+<!-- Add event link -->
+
+<!-- In Other News Widget -->
+	</aside>
+	<aside class="dynamic-widgets-wrapper">
+		<div class="dynamic-widgets">
+			<section id="gnca_popular_now_widget-15" class="widget widget_gnca_popular_now_widget">	
+		<section>
+			<h3 class="section-h-new widget-title"><span>Popular Now</span></h3>			<div class="popular-now-well">
+													<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/4460901/murder-spanish-champion-golfer-iowa/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-height">
+									<img width="150" height="84" src="https://shawglobalnews.files.wordpress.com/2018/09/celia.jpg?quality=70&amp;strip=all&amp;w=150" class="story-img landscape wp-post-image" alt="" data-attachment-id="4460967" data-permalink="https://globalnews.ca/news/4460901/murder-spanish-champion-golfer-iowa/celia/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/09/celia.jpg?quality=70&amp;strip=all" data-orig-size="660,370" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="celia" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/09/celia.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/09/celia.jpg?quality=70&amp;strip=all&amp;w=660" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/4460901/murder-spanish-champion-golfer-iowa/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									Man charged with murder after Spanish champion golfer found dead on Iowa course								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/4460901/murder-spanish-champion-golfer-iowa/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										147647									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:100%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+									<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/4457973/incredible-fire-tornado-video-wildfire-crew-bc/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-height">
+									<img width="150" height="84" src="https://shawglobalnews.files.wordpress.com/2018/09/still0917_00001.jpg?quality=70&amp;strip=all&amp;w=150" class="story-img landscape wp-post-image" alt="" data-attachment-id="4458508" data-permalink="https://globalnews.ca/news/4457973/incredible-fire-tornado-video-wildfire-crew-bc/still0917_00001/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/09/still0917_00001.jpg?quality=70&amp;strip=all" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Still0917_00001" data-image-description="&lt;p&gt;A firefighter stands near the fire tornado, as seen near Vanderhoof B.C. in mid-August.&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/09/still0917_00001.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/09/still0917_00001.jpg?quality=70&amp;strip=all&amp;w=1024" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/4457973/incredible-fire-tornado-video-wildfire-crew-bc/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									Incredible fire tornado shocks wildfire crew in northern B.C.								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/4457973/incredible-fire-tornado-video-wildfire-crew-bc/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										56432									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:38%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+									<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/4460725/poisoning-highly-plausible-pussy-riot/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-width">
+									<img width="150" height="103" src="https://shawglobalnews.files.wordpress.com/2018/09/2018-09-16t121747z_1283630768_rc1947cabcd0_rtrmadp_3_russia-pussyriot-germany-e1537108141595.jpg?quality=70&amp;strip=all&amp;w=150" class="story-img landscape wp-post-image" alt="" data-attachment-id="4454773" data-permalink="https://globalnews.ca/news/4454731/pussy-riot-pyotr-verzilov-treated-hospital/anti-kremlin-activist-pyotr-verzilov-who-lost-his-sight-hearing-and-ability-to-walk-in-a-suspected-poisoning-last-week-arrives-on-a-special-medical-transport-plane-at-schoenefeld-airport-in-berlin-2/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/09/2018-09-16t121747z_1283630768_rc1947cabcd0_rtrmadp_3_russia-pussyriot-germany-e1537108141595.jpg?quality=70&amp;strip=all" data-orig-size="650,446" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;REUTERS&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;REFILE - ADDING RESTRICTIONS  Anti-Kremlin activist Pyotr Verzilov who lost his sight, hearing and ability to walk in a suspected poisoning last week arrives on a special medical transport plane at Schoenefeld airport in Berlin, Germany September 15, 2018. Picture taken September 15, 2018.  Cinemaforpeace/Handout via REUTERS      THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. NO RESALES. NO ARCHIVES.&quot;,&quot;created_timestamp&quot;:&quot;1537100267&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Anti-Kremlin activist Pyotr Verzilov who lost his sight, hearing and ability to walk in a suspected poisoning last week arrives on a special medical transport plane at Schoenefeld airport in Berlin&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Anti-Kremlin activist Pyotr Verzilov who lost his sight, hearing and ability to walk in a suspected poisoning last week arrives on a special medical transport plane at Schoenefeld airport in Berlin" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/09/2018-09-16t121747z_1283630768_rc1947cabcd0_rtrmadp_3_russia-pussyriot-germany-e1537108141595.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/09/2018-09-16t121747z_1283630768_rc1947cabcd0_rtrmadp_3_russia-pussyriot-germany-e1537108141595.jpg?quality=70&amp;strip=all&amp;w=650" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/4460725/poisoning-highly-plausible-pussy-riot/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									German doctors say poisoning is &#039;highly plausible&#039; for Russian-Canadian Pussy Riot member								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/4460725/poisoning-highly-plausible-pussy-riot/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										26281									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:18%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+									<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/4457564/amelie-christelle-sakkalis-first-degree-murder/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-width">
+									<img width="150" height="113" src="https://shawglobalnews.files.wordpress.com/2018/09/amelie.jpg?quality=70&amp;strip=all&amp;w=150" class="story-img landscape wp-post-image" alt="" data-attachment-id="4428585" data-permalink="https://globalnews.ca/news/4428559/belgian-tourist-homicide-victim-boston-bar/amelie/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/09/amelie.jpg?quality=70&amp;strip=all" data-orig-size="747,561" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 6&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1509277053&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.15&quot;,&quot;iso&quot;:&quot;32&quot;,&quot;shutter_speed&quot;:&quot;0.028571428571429&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Amelie" data-image-description="&lt;p&gt;Amelie Christelle Sakkalis from Belgium has now been identified as the victim of a homicide in Boston Bar on Aug. 22, 2018.&lt;/p&gt;
+" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/09/amelie.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/09/amelie.jpg?quality=70&amp;strip=all&amp;w=747" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/4457564/amelie-christelle-sakkalis-first-degree-murder/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									Man charged with first-degree murder in death of Belgian tourist in B.C.								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/4457564/amelie-christelle-sakkalis-first-degree-murder/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										20702									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:14%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+									<div class="story not-ad">
+						<article>
+															<a href="https://globalnews.ca/news/4458632/nafta-canada-nancy-pelosi/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014" class="story-img-link image-container landscape fit-to-width">
+									<img width="150" height="100" src="https://shawglobalnews.files.wordpress.com/2018/09/11006735.jpg?quality=70&amp;strip=all&amp;w=150" class="story-img landscape wp-post-image" alt="" data-attachment-id="4458730" data-permalink="https://globalnews.ca/news/4458632/nafta-canada-nancy-pelosi/justin-trudeau-nancy-pelosi/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/09/11006735.jpg?quality=70&amp;strip=all" data-orig-size="3664,2443" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;The Associated Press&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Canadian Prime Minister Justin Trudeau meets with House Minority Leader Nancy Pelosi of Calif. on Capitol Hill in Washington, Thursday, March 10, 2016.  (AP Photo/Cliff Owen)&quot;,&quot;created_timestamp&quot;:&quot;1457625929&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Justin Trudeau, Nancy Pelosi&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Justin Trudeau, Nancy Pelosi" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/09/11006735.jpg?quality=70&amp;strip=all&amp;w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/09/11006735.jpg?quality=70&amp;strip=all&amp;w=1024" />								</a>
+														
+							<h3 class="story-h">
+								
+								<a href="https://globalnews.ca/news/4458632/nafta-canada-nancy-pelosi/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+									
+									No NAFTA deal without Canada: U.S. House Democratic leader Nancy Pelosi								</a>
+							</h3>
+	
+							<ul class="story-stats">
+															<li>
+									<a href="https://globalnews.ca/news/4458632/nafta-canada-nancy-pelosi/?utm_source=Other&#038;utm_medium=MostPopular&#038;utm_campaign=2014">
+										<span class="icon icon-eye-black"></span>
+										16502									</a>
+								</li>
+							</ul>
+														<div class="story-meter">
+								<div class="story-meter-value" style="width:11%;"></div>
+							</div>
+							<!-- <div class="story-divider"></div> -->
+						</article> 
+					</div>
+								<section class="most-pop-sponsored">
+	<h3 class="section-h-new most-pop-sponsored-title" style="display:none;">
+		<span>Sponsored content</span>
+	</h3>
+	<span id="div-gpt-gnca-ads-6872-300150-1">
+			<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300150-1");
+			      	});
+	</script>	
+	</span>
+	<span id="div-gpt-gnca-ads-6872-300150-2">
+			<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-300150-2");
+			      	});
+	</script>	
+	</span>
+</section>
+
+			</div><!-- /.featured-stories -->
+		</section>
+	</section>	<section class="widget">
+		<h3 class="section-h-new widget-title"><span>Popular Videos</span></h3>
+		<div class="popular-now-well">
+								<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/4461079/anderson-cooper-targets-donald-trump-jr-in-rant/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" class="story-img-link">
+									<img width="150" height="84" src="https://i0.wp.com/media.globalnews.ca/videostatic/343/227/AndersonCooperRant_848x480_1323211331702.jpg?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="Anderson Cooper targets Donald Trump Jr. in rant" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/4461079/anderson-cooper-targets-donald-trump-jr-in-rant/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018">
+									Anderson Cooper targets Donald Trump Jr. in rant								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/4461079/anderson-cooper-targets-donald-trump-jr-in-rant/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+									<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/4461877/great-grandfather-in-ireland-fights-off-robbers-who-barge-into-sports-betting-bar/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" class="story-img-link">
+									<img width="150" height="84" src="https://i1.wp.com/media.globalnews.ca/videostatic/479/462/grandpa3.jpg?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="Great-grandfather in Ireland fights off robbers who barge into sports betting bar" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/4461877/great-grandfather-in-ireland-fights-off-robbers-who-barge-into-sports-betting-bar/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018">
+									Great-grandfather in Ireland fights off robbers who barge into sports betting bar								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/4461877/great-grandfather-in-ireland-fights-off-robbers-who-barge-into-sports-betting-bar/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+									<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/4319037/money-123-could-pot-stocks-make-you-rich/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" class="story-img-link">
+									<img width="150" height="84" src="https://i1.wp.com/media.globalnews.ca/videostatic/914/171/SUN_GN_WEED_STOCKS_070718_848x480_1272279619531.jpg?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="Money 123: Could pot stocks make you rich?" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/4319037/money-123-could-pot-stocks-make-you-rich/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018">
+									Money 123: Could pot stocks make you rich?								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/4319037/money-123-could-pot-stocks-make-you-rich/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+									<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/1979360/global-news-live-calgary/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" class="story-img-link">
+									<img width="150" height="84" src="https://i0.wp.com/media.globalnews.ca/videostatic/349/131/Global%20News__946999.png?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="Global News Live: Calgary" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/1979360/global-news-live-calgary/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018">
+									Global News Live: Calgary								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/1979360/global-news-live-calgary/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+									<div class="story" style="margin-bottom:15px;min-height: 80px;">
+						<article>
+															<a href="https://globalnews.ca/video/4373494/trump-says-don-jr-s-meeting-with-russian-lawyer-was-legal/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" class="story-img-link">
+									<img width="150" height="84" src="https://i1.wp.com/media.globalnews.ca/videostatic/616/803/2018-08-06T21-44-53.966Z--640x360.jpg?w=150&#038;quality=70&#038;strip=all" class="story-img wp-post-image" alt="Trump says Don Jr.&#8217;s meeting with Russian lawyer was legal" style="height:84px;"/>	
+								</a>
+														
+							<h3 class="story-h">
+								<a href="https://globalnews.ca/video/4373494/trump-says-don-jr-s-meeting-with-russian-lawyer-was-legal/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018">
+									Trump says Don Jr.&#8217;s meeting with Russian lawyer was legal								</a>
+							</h3>
+							<ul class="story-stats">
+								<li>
+									<a href="https://globalnews.ca/video/4373494/trump-says-don-jr-s-meeting-with-russian-lawyer-was-legal/?utm_source=Article&#038;utm_medium=MostPopularVideo&#038;utm_campaign=2018" >
+										<span class="icon-media-watch-now">WATCH NOW </span>
+									</a>		
+								</li>
+							</ul>
+						</article> 
+					</div>
+							</div><!-- /.featured-stories -->
+		</section>
+		</div>
+	</aside>
+
+							<a href="https://twitter.com/globalnews" class="cta cta-newsletter cta-sidebar">
+										<img src="https://s2.wp.com/wp-content/themes/vip/shaw-globalnews/_img/social-impulse/large/twitter/national.gif" alt="Global News" />
+									</a>
+				</aside>
+</div> <!-- /.wells --></div>
+
+<nav id="radio-footer" class="radio-footer" style="border-top-color: #DF070D;">
+	<section class="logo left">
+		<a href="https://globalnews.ca/radio/630ched/">
+			<img src="https://shawglobalnews.files.wordpress.com/2018/03/ched_400x100.png?w=320">
+		</a>
+	</section>
+
+	<ul class="menu-items left">
+													<li>
+					<a href="/radio/630ched/" style="color: #444444;">
+						News					</a>
+				</li>
+																<li>
+					<a href="/edmonton/traffic/" style="color: #444444;">
+						Traffic					</a>
+				</li>
+																<li>
+					<a href="/edmonton/weather/CAXX0126/" style="color: #444444;">
+						Weather					</a>
+				</li>
+						</ul>
+
+	<ul class="social right">
+		<li>
+			<a href="https://twitter.com/630ched" target="_blank">
+				<i class="ss-social-regular ss-twitter"></i>
+			</a>
+		</li>
+		<li>
+			<a href="https://www.facebook.com/630CHED/" target="_blank">
+				<i class="ss-social-regular ss-facebook"></i>
+			</a>
+		</li>
+	</ul>
+
+	
+		<section class="radio-live  right">
+			<a href="http://player.630ched.com/?cmpid=footer-article#/" target="_blank">
+									<img width="200" height="200" src="https://shawglobalnews.files.wordpress.com/2018/03/ched_400x400.png?w=200&amp;h=200&amp;crop=1" class="attachment-menu-thumbnail size-menu-thumbnail landscape" alt="" data-attachment-id="4055879" data-permalink="https://globalnews.ca/ched_400x400/" data-orig-file="https://shawglobalnews.files.wordpress.com/2018/03/ched_400x400.png" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CHED_400x400" data-image-description="" data-medium-file="https://shawglobalnews.files.wordpress.com/2018/03/ched_400x400.png?w=300" data-large-file="https://shawglobalnews.files.wordpress.com/2018/03/ched_400x400.png?w=512" />				 
+				<div class="radio-live-listing">
+					<p style="color: #DF070D;">On Air Now</p>
+					<h3 style="color: #444444;">Oilers NOW With Bob Stauffer</h3>
+				</div>
+			</a>
+		</section>
+
+	
+	<div class="listen-live right">
+		<a href="http://player.630ched.com/?cmpid=footer-article#/" target="_blank">
+			<svg class="video-overlay-play-button" viewBox="0 0 200 200" alt="Listen Live">
+				<circle class="circle" cx="100" cy="100" r="100" style="fill: #DF070D;"></circle>
+				<polygon class="triangle" points="70, 55 70, 145 145, 100"></polygon>
+			</svg>
+			<span style="color: #DF070D;">Listen Live</span>
+		</a>
+	</div>
+</nav>				</div><!--/.contain-->
+        <div class="footer-contain">
+            <div class="footer">
+                <footer>
+                    <section>
+                        <div class="region-names">
+                            <h3>Jump to a Region</h3>
+                            <div class="region-nav">
+                                <article>
+                                    <nav role="navigation">
+                                        <ul id="footerRegionalNav">
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/barrie/" id="MapLink_barrie" >Barrie</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/bc/" id="MapLink_bc" >BC</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/calgary/" id="MapLink_calgary" >Calgary</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/durham/" id="MapLink_durham" >Durham</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/edmonton/" id="MapLink_edmonton" >Edmonton</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/guelph/" id="MapLink_guelph" >Guelph</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/halifax/" id="MapLink_halifax" >Halifax</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/hamilton/" id="MapLink_hamilton" >Hamilton</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/kingston/" id="MapLink_kingston" >Kingston</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/kitchener/" id="MapLink_kitchener" >Kitchener</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/lethbridge/" id="MapLink_lethbridge" >Lethbridge</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/london/" id="MapLink_london" >London</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/montreal/" id="MapLink_montreal" >Montreal</a>
+												</li>
+
+                                            																						                                            	<li>
+																																																				<a href="https://globalnews.ca/new-brunswick/" id="MapLink_new-brunswick" >New Brunswick</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/okanagan/" id="MapLink_okanagan" >Okanagan</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/ottawa/" id="MapLink_ottawa" >Ottawa</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/peterborough/" id="MapLink_peterborough" >Peterborough</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/regina/" id="MapLink_regina" >Regina</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/saskatoon/" id="MapLink_saskatoon" >Saskatoon</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/toronto/" id="MapLink_toronto" >Toronto</a>
+												</li>
+
+                                            											                                            	<li>
+																																																				<a href="https://globalnews.ca/winnipeg/" id="MapLink_winnipeg" >Winnipeg</a>
+												</li>
+
+                                                                                    </ul>
+                                    </nav>
+                                </article>
+                            </div> <!-- /.region-nav -->
+                        </div> <!-- /.region-names -->
+                    </section>
+                    <section>
+                        <div class="social">
+                            <h3>Connect</h3>
+                            <nav role="navigation">
+                                <ul>
+                                    <li>
+                                        <a href="/pages/facebook/">
+                                            <span class="social-icon"><span class="icon icon-facebook"></span></span>
+                                            <span>Facebook</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="/pages/twitter/">
+                                            <span class="social-icon"><span class="icon icon-twitter-white"></span></span>
+                                            <span>Twitter</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="/pages/google/">
+                                            <span class="social-icon"><span class="icon icon-googleplus"></span></span>
+                                            <span>Google+</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="https://instagram.com/globalnews/">
+                                            <span class="social-icon"><span class="icon icon-instagram"></span></span>
+                                            <span>Instagram</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.linkedin.com/company/global-television?trk=biz-companies-cym">
+                                            <span class="social-icon"><span class="icon icon-linkedin"></span></span>
+                                            <span>LinkedIn</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="http://globalnewscanada.tumblr.com/">
+                                            <span class="social-icon"><span class="icon icon-tumblr"></span></span>
+                                            <span>Tumblr</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.pinterest.com/globaltvnews/">
+                                            <span class="social-icon"><span class="icon icon-pinterest"></span></span>
+                                            <span>Pinterest</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/pages/feeds/">
+                                            <span class="social-icon"><span class="icon icon-rss-white"></span></span>
+                                            <span>RSS</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="https://globalnews.ca/pages/contact-us/">
+                                            <span class="social-icon"><span class="icon icon-email-white"></span></span>
+                                            <span>Contact Us</span>
+                                        </a>
+									</li>
+                                    <li>
+                                        <a href="//globalnews.ca/pages/email-alerts/">
+                                            <span class="social-icon"><span class="icon newsletter-text-icon">@</span></span>
+                                            <span>Newsletter</span>
+                                        </a>
+									</li>
+	                                <li>
+	                                    <a href="https://www.youtube.com/globalnews">
+	                                        <span class="social-icon"><span class="icon icon-youtube-white"></span></span>
+	                                        <span>Youtube</span>
+	                                    </a>
+									</li>
+									<li>
+										<a href="/pages/alexa/">
+											<span class="social-icon"><span class="icon icon-alexa-white"></span></span>
+											<span>Alexa</span>
+										</a>
+									</li>
+									<li>
+										<a href="/pages/notifications/">
+											<span class="social-icon"><span class="icon icon-notifications-white"></span></span>
+											<span>Notifications</span>
+										</a>
+									</li>
+                                </ul>
+                            </nav>
+                        </div><!-- /.social -->
+                    </section>
+                    <section>
+                        <div class="sections">
+                            <!-- Global News -->
+                            <h3>Global News</h3>
+                            <nav role="navigation">
+                                <ul>
+                                    <li><a href="/pages/about/">About Us</a></li>
+                                    <li><a href="http://www.corusent.com/privacy-policy/" target="_blank">Privacy Policy</a></li>
+									<li><a href="/pages/principles-practices/">Principles &amp; Practices</a></li>
+                                    <li><a href="http://www.shawmedia.ca/copyright.asp" target="_blank">Copyright</a></li>
+                                    <li><a href="https://www.corusent.com/media-centre/brands/" target="_blank">Corus Entertainment</a></li>
+                                    <li><a href="https://www.corusent.com/about/our-brands/" target="_blank">Advertise</a></li>
+                                    <li><a href="http://www.corusent.com/terms-and-conditions/" target="_blank">Advertising Standard Terms</a></li>
+                                    <li><a href="http://www.corusent.com/terms-of-use/" target="_blank">Terms of Use</a></li>
+                                    <li><a href="/branded-content/">Branded Content</a></li>
+                                    <li><a href="/tag/open-data/">Open Data</a></li>
+                                </ul>
+                            </nav>
+                        </div> <!-- /.sections -->
+                    </section>
+					<div class="copyright">&copy; 2018 Global News, a division of Corus Entertainment Inc. Corus News. All rights reserved.
+
+
+					</div>
+										<div class="copyright" style="padding-top:0;">
+													<a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=globalnews.ca" rel="generator nofollow" class="powered-by-wpcom"><img src="https://s2.wp.com/wp-content/themes/vip/plugins/vip-do-not-include-on-wpcom/vip-powered-wpcom/images/vip-powered-light-small.png" width="187" height="26" alt="Powered by WordPress.com VIP" /></a>											</div>
+					<!-- wpcom_wp_footer -->
+		<script type="text/javascript">
+						var _sf_async_config={};
+			_sf_async_config.uid = "51927";
+			_sf_async_config.domain = "globalnews.ca";
+			_sf_async_config.useCanonical = "true";
+			 _sf_async_config.authors = "adambrilzyeg";
+			_sf_async_config.sections = "_calg, _edm, _leth, Health";
+					(function(){
+			        function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src', "\/\/static.chartbeat.com\/js\/chartbeat.js" );
+					document.body.appendChild(e);
+				  }
+				  var oldonload = window.onload;
+				  window.onload = (typeof window.onload != 'function') ?
+					 loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+				})();
+		</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/shawglobalnews.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/shawglobalnews.wordpress.com\/wp-login.php?action=logout&_wpnonce=cf74eacee3","homeURL":"https:\/\/globalnews.ca\/","postID":"4453585","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1521806916j'></script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??/wp-content/js/devicepx.js,/wp-content/mu-plugins/likes/queuehandler.js?m=1519172360j'></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"https:\/\/s2.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"1","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gnca_notification_settings = {"current_post_id":"4453585","non_subscriber_only":"","opt_out_supported":"1","auto_close":"","browser_tab_count":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJydkNFSAyEMRX9Iitt2Hx2/hYXIZgsJQiju34ud0bEddac+ETLn3EyiW1KWSYBEx6pSqB6paGkoAllNwdjThNmphKATkEPyu6U86Hs8gjPkaxfJhuqg6KVLM3aY376KPwbs1RnTh9QfZciEVdCWW0FmiHBhdJlNUz7wZAJBu8yLSNqTNYpY8AWtEWTa9e79McJJFeGMUP4XAA67XvqZ7Okq4vuBltcKedUVteUM21RD50G2ucQFb3f/mYxA9Teqf80wrNshpgpbjimAfC7xHJ+G8TA+jvvjcVjeAUxg8vs='></script>
+<script type='text/javascript' src='//platform.twitter.com/widgets.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVzcEOgjAMBuAXslQ0qBfjs3RQobiVZR0s8eldPHjywq35+/crlgj9opk1Y544sOEmEW2iAqNfHHnlYjgbBlEctSd41jqYvLmpUTPbAfcbhak2E1CMjlQ52X7Mi/uCFr3kKP0/IawQ/TqKGtJQ9+AoYSDLnOoEy8YpyVB//LKdQk7Uv6wePcK97U7Hrr3cruf5A8iHf6A='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+_sf_async_config.sections = "_calg,_edm,_leth,Health";
+</script><script src="//stats.wp.com/w.js?56" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'43869434','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'43869434','v':'wpcom','tz':'-4','user_id':'0','post':'4453585','subd':'shawglobalnews'}]);
+function st_vt() {var x=document.createElement("img");x.src="https://pixel.wp.com/g.gif?blog=43869434&v=wpcomvt&tz=-4&user_id=0&post=4453585&subd=shawglobalnews&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtib2E/SzdEJm0lUEtbdFU0fFk4cHZvcUFrZT90Tn4yQm1+R3NyNTcwSXdvY1QlZC40dD9iYzlIZ11Rd2xMeDlZb2V2bE9TeVJRXUFkYVJ0MU5uRHZbRXFtVmYwbE18bEgyR3p+b1Q9dz9wYnZRZDVdVFV2NV1xVDE5MVMmVTNxcFFMfnpLLltmSUJGY3cuU1BhZFt3R211b3Rpa1pfR1Q9MXJ2bWI5bm9ndkNkZ3JbVDd0cF9RVnZVOF1oZiU1TixRUFF2ZVo/PzAvcGZZfHBQM2MuTUhbWTN4ZUt0SGI9bXVJdSZybkds'}]);
+_stq.push([ 'clickTrackerInit', '43869434', '4453585' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>					<span id="div-gpt-gnca-ads-6872-11-1" >
+							<script type='text/javascript'>
+	    googletag.cmd.push(function() {
+				    	
+			googletag.display("div-gpt-gnca-ads-6872-11-1");
+			      	});
+	</script>	
+					</span>
+					<script language="javascript">
+										function gnca_outer_ad_pixel_call_from_footer( gnca_image , color ) {
+						gNewsWP.Ads.showWallpaper( gnca_image, color );
+					}
+					// Wallpaper ad with a fixed background attachment
+					function gnca_outer_ad_pixel_call_from_footer_fixed( gnca_image , color , attachment ) {
+						gNewsWP.Ads.showWallpaper( gnca_image, color, attachment );
+					}
+					// Wallpaper ad with an optional background fixed/scroll
+					function gnca_outer_ad_pixel_call_from_footer_scroll_option( gnca_image , color , attachment ) {
+						if ( attachment !== undefined && attachment === true ) {
+							gnca_outer_ad_pixel_call_from_footer_fixed( gnca_image , color , attachment );
+						} else {
+							gnca_outer_ad_pixel_call_from_footer( gnca_image , color );
+						}
+					}
+										function gnca_countdown_start( settings ) {
+						gNewsWP.Ads.startCountDownClock( settings );
+					}
+					function gnca_render_instream_otf( hid, par_elem ) {
+						render_content_otf_ad_wrapper( hid, par_elem );
+					}
+					function gnca_branded_content_in_story( settings ) {
+						gNewsWP.Ads.brandedContentInStory( settings );
+					}
+					//Sliding expiration
+					if(!jQuery.cookie("_wpcom_geo_exp") ){
+						var region = jQuery.cookie("_wpcom_geo");
+						if( region ){
+							if( region === 'default' || region === 'gnca-default' ) {
+								region = 'gnca-national';
+							}
+							jQuery.cookie('_wpcom_geo',  region, { expires:90, path:'/' });
+							jQuery.cookie('_wpcom_geo_exp',  region, { expires:60, path:'/' });
+						}
+					}
+					
+					// re-geo hamilton users
+					var currentgeo = jQuery.cookie("_wpcom_geo");
+					if( 'gnca-hamilton' === currentgeo && !jQuery.cookie("_gnca_regeo_hml") ) {
+						try {
+								jQuery.getJSON( 'https://public-api.wordpress.com/geo/', function( data ){
+									if( data.region && data.city ) {
+										var re_geo_loc = data.city.toUpperCase() + ' ' + data.region.toUpperCase();
+										if( 'HAMILTON ONTARIO' !== re_geo_loc ) { 
+											jQuery.removeCookie('_wpcom_geo', { path: '/' } ); // remove cookie if not geo'd to hamilton
+											jQuery.removeCookie('_wpcom_geo_exp', { path: '/' } ); // remove cookie if not geo'd to hamilton
+										}
+									}
+								});
+								jQuery.cookie( '_gnca_regeo_hml','yes', { expires:90, path:'/' } );
+								
+						} catch(e){}
+					} 
+										</script>
+                </footer>
+            </div>
+        </div>
+		
+						<script type="text/javascript">
+			/* You may give each page an identifying name, server, and channel on the next lines. */
+			if( typeof s == "undefined" ) { s = { };s.t=function(){return false} }
+			
+		if ( typeof( OmnitureHelper ) !== 'undefined' ) {
+			OmnitureHelper.setPageSections( ["news","u of a researcher finds rising trend of obesity discrimination"] );
+							OmnitureHelper.setContextData( "hourofday", "15" );
+							OmnitureHelper.setContextData( "dayofweek", "Tuesday" );
+							OmnitureHelper.setContextData( "weekdayweekend", "Weekday" );
+							OmnitureHelper.setContextData( "userregion", "national" );
+							OmnitureHelper.setContextData( "region", "national" );
+							OmnitureHelper.setContextData( "publishdate", "2018\/09\/15" );
+							OmnitureHelper.setContextData( "template", "regular" );
+							OmnitureHelper.setContextData( "author.name", "Adam Brilz" );
+							OmnitureHelper.setContextData( "category", "Health" );
+							OmnitureHelper.setContextData( "tag", "Discrimination,Obese,Obesity,U Of A,weight loss" );
+							OmnitureHelper.setContextData( "primarytag", "Obesity" );
+							OmnitureHelper.setContextData( "contenttype", "news" );
+							OmnitureHelper.setContextData( "contentid", 4453585 );
+							OmnitureHelper.setContextData( "radio.station", "630ched,inews880" );
+								}
+
+						if ( typeof( OmnitureHelper ) !== 'undefined' ) {
+					OmnitureHelper.track();
+				}
+		</script>
+		<!-- End SiteCatalyst code version: JS-2.6.0. -->
+			<script type="text/javascript">
+		if ( typeof KruxHelper !== 'undefined' ) {
+		//	KruxHelper.track("KmBBKjN2");
+			KruxHelper.setData();
+		}
+	</script>
+		<script>
+			var _comscore = _comscore || []; 
+			_comscore.push({ c1: "2", c2: "3005660", c3: "", options: { url_append: "comscorekw=national" } });
+			(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+		</script>
+		<noscript>
+			<img src="https://sb.scorecardresearch.com/p?c1=2&c2=3005660&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" />
+		</noscript>
+				
+					<script src="https://static.freeskreen.com/ba/31/freeskreen.min.js"></script>
+				
+		<script>
+			if( 'serviceWorker' in navigator ) {
+				navigator.serviceWorker.register( "/serviceworker.js", { 'scope' : '/' } );					
+			}	
+		</script>
+		
+		
+			</body>
+</html>
+<!--
+	generated in 0.272 seconds
+	170056 bytes batcached for 300 seconds
+-->

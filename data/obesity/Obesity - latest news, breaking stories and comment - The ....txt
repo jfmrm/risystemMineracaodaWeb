@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html class="lt-ie9">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en">
+  <!--<![endif]-->
+  <head>
+    <title>Page not found | The Independent</title>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="preload" href="https://static.independent.co.uk/s3fs-public/font/Fira-Sans-Extrabold.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://static.independent.co.uk/s3fs-public/font/Fira-Sans-Bold.woff2" as="font" type="font/woff2" crossorigin>
+
+    
+    <!-- HEAD -->
+    <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="apple-itunes-app" content="app-id=473985355, affiliate-data=1l3v95Z" />
+<link rel="dns-prefetch" href="//static.independent.co.uk" />
+
+    <!-- PRE HEAD INLINE -->
+    <script>var _sf_startpt=(new Date()).getTime();
+
+
+;
+var gptPath = "-";
+
+
+;
+var s_account = "indepdev";
+
+
+;
+</script>    <!-- SCRIPTS -->
+
+    <!-- STYLES -->
+    <style type="text/css" media="all">
+@import url("//www.independent.co.uk/modules/system/system.base.css?pf9cav");
+@import url("//www.independent.co.uk/modules/system/system.menus.css?pf9cav");
+@import url("//www.independent.co.uk/modules/system/system.messages.css?pf9cav");
+@import url("//www.independent.co.uk/modules/system/system.theme.css?pf9cav");
+</style>
+<style type="text/css" media="all">
+@import url("//www.independent.co.uk/modules/field/theme/field.css?pf9cav");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/scald/modules/fields/mee/css/editor-global.css?pf9cav");
+@import url("//www.independent.co.uk/modules/node/node.css?pf9cav");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/picture/picture_wysiwyg.css?pf9cav");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/scald_file/scald_file.css?pf9cav");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/views/css/views.css?pf9cav");
+@import url("//www.independent.co.uk/sites/all/modules/contrib/ckeditor/css/ckeditor.css?pf9cav");
+</style>
+<style type="text/css" media="all">
+@import url("//www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/css/style.css?pf9cav");
+</style>
+    
+        <!-- HARDCODED -->
+    <script type="text/javascript">
+      var articleId = 'index';
+      var pageType = 'index';
+    </script>
+    <script type="text/javascript" src="//www.independent.co.uk/sites/all/libraries/modernizr/modernizr-custom.js?pf9cav"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="//www.independent.co.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="//www.independent.co.uk/misc/drupal.js?pf9cav"></script>
+<script type="text/javascript" src="//www.independent.co.uk/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" defer="defer" async="async" src="//www.independent.co.uk/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script type="text/javascript" defer="defer" async="async" src="//www.independent.co.uk/sites/all/modules/contrib/picture/picture.min.js?v=7.59"></script>
+<script type="text/javascript" src="//www.independent.co.uk/profiles/ines/modules/ines_js/js/ines_helper.min.js?pf9cav"></script>
+<script type="text/javascript" src="//www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/js/adunit_define.js?pf9cav"></script>
+<script type="text/javascript" src="//www.independent.co.uk/sites/all/modules/custom/pugpig/core/js/pugpig.js?pf9cav"></script>
+<script type="text/javascript" src="//www.independent.co.uk/sites/all/modules/contrib/google_analytics/googleanalytics.js?pf9cav"></script>
+<script type="text/javascript" src="//www.independent.co.uk/profiles/ines/modules/ines_scald_videos_external/ines_scald_videos_external.js?pf9cav"></script>
+<script type="text/javascript" src="//www.independent.co.uk/profiles/ines/modules/ines_gigya/js/indy/gigya.helpers.js?pf9cav"></script>
+<script type="text/javascript" src="//www.independent.co.uk/profiles/ines/modules/ines_gigya/js/indy/gigya.ui.js?pf9cav"></script>
+<script type="text/javascript" src="//www.independent.co.uk/profiles/ines/modules/ines_layout_config/js/layout_grid.feeds.js?pf9cav"></script>
+<script type="text/javascript" src="//www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/gigya.session.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" async="async" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script type="text/javascript" defer="defer" src="//js-sec.indexww.com/ht/p/184658-111437137524152.js"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/profiles/ines/modules/ines_js/js/ines_js.defer.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/profiles/ines/modules/ines_commercial/ines_commercial_ads/js/commercial.lazy_ads.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/profiles/ines/modules/ines_js/js/in/html.tpl.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/vendor/jquery.lazyload.min.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/vendor/jquery.timeago.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/vendor/stickyfill.min.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/ines-lazy-load.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/ines-share-init.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/sites/all/themes/ines_themes/independent_theme/js/sitecatalyst.masthead_tracking.js?pf9cav"></script>
+<script type="text/javascript" defer="defer" src="//www.independent.co.uk/sites/all/themes/ines_themes/ines_theme/js/main.js?pf9cav"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"independent_theme","theme_token":"NEB3cW6ALEI1o79XRDyEiF2gIcKOlP5GSh8icmbq7o0","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/scald\/modules\/fields\/mee\/css\/editor-global.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/contrib\/scald_file\/scald_file.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/ines_themes\/ines_theme\/css\/style.css":1,"sites\/all\/themes\/ines_themes\/independent_theme\/css\/style.css":1},"js":{"sites\/all\/libraries\/modernizr\/modernizr-custom.js":1,"\/\/code.jquery.com\/jquery-2.1.4.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/ines\/modules\/ines_js\/js\/ines_helper.min.js":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/adunit_define.js":1,"sites\/all\/modules\/custom\/pugpig\/core\/js\/pugpig.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"profiles\/ines\/modules\/ines_scald_videos_external\/ines_scald_videos_external.js":1,"profiles\/ines\/modules\/ines_gigya\/js\/indy\/gigya.helpers.js":1,"profiles\/ines\/modules\/ines_gigya\/js\/indy\/gigya.ui.js":1,"profiles\/ines\/modules\/ines_layout_config\/js\/layout_grid.feeds.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/gigya.session.js":1,"https:\/\/sadmin.brightcove.com\/js\/BrightcoveExperiences.js":1,"\/\/js-sec.indexww.com\/ht\/p\/184658-111437137524152.js":1,"profiles\/ines\/modules\/ines_js\/js\/ines_js.defer.js":1,"profiles\/ines\/modules\/ines_commercial\/ines_commercial_ads\/js\/commercial.lazy_ads.js":1,"profiles\/ines\/modules\/ines_js\/js\/in\/html.tpl.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/vendor\/jquery.lazyload.min.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/vendor\/jquery.timeago.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/vendor\/stickyfill.min.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/ines-lazy-load.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/ines-share-init.js":1,"sites\/all\/themes\/ines_themes\/independent_theme\/js\/sitecatalyst.masthead_tracking.js":1,"sites\/all\/themes\/ines_themes\/ines_theme\/js\/main.js":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/topic\/Obesity\u0026sa=U\u0026ved=0ahUKEwi9_K_hp8XdAhXDjpAKHdo7DIM4MhAWCBowAQ\u0026usg=AOvVaw1cYfnKUiMTKR9KGECvWO7_":true},"ines_commercial_ads":{"sra_enable":1},"commercial_ads":{"gptSlots":[],"lazy_gptSlots":["partner1","partner2","partner3","partner4","partner5","partner6","partner7","partner8","partner9","partner10","mpu1","mpu2","mpu3","mpu4","mpu5","mpu6","mpu7","mpu8","mpu9","mpu10","mpu11","mpu12","mpu13","mpu14","perform"],"breakpoints":{"750":[{"slot":"leaderboard","slotWidth":"320"}],"1050":[{"slot":"leaderboard","slotWidth":"728"}]}},"inesGigya":{"gigyaPath":"http:\/\/www.independent.co.uk"},"js":{"tokens":[]},"ines_share":{"fbAppId":"235586169789578"},"js_defer":{"onLoad":[],"onReady":[{"src":"\/\/native.sharethrough.com\/assets\/sfp.js"},{"src":"\/\/esi.gscontxt.net\/independent\/channels.cgi?url=http%3A%2F%2Fwww.independent.co.uk%2Ftopic%2FObesity%26sa%3DU%26ved%3D0ahUKEwi9_K_hp8XdAhXDjpAKHdo7DIM4MhAWCBowAQ%26usg%3DAOvVaw1cYfnKUiMTKR9KGECvWO7_"},{"src":"https:\/\/hammerjs.github.io\/dist\/hammer.min.js","id":"hammerjs","modernizr":"touchevents"},{"src":"https:\/\/cdns.gigya.com\/JS\/gigya.js?apiKey=2_bkQWNsWGVZf-fA4GnOiUOYdGuROCvoMoEN4WMj6_YBq4iecWA-Jp9D2GZCLbzON4","id":"gigya"}],"dependant":{"hammerjs":[{"src":"https:\/\/www.independent.co.uk\/profiles\/ines\/modules\/ines_device\/js\/ines_device.js"}],"gigya":[{"src":"https:\/\/www.independent.co.uk\/profiles\/ines\/modules\/ines_gigya\/js\/gigya.validate.js"}]}}});
+//--><!]]>
+</script>
+    <!-- POST HEAD INLINE -->
+      </head>
+  <body class="not-front">
+    <!-- PAGE TOP -->
+        <!-- PAGE -->
+    <header id="masthead">
+  <a href="/" title="Home">
+    <span class="logo"></span>
+  </a>
+  <ul id="dynamic-header">
+    <a href="/" title="Home">
+      <li class="logotype active">
+        <span class="logo-full"></span>
+      </li>
+    </a>
+  </ul>
+
+  <nav>
+    <ol></ol>  </nav>
+  <ol id="meta-nav">
+    <li class="search">
+      <a href="#" class="icon-search dropdown-toggle" title="Search"></a>
+      <form class="search-form search search" action="/topic/Obesity&amp;sa=U&amp;ved=0ahUKEwi9_K_hp8XdAhXDjpAKHdo7DIM4MhAWCBowAQ&amp;usg=AOvVaw1cYfnKUiMTKR9KGECvWO7_" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline search-container search-container form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label for="edit-keys"> </label>
+ <input placeholder="Search" autofocus="1" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><input type="hidden" name="get" value="{&quot;destination&quot;:&quot;topic\/Obesity&amp;sa=U&amp;ved=0ahUKEwi9_K_hp8XdAhXDjpAKHdo7DIM4MhAWCBowAQ&amp;usg=AOvVaw1cYfnKUiMTKR9KGECvWO7_&quot;}" />
+</div><input type="hidden" name="form_build_id" value="form-DgW45Upec1Nc2y3XQb7XxE9HMtNZcJ_uqIB1zkVCchc" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+</div></form>    </li>
+    <li class="account">
+      <a href="#" class="icon-user dropdown-toggle" title="Account"></a>
+      <ul class="dropdown-menu"></ul>    </li>
+    <li class="toggle-menu">
+      <a href="#" class="icon-menu" title="Toggle menu"></a>
+    </li>
+  </ol>
+
+  <div id="menu">
+    <form class="search-form search search" action="/topic/Obesity&amp;sa=U&amp;ved=0ahUKEwi9_K_hp8XdAhXDjpAKHdo7DIM4MhAWCBowAQ&amp;usg=AOvVaw1cYfnKUiMTKR9KGECvWO7_" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline search-container search-container form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+  <label for="edit-keys"> </label>
+ <input placeholder="Search" autofocus="1" type="text" id="edit-keys" name="keys" value="" size="20" maxlength="255" class="form-text" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /><input type="hidden" name="get" value="{&quot;destination&quot;:&quot;topic\/Obesity&amp;sa=U&amp;ved=0ahUKEwi9_K_hp8XdAhXDjpAKHdo7DIM4MhAWCBowAQ&amp;usg=AOvVaw1cYfnKUiMTKR9KGECvWO7_&quot;}" />
+</div><input type="hidden" name="form_build_id" value="form-DgW45Upec1Nc2y3XQb7XxE9HMtNZcJ_uqIB1zkVCchc" />
+<input type="hidden" name="form_id" value="apachesolr_search_custom_page_search_form" />
+</div></form>    <ul class="topics"></ul>  </div>
+</header>
+<div id="content">
+    <div class="page-not-found">
+    <h1>Page not found...</h1>
+    <div class="intro">
+      <p>Sorry – we can't find that page</p>
+      <br>
+      <p>The address could have been entered incorrectly, or the page could have gone missing.</p>
+      <br>
+      <p>Please click <a href="http://www.independent.co.uk/">here for the homepage</a> or <a href="/search/site">here to search the site</a>.</p>
+    </div>
+  </div>
+  <footer id="mastfooter">
+    <div class="stamp"></div>
+    <ul class="follow">
+      <li>Follow us:</li>
+      <li>
+        <a href="https://www.facebook.com/TheIndependentOnline" target="_blank" title="Facebook" class="icon-facebook"></a>
+      </li>
+      <li>
+        <a href="https://twitter.com/independent" target="_blank" title="Twitter" class="icon-twitter"></a>
+      </li>
+    </ul>
+    <ul class="links"></ul>  </footer>
+</div>
+
+    <!-- PRE FOOTER INLINE -->
+    <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-27212627-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");
+
+
+;
+</script>    <!-- PAGE BOTTOM -->
+      <div class="region region-page-bottom">
+    <!-- SiteCatalyst code version: h.27.5.
+Copyright 1996-2018 Adobe, Inc. -->
+<script type="text/javascript" src="//www.independent.co.uk/sites/all/libraries/sitecatalyst/ind_am_code.js?pf9cav"></script>
+<script type="text/javascript"><!--
+
+s.prop18="New Site";
+s.prop6="";
+s.prop7="";
+s.server="www.independent.co.uk";
+s.pageName="";
+s.hier1="service";
+s.pageType="errorPage";
+s.prop2="404";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript><img src="http://independent.122.2o7.net/b/ss/indepdev/1/H.27.5--NS/0?[AQB]&amp;cdp=3&amp;[AQE]/2599005" height="1" width="1" alt=""></noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: h.27.5. -->
+<div class="adblock-modal adblock" style="display: none;">
+  <aside class="adblock-notice">
+    <div class="ctrl"><button class="close" data-action="close">Close</button></div>
+    <h2><span class="logo"></span></h2>
+    <div class="adblock-container main">
+      <div class="content">
+        <p><strong>We've noticed that you are using an ad blocker.</strong></p>
+<p>Advertising helps fund our journalism and keep it truly independent. It helps to build our international editorial team, from war correspondents to investigative reporters, commentators to critics.</p>
+<div class="content-section">
+  <p><a data-toggle="instructions" href="javascript:void(0);">Click here to view instructions</a> on how to disable your ad blocker, and help us to keep providing you with free-thinking journalism - for free.</p>
+  <p>Thank you for your support.</p>
+</div>      </div>
+    </div>
+    <div class="adblock-container instructions">
+      <p><strong>How to disable your ad blocker for <span class="site-url">independent.co.uk</span></strong></p>
+<h3 class="ad-block-icon"> Adblock / Adblock Plus</h3>
+<ul>
+  <li>Click the Adblock/Adblock Plus icon, which is to the right of your address bar.</li>
+  <li>On Adblock click "Don't run on pages on this domain".</li>
+  <li>On Adblock Plus click "Enabled on this site" to disable ad blocking for the current website you are on. If you are in Firefox click "disable on <span class="site-url">independent.co.uk</span>".</li>
+</ul>
+<h3 class="firefox-icon">Firefox Tracking Protection</h3>
+<ul>
+  <li>If you are Private Browsing in Firefox, "Tracking Protection" may cause the adblock notice to show. It can be temporarily disabled by clicking the "shield" icon in the address bar.</li>
+</ul>
+<h3 class="ghostery-icon">Ghostery</h3>
+<ul>
+  <li>Click the Ghostery icon.</li>
+  <li>In versions before 6.0 click "whitelist site".</li>
+  <li>In version 6.0 click "trust site" or add <span class="site-url">independent.co.uk</span> to your Trusted Site list.</li>
+  <li>In versions before 6.0 you will see the message "Site is whitelisted".</li>
+  <li>Click "reload the page to see your changes".</li>
+</ul>
+<h3 class="ublock-icon">uBlock</h3>
+<ul>
+  <li>Click the uBlock icon.</li>
+  <li>Then click the big power button to whitelist the current web site, and its state will be remembered next time you visit the web site.</li>
+  <li>Then reload the page.</li>
+</ul>    </div>
+  </aside>
+</div>
+<div class="adblock-modal adblock-confirm" style="display: none;">
+  <aside class="adblock-notice">
+    <div class="ctrl"><button class="close" data-action="close">Close</button></div>
+    <h2><span class="logo"></span></h2>
+    <div class="adblock-container main">
+      <div class="content">
+        <p>Thank you for supporting <span class="site-url">independent.co.uk</span></p>      </div>
+      <button data-action="close">Continue to our site</button>
+    </div>
+  </aside>
+</div>
+  </div>
+    <!-- POST FOOTER INLINE -->
+    <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/2.1/jquery.min.js'>\x3C/script>")
+
+
+;
+document.createElement( "picture" );
+
+
+;
+//Add js: Temp inskin grid recalculate patch 
+jQuery(function(){
+   function show_inskin(){
+       Drupal.behaviors.grid.recalculate();
+       window.setTimeout( show_inskin, 1000 );
+   };
+   window.setTimeout( show_inskin, 1000 );
+});
+
+
+
+;
+//Add js: jQuery Alias 
+var $ = jQuery;
+
+
+;
+//Add js: Hola 
+(function() {
+    var vhola = document.createElement("script");
+    vhola.async = true;
+    vhola.type = "text/javascript";
+    vhola.crossOrigin = "Anonymous";
+
+    var useSSL = "https:" == document.location.protocol;
+    vhola.src = (useSSL ? "https:" : "http:") + "//player.h-cdn.com/loader.js?customer=independent_co_uk";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(vhola, node);
+
+    if (!window.videojs)
+        return;
+
+    function init_hola() {
+        window.hola_cdn.init_independent_co_uk();
+    }
+    if (window.hola_cdn)
+        init_hola();
+    else
+        window.hola_cdn_on_load = init_hola;
+})();
+
+
+;
+//Add js: PageFair AdBlock Detection 
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = '50DD925A1FA64A66';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+
+
+;
+//Add js: GDPR Compliance Message 
+var __cmp = (function () {
+  return typeof (__cmp) == "function" ? __cmp : function (c) {
+    var b = arguments;
+    if (!b.length) {
+      return __cmp.a;
+    } else if (c == '__cmp')
+      return false;
+    else {
+      if (typeof __cmp.a === 'undefined') {
+        __cmp.a = [];
+      }
+      __cmp.a.push([].slice.apply(b));
+    }
+  }
+})();
+
+var elem = document.createElement('script');
+elem.src = "https://quantcast.mgr.consensu.org/cmp.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+
+window.__cmp('init', {
+  'Display UI': 'inEU',
+  /* Values can be "always" (all locations), "inEU" (EU users only) or "never" (UI will never be shown)*/
+  'Min Days Between UI Displays': 395,
+  /* Number of days  */
+  'Publisher Name': 'The Independent',
+  /* Make sure you replace with your company name here */
+  'Initial Screen Title Text': 'We value your privacy',
+  'Initial Screen Body Text': "The Independent and its partners use cookies and similar technology to collect and analyse information about the users of this website. We use this information to enhance the content, advertising and other services available on the site. Please click 'I accept' to consent to the use of this technology by The Independent and its partners. You can manage your preferences at any time by returning to the “Cookies” link in the footer of the website.",
+  'Initial Screen Reject Button Text': 'Find out more',
+  'Initial Screen Accept Button Text': 'I accept',
+  'Initial Screen Purpose Link Text': 'Show purposes',
+  'Purpose Screen Header Title Text': 'Manage preferences',
+  'Purpose Screen Title Text': 'Purposes for which we use your data',
+  'Purpose Screen Body Text': "The Independent uses your data in the following ways to help us deliver the best content and services to you.  You can consent to the companies listed under each purpose by clicking the toggle on or off.  You can change your mind and revisit your consent choices at anytime by returning to this site via the cookies link in the footer of every page.",
+  'Purpose Screen Enable All Button Text': 'Enable all purposes',
+  'Purpose Screen Vendor Link Text': 'See full vendor list',
+  'Purpose Screen Cancel Button Text': 'Cancel',
+  'Purpose Screen Save and Exit Button Text': 'Save & exit',
+  'Vendor Screen Title Text': 'We value your privacy',
+  'Vendor Screen Body Text': 'The Independent uses these partners to help us deliver the best content and services to you.  You can consent to the companies listed here by clicking the toggle on or off.  You can change your mind and revisit your consent choices at any time by returning to this site via the cookies link in the footer of every page.',
+  'Vendor Screen Reject All Button Text': 'Reject all',
+  'Vendor Screen Accept All Button Text': 'Accept all',
+  'Vendor Screen Purposes Link Text': 'Back to purposes',
+  'Vendor Screen Cancel Button Text': 'Cancel',
+  'Vendor Screen Save and Exit Button Text': 'Save & exit',
+  'Post Consent Page': 'https://www.independent.co.uk/service/privacy-policy-a6184181.html',
+  'UI Layout': 'banner',
+  //'Publisher Purpose IDs': [1,2,3,4,5],
+  'No Option': false,
+  'Default Value for Toggles': 'on',
+  'Display Persistent Consent Link': false,
+  'Publisher Vendor List URL': 'https://www.independent.co.uk/.well-known/pubvendors.json'
+});
+
+var CmpCss = `
+  body .qc-cmp-ui-container{background:none!important}.qc-cmp-ui-showing{overflow:auto!important}.qc-cmp-ui-container .qc-cmp-ui{background-color:#777!important;opacity:0.97!important;min-height:unset!important}body .qc-cmp-ui{position:fixed;bottom:0;max-width:100%;width:100%}body .qc-cmp-alt-buttons{padding-bottom:10px!important}body .qc-cmp-button{background-color:#1ebb1e!important;border:none!important;color:#fff!important;font-family:Fira Sans,Arial,sans-serif!important;font-size:16px!important;height:48px!important;letter-spacing:.2px!important;text-transform:none!important}.qc-cmp-button.qc-cmp-secondary-button{background-color:#888!important}.qc-cmp-button.qc-cmp-secondary-button:hover{background-color:#444!important}.qc-cmp-button:hover{background-color:#176017!important}.qc-cmp-ui-container a:hover{color:#DADFE1}.qc-cmp-toggle{background-color:#ec1a2e!important;border:none!important}.qc-cmp-toggle-on{background-color:#1dc11d!important}#qcCmpButtons .qc-cmp-secondary-button{display:none!important}.qc-cmp-publisher-logo{width:60px!important}.qc-cmp-main-messaging,.qc-cmp-title,.qc-cmp-alt-action,.qc-cmp-toggle-status,.qc-cmp-purpose-info,.qc-cmp-beta-messaging,.qc-cmp-messaging,.qc-cmp-ui-container p,.qc-cmp-sub-title,.qc-cmp-company-cell,.qc-cmp-enabled-cell{color:#fff!important}.qc-cmp-bold-messaging{margin:10px 0 20px!important;font-size:19px!important}.qc-cmp-table,.qc-cmp-scrolling-section{border:none!important}.qc-cmp-publisher-purposes-table,.qc-cmp-table-header{display:none}.qc-cmp-ui-content{padding:15px!important}.qc-cmp-title{line-height:35px!important}.qc-cmp-main-messaging{font-size:14px!important}.qc-cmp-ui-content .qc-cmp-qc-link-container{display:none!important;height:0px!important;width:0px!important;padding:0px!important;margin:0px!important}@media only screen and (max-width:500px){.qc-cmp-ui-container{top:unset!important}.qc-cmp-publisher-logo{padding-top:10px!important}.qc-cmp-title{font-size:23px!important;line-height:21px!important}.qc-cmp-main-messaging{padding:10px 0!important;font-size:11px!important;line-height:13px!important}.qc-cmp-alt-action,.qc-cmp-table,.qc-cmp-messaging{font-size:12px!important}.qc-cmp-qc-link-container{height:0px!important;width:0px!important;padding:0px!important;margin:0px!important}}@media screen and (max-width:850px){.qc-cmp-buttons{padding-top:10px!important}}
+  `,
+  head = document.head || document.getElementsByTagName('head')[0],
+  style = document.createElement('style');
+
+style.type = 'text/css';
+if (style.styleSheet) {
+  style.styleSheet.cssText = css;
+} else {
+  style.appendChild(document.createTextNode(CmpCss));
+}
+
+head.appendChild(style);
+
+// Event tracking
+function httpGet(cVal) {
+  var cVal = encodeURI(cVal);
+  var theUrl = 'https://ssc.independent.co.uk/b/ss/indepdev/1/h.27.5./s4450766658417'
+  var theParams = 'c36=CMP-' + cVal + '&events=event15&server=www.independent.co.uk&z=RANDOM';
+  var xmlHttp = new XMLHttpRequest();
+  xmlHttp.open("POST", theUrl, false);
+  xmlHttp.send(theParams);
+  console.log(theParams);
+}
+document.addEventListener("click", cmpListener);
+
+function cmpListener(event) {
+  var element = event.target;
+  if (
+    element.classList.contains("qc-cmp-button") ||
+    element.classList.contains("qc-cmp-save-and-exit") ||
+    element.classList.contains("qc-cmp-cancel") ||
+    element.classList.contains("qc-cmp-secondary-button") ||
+    element.classList.contains("qc-cmp-alt-action")
+  ) {
+    httpGet(element.innerText);
+  }
+}
+
+
+;
+jQuery.extend(Drupal.settings, { "themeName": "independent_theme" });
+
+
+;
+jQuery.extend(Drupal.settings, { "s_account": "indepdev" });
+
+
+;
+(function($) {
+  var test = document.createElement('div');
+  test.innerHTML = '&nbsp;';
+  test.className = 'adsbox';
+  
+  function detectOnload(){
+    document.body.appendChild(test);
+    if (test.offsetHeight === 0) {
+      document.body.classList.add('adblock');
+      $('body').trigger('AdblockDetected');
+      // add GA Events if defined
+      if(typeof ga !== 'undefined'){
+        ga('send', 'event', 'Adblock', 'Blocked', location.href);
+      }
+    } else {
+      $('body').trigger('AdblockNotDetected');
+      // add GA Events if defined
+      if(typeof ga !== 'undefined'){
+        ga('send', 'event', 'Adblock', 'Unblocked', location.href);
+      }
+      // Old var should be depricat4d but used elsewhere
+      window.runAds = true;
+    }
+    test.remove();
+  }
+  
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ? detectOnload : function() {
+    oldonload();
+    detectOnload();
+  };
+     
+}) (jQuery);
+
+
+;
+(function($) {
+  $('body').on('AdblockDetected', function() {
+    // check for mobile with helper
+if (typeof window.helper.isMobile !== 'undefined' && !window.helper.isMobile.any()){
+  var adblock_cookie = window.helper.getCookie('adblock_detected');
+  if (adblock_cookie !== 'ignored'){
+    $('.adblock.adblock-modal').css('display', 'block').appendTo('body');
+    window.helper.createCookie('adblock_detected', 'detected', 1);
+    $('.adblock-modal [data-action="close"]').click(function(e){ 
+      window.helper.createCookie('adblock_detected', 'ignored', 30);
+      $('.adblock-modal').remove(); 
+    });
+    $( window ).resize(function() {
+      var height = $(window).height();
+      var container = $('.adblock-modal .adblock-container').filter(':visible');
+      container.height('auto'); 
+      container.css('overflow-y', '');
+      if (container.height() > $(window).height() - 190){
+        container.height($(window).height() - 190);
+        container.css('overflow-y', 'scroll');
+      }
+    });
+    $(window).trigger('resize');
+  }
+}
+  });
+}) (jQuery);
+
+
+;
+(function($) {
+  $('body').on('AdblockNotDetected', function() {
+    var adblock_cookie = window.helper.getCookie('adblock_detected');
+if (adblock_cookie) {
+  $('.adblock-confirm.adblock-modal').css('display', 'block').appendTo('body');
+  window.helper.deleteCookie('adblock_detected');
+  if(typeof ga !== 'undefined'){
+    ga('send', 'event', 'AdblockDisabled', 'Disabled', location.href);
+  }
+  $('.adblock-modal [data-action="close"]').click(function(e){ 
+    $('.adblock-modal').remove(); 
+  });
+};
+  });
+}) (jQuery);
+
+
+;
+jQuery.when.apply(window, Drupal.beforeDefineAdSlots).done(function() { if (typeof inesDefineAdSlots !== "undefined") { inesDefineAdSlots(); } });
+
+
+;
+window.__gigyaConf = {sessionExpiration: -2, defaultRegScreenSet: "Register-web-2017"}
+
+
+;
+ga('send', 'event', 'Replatform', 'pageview', location.href);
+
+
+;
+ga('send', 'event', 'Page Type', pageType, location.href);
+
+
+;
+(function(){var a=document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];b.type="text/javascript";b.async=!0;b.src="https://z.moatads.com/eveningstandard858kBFE49/moatcontent.js";a.parentNode.insertBefore(b,a)})();
+
+
+;
+
+
+  jQuery(function() {
+  ga('create', 'UA-69936242-1', 'auto', 'combined');
+  ga('combined.send', 'pageview');
+  });
+
+</script>    <!-- COMSCORE -->
+    <!-- Begin comScore Tag -->
+  <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "10476312" });
+    (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+    })();
+  </script>
+  <noscript>
+    <img src="https://sb.scorecardresearch.com/p?c1=2&c2=10476312&cv=2.0&cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+    <!-- QUBIT -->
+    
+    <div id='overlay'></div>
+
+          <!-- Sherlock Tag -->
+          <script>var js_loaded=false;</script>
+        <script type="text/javascript" src="https://stag.mdotlabs.com/ads.js"></script>
+        <script src="https://stag.mdotlabs.com/sherlock.php?clientID=6035250"></script>
+          <!-- End Sherlock Tag -->
+
+    <!-- Sailthru Horizon -->
+    <script src="//ak.sail-horizon.com/onsite/personalize.v0.0.4.min.js" type="text/javascript"></script>
+    <!-- End Sailthru Horizon -->
+
+    <!-- Lotame tags -->
+    <script type="text/javascript" src="https://tags.crwdcntrl.net/c/12699/cc.js?ns=_cc12699" id="LOTCC_12699"></script>
+    <script type="text/javascript" language="javascript">_cc12699.bcp();</script>
+    <!-- End Lotame tags -->
+    
+    <!-- Affiliate Network JS -->
+    
+    
+    <!-- Start of eXelate Tag -->
+    <script src="https://loadus.exelator.com/load/?p=759&g=2" type="text/javascript"></script>
+    <!-- End of eXelate Tag -->
+
+
+    <!-- Temporary prebid analytics tag -->
+    <script>
+    if (typeof pbjs !== 'undefined') {
+        pbjs.que.push(function() {
+            pbjs.enableAnalytics({ provider: 'ga', options: { global: 'ga', enableDistribution: false, } });
+        });
+    };
+    </script>
+
+  </body>
+</html>

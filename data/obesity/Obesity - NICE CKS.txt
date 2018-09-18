@@ -1,0 +1,10 @@
+<head>
+        <title>Unfortunately this site is only available from Great Britain</title>
+</head>
+<body bgcolor="white" text="black">
+        <center>
+                <p>Unfortunately this site is only available from Great Britain.</p>
+                <p>We apologise for any inconvenience.</p>
+        </center>
+</body>
+</html>

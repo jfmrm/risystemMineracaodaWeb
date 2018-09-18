@@ -1,0 +1,753 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# owl: http://www.w3.org/2002/07/owl# rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns# rss: http://purl.org/rss/1.0/ site: https://www.health.com/ns#">
+  <head profile="http://www.w3.org/1999/xhtml/vocab">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!--[if IE]><![endif]-->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<![endif]--><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="pinterest:description" />
+<link rel="shortcut icon" href="https://cdn-img.health.com/sites/all/themes/health/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="https://www.health.com/health-touch-icon-phone.png" />
+<!-- Begin Segmentio Integration -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;window.analytics.methods.length>i;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8",
+window.analytics.load("XjYNN1mV5ZwafZa6k60GonDxLfJ3BvP1");
+window.analytics.page({"contentSyndicated":"false","contentAuthorName":null,"contentModifiedDate":null,"contentPublishedDate":null,"contentHeadline":null,"contentType":null,"contentCmsTerms":null,"contentCmsTags":null,"contentCmsCategory":null,"contentCmsSubCategory":null,"contentShownOnPlatform":null,"contentFeaturedImage":null,"contentCmsId":null,"timeIncBrand":null,"timeIncApplication":null,"contentSyndicatedBrand":null,"contentSyndicatedUrl":null,"contentCmsDesk":null,"contentNLPPayload":null,"contentNLPEntities":null,"contentNLPCategories":null,"contentNLPSentimentLabel":null,"contentNLPSentimentScore":null,"contentNLPSentimentMagnitude":null});
+
+//--><!]]>
+</script>
+<!-- End Segmentio Integration -->
+<link rel="apple-touch-icon" href="https://www.health.com/health-touch-icon-iphone-retina.png" sizes="114x114" />
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300i,300|Source+Sans+Pro:600,400" rel="stylesheet" type="text/css" />
+<link rel="apple-touch-icon" href="https://www.health.com/health-touch-icon-ipad.png" sizes="72x72" />
+<link rel="dns-prefetch" href="//cdn-js.health.com" />
+<link rel="dns-prefetch" href="//cdn-css.health.com" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cdn-img.health.com" />
+<meta name="render_time" content="2018-09-18 15:44:17" />
+<link rel="apple-touch-icon" href="https://www.health.com/health-touch-icon-ipad-retina.png" sizes="144x144" />
+<meta property="og:description" content="" />
+<meta name="description" content="Get energizing workout moves, healthy recipes, and advice on losing weight and feeling great from Health.com. Find out how to manage diabetes and depression, prevent heart attacks, and more." />
+<link rel="shortlink" href="https://www.health.com/" />
+<meta property="og:site_name" content="Health.com" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.health.com/" />
+<meta property="og:title" content="Health.com" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@goodhealth" />
+    <title>Page not found</title>
+    <link type="text/css" rel="stylesheet" href="//cdn-css.health.com/sites/default/files/advagg_css/css__cf96Sv5peVQG17XjKWWsuQ0nZFxvCEt1U-H45sUhqjA__fwEx7WCZiIiC_B12wPvpCmFzJxcQhBTARqDuF9T8jfE__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.css" media="all" />
+<style>
+/* <![CDATA[ */
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+.panels-flexible-new .panels-flexible-region{padding:0;}.panels-flexible-new .panels-flexible-region-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-region-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-region-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-column{padding:0;}.panels-flexible-new .panels-flexible-column-inside{padding-right:0.5em;padding-left:0.5em;}.panels-flexible-new .panels-flexible-column-inside-first{padding-left:0;}.panels-flexible-new .panels-flexible-column-inside-last{padding-right:0;}.panels-flexible-new .panels-flexible-row{padding:0 0 0.5em 0;margin:0;}.panels-flexible-new .panels-flexible-row-last{padding-bottom:0;}.panels-flexible-column-new-main{float:left;width:99.0000%;}.panels-flexible-new-inside{padding-right:0px;}.panels-flexible-new{width:auto;}.panels-flexible-region-new-center{float:left;width:99.0000%;}.panels-flexible-row-new-main-row-inside{padding-right:0px;}
+
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn-css.health.com/sites/default/files/advagg_css/css__--Si2Wzqa5YtDvkR0-3YOTDawWMgqHXhIdGn66K6w9Y__It5HGFG7Iod4E5_3xKGF6Qp2UB7R4SCKy5nyqPtE31k__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn-css.health.com/sites/default/files/advagg_css/css__p-UfTwqQbDyaB42OWRLp2JHa2iUkvv1MFDyLLK3s7BQ__3eOUpreviltnmQB7Figh4JP974V79nwnNpxISjCrd4A__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn-css.health.com/sites/default/files/advagg_css/css__0wvFuXd4JOT77q6KPH2kUvS62DCR_BVuZ5Cud1oCX9Y__dLjQvvrpLgFlxpLjXbv0T-TDea_R30i06Hc105OrVCk__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn-css.health.com/sites/default/files/advagg_css/css__RVWlLpOxbW1j8ZGtrlufsxOd2vbkbAYFWxwkzkeQVcE__FA_LytaBKpkPQY-OKc1So6p5dsiYZdA42uOiwXeV7B8__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.css" media="all" />
+    <!-- HTML5 element support for IE6-8 -->
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <style>
+  /*---------------------------------------------------------------------------
+  * Icon Styles (Generated from the IcoMoon app https://icomoon.io/app)
+  *--------------------------------------------------------------------------- */
+  @font-face {
+    font-family: 'icomoon';
+    src:url('https://www.health.com/sites/all/themes/health/fonts/icomoon.eot?ea2w9j');
+    src:url('https://www.health.com/sites/all/themes/health/fonts/icomoon.eot?#iefixea2w9j') format('embedded-opentype'),
+      url('https://www.health.com/sites/all/themes/health/fonts/icomoon.ttf?ea2w9j') format('truetype'),
+      url('https://www.health.com/sites/all/themes/health/fonts/icomoon.woff?ea2w9j') format('woff'),
+      url('https://www.health.com/sites/all/themes/health/fonts/icomoon.svg?ea2w9j#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  [class^="icon-"], [class*=" icon-"] {
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .icon-mail:before {
+    content: "\e601";
+  }
+  .icon-twitter:before {
+    content: "\ea91";
+  }
+  .icon-grid:before {
+    content: "\e60c";
+  }
+  .icon-close:before {
+    content: "\e605";
+  }
+  .icon-search:before {
+    content: "\e604";
+  }
+  .icon-social-facebook:before {
+    content: "\e606";
+  }
+  .icon-angle-right:before {
+    content: "\e607";
+  }
+  .icon-angle-down:before {
+    content: "\e608";
+  }
+  .icon-instagram:before {
+    content: "\e602";
+  }
+  .icon-chevron-thin-left:before {
+    content: "\e60b";
+  }
+  .icon-chevron-thin-down:before {
+    content: "\e609";
+  }
+  .icon-menu:before {
+    content: "\e60a";
+  }
+  .icon-chevron-thin-right:before {
+    content: "\e603";
+  }
+  .icon-pinterest:before {
+    content: "\e600";
+  }
+</style>
+    <script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__d4GsnEmcfvDfFogoBVs7V4-a20Ii1gt1fFipPROK_7g__2KBEhpEGqQFBiFOLZIZYeQTDUIw6atYiuMl7WaVOnZ0__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var TGX_SITE_CONFIG = {"gpt_sync_mode":"async","refresh_oop_slot":true,"comscore":false,"bluekai":false,"evidon":true,"realvu":true};
+//--><!]]>
+</script>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__YZFXKT-2CjOTTF_TCTlUsvcjw25MC6aa7BC2k51qi_Q__ZwfGVytyaROHCpO7ICqGSedEULk7fXVdERBpPl3dkeA__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var TI = TI || {};
+    TI.environment_vars = {
+      buildlife: 'pf9njq',
+      fb_liking_app_id: 102761366429277,
+      theme_path: '/sites/all/themes/health',
+      web_base: 'https://www.health.com'
+    };
+  
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function basicPopup(url) { popupWindow = window.open(url,'popUpWindow','height=500,width=500,left=100,top=100,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes'); }
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"health","theme_token":"sOQ1FhU8Ob1hU5Y3YcdW3GgF893CXaK0k2e_roIzYCQ","css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/custom\/ti_pronto_caas_importer\/assets\/css\/content_style.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"sites\/all\/modules\/contrib\/cache_consistent\/css\/cache_consistent.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/entity_embed\/css\/entity_embed.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/workflow_content_creation_ti\/ti_editorial_ckeditor_plugins\/plugins\/emoji\/css\/emoji_sprites.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"0":1,"1":1,"sites\/all\/modules\/custom\/ti_mm_fallthrough_components\/css\/mm_navigation.css":1,"sites\/all\/modules\/custom\/ti_mm_fallthrough_components\/css\/mm_footer.css":1,"sites\/all\/themes\/health\/css\/style.css":1},"js":{"sites\/all\/modules\/custom\/timeinc_advertising\/js\/before_ads_load.js":1,"https:\/\/tia.timeinc.net\/health\/tia.min.js":1,"sites\/all\/modules\/custom\/timeinc_advertising\/js\/tgx_v2_ad_init.js":1,"sites\/all\/modules\/custom\/timeinc_advertising\/js\/tgx_ad_sticky_plugin.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"https:\/\/widgets.outbrain.com\/outbrain.js":1,"sites\/all\/libraries\/infinite_scroll\/jquery.infinitescroll.js":1,"sites\/all\/modules\/custom\/ti_lsg_hlt_responsive\/libraries\/responsiveInfiniteScroll.js":1,"sites\/all\/modules\/custom\/ti_lsg_hlt_responsive\/libraries\/responsiveImage.js":1,"sites\/all\/modules\/custom\/external_integration_ti\/ti_udo\/js\/metadata.js":1,"sites\/all\/themes\/health\/js\/scripts.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/custom\/ti_mm_fallthrough_components\/js\/mm_navigation.js":1,"\/\/assets.pinterest.com\/js\/pinit.js":1,"sites\/all\/modules\/custom\/ti_lsg_hlt_newsletters\/js\/newsletters.js":1,"https:\/\/www.google.com\/recaptcha\/api.js?onload=google_recaptcha_onload\u0026render=explicit\u0026hl=en":1,"sites\/all\/modules\/custom\/timeinc_advertising\/js\/ad_relationships.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/2.1\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/ti_lsg_hlt_responsive\/libraries\/responsiveUtilities.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ti_lsg_hlt_responsive":{"site_name":"Health.com"},"ad_settings_503447078":{"getAd":{"setZone":"","setPosition":"1","setCmAdPosition":null,"setParam":""},"id":503447078,"ad_id":"ad-503447078","type":"regular","cmtype":"","companion":0,"lazy_load":false,"lazy_load_viewport_offset":0,"lazy_load_based_on_selector":false,"maintain_sticky":false,"advanced":{"ad_refresh_time_interval":""},"override_top_element_height":false,"universal_ad_logic":{"use_universal_ad_logic":false,"selector":false,"force_ad_position":false,"readmorebuttonselector":false,"outbrain_selector":false,"outbrain_offset_pixel":200,"pixels_between":"600","ad_placements":[]},"announce_in_view":false,"hide_ad":{"hide_when_ads_in_view":false,"hide_selector":false,"minimum_time_to_show_ad":false},"width":{"1220":"300"},"height":{"1220":"250"},"sizes":{"1220":{"300x250":{"width":"300","height":"250"}}},"multi_ad":{"1220":false},"sticky_time_delay":0,"start_sticky_based_selector":"","end_sticky_based_selector":"","sticky_ajax_disable":false,"ad_render_weight":"2"},"ad_settings_hlt_1":{"getAd":{"setZone":"","setPosition":"1","setCmAdPosition":null,"setParam":""},"id":"hlt_1","ad_id":"ad-hlt_1","type":"regular","cmtype":"","companion":0,"lazy_load":false,"lazy_load_viewport_offset":0,"lazy_load_based_on_selector":false,"maintain_sticky":false,"advanced":{"ad_refresh_time_interval":""},"override_top_element_height":false,"universal_ad_logic":{"use_universal_ad_logic":false,"selector":false,"force_ad_position":false,"readmorebuttonselector":false,"outbrain_selector":false,"outbrain_offset_pixel":200,"pixels_between":"600","ad_placements":[]},"announce_in_view":false,"hide_ad":{"hide_when_ads_in_view":true,"hide_selector":".leaderboard-ad-unit","minimum_time_to_show_ad":"2000"},"width":{"768":"728"},"height":{"768":"90"},"sizes":{"0":{"300x50":{"width":"300","height":"50"},"320x50":{"width":"320","height":"50"}},"768":{"728x90":{"width":"728","height":"90"}},"1024":{"728x90":{"width":"728","height":"90"},"970x250":{"width":"970","height":"250"}}},"multi_ad":{"0":true,"768":false,"1024":true},"sticky_time_delay":0,"start_sticky_based_selector":"","end_sticky_based_selector":"","sticky_ajax_disable":false,"ad_render_weight":"-20"},"ad_settings":{"adConfig":{"setSitename":"hlt","setCmSitename":"cm.hlt","setDfpId":null,"setPopups":false,"setRevSciTracking":true,"setTacodaTracking":false,"setQuantcastTracking":false,"setBehaviorTracking":false,"setdisableInitLoad":false,"setDequeueAds":false,"comscore":false,"bluekai":false,"evidon":true,"realvu":true,"enableSingleRequest":false,"resizenative":true,"collapseEmptyDivs":false,"tgxSiteName":"hlt"},"adFactory":{"setChannelPage":true},"custom":{"stickHeaderSelector":".header-wrapper","2x9_firefox_fixer":"1","timeinc_advertising_breakpoint_list":0}},"mm_navigation":{"search_url":"\/search\/site\/"},"urlIsAjaxTrusted":{"\/condition\/obesity\u0026sa=U\u0026ved=0ahUKEwjivvjgp8XdAhVGh5AKHS99BgU4KBAWCCAwAg\u0026usg=AOvVaw1zZlU7g6qGLefEuMJ8ZBbw":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":"1","popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":"1","tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});
+//--><!]]>
+</script>
+  </head>
+  <body class="html not-front not-logged-in one-sidebar sidebar-first page-page-not-found" >
+    <div id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>
+      <div class="region region-page-top">
+    
+<!-- Begin Metadata Object -->
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    window.Ti = window.Ti || {};
+    window.Ti.udo_metadata = {"page_name":"404 page not found","channel":"health"};
+    window.Ti.udo_data_layer = ["ad_server","article_teaser_type","author_name","author_type","available_app_ids","browse_refine_type","browse_refine_value","bundle_id","channel","click_id","content_access","content_id","content_package","content_package_id","content_package_section","country_code","currency_code","customer_country","customer_email","customer_first_name","customer_id","customer_state","customer_zip","display_date","event_name","food_convenience","food_cooking_method","food_courses","food_cuisine","food_dietary_considerations","food_excluded_ingredients","food_main_ingredients","food_season_occasion","franchise_is_methodology","franchise_list_view_type","franchise_name","franchise_pagination_value","franchise_slide_number","franchise_sort_type","franchise_year","friendly_url","gallery_view","grade_level","grocery_deals_category","grocery_deals_retailer","grocery_deals_search","grocery_deals_zip","has_continuous_service","has_donor","has_print_subscription","health_journey","image_id","is_active_subscriber","is_agent_subscription","is_bill_me","is_giftee","is_renewable","is_sponsored_page","language_code","login_status","magazine_cover_title","magazine_feed","magazine_issue_date","markets","page_name","page_number","personality_name","primary_tag","publication_source","publish_date","rr_modules","search_keyword","search_results","secondary_renewal_offer","site_display_format","site_section1","site_section2","site_section3","site_section4","site_theme","slide_title","subscriber_expiration_date","subscriber_id","subscriber_type","subscription_status","tag_keywords","tag_visibility","tcm_conversion_microsite","tcm_conversion_page_flow","tcm_effort_key","tcm_form_error","tcm_keycode","tcm_mag_code","tcm_microsite","tcm_newsletter_optin","tcm_order_id","tcm_order_shipping_amount","tcm_order_subtotal","tcm_order_tax_amount","tcm_order_total","tcm_order_type","tcm_page_flow","tcm_payment_method","tcm_prefix","tcm_product_name","tcm_product_price","tcm_product_quantity","tcm_product_sku","tcm_product_sku_options","tcm_shipping_method","tcm_variation_id","team_name","template_type","ticker_symbol","tier_level","total_amount_due","treat_as_registered","user_actions","video_asset_id","video_franchise","video_name","video_player","video_player_type","video_segment"];
+    window.Ti.udo_map = [];
+    //--><!]]>
+  </script>
+<!-- End Metadata Object -->
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    var utag_data = {"page_name":"404 page not found","channel":"health"};
+    //--><!]]>
+  </script>
+  </div>
+    <style>
+/** Glyph Icons */
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url("https://www.health.com/sites/all/themes/health/fonts/bootstrap//glyphicons-halflings-regular.eot");
+  src: url("https://www.health.com/sites/all/themes/health/fonts/bootstrap//glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"),url("https://www.health.com/sites/all/themes/health/fonts/bootstrap//glyphicons-halflings-regular.woff2") format("woff2"),url("https://www.health.com/sites/all/themes/health/fonts/bootstrap//glyphicons-halflings-regular.woff") format("woff"),url("https://www.health.com/sites/all/themes/health/fonts/bootstrap//glyphicons-halflings-regular.ttf") format("truetype"),url("https://www.health.com/sites/all/themes/health/fonts/bootstrap//glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
+}
+</style>
+<div class="header-wrapper">
+<div class="header-top">
+  <div class="mm-nav-wrap mm-nav-general">
+  <div class="mm-nav-overlay"></div>
+  <nav id="mm-nav" class="mm-nav">
+    <div class="mm-nav__inner">
+      <a class="mm-nav__toggle" href="#"><span class="mm-nav__toggle-inner"></span></a>
+      <a id="mm-nav-logo" class="mm-nav__logo" href="/" rel="home">
+        <img src="/sites/all/themes/health/images/logo.svg" alt="Health.com"/>
+      </a>
+      <div id="mm-nav-menu" class="mm-nav__menu">
+                  <div class="menu-block-wrapper menu-block-mm-navigation menu-name-menu-responsive-hamburger-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav navbar-nav"><li class="first menu-mlid-121962 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/diseases-conditions" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Health A-Z</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-121989 birth-control first"><a href="https://www.health.com/condition/birth-control" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Birth Control</a></li>
+<li class="menu-121992 breast-cancer"><a href="https://www.health.com/condition/breast-cancer" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Breast Cancer</a></li>
+<li class="menu-121995 cold,-flu,-and-sinus"><a href="https://www.health.com/condition/cold-flu-sinus" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Cold, Flu, and Sinus</a></li>
+<li class="menu-121998 crohn&#039;s-disease"><a href="https://www.health.com/condition/crohns-disease" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Crohn&#039;s Disease</a></li>
+<li class="menu-122001 depression"><a href="https://www.health.com/condition/depression" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Depression</a></li>
+<li class="menu-122004 diabetes-(type-2)"><a href="https://www.health.com/condition/type-2-diabetes" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Diabetes (Type 2)</a></li>
+<li class="menu-122007 eczema"><a href="https://www.health.com/condition/eczema" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Eczema</a></li>
+<li class="menu-122010 eye-health"><a href="https://www.health.com/condition/eye-health" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Eye Health</a></li>
+<li class="menu-122013 heart-disease"><a href="https://www.health.com/condition/heart-disease" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Heart Disease</a></li>
+<li class="menu-122016 hepatitis-c"><a href="https://www.health.com/condition/hepatitis-c" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Hepatitis C</a></li>
+<li class="menu-122019 hiv"><a href="https://www.health.com/condition/hiv" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">HIV</a></li>
+<li class="menu-122022 multiple-sclerosis"><a href="https://www.health.com/condition/multiple-sclerosis" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Multiple Sclerosis</a></li>
+<li class="menu-122025 psoriatic-arthritis"><a href="https://www.health.com/condition/psoriatic-arthritis" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Psoriatic Arthritis</a></li>
+<li class="menu-122028 rheumatoid-arthritis"><a href="https://www.health.com/condition/rheumatoid-arthritis" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Rheumatoid Arthritis</a></li>
+<li class="menu-122031 skin-conditions"><a href="https://www.health.com/condition/skin-conditions" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Skin Conditions</a></li>
+<li class="menu-122034 sleep last"><a href="https://www.health.com/condition/sleep" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Sleep</a></li>
+</ul></li>
+<li class="menu-mlid-121959 mm-menu__item"><a href="/news" id="" rel="" class="" style="" target="" title="">News</a></li>
+<li class="menu-mlid-121965 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/fitness" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Fitness</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122046 30-day-core-challenge first"><a href="https://www.health.com/microsites/challenge/core-challenge.html?email-signup=true" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">30-Day Core Challenge</a></li>
+<li class="menu-122049 30-day-total-body-challenge last"><a href="https://www.health.com/microsites/challenge/total-body-challenge.html?email-signup=true" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">30-Day Total Body Challenge</a></li>
+</ul></li>
+<li class="menu-mlid-121968 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/food" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Food</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122052 nutrition first"><a href="/nutrition" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Nutrition</a></li>
+<li class="menu-122055 recipes"><a href="/recipes" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Recipes</a></li>
+<li class="menu-122061 30-day-no-takeout-challenge"><a href="https://www.health.com/food/giada-de-laurentiis-no-takeout-challenge?package_modal=1" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">30-Day No Takeout Challenge</a></li>
+<li class="menu-122064 21-day-veggie-challenge last"><a href="https://www.health.com/microsites/challenge/veggie-challenge.html" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">21-Day Veggie Challenge</a></li>
+</ul></li>
+<li class="menu-mlid-121971 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/weight-loss" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Weight Loss</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122079 30-day-weight-loss-challenge first last"><a href="https://www.health.com/microsites/challenge/weight-loss-challenge.html" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">30-Day Weight Loss Challenge</a></li>
+</ul></li>
+<li class="menu-mlid-121974 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/mind-body" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Life</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122082 home first"><a href="/home" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Home</a></li>
+<li class="menu-122085 mind-&amp;-body"><a href="/mind-body" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Mind &amp; Body</a></li>
+<li class="menu-122088 family"><a href="/family" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Family</a></li>
+<li class="menu-122091 pets"><a href="/pets" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Pets</a></li>
+<li class="menu-122094 sex"><a href="/sex" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Sex</a></li>
+<li class="menu-122097 relationships last"><a href="/relationships" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Relationships</a></li>
+</ul></li>
+<li class="menu-mlid-121977 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/beauty" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Beauty</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122103 style first"><a href="/style" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Style</a></li>
+<li class="menu-122106 celebrities last"><a href="/celebrities" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Celebrities</a></li>
+</ul></li>
+<li class="menu-mlid-122124 mm-menu__item"><a href="https://pages.email.health.com/newsletters/?source=HA_CMS_Hamburger" id="" rel="" class="" style="" target="" title="">Newsletter</a></li>
+<li class="menu-mlid-121980 mm-menu__item"><a href="https://www.health.com/condition/breast-cancer" id="" rel="" class="" style="" target="" title="">Breast Cancer</a></li>
+<li class="last menu-mlid-121986 mm-menu__item"><a href="https://www.health.com/collections" id="" rel="" class="" style="" target="" title="">Health Collections</a></li>
+</ul></div>
+                          <ul class="menu-block-wrapper">
+            <li class="mm-menu__item">
+              <a class="mm-menu__link mm-menu__link--highlight" href="https://www.magazine.store/order/?splitName=hth_onsite_w857_header">Subscribe</a>
+                              <div id="subscribe-menu" class="mm-subscribe-sub-menu"></div>
+                          </li>
+          </ul>
+              </div>
+            <div class="mm-nav__search">
+        <form id="mm-nav-search-form" action="/" method="get">
+          <a href="#" class="mm-nav__search-submit mm-nav__search-btn">
+            <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><title>Search</title><path d="M12.5 11h-.79l-.28-.27A6.47 6.47 0 0 0 13 6.5 6.5 6.5 0 1 0 6.5 13c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L17.49 16l-4.99-5zm-6 0C4.01 11 2 8.99 2 6.5S4.01 2 6.5 2 11 4.01 11 6.5 8.99 11 6.5 11z"></path></svg>
+          </a>
+          <div class="mm-nav__search-inner">
+            <input class="mm-nav__search-input" type="text" placeholder="Search Health.com" />
+            <a href="#" class="mm-nav__search-close mm-nav__search-btn">
+              <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><title>Close</title><path d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z"></path></svg>
+            </a>
+          </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+  <nav id="mm-side-nav" class="mm-side-nav">
+          <div class="menu-block-wrapper menu-block-mm-navigation menu-name-menu-responsive-hamburger-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav navbar-nav"><li class="first menu-mlid-121962 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/diseases-conditions" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Health A-Z</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-121989 birth-control first"><a href="https://www.health.com/condition/birth-control" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Birth Control</a></li>
+<li class="menu-121992 breast-cancer"><a href="https://www.health.com/condition/breast-cancer" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Breast Cancer</a></li>
+<li class="menu-121995 cold,-flu,-and-sinus"><a href="https://www.health.com/condition/cold-flu-sinus" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Cold, Flu, and Sinus</a></li>
+<li class="menu-121998 crohn&#039;s-disease"><a href="https://www.health.com/condition/crohns-disease" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Crohn&#039;s Disease</a></li>
+<li class="menu-122001 depression"><a href="https://www.health.com/condition/depression" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Depression</a></li>
+<li class="menu-122004 diabetes-(type-2)"><a href="https://www.health.com/condition/type-2-diabetes" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Diabetes (Type 2)</a></li>
+<li class="menu-122007 eczema"><a href="https://www.health.com/condition/eczema" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Eczema</a></li>
+<li class="menu-122010 eye-health"><a href="https://www.health.com/condition/eye-health" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Eye Health</a></li>
+<li class="menu-122013 heart-disease"><a href="https://www.health.com/condition/heart-disease" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Heart Disease</a></li>
+<li class="menu-122016 hepatitis-c"><a href="https://www.health.com/condition/hepatitis-c" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Hepatitis C</a></li>
+<li class="menu-122019 hiv"><a href="https://www.health.com/condition/hiv" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">HIV</a></li>
+<li class="menu-122022 multiple-sclerosis"><a href="https://www.health.com/condition/multiple-sclerosis" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Multiple Sclerosis</a></li>
+<li class="menu-122025 psoriatic-arthritis"><a href="https://www.health.com/condition/psoriatic-arthritis" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Psoriatic Arthritis</a></li>
+<li class="menu-122028 rheumatoid-arthritis"><a href="https://www.health.com/condition/rheumatoid-arthritis" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Rheumatoid Arthritis</a></li>
+<li class="menu-122031 skin-conditions"><a href="https://www.health.com/condition/skin-conditions" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Skin Conditions</a></li>
+<li class="menu-122034 sleep last"><a href="https://www.health.com/condition/sleep" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Sleep</a></li>
+</ul></li>
+<li class="menu-mlid-121959 mm-menu__item"><a href="/news" id="" rel="" class="" style="" target="" title="">News</a></li>
+<li class="menu-mlid-121965 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/fitness" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Fitness</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122046 30-day-core-challenge first"><a href="https://www.health.com/microsites/challenge/core-challenge.html?email-signup=true" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">30-Day Core Challenge</a></li>
+<li class="menu-122049 30-day-total-body-challenge last"><a href="https://www.health.com/microsites/challenge/total-body-challenge.html?email-signup=true" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">30-Day Total Body Challenge</a></li>
+</ul></li>
+<li class="menu-mlid-121968 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/food" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Food</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122052 nutrition first"><a href="/nutrition" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Nutrition</a></li>
+<li class="menu-122055 recipes"><a href="/recipes" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Recipes</a></li>
+<li class="menu-122061 30-day-no-takeout-challenge"><a href="https://www.health.com/food/giada-de-laurentiis-no-takeout-challenge?package_modal=1" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">30-Day No Takeout Challenge</a></li>
+<li class="menu-122064 21-day-veggie-challenge last"><a href="https://www.health.com/microsites/challenge/veggie-challenge.html" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">21-Day Veggie Challenge</a></li>
+</ul></li>
+<li class="menu-mlid-121971 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/weight-loss" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Weight Loss</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122079 30-day-weight-loss-challenge first last"><a href="https://www.health.com/microsites/challenge/weight-loss-challenge.html" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">30-Day Weight Loss Challenge</a></li>
+</ul></li>
+<li class="menu-mlid-121974 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/mind-body" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Life</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122082 home first"><a href="/home" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Home</a></li>
+<li class="menu-122085 mind-&amp;-body"><a href="/mind-body" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Mind &amp; Body</a></li>
+<li class="menu-122088 family"><a href="/family" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Family</a></li>
+<li class="menu-122091 pets"><a href="/pets" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Pets</a></li>
+<li class="menu-122094 sex"><a href="/sex" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Sex</a></li>
+<li class="menu-122097 relationships last"><a href="/relationships" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Relationships</a></li>
+</ul></li>
+<li class="menu-mlid-121977 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/beauty" id="" rel="" class=" mm-menu__link dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">Beauty</a><span class="submenu-toggle pull-right closed icon-chevron-thin-right"></span><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-122103 style first"><a href="/style" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Style</a></li>
+<li class="menu-122106 celebrities last"><a href="/celebrities" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">Celebrities</a></li>
+</ul></li>
+<li class="menu-mlid-122124 mm-menu__item"><a href="https://pages.email.health.com/newsletters/?source=HA_CMS_Hamburger" id="" rel="" class="" style="" target="" title="">Newsletter</a></li>
+<li class="menu-mlid-121980 mm-menu__item"><a href="https://www.health.com/condition/breast-cancer" id="" rel="" class="" style="" target="" title="">Breast Cancer</a></li>
+<li class="last menu-mlid-121986 mm-menu__item"><a href="https://www.health.com/collections" id="" rel="" class="" style="" target="" title="">Health Collections</a></li>
+</ul></div>
+              <ul class="menu menu-block-wrapper mm-side-nav__secondary">
+        <li class="mm-menu__item"><a class="mm-menu__link" href="https://www.magazine.store/health/?utm_source=health&utm_medium=internal&utm_campaign=i805hlr5w857">Subscription</a></li><li class="mm-menu__item"><a class="mm-menu__link" href="https://www.magazine.store/health/?utm_source=health&utm_medium=internal&utm_campaign=i805hlr5w858">Give a Gift</a></li><li class="mm-menu__item"><a class="mm-menu__link" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=HTH">Magazine Customer Service</a></li><li class="mm-menu__item"><a class="mm-menu__link" href="https://www.health.com/microsites/magazine/fullmediakit.pdf">Advertising</a></li>      </ul>
+            <div class="mm-side-nav__social">
+      <div class="mm-side-nav__header">Stay Connected</div>
+      <a class="mm-side-nav__social-link" href="https://www.facebook.com/health" target="_blank"><svg width="36" height="36" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd" fill="none" stroke="null"><path d="M32.95 18c0 8.258-6.693 14.95-14.95 14.95S3.05 26.26 3.05 18 9.742 3.05 18 3.05 32.95 9.74 32.95 18" stroke-width="2" stroke="#117f96"/><path d="M19.718 13.698c.433-.014.866-.004 1.3-.004h.18V11.57c-.232-.023-.473-.054-.716-.065-.445-.02-.89-.04-1.336-.03-.68.013-1.323.17-1.884.55-.644.435-.998 1.05-1.132 1.773-.057.3-.07.607-.08.912-.01.477-.002.953 0 1.43v.18h-2.16v2.373h2.147v5.966h2.622V18.7h2.134l.33-2.385h-.482c-.608.002-2.004 0-2.004 0s.006-1.177.02-1.687c.02-.7.46-.912 1.057-.932" fill="#117f96"/></g></svg></a><a class="mm-side-nav__social-link" href="https://twitter.com/goodhealth" target="_blank"><svg width="36" height="36" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd" fill="none" stroke="null"><path d="M32.977 18c0 8.272-6.705 14.976-14.977 14.976S3.023 26.272 3.023 18C3.023 9.728 9.728 3.024 18 3.024S32.977 9.728 32.977 18" stroke-width="2" stroke="#117f96"/><path d="M15.783 21.476c-1.48-.052-2.404-1.114-2.65-1.976.413.078.82.063 1.222-.037.01-.002.02-.01.04-.018-.8-.187-1.42-.616-1.848-1.307-.286-.46-.422-.962-.418-1.514.4.214.81.333 1.26.345-.607-.44-1.01-1.01-1.177-1.73-.164-.73-.057-1.42.306-2.07 1.54 1.813 3.492 2.81 5.872 2.973-.02-.113-.037-.21-.048-.31-.08-.67.054-1.295.416-1.86.454-.71 1.1-1.15 1.93-1.29.96-.156 1.796.117 2.495.795.046.045.085.06.15.045.586-.125 1.14-.335 1.657-.635l.04-.02h.02c-.225.664-.635 1.174-1.22 1.55.553-.06 1.08-.206 1.586-.426l.01.013c-.11.143-.215.29-.327.427-.302.373-.65.7-1.035.984-.034.025-.05.05-.05.09.016.424 0 .846-.053 1.266-.11.885-.352 1.73-.73 2.534-.39.833-.9 1.585-1.54 2.246-1.083 1.12-2.39 1.844-3.912 2.18-.52.115-1.05.173-1.585.19-1.64.046-3.16-.36-4.554-1.224l-.066-.043c.996.107 1.94-.02 2.85-.393.484-.197.93-.457 1.354-.79" fill="#117f96"/></g></svg></a><a class="mm-side-nav__social-link" href="https://www.pinterest.com/health/" target="_blank"><svg width="36" height="36" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd" fill="none" stroke="null"><path d="M32.976 18c0 8.272-6.705 14.976-14.976 14.976-8.27 0-14.976-6.704-14.976-14.976C3.024 9.728 9.73 3.024 18 3.024S32.976 9.728 32.976 18" stroke-width="2" stroke="#117f96"/><path d="M17.162 20.54c-.012.038-.022.072-.03.105-.505 1.976-.562 2.415-1.08 3.332-.247.437-.525.85-.834 1.246-.034.044-.067.102-.137.088-.07-.01-.08-.08-.08-.14-.08-.6-.13-1.2-.11-1.81.03-.79.13-1.06 1.15-5.34.02-.06 0-.12-.02-.18-.24-.65-.29-1.32-.08-2 .46-1.46 2.12-1.57 2.41-.36.18.75-.292 1.72-.654 3.16-.3 1.19 1.1 2.04 2.298 1.17 1.106-.8 1.534-2.72 1.45-4.08-.16-2.71-3.13-3.29-5.02-2.42-2.16 1-2.65 3.68-1.675 4.91.126.157.22.25.18.41-.06.244-.117.49-.186.735-.05.184-.2.25-.384.175-.36-.148-.66-.377-.9-.678-.83-1.026-1.07-3.057.03-4.776 1.212-1.906 3.47-2.676 5.534-2.443 2.468.28 4.02 1.964 4.316 3.873.13.87.035 3.012-1.186 4.53-1.404 1.74-3.68 1.854-4.73.785-.08-.08-.146-.18-.225-.272" fill="#117f96"/></g></svg></a><a class="mm-side-nav__social-link" href="https://www.instagram.com/healthmagazine" target="_blank"><svg width="36" height="36" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd" fill="none" stroke="null"><path d="M32.95 18c0 8.257-6.693 14.95-14.95 14.95S3.05 26.258 3.05 18 9.742 3.05 18 3.05 32.95 9.742 32.95 18" stroke-width="2" stroke="#117f96"/><path d="M22.624 22c0 .344-.28.624-.623.624h-8.47c-.342 0-.62-.28-.62-.623v-5.13h1.218c-.07.29-.104.59-.104.9 0 2.07 1.677 3.75 3.75 3.75 2.07 0 3.75-1.68 3.75-3.75 0-.306-.038-.604-.108-.89h1.22V22zm-7.137-5.13c.356-.907 1.24-1.552 2.274-1.552 1.04 0 1.92.645 2.28 1.553.11.28.17.58.17.9 0 1.347-1.1 2.444-2.44 2.444-1.345 0-2.442-1.097-2.442-2.443 0-.314.06-.615.17-.89zm4.916-3.576c0-.19.154-.344.344-.344h1.49c.19 0 .344.154.344.344v1.49c0 .19-.15.344-.34.344h-1.49c-.19 0-.34-.154-.34-.344v-1.49zM22 11.592h-8.478c-1.065 0-1.93.865-1.93 1.93v8.48c0 1.064.865 1.93 1.93 1.93h8.48c1.065 0 1.93-.866 1.93-1.93v-8.48c0-1.065-.865-1.93-1.93-1.93z" fill="#117f96"/></g></svg></a>    </div>
+      </nav>
+</div>
+</div>
+<!-- /.header-top -->
+<div class="row row-centered leaderboard-ad-unit"></div>
+</div>
+
+<!-- Spacing and Package Header -->
+<div class="top-spacer">
+</div>
+<!-- End of Spacing and Package Header -->
+<!-- Responsive 404 Page -->
+
+<div class="row error-page">
+  <h1 class="primary-title">Oops, the page you're looking for cannot be found.</h1>
+  <h2 class="secondary-title">It looks like something went wrong. Try searching for what you're looking for or check out more from Health.</h2>
+  <form class="form-search content-search" action="/condition/obesity&amp;sa=U&amp;ved=0ahUKEwjivvjgp8XdAhVGh5AKHS99BgU4KBAWCCAwAg&amp;usg=AOvVaw1zZlU7g6qGLefEuMJ8ZBbw" method="get" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <div class="element-invisible">Search form</div>
+    <span class="search-placeholder icon-search"></span><input title="Enter the terms you wish to search for." id="edit-search-block-form" placeholder="Type what you&#039;re looking for..." autofocus="TRUE" class="form-control form-text" type="text" name="search_block_form" value="" size="15" maxlength="128" /><button type="submit" class="search-btn-header btn btn-success" value="Search">Search</button><div class="form-actions form-wrapper form-group" id="edit-actions--2"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit--2" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-AHtzEmlsrFrY20SawMGCDyZC-O--FFgMFrIYfZPIWLo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></div>
+<div class="main-container container">
+  <hr class="grey-gradient">
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+<!-- More from health block -->
+  <div class="row more-from-health hidden-xs">
+    <div class="heading">more from health</div>
+      <hr class="title-border-page">
+    <div class="row more_from_health_content">
+              <div class="col-sm-6 col-md-3 more-from-health-items">
+  <div class="img">
+          <label class="label label-bottom label-link"><a href="/fitness">Fitness</a></label>
+        <a href="/fitness/right-way-shovel-snow">
+      <img class="center-block" src="https://cdn-img.health.com/sites/default/files/styles/240x240/public/styles/main/public/gettyimages-654025942.jpeg?itok=jDNwnRZm" alt="woman shoveling snow heart muscle risks winter" />          </a>
+  </div>
+  <a href="/fitness/right-way-shovel-snow" class="headline"><p>7 Tips to Shovel Snow Safely and Efficiently (and Even Turn It Into a Workout)</p>
+</a>
+</div>
+              <div class="col-sm-6 col-md-3 more-from-health-items">
+  <div class="img">
+          <label class="label label-bottom label-link"><a href="/condition/depression">Depression</a></label>
+        <a href="/depression/high-functioning-depression">
+      <img class="center-block" src="https://cdn-img.health.com/sites/default/files/styles/240x240/public/styles/main/public/gettyimages-597314595_0_0.jpg?itok=N7SN-tQU" alt="Woman looking sad and depressed using her phone" />          </a>
+  </div>
+  <a href="/depression/high-functioning-depression" class="headline"><p>What Is High-Functioning Depression–and Could You Have It?</p>
+</a>
+</div>
+              <div class="col-sm-6 col-md-3 more-from-health-items">
+  <div class="img">
+          <label class="label label-bottom label-link"><a href="/beauty">Beauty</a></label>
+        <a href="/beauty/blonde-toning-shampoos">
+      <img class="center-block" src="https://cdn-img.health.com/sites/default/files/styles/240x240/public/1470929013/GettyImages-162983909.jpg?itok=tZbFZlJl" alt="blond-blonde-hair-beauty-windswept" />          </a>
+  </div>
+  <a href="/beauty/blonde-toning-shampoos" class="headline"><p>The 5 Best Purple Shampoos for Fixing Brassy&nbsp;Blonde Hair</p>
+</a>
+</div>
+              <div class="col-sm-6 col-md-3 more-from-health-items">
+  <div class="img">
+          <label class="label label-bottom"><span>Mind and Body</span></label>
+        <a href="https://pages.email.health.com/newsletters/">
+      <img class="center-block" src="https://cdn-img.health.com/sites/default/files/styles/240x240/public/1485793266/GettyImages-665480985-cropped.jpg?itok=ZBQWxTaH" alt="running-newsletter-banner-cropped" />          </a>
+  </div>
+  <a href="https://pages.email.health.com/newsletters/" class="headline"><p>Get the Best of Health.com in Your Inbox! Sign Up for Our Newsletter</p>
+</a>
+</div>
+          </div>
+    <hr class="grey-gradient">
+  </div>
+
+<!-- End : More from health block -->
+
+    <!-- All CT header -->
+    
+    <!-- to keep the right rail fixed, putting it first -->
+          <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right" role="complementary">
+            <div id="right-rail-unit" >
+    <div class="right-rail-block right-rail-top-ad">
+          </div>
+          <!-- More Videos Section -->
+            <!-- Outbrain Section -->
+            <!-- Trending now Section -->
+            <!-- Right rail news Section -->
+            </div>
+      </aside>  <!-- /#sidebar-second -->
+    
+    <section class="content-well col-sm-9">
+            <a id="main-content"></a>
+              <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="panel-flexible panels-flexible-new clearfix" >
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-tgx-ad"  >
+  
+      
+  
+  <div class="pane-content">
+        <div  class="ad-placeholder relocate" id="ad-503447078" data-id="503447078" data-type="regular" data-relocate-position="prepend" data-relocate-selector=".right-rail-top-ad" data-relocate-remove="0"></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-ti-lsg-hlt-core-page-not-found"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class = "content-feed-container main-content-lazy-load"><div class="content-feed-lazy-load-content"><div class="row vcenter space-above-first">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/food/trader-joes-fall-2018">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/trader-joes-best.jpg?itok=Haq1q5b0 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/styles/main/public/trader-joes-best.jpg?itok=SIrgvyfa 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/styles/main/public/trader-joes-best.jpg?itok=mlZWW4Un 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/trader-joes-best.jpg?itok=Haq1q5b0" alt="trader-joes-best" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black label-link"><a href="/food">Food</a></label>
+            <a href="/food/trader-joes-fall-2018"><h3><p>5 Things to Try at Trader Joe&#39;s This Fall</p>
+</h3></a>
+      <p class="content-time">18 hours ago</p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+<div class='health-ad-placeholder inline-ad content-feed-ad'></div>
+<div class="row vcenter space-above">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/syndication/best-anti-aging-skin-care-products-according-reddit">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/anti-aging-beauty-products-best.jpg?itok=hIbnXt0r 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/styles/main/public/anti-aging-beauty-products-best.jpg?itok=T9r-E_fX 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/styles/main/public/anti-aging-beauty-products-best.jpg?itok=s2HgXDBg 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/anti-aging-beauty-products-best.jpg?itok=hIbnXt0r" alt="anti-aging-beauty-products-best" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black label-link"><a href="/beauty">Beauty</a></label>
+            <a href="/syndication/best-anti-aging-skin-care-products-according-reddit"><h3><p>The Best Anti-Aging Skin Care Products, According to Reddit</p>
+</h3></a>
+      <p class="content-time">19 hours ago</p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+<div class="row vcenter space-above">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/syndication/dad-comfort-breastfeeds-daughter-video-doctor-advice">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/gettyimages-527924946.jpg?itok=ykqUze5y 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/styles/main/public/gettyimages-527924946.jpg?itok=1QBKoDzf 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/styles/main/public/gettyimages-527924946.jpg?itok=ITzYuOVx 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/gettyimages-527924946.jpg?itok=ykqUze5y" alt="comfort-nurse-dad-baby" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black label-link"><a href="/family">Family</a></label>
+            <a href="/syndication/dad-comfort-breastfeeds-daughter-video-doctor-advice"><h3><p>Social Media Is Divided After Dad Comfort &#39;Nurses&#39; His &#39;Confused&#39; Daughter</p>
+</h3></a>
+      <p class="content-time">19 hours ago</p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+<div class="row vcenter space-above">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/kidney-disease/addisons-disease">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/addison-s-disease-tired-fatigue-gettyimages-854972754.jpg?itok=IRaB7T8N 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/styles/main/public/addison-s-disease-tired-fatigue-gettyimages-854972754.jpg?itok=hQXXQhYt 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/styles/main/public/addison-s-disease-tired-fatigue-gettyimages-854972754.jpg?itok=4gQWTCuj 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/addison-s-disease-tired-fatigue-gettyimages-854972754.jpg?itok=IRaB7T8N" alt="addison-s-disease-tired-fatigue" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black label-link"><a href="/kidney-disease">Kidney Disease</a></label>
+            <a href="/kidney-disease/addisons-disease"><h3><p>What Is Addison&#39;s Disease–and How Do You Know If You Have It?</p>
+</h3></a>
+      <p class="content-time">20 hours ago</p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+<div class="row vcenter space-above">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/syndication/slick-woods-nyfw-in-labor-welcomes-son-saphir">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/field/image/gettyimages-1032416270.jpg?itok=ffUdBSGt 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/field/image/gettyimages-1032416270.jpg?itok=rB6OPmtw 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/field/image/gettyimages-1032416270.jpg?itok=9ygbrQIJ 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/field/image/gettyimages-1032416270.jpg?itok=ffUdBSGt" alt="Slick Woods Reveals She Was in Labor While Walking the Runway at NYFW - and Has Welcomed a Son" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black label-link"><a href="/pregnancy">Pregnancy</a></label>
+            <a href="/syndication/slick-woods-nyfw-in-labor-welcomes-son-saphir"><h3><p>Slick Woods Reveals She Was in Labor While Walking the Runway at NYFW—and Has Welcomed a Son</p>
+</h3></a>
+      <p class="content-time">21 hours ago</p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+<div class='health-ad-placeholder feed-promo-unit'></div>
+<div class="row vcenter space-above">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/syndication/pregnant-carrie-underwood-3-miscarriages-2-years">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/carrie-underwood-acm-awards-gettyimages-946782790_0_0.jpg?itok=0uqUL6J4 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/styles/main/public/carrie-underwood-acm-awards-gettyimages-946782790_0_0.jpg?itok=LJMJyndJ 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/styles/main/public/carrie-underwood-acm-awards-gettyimages-946782790_0_0.jpg?itok=x7EgS4lJ 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/carrie-underwood-acm-awards-gettyimages-946782790_0_0.jpg?itok=0uqUL6J4" alt="carrie-underwood-acm-awards" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black label-link"><a href="/infertility">Infertility</a></label>
+            <a href="/syndication/pregnant-carrie-underwood-3-miscarriages-2-years"><h3><p>Pregnant Carrie Underwood Reveals She Suffered 3 Miscarriages in Last 2 Years: &#39;I Got Mad&#39;</p>
+</h3></a>
+      <p class="content-time">22 hours ago</p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+<div class="row vcenter space-above">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/cold-flu-sinus/flu-shot-no-insurance">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/gettyimages-110883315.jpg?itok=ngTCifju 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/styles/main/public/gettyimages-110883315.jpg?itok=qGUE__ku 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/styles/main/public/gettyimages-110883315.jpg?itok=Bs0BS-9W 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/gettyimages-110883315.jpg?itok=ngTCifju" alt="flu-shot-without-insurance" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black label-link"><a href="/cold-flu-sinus">Cold flu and sinus</a></label>
+            <a href="/cold-flu-sinus/flu-shot-no-insurance"><h3><p>5 Places You Can Get a Flu Shot Without Insurance</p>
+</h3></a>
+      <p class="content-time">22 hours ago</p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+<div class="row vcenter space-above">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/syndication/ivf-blogger-dies-during-birth">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/field/image/vanessa-fernandez-arango-1.jpg?itok=0U4W_qLW 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/field/image/vanessa-fernandez-arango-1.jpg?itok=PM5iJXO8 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/field/image/vanessa-fernandez-arango-1.jpg?itok=GUk-1Sfl 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/field/image/vanessa-fernandez-arango-1.jpg?itok=0U4W_qLW" alt="Popular Blogger Who Documented Her IVF Journey Dies During Emergency C-Section" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black label-link"><a href="/pregnancy">Pregnancy</a></label>
+            <a href="/syndication/ivf-blogger-dies-during-birth"><h3><p>Popular Blogger Who Documented Her IVF Journey Dies During Emergency C-Section</p>
+</h3></a>
+      <p class="content-time">22 hours ago</p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+<div class="row vcenter space-above">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/beauty/best-drug-store-lipstick">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/gettyimages-200485699-001.jpg?itok=FibSG3kf 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/styles/main/public/gettyimages-200485699-001.jpg?itok=SohPWzB2 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/styles/main/public/gettyimages-200485699-001.jpg?itok=8EiMA07f 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/gettyimages-200485699-001.jpg?itok=FibSG3kf" alt="lipstick-closeup-applying-makeup" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black">Makeup</label>
+            <a href="/beauty/best-drug-store-lipstick"><h3><p>The Best Drugstore Lipsticks for Under $10, According to Makeup Artists</p>
+</h3></a>
+      <p class="content-time">23 hours ago</p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+<div class="row vcenter space-above">
+          <section class="col-sm-9">
+        <div class="col-sm-5 col-md-5 col-xs-12">
+      <a href="/nutrition/low-carb-cereals">
+        <img class="center-block" data-srcset="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/gettyimages-854457932.jpg?itok=oUNhjPRC 500w, https://cdn-img.health.com/sites/default/files/styles/small_16_9/public/styles/main/public/gettyimages-854457932.jpg?itok=K_h2BI2C 768w, https://cdn-img.health.com/sites/default/files/styles/medium_16_9/public/styles/main/public/gettyimages-854457932.jpg?itok=2PLemyUc 2x" src="https://cdn-img.health.com/sites/default/files/styles/smallest_16_9/public/styles/main/public/gettyimages-854457932.jpg?itok=oUNhjPRC" alt="low-carb-cereal" />              </a>
+    </div>
+    <div class="col-sm-7 col-md-7 col-xs-12 label-over-image">
+              <label class="label label-black label-link"><a href="/nutrition">Nutrition</a></label>
+            <a href="/nutrition/low-carb-cereals"><h3><p>The Best Low-Carb Cereals, According to Nutritionists</p>
+</h3></a>
+      <p class="content-time"></p>
+    </div>
+      </section>
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right"></aside>
+  </div>
+</div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-common-leaderboard-ad"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-common_leaderboard_ad">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-tgx-ad"  >
+  
+      
+  
+  <div class="pane-content">
+        <div  class="ad-placeholder relocate ad-refresh" id="ad-hlt_1" data-id="hlt_1" data-type="regular" data-relocate-position="prepend" data-relocate-selector=".leaderboard-ad-unit" data-relocate-remove="0"></div>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+
+</section>
+  </div>
+    </section>
+  </div>
+</div>
+
+<div id="content-footer-wrapper">
+  <div class="main-container container content-feed-container">
+  <div class="row">
+    <aside class="col-sm-3 right-rail hidden-xs hidden-sm pull-right">
+    </aside>
+    <section class="content-well col-sm-9">
+      <div class ="row vcenter space-above space-bottom">
+        <div class="newsletter-block">
+          <div class="carousel-caption text-over-newsletter">
+            <p class="nl-header">Get Stronger, Healthier, Happier</p>
+            <p class="hidden-xs">Sign up to receive our best tips, workouts, recipes, and more.</p>
+            <form action="/condition/obesity&amp;sa=U&amp;ved=0ahUKEwjivvjgp8XdAhVGh5AKHS99BgU4KBAWCCAwAg&amp;usg=AOvVaw1zZlU7g6qGLefEuMJ8ZBbw" method="post" id="ti-lsg-hlt-newsletters-signup-responsive-form" accept-charset="UTF-8"><div><div id='thankyou-text'></div><div class="form-group row"><div class="email-zip"><div class="email-wrapper col-sm-6"><span id="email-error"></span><div class="form-item form-item-email form-type-textfield form-group"><input onfocus="if (this.value == &#039;Email address&#039;) {this.value = &#039;&#039;;}" onblur="if (this.value == &#039;&#039;) {this.value = &#039;Email address&#039;;}" class="input-padding form-control form-text required" type="text" id="edit-email" name="email" value="Email address" size="60" maxlength="128" /></div></div><div class="zipcode-wrapper col-sm-6"><span id= "zipcode-error"></span><div class="form-item form-item-zipcode form-type-textfield form-group"><input class="input-padding form-control form-text required" onfocus="if (this.value == &#039;Zip code&#039;) {this.value = &#039;&#039;;}" onblur="if (this.value == &#039;&#039;) {this.value = &#039;Zip code&#039;;}" type="text" id="edit-zipcode" name="zipcode" value="Zip code" size="60" maxlength="128" /></div></div></div><div class="remove-padding text-left"><span id= "captcha-error"></span><input class="input-padding" type="hidden" name="captcha_error_msg" value="" />
+</div><input type="hidden" name="_clientID" value="7213759" />
+<input type="hidden" name="Source" value="HLT_footer" />
+<input type="hidden" name="Optin_Flag" value="true" />
+<input type="hidden" name="Newsletter_Name" value="HEALTHY_LIVING" />
+<input type="hidden" name="_action" value="add" />
+<input type="hidden" name="_deExternalKey" value="Newsletter_Staging" />
+<input type="hidden" name="form_build_id" value="form-aRrBGLuJV-Dal12tm3VKJtGDBtOv1JGznAoxoRZBo8g" />
+<input type="hidden" name="form_id" value="ti_lsg_hlt_newsletters_signup_responsive_form" />
+<div id="google_recaptcha_ti_lsg_hlt_newsletters_signup_responsive_form"></div><div class="remove-padding-button"><button class="btn-primary form-control input-padding btn btn-default form-submit" type="submit" id="edit-submit--4" name="op" value="Sign up">Sign up</button>
+<div class="no-thanks"><a href="#">No Thanks</a></div></div></div>
+    <div class='legal'>
+      <a target='_blank' href='https://subscription.timeinc.com/storefront/privacy/health/generic_privacy_new.html?dnp-source=E'>
+        PRIVACY POLICY
+      </a>
+    </div></div></div></form>          </div>
+        </div>
+      </div>
+      <!--Yieldmo Footer -->
+      <div class ="row vcenter space-above-yieldmo">
+              </div>
+      <!--Contnet Feed -->
+          </section>
+  </div>
+</div>
+          <hr class="grey-gradient"/>
+      <div class="container">
+        <div class="content-feed-containeroter">
+          <div class="row trending-now hidden-lg hidden-md">
+    </div>
+        </div><!-- /#footer-content -->
+      </div>
+      <hr />
+
+    <footer class="footer container">
+    <footer id="footer" class="mm-main mm-padding-32-top mm-padding-16-lr">
+      <div class="mm-logo-container mm-margin-0-auto">
+      <a class="mm-display-inline-block" href="/"><img src="/sites/all/themes/health/images/logo.svg" alt="Health.com"/></a>
+    </div>
+      <div class="social-container mm-margin-0-auto mm-padding-16-tb mm-display-flex mm-rule-bottom">
+              <span class="social-stroke-icon color-accent mm-icon mm-icon-facebook-circle-stroke  mm-margin-4-right" ><a class="mm-display-block" href="https://www.facebook.com/health" target="_blank"><svg width="36" height="36" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd" fill="none" stroke="null"><path d="M32.95 18c0 8.258-6.693 14.95-14.95 14.95S3.05 26.26 3.05 18 9.742 3.05 18 3.05 32.95 9.74 32.95 18" stroke-width="2" stroke="#117f96"/><path d="M19.718 13.698c.433-.014.866-.004 1.3-.004h.18V11.57c-.232-.023-.473-.054-.716-.065-.445-.02-.89-.04-1.336-.03-.68.013-1.323.17-1.884.55-.644.435-.998 1.05-1.132 1.773-.057.3-.07.607-.08.912-.01.477-.002.953 0 1.43v.18h-2.16v2.373h2.147v5.966h2.622V18.7h2.134l.33-2.385h-.482c-.608.002-2.004 0-2.004 0s.006-1.177.02-1.687c.02-.7.46-.912 1.057-.932" fill="#117f96"/></g></svg></a></span><span class="social-stroke-icon color-accent mm-icon mm-icon-twitter-circle-stroke  mm-margin-4-right" ><a class="mm-display-block" href="https://twitter.com/goodhealth" target="_blank"><svg width="36" height="36" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd" fill="none" stroke="null"><path d="M32.977 18c0 8.272-6.705 14.976-14.977 14.976S3.023 26.272 3.023 18C3.023 9.728 9.728 3.024 18 3.024S32.977 9.728 32.977 18" stroke-width="2" stroke="#117f96"/><path d="M15.783 21.476c-1.48-.052-2.404-1.114-2.65-1.976.413.078.82.063 1.222-.037.01-.002.02-.01.04-.018-.8-.187-1.42-.616-1.848-1.307-.286-.46-.422-.962-.418-1.514.4.214.81.333 1.26.345-.607-.44-1.01-1.01-1.177-1.73-.164-.73-.057-1.42.306-2.07 1.54 1.813 3.492 2.81 5.872 2.973-.02-.113-.037-.21-.048-.31-.08-.67.054-1.295.416-1.86.454-.71 1.1-1.15 1.93-1.29.96-.156 1.796.117 2.495.795.046.045.085.06.15.045.586-.125 1.14-.335 1.657-.635l.04-.02h.02c-.225.664-.635 1.174-1.22 1.55.553-.06 1.08-.206 1.586-.426l.01.013c-.11.143-.215.29-.327.427-.302.373-.65.7-1.035.984-.034.025-.05.05-.05.09.016.424 0 .846-.053 1.266-.11.885-.352 1.73-.73 2.534-.39.833-.9 1.585-1.54 2.246-1.083 1.12-2.39 1.844-3.912 2.18-.52.115-1.05.173-1.585.19-1.64.046-3.16-.36-4.554-1.224l-.066-.043c.996.107 1.94-.02 2.85-.393.484-.197.93-.457 1.354-.79" fill="#117f96"/></g></svg></a></span><span class="social-stroke-icon color-accent mm-icon mm-icon-pinterest-circle-stroke  mm-margin-4-right" ><a class="mm-display-block" href="https://www.pinterest.com/health/" target="_blank"><svg width="36" height="36" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd" fill="none" stroke="null"><path d="M32.976 18c0 8.272-6.705 14.976-14.976 14.976-8.27 0-14.976-6.704-14.976-14.976C3.024 9.728 9.73 3.024 18 3.024S32.976 9.728 32.976 18" stroke-width="2" stroke="#117f96"/><path d="M17.162 20.54c-.012.038-.022.072-.03.105-.505 1.976-.562 2.415-1.08 3.332-.247.437-.525.85-.834 1.246-.034.044-.067.102-.137.088-.07-.01-.08-.08-.08-.14-.08-.6-.13-1.2-.11-1.81.03-.79.13-1.06 1.15-5.34.02-.06 0-.12-.02-.18-.24-.65-.29-1.32-.08-2 .46-1.46 2.12-1.57 2.41-.36.18.75-.292 1.72-.654 3.16-.3 1.19 1.1 2.04 2.298 1.17 1.106-.8 1.534-2.72 1.45-4.08-.16-2.71-3.13-3.29-5.02-2.42-2.16 1-2.65 3.68-1.675 4.91.126.157.22.25.18.41-.06.244-.117.49-.186.735-.05.184-.2.25-.384.175-.36-.148-.66-.377-.9-.678-.83-1.026-1.07-3.057.03-4.776 1.212-1.906 3.47-2.676 5.534-2.443 2.468.28 4.02 1.964 4.316 3.873.13.87.035 3.012-1.186 4.53-1.404 1.74-3.68 1.854-4.73.785-.08-.08-.146-.18-.225-.272" fill="#117f96"/></g></svg></a></span><span class="social-stroke-icon color-accent mm-icon mm-icon-instagram-circle-stroke  mm-margin-4-right" ><a class="mm-display-block" href="https://www.instagram.com/healthmagazine" target="_blank"><svg width="36" height="36" xmlns="http://www.w3.org/2000/svg"><g fill-rule="evenodd" fill="none" stroke="null"><path d="M32.95 18c0 8.257-6.693 14.95-14.95 14.95S3.05 26.258 3.05 18 9.742 3.05 18 3.05 32.95 9.742 32.95 18" stroke-width="2" stroke="#117f96"/><path d="M22.624 22c0 .344-.28.624-.623.624h-8.47c-.342 0-.62-.28-.62-.623v-5.13h1.218c-.07.29-.104.59-.104.9 0 2.07 1.677 3.75 3.75 3.75 2.07 0 3.75-1.68 3.75-3.75 0-.306-.038-.604-.108-.89h1.22V22zm-7.137-5.13c.356-.907 1.24-1.552 2.274-1.552 1.04 0 1.92.645 2.28 1.553.11.28.17.58.17.9 0 1.347-1.1 2.444-2.44 2.444-1.345 0-2.442-1.097-2.442-2.443 0-.314.06-.615.17-.89zm4.916-3.576c0-.19.154-.344.344-.344h1.49c.19 0 .344.154.344.344v1.49c0 .19-.15.344-.34.344h-1.49c-.19 0-.34-.154-.34-.344v-1.49zM22 11.592h-8.478c-1.065 0-1.93.865-1.93 1.93v8.48c0 1.064.865 1.93 1.93 1.93h8.48c1.065 0 1.93-.866 1.93-1.93v-8.48c0-1.065-.865-1.93-1.93-1.93z" fill="#117f96"/></g></svg></a></span>          </div>
+    <nav class="mm-footer-links mm-margin-0-auto mm-padding-16-tb mm-rule-bottom">
+              <div class="menu-block-wrapper menu-block-mm-footer menu-name-menu-elements-footer-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav navbar-nav"><li class="first menu-mlid-128652 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/service/about" id="" rel="" class=" dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">ABOUT US <span class="caret"></span></a><ul class="dropdown-menu"><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-128661 time-inc-careers first"><a href="https://www.timeinc.com/careers/" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">TIME INC CAREERS</a></li>
+<li class="menu-128664 health-spotlight"><a href="https://www.health.com/microsites/buzz/index.html" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">HEALTH SPOTLIGHT</a></li>
+<li class="menu-128667 social-media-terms"><a href="https://www.health.com/health/wp/0%2C%2C20802680%2C00.html" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">SOCIAL MEDIA TERMS</a></li>
+<li class="menu-128670 advertise-with-health"><a href="https://www.health.com/microsites/magazine/fullmediakit.pdf" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">ADVERTISE WITH HEALTH</a></li>
+<li class="menu-128673 tablet-edition last"><a href="https://subscription-assets.health.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/ha-dp2011/lp.html?xid=decisionpagemagpage" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">TABLET EDITION</a></li>
+</ul></ul></li>
+<li class="menu-mlid-128655 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="https://www.magazine.store/health/" id="" rel="" class="dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">SUBSCRIBE <span class="caret"></span></a><ul class="dropdown-menu"><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-128676 give-a-gift first"><a href="https://www.magazine.store/health/" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">GIVE A GIFT</a></li>
+<li class="menu-128679 renew-your-subscription"><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=ha/home.html&amp;MSRSMAG=HA" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">RENEW YOUR SUBSCRIPTION</a></li>
+<li class="menu-128682 health-magazine"><a href="/health/service/magazine" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">HEALTH MAGAZINE</a></li>
+<li class="menu-128685 newsletters last"><a href="https://pages.email.health.com/newsletters/?source=HA_CMS_FooterLink" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">NEWSLETTERS</a></li>
+</ul></ul></li>
+<li class="last menu-mlid-128658 mm-menu__item mm-menu__item--sub-menu dropdown"><a href="/service/contact-us" id="" rel="" class=" dropdown-toggle" style="" target="" title="" data-target="#" data-toggle="dropdown">CONTACT US <span class="caret"></span></a><ul class="dropdown-menu"><a href="#" class="mm-side-nav__expand"></a><ul class="mm-sub-menu"><li class="menu-128691 help first"><a href="/service/help" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">HELP</a></li>
+<li class="menu-128694 sweepstakes"><a href="https://www.health.com/health/wp/0%2C%2C20483796%2C00.html" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">SWEEPSTAKES</a></li>
+<li class="menu-128697 customer-service"><a href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=HTH" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">CUSTOMER SERVICE</a></li>
+<li class="menu-128700 site-map last"><a href="/sitemap" id="" rel="" class="mm-sub-menu__link" style="" target="" title="">SITE MAP</a></li>
+</ul></ul></li>
+</ul></div>
+          </nav>
+        <div class="mm-footer-legal mm-padding-16-tb mm-text-align-center">
+        All products and services featured are selected by our editors. Health.com may receive compensation for some links to products and services on this website. Offers may be subject to change without notice. &copy; 2017 Health Media Ventures, Inc. Health.com is part of the Meredith Health Group. All rights reserved. The material in this site is intended to be of general informational use and is not intended to constitute medical advice, probable diagnosis, or recommended treatments. See the <a rel="nofollow" href="https://www.timeinc.net/subs/privacy/termsofservice/healthtos.html">Terms of Service</a> and <a rel="nofollow" href="https://subscription.timeinc.com/storefront/privacy/health/generic_privacy_new.html?dnp-source=E">Privacy Policy</a> (<a rel="nofollow" href="https://subscription.timeinc.com/storefront/privacy/health/generic_privacy_new.html?dnp-source=E#california">Your California Rights</a>)for more information. <a rel="nofollow" class="adchoice" href="https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html" target="_blank">Ad Choices</a>      </div>
+  </footer>
+  </footer>
+</div>
+      <div class="region region-page-bottom">
+    <script type='text/javascript'>if (window.googletag && googletag.apiReady) {
+        googletag.cmd.push(function() {
+          googletag.pubads().addEventListener('impressionViewable', function(event) {
+            window.adsViewableTime = window.adsViewableTime || Date.now()
+          });
+          googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            window.adsShownTime = window.adsShownTime || Date.now()
+          })
+        })
+      }
+      window.addEventListener('load', function() {
+        if (newrelic && performance && performance.timing) {
+          if (window.chrome) {
+            var loadTimes = window.chrome.loadTimes();
+            if (loadTimes && loadTimes.firstPaintTime && loadTimes.startLoadTime) {
+              newrelic.setCustomAttribute('FirstPaint', loadTimes.firstPaintTime - loadTimes.startLoadTime);
+            }
+          }
+          newrelic.setCustomAttribute('AdsViewableTime', (window.adsViewableTime - performance.timing.navigationStart) / 1000.0);
+          newrelic.setCustomAttribute('AdsShownTime', (window.adsShownTime - performance.timing.navigationStart) / 1000.0);
+          newrelic.setCustomAttribute('PerceivedLoadTime', (performance.timing.domContentLoadedEventEnd - performance.timing.navigationStart) / 1000.0);
+        }
+      }, false)</script>  </div>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__NIYM8ex2FsHAxNtXKougJRPE2XrkliMdA2l5jGQhSD0__Gcu5htqAoy759ParrBIytfRxheXPsOzCfWvEm5wc4N0__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js"></script>
+<script type="text/javascript" src="//tia.timeinc.net/health/tia.min.js"></script>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__MCe5k26TZJx9XH5qm_CjcvWifRbU8KRiJlz_r_LJ6ik__B3POo6NRS5zevtzGStNXphJOLuGIgq8eQZs1pHGfpr8__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__amTzwSyV8dWeCbN6RoPqoOb0PrV5uJFqI1SSbtVMQ6A__aBe1zN84lqNUZoIc871UHJNfK8abccWihWZ6ZXjAGvk__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js"></script>
+<script type="text/javascript" src="//widgets.outbrain.com/outbrain.js"></script>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__brJOAaIcSdYxz2PJlkeXd3OaO3ao9UI9T2fhc23mwMg__S92DDnYdfjNKBCgn_u2PlgLBmuyiixgnqhCeED5kng4__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var google_recaptcha_onload = function() {grecaptcha.render("google_recaptcha_ti_lsg_hlt_newsletters_signup_responsive_form", {
+    "sitekey" : "6Lc22SgTAAAAAOTRlwFsUSl36pG1f21mlsndldU3", 
+    "size" : "normal", 
+    "theme" : "light"});
+  };
+//--><!]]>
+</script>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__ZYFIlZn65J4htPpzGrPQqN3r1MNRJLNUiYaUSA6wAtA__AqyDEmrCMno0u5hXEUwGV8sC743ShsBum9ifC32vTKk__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js"></script>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__GM3GJPR36rRIz0TRkjC5OQwrioSyN9aoYRivDhCO_AM__qAl84FcCv2jyN22yFGS5Oc85cjd9zKX6p_cFNLGhe-M__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js" async="async"></script>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__4fgrAr73bFcu-2akhIwlAXXTlehdjTZPenyP0T2vdG4__vJ6mxE-VNyybAcQAV48Fm_tjbt2lDv9ZNUPHPy8F__E__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js" defer="defer"></script>
+<script type="text/javascript" defer="defer" async="async" src="//assets.pinterest.com/js/pinit.js"></script>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__oDtz7xp7lDBuxCoT5ct5QFlMbio0HfExWuxQ1QR6CEE__RQsSOBW5HP_5nxd6KlL_COxyyupT2yH8Cwc18yWYQMk__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js"></script>
+<script type="text/javascript" defer="defer" src="//www.google.com/recaptcha/api.js?onload=google_recaptcha_onload&amp;render=explicit&amp;hl=en"></script>
+<script type="text/javascript" src="//cdn-js.health.com/sites/default/files/advagg_js/js__PVLnouEQPjnTM2Hn-5BuPa8WSSSyxdPfUMCp654Ve9c__lwoD6LdQxkcyBGxG0Gqf4Bgj2an41ndh4iUHRCCexOc__t6PUw37-qM7wpRtJZPMFYZwdotkY0H21eLq4tgCvihI.js"></script>
+  </body>
+</html>

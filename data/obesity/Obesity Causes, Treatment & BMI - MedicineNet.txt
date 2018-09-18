@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="https://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"
+xmlns:og="https://opengraphprotocol.org/schema/">
+<HEAD>
+<script class="googleloaded">var amznads=amznads||{},googletag=window.googletag||{};googletag.cmd=googletag.cmd||[];var enableHeaderBidding=!0,$googleloaded;!function(){function a(a){if("http"!==a.substr(0,4)){var b="https:"==document.location.protocol;a=(b?"https:":"http:")+a}var c=document.createElement("script"),d=document.getElementsByTagName("script")[0];c.type="text/javascript",c.async=!0,c.src=a,d.parentNode.insertBefore(c,d)}function b(a){var b,c=[],d=[],e=0;for(e=0;e<a.length;e++)c.push(a[e]+"=\\d+");b=new RegExp(c.join("|"),"gi");var f=document.location.search.match(b);if(f){for(c=[],e=0;e<f.length;e++)f[e].indexOf("=1")>-1?c.push(f[e].split("=")[0]):f[e].indexOf("=0")>-1&&d.push(f[e].split("=")[0]);if(d.length>0&&c.length<1){for(e=0;e<enableHeaderBidding.length;e++){c.push(enableHeaderBidding[e]);for(var g=0;g<d.length;g++)if(d[g]==enableHeaderBidding[e]){c.pop();break}}return c}return c.length>0&&c}return!1}function c(){for(var a=!1,b=document.getElementsByTagName("meta"),c=[/^video/i],d=0;d<b.length;d++)if("og:type"===b[d].getAttribute("property"))for(var e=b[d].getAttribute("content"),f=0;f<c.length;f++)c[f].test(e)&&(a=!0);return a}if("undefined"!=typeof document.domain&&document.domain.toLowerCase().indexOf("fit.")>=0||document.domain.toLowerCase().indexOf(".webmd.boots.com")>=0)return!0;enableHeaderBidding&&(enableHeaderBidding=["mn","am"]),$googleloaded=!0;var d=["mn","am"],e={mn:"loadMediaHeaderBidding",am:"loadA9HeaderBidding"};if(a("//www.googletagservices.com/tag/js/gpt.js"),window.loadMediaHeaderBidding=function(){window.advBidxc=window.advBidxc||{},window.advBidxc.renderAd=function(){},window.advBidxc.startTime=(new Date).getTime(),window.advBidxc.timeout=300,window.advBidxc.version=3.2,window.advBidxc.customerId="8CU66J63J",window.advBidxc.isAdServerLoaded=!0;var b="https:"==document.location.protocol,c=(b?"https:":"http:")+"//contextual.media.net/bidexchange.js?cid="+window.advBidxc.customerId+"&version="+window.advBidxc.version+(b?"&https=1":"");a(c)},window.loadA9HeaderBidding=function(){document.getElementsByTagName("script")[0];amznads.asyncParams={id:"3100",callbackFn:function(){try{amznads.setTargetingForGPTAsync("amznslots")}catch(a){}},timeout:2e3},a("//c.amazon-adsystem.com/aax2/amzn_ads.js")},!c()&&enableHeaderBidding!==!1&&(d!==!1&&(enableHeaderBidding=b(d)||enableHeaderBidding),enableHeaderBidding!==!1&&"object"==typeof enableHeaderBidding&&enableHeaderBidding.length>0)){for(var f=!1,g=0;g<enableHeaderBidding.length;g++)"undefined"!=typeof e[enableHeaderBidding[g]]&&"undefined"!=typeof window[e[enableHeaderBidding[g]]]&&(window[e[enableHeaderBidding[g]]].call(),f=!0);f===!0&&(enableHeaderBidding=!0)}}();</script>
+<script>
+var s_pagename = "medicinenet.comhttp://medicinenet.com:80/script/main/notfoundstatic.asp";
+var s_bu = "cns";
+var s_siteclass = "od";
+var s_site = "medicinenet";
+var s_server_type = "MN";
+var s_channel_health = "medicinenet";
+var s_refpath = "medicinenet";
+var s_server_number = "I30";
+var s_asset = "89143";
+var s_template_name = "medicinenet_nonvs_info.htm";
+var s_channel = "404";
+var s_asset_class = "market";
+var s_asset_type = "content";
+var s_articletype = "market";
+var s_pagenum = "1";
+var s_pub = "medicineNet";
+var s_user_group = "unregistered";
+</script>
+<script type="text/javascript" src="https://img.webmd.com/dtmcms/live/webmd/PageBuilder_Assets/JS_static/api/oo_shim.min.js"></script>
+<script src="//assets.adobedtm.com/dbc05520d4f49caf542bbd26c65a4b463263a2c9/satelliteLib-754e3413dffae5538da51e423d1503f3b6aade55.js"></script>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.medicinenet.com/script/main/mobileart.asp?articlekey=89143" >
+
+    <TITLE>404 - Page Not Found</TITLE>
+<meta property="og:title" content="404 - Page Not Found" />
+<meta property="og:description" content="Page Not Found - 404" />
+<meta property="og:url" content="https://www.medicinenet.comhttps://www.medicinenet.com:80/script/main/notfoundstatic.asp" />
+<meta property="og:site_name" content="MedicineNet" />
+<meta property="og:image" content="https://images.medicinenet.com/images/facebook/medicinenet/fb-mnet-default.jpg" />
+<meta property="fb:page_id" content="111506915551297" />
+<meta property="og:type" content="article" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="y_key" content="2547cd0fb417c291" />
+    <meta name="robots" content="noodp" />
+    <meta charset="UTF-8">
+    <META NAME="KeyWords" CONTENT="404 page not found" />
+    <META NAME="Description" CONTENT="Page Not Found - 404" />
+    <link rel="icon" href="https://images.medicinenet.com/images/fav/MN.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="https://images.medicinenet.com/css/medicinenet/redesign/global.css">
+<link rel="stylesheet" type="text/css" href="https://images.medicinenet.com/css/cookie-consent.css"/>
+<link rel="stylesheet" type="text/css" href="https://images.medicinenet.com/css/medicinenet/redesign/vendor/avgrund.css">
+<script src="https://images.medicinenet.com/medicinenet/js/all.min.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://images.medicinenet.com/javascript/medicinenet/redesign/vendor/html5shiv-printshiv.js"></script>
+        <![endif]-->
+        <link rel="stylesheet" type="text/css" href="https://images.medicinenet.com/css/medicinenet/redesign/article.css">
+        <script src="https://images.medicinenet.com/javascript/vendor/waypoints/jquery.waypoints.js"></script>
+        <script type="text/javascript">
+            var s_account = "webmdcom";
+var s_pagename = "medicinenet.comhttp://medicinenet.com:80/script/main/notfoundstatic.asp";
+var s_bu = "cns";
+var s_siteclass = "od";
+var s_site = "medicinenet";
+var s_server_type = "MN";
+var s_channel_health = "medicinenet";
+var s_refpath = "medicinenet";
+var s_server_number = "I30";
+var s_asset = "89143";
+var s_template_name = "medicinenet_nonvs_info.htm";
+var s_channel = "404";
+var s_asset_class = "market";
+var s_asset_type = "content";
+var s_articletype = "market";
+var s_pagenum = "1";
+var s_pub = "medicineNet";
+var s_user_group = "unregistered";
+    </script>
+
+<link href="https://plus.google.com/117041701306844597651" rel="publisher" />
+<script type="text/javascript">(function(){var gps=document.createElement("script");gps.type="text/javascript";gps.async = true;gps.src="https://apis.google.com/js/plusone.js";var gpse=document.getElementsByTagName("script")[0];gpse.parentNode.insertBefore(gps, gpse);})();</script>
+<script type="text/javascript">var bIsDFPAdTag=true;</script>
+<script type="text/javascript">webmd.ads2.adTarget = ['consumer', 'mednet'];</script>
+</head>
+
+<body>
+    <header>
+		<ul class="masterhead">
+                <li class="logo">
+                    <div itemscope itemtype="https://schema.org/Organization" >
+                        <a itemprop="url" onclick="wmdTrack('tn-logo');" href="https://www.medicinenet.com/script/main/hp.asp">
+                            Medicine<span class="net">Net</span>.<span class="com">com</span>
+                        </a>
+                    </div>
+                </li>
+                <li class="social fb">
+                    <a class="fb" href="https://www.facebook.com/MedicineNet" target="_blank" title="Follow us on Facebook. Click Like, and we'll send authoritative health and medical information to your News Feed." onclick="wmdPageLink('soc-fb'); popupWarning();" >
+                        <span class="icon-facebook"></span>
+                    </a>
+                </li>
+                <li class="social tw">
+                    <a class="tw" href="https://twitter.com/medicinenet" target="_blank" title="Follow us on Twitter. Be the first to know the latest in health information." onclick="wmdPageLink('soc-tw'); popupWarning();" >
+                        <span class="icon-twitter"></span>
+                    </a>  
+                </li>
+                <li class="social news">
+                    <a title="Get news on the go! Subscribe to our newsletters." class="mni-js-signupmodal" data-tracking="soc-news-mh" target="_blank">NEWSLETTERS</a>
+                </li>
+                <li class="search">
+<search-box filter-api="/mni/api/search" submit-api="/search/mni" :show-search-button="true" search-button-text="" placeholder="Seach Medicinenet..." wrapper-class="nav-search"></search-box>
+                </li>
+            </ul>
+
+            <nav id="menu">
+                <ul class="mainList">
+                                    <li>
+                        <a onclick="wmdTrack('tn-dc');" id="nav-disease" class="nav-disease_fmt break" href="https://www.medicinenet.com/diseases_and_conditions/article.htm">Disease &amp; Conditions<span class="icon-arrow-down2"></span></a>
+                        <div class="submenu">
+                            <div class="wrapper">                                
+                                <ul class="subList set">
+                                    <li><a href="https://www.medicinenet.com/diseases_and_conditions/article.htm" onclick="wmdTrack('tn-dc_2');">Conditions A-Z</a></li>
+                                    <li><a href="https://www.medicinenet.com/procedures_and_tests/article.htm" onclick="wmdTrack('tn-dc_3');">Procedures A-Z</a></li>
+                                    <li><a href="https://www.medicinenet.com/allergies/focus.htm" onclick="wmdTrack('tn-dc_4');">Allergies</a></li>
+                                    <li><a href="https://www.medicinenet.com/alzheimers/focus.htm" onclick="wmdTrack('tn-dc_5');">Alzheimer&#39;s</a></li>
+                                    <li><a href="https://www.medicinenet.com/arthritis/focus.htm" onclick="wmdTrack('tn-dc_6');">Arthritis</a></li>
+                                    <li><a href="https://www.medicinenet.com/asthma/focus.htm" onclick="wmdTrack('tn-dc_7');">Asthma</a></li>
+                                    <li><a href="https://www.medicinenet.com/high_blood_pressure/focus.htm" onclick="wmdTrack('tn-dc_8');">Blood Pressure</a></li>
+                                    <li><a href="https://www.medicinenet.com/cancer/focus.htm" onclick="wmdTrack('tn-dc_9');">Cancer</a></li>
+                                    <li><a href="https://www.medicinenet.com/cholesterol/focus.htm" onclick="wmdTrack('tn-dc_10');">Cholesterol</a></li>
+                                </ul>
+                                <ul class="subList set">
+                                    <li><a href="https://www.medicinenet.com/chronic_pain/focus.htm" onclick="wmdTrack('tn-dc_11');">Chronic Pain</a></li>
+                                    <li><a href="https://www.medicinenet.com/cold_and_flu/focus.htm" onclick="wmdTrack('tn-dc_12');">Cold &amp; Flu</a></li>
+                                    <li><a href="https://www.medicinenet.com/depression/focus.htm" onclick="wmdTrack('tn-dc_13');">Depression</a></li>
+                                    <li><a href="https://www.medicinenet.com/diabetes/focus.htm" onclick="wmdTrack('tn-dc_14');">Diabetes</a></li>
+                                    <li><a href="https://www.medicinenet.com/digestion/focus.htm" onclick="wmdTrack('tn-dc_15');">Digestion</a></li>
+                                    <li><a href="https://www.medicinenet.com/eyesight/focus.htm" onclick="wmdTrack('tn-dc_16');">Eyesight</a></li>
+                                    <li><a href="https://www.medicinenet.com/health_and_living/focus.htm" onclick="wmdTrack('tn-dc_17');">Health &amp; Living</a></li>
+                                    <li><a href="https://www.medicinenet.com/healthy_kids/focus.htm" onclick="wmdTrack('tn-dc_18');">Healthy Kids</a></li>
+                                    <li><a href="https://www.medicinenet.com/hearing/focus.htm" onclick="wmdTrack('tn-dc_19');">Hearing &amp; Ear</a></li>
+                                </ul>
+                                <ul class="subList set">
+                                    <li><a href="https://www.medicinenet.com/heart/focus.htm" onclick="wmdTrack('tn-dc_20');">Heart</a></li>
+                                    <li><a href="https://www.medicinenet.com/hiv/focus.htm" onclick="wmdTrack('tn-dc_21');">HIV/AIDS</a></li>
+                                    <li><a href="https://www.medicinenet.com/infectious_disease/focus.htm" onclick="wmdTrack('tn-dc_22');">Infectious Disease</a></li>
+                                    <li><a href="https://www.medicinenet.com/lungs/focus.htm" onclick="wmdTrack('tn-dc_23');">Lung Conditions</a></li>
+                                    <li><a href="https://www.medicinenet.com/menopause/focus.htm" onclick="wmdTrack('tn-dc_24');">Menopause</a></li>
+                                    <li><a href="https://www.medicinenet.com/mens_health/focus.htm" onclick="wmdTrack('tn-dc_25');">Men&#39;s Health</a></li>
+                                    <li><a href="https://www.medicinenet.com/mental_health/focus.htm" onclick="wmdTrack('tn-dc_26');">Mental Health</a></li>
+                                    <li><a href="https://www.medicinenet.com/migraine/focus.htm" onclick="wmdTrack('tn-dc_27');">Migraine</a></li>
+                                    <li><a href="https://www.medicinenet.com/neurology/focus.htm" onclick="wmdTrack('tn-dc_28');">Neurology</a></li>
+                                </ul>
+                                <ul class="subList set">
+                                    <li><a href="https://www.medicinenet.com/oral_health/focus.htm" onclick="wmdTrack('tn-dc_29');">Oral Health</a></li>
+                                    <li><a href="https://www.medicinenet.com/pregnancy/focus.htm" onclick="wmdTrack('tn-dc_30');">Pregnancy</a></li>
+                                    <li><a href="https://www.medicinenet.com/senior_health/focus.htm" onclick="wmdTrack('tn-dc_31');">Senior Health</a></li>
+                                    <li><a href="https://www.medicinenet.com/sexual_health/focus.htm" onclick="wmdTrack('tn-dc_32');">Sexual Health</a></li>
+                                    <li><a href="https://www.medicinenet.com/skin/focus.htm" onclick="wmdTrack('tn-dc_33');">Skin Problems</a></li>
+                                    <li><a href="https://www.medicinenet.com/sleep/focus.htm" onclick="wmdTrack('tn-dc_34');">Sleep</a></li>
+                                    <li><a href="https://www.medicinenet.com/thyroid/focus.htm" onclick="wmdTrack('tn-dc_35');">Thyroid</a></li>
+                                    <li><a href="https://www.medicinenet.com/travel_health/focus.htm" onclick="wmdTrack('tn-dc_36');">Travel Health</a></li>
+                                    <li><a href="https://www.medicinenet.com/womens_health/focus.htm" onclick="wmdTrack('tn-dc_37');">Women&#39;s Health</a></li>
+                                </ul>                                                                
+                            </div>
+                        </div>          
+                    </li>
+                    <li>
+                        <a onclick="wmdTrack('tn-slide');" id="nav-slide" class="nav-slide_fmt break" href="https://www.medicinenet.com/slideshows/article.htm">Slideshows<span class="icon-arrow-down2"></span></a>
+                        <div class="submenu">
+                            <div class="wrapper">
+                                <div class="featured">
+                                    <a onclick="wmdTrack('tn-slide_feat');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=122404" class="featuredThumb">
+                                        <img class="featuredImg" src="https://images.medicinenet.com/images/slideshow/thumb-slideshow/thumb-surprising-benefits-of-sex.jpg" alt=""/>
+                                        <div>
+                                            <h4>Surprising Health Benefits of Sex</h4>
+                                            <p>How would you like a stronger immune system or better sleep? Action between the sheets can help you get all of this and more.</p>
+                                        </div>                                    
+                                    </a>                                        
+                                </div>
+                                <ul class="subList">
+                                    <li><a onclick="wmdTrack('tn-slide_2');" href="https://www.medicinenet.com/slideshows/article.htm"><b>All Slideshows</b></a></li>
+                                    <li><a onclick="wmdTrack('tn-slide_3');" href="https://www.medicinenet.com/slideshows-popular/article.htm">Newest Slideshows</a></li>
+                                    <li><a onclick="wmdTrack('tn-slide_4');" href="https://www.medicinenet.com/slideshows-picks/article.htm">Pet Health Slideshows</a></li>
+                                </ul>                                
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a onclick="wmdTrack('tn-ic');" id="nav-images" class="nav-images_fmt break" href="https://www.medicinenet.com/image_collection/article.htm">Images<span class="icon-arrow-down2"></span></a>
+                        <div class="submenu">
+                            <div class="wrapper">
+                                <div class="featured">
+                                    <a onclick="wmdTrack('tn-ic_feat');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=107525" class="featuredThumb">
+                                        <img class="featuredImg" src="https://images.medicinenet.com/images/slideshow/thumb-slideshow/thumb-psoriasis-menu.jpg" alt=""/>
+                                        <div>
+                                            <h4>Psoriasis Medical Images</h4>
+                                            <p>Red, itchy, and scaly skin? Discover common skin conditions like psoriasis, rashes, and more in the collection of medical photos.</p>
+                                        </div>                                    
+                                    </a>                                        
+                                </div>
+                                <ul class="subList">
+                                    <li><a onclick="wmdTrack('tn-ic_2');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=107517">Allergic Skin Disorders</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_3');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=106753">Bacterial Skin Diseases</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_4');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=120800">Bites and Infestations</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_5');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=109861">Diseases of Pigment</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_6');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=107837">Fungal Skin Diseases</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_7');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=105631">Medical Anatomy and Illustrations</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_8');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=107539">Noncancerous, Precancerous &amp; Cancerous Tumors</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_9');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=120152">Oral Health Conditions</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_10');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=107525">Papules, Scales, Plaques and Eruptions</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_11');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=107851">Scalp, Hair and Nails</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_12');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=120794">Sexually Transmitted Diseases (STDs)</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_13');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=106752">Vascular, Lymphatic and Systemic Conditions</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_14');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=107516">Viral Skin Diseases</a></li>
+                                    <li><a onclick="wmdTrack('tn-ic_15');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=113903">Additional Skin Conditions</a></li>
+                                </ul>                                
+                            </div>
+                        </div>          
+                    </li>
+                    <li>
+                        <a onclick="wmdTrack('tn-qz');" id="nav-quiz" class="nav-quiz_fmt" href="https://www.medicinenet.com/quizzes_a-z_list/article.htm">Quizzes<span class="icon-arrow-down2"></span></a>
+                        <div class="submenu">
+                            <div class="wrapper">
+                                <div class="featured">
+                                    <a onclick="wmdTrack('tn-qz_feat');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=119180" class="featuredThumb">
+                                        <img class="featuredImg" src="https://images.medicinenet.com/images/slideshow/thumb-slideshow/thumb-sex-love-quiz-menu.jpg" alt=""/>
+                                        <div>
+                                            <h4>Take the Sex &amp; Love Quiz!</h4>
+                                            <p>The brain. The body. The bedroom. How much do you know about sex, love, and the human body?</p>
+                                        </div>                                    
+                                    </a>                                        
+                                </div>
+                                <ul class="subList">
+                                    <li><a onclick="wmdTrack('tn-qz_2');" href="https://www.medicinenet.com/happiness_quiz/quiz.htm"><b>Happiness</b> - Test your emotional IQ</a></li>
+                                    <li><a onclick="wmdTrack('tn-qz_3');" href="https://www.medicinenet.com/superfoods_quiz/quiz.htm"><b>Superfoods</b> - Are you eating enough?</a></li>
+                                    <li><a onclick="wmdTrack('tn-qz_4');" href="https://www.medicinenet.com/fat_and_fats_quiz/quiz.htm"><b>Fat and Fats</b> - What do you know about fat?</a></li>
+                                    <li><a onclick="wmdTrack('tn-qz_5');" href="https://www.medicinenet.com/skin_conditions_picture_quiz/quiz.htm"><b>Skin Pictures</b> - Can you identify these conditions?</a></li>
+                                    <li><a onclick="wmdTrack('tn-qz_6');" href="https://www.medicinenet.com/script/main/art.asp?articlekey=125353"><b>Chronic Fatigue Syndrome</b> &ndash; What do you know about CFS?</a></li>
+                                </ul>                                
+                            </div>
+                        </div>          
+                    </li>
+                    <li>
+                        <a onclick="wmdTrack('tn-sym');" id="nav-symtoms" class="nav-symtoms_fmt break" href="https://www.medicinenet.com/symptoms_and_signs/article.htm">Symptom Checker</a>
+                    </li>
+                    <li>
+                        <a onclick="wmdTrack('tn-hl');" id="nav-health" class="nav-health_fmt on break" href="https://www.medicinenet.com/health_and_living/focus.htm">Health &amp; Living<span class="icon-arrow-down2"></span></a>
+                        <div class="submenu">
+                            <div class="wrapper">
+                                <div class="featured">
+                                    <a onclick="wmdTrack('tn-hl_feat');" href="https://www.medicinenet.com/weight_loss/article.htm" class="featuredThumb">
+                                        <img class="featuredImg" src="https://images.medicinenet.com/images/main_nav/health_living/hl_nav_weight_loss_2_feat.png" alt=""/>
+                                        <div>
+                                            <h4>The No-Diet Approach</h4>
+                                            <p>Lose weight without dieting! Live better and be healthier with these quick nutritional tips from the experts.</p>
+                                        </div>                                    
+                                    </a>                                        
+                                </div>
+                                <ul class="subList">
+                                    <li><a href="https://www.medicinenet.com/diet_and_weight_management/article.htm" onclick="wmdTrack('tn-hl_2');">Diet &amp; Weight Management</a></li>
+                                    <li><a href="https://www.medicinenet.com/exercise_and_fitness/article.htm" onclick="wmdTrack('tn-hl_3');">Exercise &amp; Fitness</a></li>
+                                    <li><a href="https://www.medicinenet.com/nutrition_food_and_recipes/article.htm" onclick="wmdTrack('tn-hl_4');">Nutrition, Food &amp; Recipes</a></li>
+                                    <li><a href="https://www.medicinenet.com/prevention_and_wellness/article.htm" onclick="wmdTrack('tn-hl_5');">Prevention &amp; Wellness</a></li>
+                                </ul>                                
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a onclick="wmdTrack('tn-pharm');" id="nav-medications" class="nav-medications_fmt" href="https://www.medicinenet.com/medications/article.htm">Medications<span class="icon-arrow-down2"></span></a>
+                        <div class="submenu">
+                            <div class="wrapper">
+                                <ul class="subList set">
+                                    <li><a onclick="wmdTrack('tn-pharm_1');" href="https://www.medicinenet.com/medications/article.htm">Medications</a></li>
+                                    <li><a onclick="wmdTrack('tn-pharm_2');" href="https://www.medicinenet.com/supplements-vitamins/article.htm">Supplements and Vitamins</a></li>
+                                </ul>                                
+                            </div>
+                        </div>          
+                    </li>
+                    <li>
+                        <a onclick="wmdTrack('tn-mt');" id="nav-medterms" class="nav-medterms_fmt break" href="https://www.medicinenet.com/medterms-medical-dictionary/article.htm">MedTerms Dictionary</a>  
+                    </li>
+                    <li>
+                        <a onclick="wmdTrack('tn-ph');" id="nav-pet" class="nav-pet_fmt break" href="https://www.medicinenet.com/pets/pethealth/focus.htm">Pet Health</a>
+                    </li>
+                </ul>
+            </nav>
+    </header>
+    <section class="adTopWrapper">
+        <!-- Start 728x90 Ad Tag -->
+<div id="bannerAd_rdr"><div id="bannerAd_fmt"><div id="ads2-pos-101" class="ad_placeholder"></div></div></div>
+<script>
+webmd.ads2Consumer.defineAd({
+    targets:{pvid: window.s_pageview_id || '',art: '89143',pt: '404',uri: '404%3Bhttp%3A%2F%2Fwww%2Emedicinenet%2Ecom%3A80%2Fscript%2Fmain%2Fnotfoundstatic%2Easp',app: '31',cc: 'market',stick: '1'},blockCodes: '__',
+    id: 'ads2-pos-101',
+    pos: '101',
+    sizes: [[728, 90],[970, 90],[970, 250]]
+});
+</script>			
+<!-- End 728x90 Ad Tag -->
+				
+    </section>
+
+	<main id="article-wrapper" class="AP">        
+         <header>
+            <div itemscope itemtype="https://schema.org/WebPage">
+                <p class="breadcrumbs" itemprop="breadcrumb">
+                    <a onclick="wmdTrack('brdcrmb_home')" href="/script/main/hp.asp">home</a> <span>/</span> medicinenet page not found
+                </p>
+            </div>
+            <div id="headline">
+                <div class="miniBtn">
+                    <span class='icon-menu'></span>
+                    <span class='icon-search'></span>
+                </div>
+                <h1>MedicineNet Page Not Found</h1>                
+            </div>
+            <div class="fontResizer-wrapper">
+                <div id="fontResizer"></div>
+            </div>
+        </header>
+
+           		
+		<!-- Start Article Player -->
+        <div class="content">
+
+            <div class="stickyColLeft">								 
+                                <!-- Start 160x600/120x600 Ad Unit -->
+								<div id="leftAd_rdr">
+									<div id="leftAd_fmt" class="leftAd_BG_fmt">
+                                        <div id="ads2-pos-113" class="ad_placeholder"></div>
+									</div>
+								</div>
+                                <script>
+                                if (window.innerWidth >= 1024 || screen.width >= 1024) {
+                                    webmd.ads2Consumer.defineAd({
+                                        targets:{pvid: window.s_pageview_id || '',art: '89143',pt: '404',uri: '404%3Bhttp%3A%2F%2Fwww%2Emedicinenet%2Ecom%3A80%2Fscript%2Fmain%2Fnotfoundstatic%2Easp',app: '31',cc: 'market',stick: '1'},blockCodes: '__',
+                                        id: 'ads2-pos-113',
+                                        pos: '113',                                    
+                                        sizes: [160, 600] 
+                                    });
+                                }
+                                </script>
+								<!-- End 160x600/120x600 Ad Unit -->
+</div>
+
+            <article>
+                <div id="pageContainer">	
+                    <div class="apPage">
+                        
+<h1>We're sorry, the page you're looking for can't be found.</h1>
+<p><b>It is possible that you used an outdated or expired MedicineNet link or you 
+may have typed the address incorrectly.</b></p>
+<p>Please try searching using the search field above. If you're not sure of the 
+spelling, type the first few letters, followed by an asterisk(*).</p>
+<p>To help you find what you are looking for, these links may help.</p>
+
+<!-- left col. -->
+<div id="leftcol">
+<p>Browse our A-Z Lists:</p>
+<ul>
+	<li><a href="https://www.medicinenet.com/slideshows/article.htm">Picture Slideshows</a></li>
+	<li><a href="https://www.medicinenet.com/image_collection/article.htm">Image Collection</a></li>
+	<li><a href="https://www.medicinenet.com/quizzes_a-z_list/article.htm">Quizzes</a></li>
+        <li><a href="https://www.medicinenet.com/diseases_and_conditions/article.htm">Diseases &amp; Conditions</a></li>
+        <li><a href="https://www.medicinenet.com/procedures_and_tests/article.htm">Procedures &amp; Tests</a></li>
+	<li><a href="https://www.medicinenet.com/symptoms_and_signs/article.htm">Symptom Checker</a></li>
+	<li><a href="https://www.medicinenet.com/health_and_living/focus.htm">Health &amp; Living</a></li>
+	<li><a href="https://www.medicinenet.com/medications/article.htm">Medications</a></li>
+	<li><a href="https://www.medicinenet.com/supplements-vitamins/article.htm">Vitamins &amp; Supplements</a></li>
+        <li><a href="https://www.medicinenet.com/medterms-medical-dictionary/article.htm">MedTerms Online Medical Dictionary</a></li>
+        <li><a href="https://www.medicinenet.com/pets/pethealth/focus.htm">Pet Health</a></li>
+</ul>
+<p><a href="/site_map/article.htm">Site Map</a></p>
+</div>
+<!-- right col. -->
+<div id="rightcol">
+    <!-- Top Stories iFrame -->
+    <div id="NV_TopStories">
+        <div id="topStories_header">
+            <form name="newsform" id="newsform">
+                <select name="NewsSelect" size="1" onchange="ShowNews(this.form.NewsSelect)">
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=0&amp;itemcount=5" selected="selected"> General News</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=8&amp;itemcount=5"> Allergies</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=35&amp;itemcount=5"> Alzheimers</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=1&amp;itemcount=5"> Arthritis</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=26&amp;itemcount=5"> Asthma</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=12&amp;itemcount=5"> Cancer</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=9&amp;itemcount=5"> Cholesterol</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=31&amp;itemcount=5"> Chronic Pain</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=14&amp;itemcount=5"> Depression</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=3&amp;itemcount=5"> Diabetes</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=2&amp;itemcount=5"> Digestion</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=49&amp;itemcount=5"> Disease Prevention</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=34&amp;itemcount=5"> Eyesight</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=36&amp;itemcount=5"> Hearing</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=16&amp;itemcount=5"> Heart</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=5&amp;itemcount=5"> High Blood Pressure</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=6&amp;itemcount=5"> HIV</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=38&amp;itemcount=5"> Kids Health</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=17&amp;itemcount=5"> Lungs</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=29&amp;itemcount=5"> Menopause</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=23&amp;itemcount=5"> Mens Health</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=30&amp;itemcount=5"> Senior Health</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=25&amp;itemcount=5"> Skin</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=33&amp;itemcount=5"> Sleep</option>
+                    <option value="https://www.medicinenet.com/script/main/getnews2.asp?feedid=7&amp;itemcount=5"> Womens Health</option>
+                </select>
+            </form>
+        </div>
+        <div id="iFrame_Container" style="background-color: #F2F2F2; margin-top: 0px; padding-top: 0px;">
+            <iframe src="https://www.medicinenet.com/script/main/getnews2.asp?feedid=0&amp;itemcount=5" name="newsframe" width="100%" height="200px" marginwidth="0" marginheight="0" frameborder="0" id="newsframe"> </iframe>
+        </div>
+        <div id="topStories_footer"><a href="/latest_health_news/article.htm" style="float: right; text-align: right; font-size: 10px; color: #FFF; padding-right: 15px; text-decoration:none; font-weight:bold;">Read more &raquo;</a></div>
+    </div>
+    <div style="clear: both;"></div>
+</div>
+
+                    </div>
+                </div>
+                <div class="article-extra">
+                    <!--BOTTOM_PROMOCHUNK-->
+                    <!-- Popular Slideshow Bottom -->
+                </div>
+            </article>
+
+            <aside class="stickyColRight">
+                <div class="stickyrightrail">  
+                    						    <!-- Start 300x250 Ad Tag -->
+							<div id="rightAd_rdr">
+								<div id="rightAd_fmt" class="rightAd_BG_fmt">
+                                    <div id="ads2-pos-121" class="ad_placeholder">
+                                    </div>
+								</div>
+							</div>
+                            <script>
+                            webmd.ads2Consumer.defineAd({
+                                targets:{pvid: window.s_pageview_id || '',art: '89143',pt: '404',uri: '404%3Bhttp%3A%2F%2Fwww%2Emedicinenet%2Ecom%3A80%2Fscript%2Fmain%2Fnotfoundstatic%2Easp',app: '31',cc: 'market',stick: '1'},blockCodes: '__',
+                                id: 'ads2-pos-121',
+                                pos: '121',
+                                sizes: [[300,250],[300,600],[300,1050]]
+                            });
+                            </script>
+							<!-- End 300x250 Ad Tag -->
+
+                    <div class="sideBox"><h3><a href="https://www.medicinenet.com/slideshows/article.htm">Featured Slideshows</a></h3>
+                    <ul class="content featured trending">
+                         <li>                            
+                            <a href="https://www.medicinenet.com/eye_diseases_pictures_slideshow/article.htm" onclick="wmdTrack('rr-promo-sli1');">
+                                <img src="https://images.medicinenet.com//images/slideshow/featured-slideshow/featured-eye-diseases.jpg" alt="Protect Your Eyesight: Warning Signs of Common Eye Conditions">
+                                <p>Protect Your Eyesight<span>Warning Signs of Common Eye Conditions</span></p>
+                            </a>
+                        </li>
+                        <li>                            
+                            <a href="
+https://www.medicinenet.com/migraine_headaches_pictures_slideshow/article.htm" onclick="wmdTrack('rr-promo-sli2');">
+                                <img src="https://images.medicinenet.com/images/forum/featured-common-migraine-symptoms.jpg" alt="Migraine or Headache, What's the Difference?">
+                                <p>Migraine or Headache<span>What's the Difference?</span></p>
+                            </a>
+                        </li>
+                        <li>                            
+                            <a href="https://www.medicinenet.com/psoriasis_symptoms_treatment_pictures_slideshow/article.htm" onclick="wmdTrack('rr-promo-sli3');">
+                                <img src="https://images.medicinenet.com/images/forum/featured-psoriasis3.jpg" alt="Psoriasis: See what it looks like and how to treat it">
+                                <p>Psoriasis<span>See What It Looks Like and How to Treat It</span></p>
+                            </a>
+                        </li>
+                       </ul></div>
+                </div>
+            </aside>
+
+        </div>                            
+        
+    </main>
+    <scroll-page></scroll-page>
+    <section id="owl-top" class="owl-carousel">
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_01');" href="https://www.medicinenet.com/adhd_in_adults_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/adult-adhd.jpg" alt="ADHD in Adults: Signs, Cause, and Management" border="0" />
+                    <div class="wrapper"><span>ADHD in Adults</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_02');" href="https://www.medicinenet.com/bad_bugs_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/bug-sting-bite-slider-wheel.jpg" alt="Bad Bugs: Identify Bug Bites From Mosquitos, Spiders and More" border="0" />
+                    <div class="wrapper"><span>What Bit Me?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_03');" href="https://www.medicinenet.com/crohns_disease_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/crohns-disease.jpg" alt="Crohn's Disease Causes, Symptoms, Diet" border="0" />
+                    <div class="wrapper"><span>What is Crohn's Disease?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_04');" href="https://www.medicinenet.com/sore_throat_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/cold-and-flu.jpg" alt="Common Sore Throat vs. Strep Throat" border="0" />
+                    <div class="wrapper"><span>Strep Throat vs. Sore Throat</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_05');" href="https://www.medicinenet.com/type_2_diabetes_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/diabetes-2.jpg" alt="Type 2 Diabetes Diagnosis, Treatment, Medication" border="0" />
+                    <div class="wrapper"><span>Warning Signs of Type 2 Diabetes</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_06');" href="https://www.medicinenet.com/rheumatoid_arthritis_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/rheumatoid-arthritis-2.jpg" alt="Rheumatoid Arthritis Symptoms and Treatment" border="0" />
+                    <div class="wrapper"><span>Easing Rheumatoid Arthritis Pain</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_07');" href="https://www.medicinenet.com/migraine_headaches_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/migraine-headaches.jpg" alt="Migraine or Headache? Migraine Symptoms, Triggers, Treatment " border="0" />
+                    <div class="wrapper"><span>Know Your Migraine Triggers</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_08');" href="https://www.medicinenet.com/lung_cancer_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/lung-cancer.jpg" alt="Lung Cancer Symptoms, Stages, Treatment" border="0" />
+                    <div class="wrapper"><span>The Stages of Lung Cancer</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_09');" href="https://www.medicinenet.com/hepatitis_c_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/hepatitis-c.jpg" alt="Hepatitis C (Hep C) Symptoms and Treatment" border="0" />
+                    <div class="wrapper"><span>Who's at Risk for Hepatitis C?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_10');" href="https://www.medicinenet.com/binge_eating_disorder_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/binge-eating.jpg" alt="Binge Eating Disorder: Causes, Symptoms, Treatment, Recovery" border="0" />
+                    <div class="wrapper"><span>When is Binge Eating a Disorder?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_11');" href="https://www.medicinenet.com/low_testosterone_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/low-testosterone.jpg" alt="Low Testosterone (Low-T) in Men: Causes, Symptoms & Treatments" border="0" />
+                    <div class="wrapper"><span>Low-T: A Normal Part of Aging?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_12');" href="https://www.medicinenet.com/schizophrenia_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/schizophrenia.jpg" alt="Schizophrenia: Symptoms, Types, Causes, and Treatment" border="0" />
+                    <div class="wrapper"><span>Schizophrenia and Mental Health</span></div>
+                </a>
+            </div> 
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_13');" href="https://www.medicinenet.com/multiple_sclerosis_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/multiple-sclerosis-symptoms-treatment.jpg" alt="Multiple Sclerosis (MS) Symptoms, Treatment" border="0" />
+                    <div class="wrapper"><span>The Effects of Multiple Sclerosis</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_14');" href="https://www.medicinenet.com/heart_disease_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/heart-disease-signs.jpg" alt="Heart Disease: Symptoms, Signs, and Causes" border="0" />
+                    <div class="wrapper"><span>The World's No. 1 Killer</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_15');" href="https://www.medicinenet.com/ulcerative_colitis_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/ulcerative-colitis.jpg" alt="Ulcerative Colitis Symptoms, Causes, and Treatment" border="0" />
+                    <div class="wrapper"><span>What Is Ulcerative Colitis?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_16');" href="https://www.medicinenet.com/birth_control_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/birth-control.jpg" alt="Birth Control Methods, Side Effects, Effectiveness" border="0" />
+                    <div class="wrapper"><span>Choose the Right Birth Control</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_17');" href="https://www.medicinenet.com/atrial_fibrillation_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/atrial-fibrillation.jpg" alt="Atrial Fibrillation: Visual Guidelines to Causes, Tests and Treatment" border="0" />
+                    <div class="wrapper"><span>Living With AFib</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_18');" href="https://www.medicinenet.com/inflammatory_bowel_disease_ibd_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/inflammatory-bowel.jpg" alt="Inflammatory Bowel Disease (IBD) Causes, Symptoms, Treatment" border="0" />
+                    <div class="wrapper"><span>IBD or IBS: Know the Difference?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_19');" href="https://www.medicinenet.com/deep_vein_thrombosis_dvt_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/deep-vein-thrombosis.jpg" alt="Deep Vein Thrombosis (DVT): Symptoms, Treatment & Prevention" border="0" />
+                    <div class="wrapper"><span>What is Deep Vein Thrombosis?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_20');" href="https://www.medicinenet.com/image-collection/fungal_nail_infection_picture/picture.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/toenail-fungus.jpg" alt="Image Collection - Picture of Fungal Nail Infection" border="0" />
+                    <div class="wrapper"><span>Put an End to Nail Fungus</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_21');" href="https://www.medicinenet.com/nutritional_health_vitamin_d_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/vitamin-d.jpg" alt="Vitamin D Deficiency and Treatment" border="0" />
+                    <div class="wrapper"><span>Vitamin D: How Much is Enough?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_22');" href="https://www.medicinenet.com/colorectal_cancer_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/prostate-cancer.jpg" alt="Colorectal Cancer (Colon Cancer): Symptoms, Signs, Screening, Stages, and Treatment Options" border="0" />
+                    <div class="wrapper"><span>Colorectal Cancer Risks</span></div>
+                </a>
+            </div>  
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_23');" href="https://www.medicinenet.com/top_problems_in_your_mouth_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com//images/slider_wheel_promo/top-problems-in-your-mouth.jpg" alt="Dental Health: Top Problems in Your Mouth" border="0" />
+                    <div class="wrapper"><span>Shocking Diseases of the Mouth</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_24');" href="https://www.medicinenet.com/ibs_pictures_slideshow_understanding_ibs/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/ibs-bowel.jpg" alt="IBS - Irritable Bowel Syndrome: Symptoms, Diet, Treatment" border="0" />
+                    <div class="wrapper"><span>Coping With IBS</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_25');" href="https://www.medicinenet.com/adhd_children_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/adhd_children.jpg" alt="ADHD Symptoms in Children" border="0" />
+                    <div class="wrapper"><span>Signs Your Child May Have ADHD</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_26');" href="https://www.medicinenet.com/psoriasis_symptoms_treatment_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/psoriasis-causes-symptoms-treatments.jpg" alt="Psoriasis Types, Images, Treatments" border="0" />
+                    <div class="wrapper"><span>The Stigma of Psoriasis</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_27');" href="https://www.medicinenet.com/cancer_101_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/cancer-101.jpg" alt="Guide to Understanding Cancer" border="0" />
+                    <div class="wrapper"><span>Guide to Understanding Cancer</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_28');" href="https://www.medicinenet.com/diabetes_foot_problems_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/diabetes-foot.jpg" alt="How Diabetes Can Affect Your Feet" border="0" />
+                    <div class="wrapper"><span>Beware of Diabetes Foot Dangers</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_29');" href="https://www.medicinenet.com/hiv_aids_myths_and_facts_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/aids-hiv.jpg" alt="HIV AIDS Facts: Symptoms and Treatments" border="0" />
+                    <div class="wrapper"><span>Living With HIV AIDS</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_30');" href="https://www.medicinenet.com/heart_disease_pictures_slideshow_visual_guide/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/heart-disease.jpg" alt="Heart Disease: Causes of a Heart Attack" border="0" />
+                    <div class="wrapper"><span>Am I Having a Heart Attack?</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_31');" href="https://www.medicinenet.com/breast_cancer_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/breast-cancer.jpg" alt="Breast Cancer Diagnosis and Treatment" border="0" />
+                    <div class="wrapper"><span>Breast Cancer: What Happens Next</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_32');" href="https://www.medicinenet.com/cholesterol_levels_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/cholesterol-management.jpg" alt="Lowering Your Cholesterol Levels" border="0" />
+                    <div class="wrapper"><span>What Cholesterol Levels Mean</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_33');" href="https://www.medicinenet.com/eye_diseases_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/eye-health.jpg" alt="Common Eye Problems and Infections" border="0" />
+                    <div class="wrapper"><span>Diseases of the Eye</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_34');" href="https://www.medicinenet.com/type_1_diabetes_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/diabetes.jpg" alt="Type 1 Diabetes: What Are The Symptoms?" border="0" />
+                    <div class="wrapper"><span>Managing Type 1 Diabetes</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_35');" href="https://www.medicinenet.com/psoriatic_arthritis_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/rheumatoid-arthritis.jpg" alt="Psoriatic Arthritis Symptoms, Treatment, Images" border="0" />
+                    <div class="wrapper"><span>Ease Psoriatic Arthritis Pain</span></div>
+                </a>
+            </div>
+            <div class="item">
+                <a onclick="wmdTrack('sldr-promo_36');" href="https://www.medicinenet.com/dementia_pictures_slideshow/article.htm" target="_parent">
+                    <img class="lazyOwl" data-src="https://images.medicinenet.com/images/slider_wheel_promo/alzheimers.jpg" alt="Dementia, Alzheimer's, and Aging Brains" border="0" />
+                    <div class="wrapper"><span>Alzheimer's and Aging Brains</span></div>
+                </a>
+            </div>
+        </section>
+    <section id="sponsors">
+            <h2>Health Solutions <span>From Our Sponsors</span></h2>
+
+            <div class="wrapper">
+<ul>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/post-acute-care/nursing-and-rehabilitation-services" onclick="wmdPageLink('hicb f-hs_1');" title="Rehabilitation Services">Rehabilitation Services</a></li>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/dna/myquit-club" onclick="wmdPageLink('hicb f-hs_2');" title="How to Quit Smoking">How to Quit Smoking</a></li>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/pets/dogs/flea-tick-map-tool/prevent-fleas-and-ticks" onclick="wmdPageLink('hicb f-hs_3');" title="Fight Fleas and Ticks">Fight Fleas and Ticks</a></li>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/cancer-patient-care" onclick="wmdPageLink('hicb f-hs_4');" title="21st Century Cures">21st Century Cures</a></li>
+</ul><ul>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/digestive-disorders/probiotics-18/refreshing-probiotic-drinks" onclick="wmdPageLink('hicb f-hs_5');" title="Power of Probiotics">Power of Probiotics</a></li>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/brandcast/how-to-fight-fall-allergies" onclick="wmdPageLink('hicb f-hs_6');" title="Control Allergies">Control Allergies</a></li>
+<li><a rel="nofollow" target="_blank" href="https://pets.webmd.com/rid-fleas-18/how-to-treat-flea-infestations" onclick="wmdPageLink('hicb f-hs_7');" title="Treat Infestations">Treat Infestations</a></li>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/dna/the-journey-starts-now " onclick="wmdPageLink('hicb f-hs_8');" title="Address Drug Dependency">Address Drug Dependency</a></li>
+</ul><ul>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/cancer-patient-care" onclick="wmdPageLink('hicb f-hs_9');" title="Consider Clinical Trials">Consider Clinical Trials</a></li>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/dupuytrens-contracture-treatment/dupuytrens-contracture" onclick="wmdPageLink('hicb f-hs_10');" title="Bent Fingers?">Bent Fingers?</a></li>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/pets/dogs/flea-tick-map-tool/prevent-fleas-and-ticks" onclick="wmdPageLink('hicb f-hs_11');" title="Treat Pets for Fleas">Treat Pets for Fleas</a></li>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/good-to-grow" onclick="wmdPageLink('hicb f-hs_12');" title="Child Nutritional Needs">Child Nutritional Needs</a></li>
+</ul><ul>
+<li><a rel="nofollow" target="_blank" href="https://pets.webmd.com/rid-fleas-18/how-to-treat-flea-infestations" onclick="wmdPageLink('hicb f-hs_13');" title="Stop Infestations">Stop Infestations</a></li>
+<li><a rel="nofollow" target="_blank" href="" onclick="wmdPageLink('hicb f-hs_14');" title=""></a></li>
+<li><a rel="nofollow" target="_blank" href="https://www.webmd.com/brandcast/tips-to-manage-urinary-incontinence" onclick="wmdPageLink('hicb f-hs_15');" title="Bladder Control Issues">Bladder Control Issues</a></li>
+</ul>
+</div>
+</section>   
+    <footer>
+            <div class="bar">
+                <ul class="masterhead">    
+<li class="social news">
+                        <a title="Get news on the go! Subscribe to our newsletters." class="mni-js-signupmodal" data-tracking="soc-news-ft" target="_blank">
+                            NEWSLETTERS
+                        </a>
+                    </li>                           
+                    <li class="social tw">
+                        <a class="tw" href="https://twitter.com/medicinenet" target="_blank" title="Follow us on Twitter. Be the first to know the latest in health information." onclick="wmdPageLink('soc-tw'); popupWarning();" >
+                            <span class="icon-twitter"></span>
+                        </a>  
+                    </li>
+                    <li class="social fb">
+                        <a class="fb" href="https://www.facebook.com/MedicineNet" target="_blank" title="Follow us on Facebook. Click Like, and we'll send authoritative health and medical information to your News Feed." onclick="wmdPageLink('soc-fb'); popupWarning();" >
+                            <span class="icon-facebook"></span>
+                        </a>
+                    </li>
+                    <li class="logo">
+                        <a href="https://www.medicinenet.com">MedicineNet.<span>com</span></a>
+                    </li>
+                </ul>
+            </div>
+
+            <nav>
+                <div class="copyright">
+                    <ul class="badge">                        
+                        <li>
+                            <a style="text-decoration:none;" href="https://www.hon.ch/HONcode/Conduct.html?HONConduct594277" onclick="wmdPageLink('f-hon_1');" rel="nofollow" target="_blank">
+                                <img alt="This website is certified by Health On the Net Foundation. Click to verify." height="60" width="43" src="https://www.honcode.ch/HONcode/Seal/HONConduct594277_s1.gif" title="This website is certified by Health On the Net Foundation. Click to verify."/>
+                            </a>
+<img class="rgb_tag" src="https://images.medicinenet.com/images/footer/badges/rgb_tag_registered.png" height="60px" width="60px" style="margin:0 5px" />
+                        </li>
+                        <li>
+                            <div><a href="//privacy.truste.com/privacy-seal/validation?rid=07326333-3522-463d-81bf-f00fd7171fff" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=07326333-3522-463d-81bf-f00fd7171fff" alt="TRUSTe"/></a></div>
+                        </li>
+                        <li>
+                            <script type="text/javascript" src="https://preferences.truste.com/webservices/js?type=med&domain=webmd"></script>
+                            <a style="cursor:pointer" onclick="TRUSTeWidget.Tab.link()">Ad Choices</a>
+                        </li> 
+                    </ul>             
+                    <p>&copy;1996-2018 MedicineNet, Inc. All rights reserved. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=12596" onclick="wmdTrack('f-terms_1');" rel="nofollow">Terms of Use.</a></p>
+                    <p>MedicineNet does not provide medical advice, diagnosis or treatment. <a href="https://www.medicinenet.com/script/main/art.asp?articlekey=63261" onclick="wmdTrack('f-terms_2');" rel="nofollow">See additional information</a>.</p>
+                </div>
+
+                <div class="link">
+                    <h4>Health Categories</h4>
+                    <ul>
+                        <li><a href="https://www.medicinenet.com/slideshows/article.htm" onclick="wmdTrack('f-hc_1');">Medical Slideshows</a></li>
+                        <li><a href="https://www.medicinenet.com/diseases_and_conditions/article.htm" onclick="wmdTrack('f-hc_2');">Diseases &amp; Conditions</a></li>
+                        <li><a href="https://www.medicinenet.com/symptoms_and_signs/article.htm" onclick="wmdTrack('f-hc_3');">Symptoms &amp; Signs</a></li>
+                        <li><a href="https://www.medicinenet.com/procedures_and_tests/article.htm" onclick="wmdTrack('f-hc_4');">Procedures &amp; Tests</a></li>
+                        <li><a href="https://www.medicinenet.com/medications/article.htm" onclick="wmdTrack('f-hc_5');">Medications</a></li>
+                        <li><a href="https://www.medicinenet.com/health_and_living/focus.htm" onclick="wmdTrack('f-hc_6');">Healthy Living</a></li>
+                        <li><a href="https://www.medicinenet.com/supplements-vitamins/article.htm" onclick="wmdTrack('f-hc_7');">Vitamins &amp; Supplements</a></li>
+                        <li><a href="https://www.medicinenet.com/image_collection/article.htm" onclick="wmdTrack('f-hc_8');">Image Collection</a></li>
+                        <li><a href="https://www.medicinenet.com/quizzes_a-z_list/article.htm" onclick="wmdTrack('f-hc_9');">Quizzes</a></li>
+                        <li><a href="https://www.medicinenet.com/medterms-medical-dictionary/article.htm" onclick="wmdTrack('f-hc_10');">MedTerms Dictionary</a></li>
+                        <li><a class="last" href="https://www.medicinenet.com/pets/pethealth/focus.htm" onclick="wmdTrack('f-hc_11');">Pet Health</a></li>
+                    </ul>
+                </div>
+                <div class="link">
+                    <h4>Popular Health Centers</h4>
+                    <ul class="col">
+                        <li><a href="https://www.medicinenet.com/allergies/focus.htm" onclick="wmdTrack('f-phc_1');">Allergies</a></li>
+                        <li><a href="https://www.medicinenet.com/arthritis/focus.htm" onclick="wmdTrack('f-phc_2');">Arthritis</a></li>
+                        <li><a href="https://www.medicinenet.com/high_blood_pressure/focus.htm" onclick="wmdTrack('f-phc_3');">Blood Pressure</a></li>
+                        <li><a href="https://www.medicinenet.com/cancer/focus.htm" onclick="wmdTrack('f-phc_4');">Cancer</a></li>
+                        <li><a href="https://www.medicinenet.com/chronic_pain/focus.htm" onclick="wmdTrack('f-phc_5');">Chronic Pain</a></li>
+                        <li><a href="https://www.medicinenet.com/cold_and_flu/focus.htm" onclick="wmdTrack('f-phc_6');">Cold &amp; Flu</a></li>
+                        <li><a href="https://www.medicinenet.com/depression/focus.htm" onclick="wmdTrack('f-phc_7');">Depression</a></li>
+                        <li><a href="https://www.medicinenet.com/diabetes/focus.htm" onclick="wmdTrack('f-phc_8');">Diabetes</a></li>
+                        <li><a href="https://www.medicinenet.com/digestion/focus.htm" onclick="wmdTrack('f-phc_9');">Digestion</a></li>
+                        <li><a href="https://www.medicinenet.com/health_and_living/focus.htm" onclick="wmdTrack('f-phc_10');">Health &amp; Living</a></li>
+                        <li><a href="https://www.medicinenet.com/healthy_kids/focus.htm" onclick="wmdTrack('f-phc_11');">Healthy Kids</a></li>
+                        <li><a href="https://www.medicinenet.com/hearing/focus.htm" onclick="wmdTrack('f-phc_12');">Hearing &amp; Ear</a></li>
+                    </ul>
+                    <ul class="col">
+                        <li><a href="https://www.medicinenet.com/heart/focus.htm" onclick="wmdTrack('f-phc_13');">Heart</a></li>
+                        <li><a href="https://www.medicinenet.com/hiv/focus.htm" onclick="wmdTrack('f-phc_14');">HIV/AIDS</a></li>
+                        <li><a href="https://www.medicinenet.com/infectious_disease/focus.htm" onclick="wmdTrack('f-phc_15');">Infectious Disease</a></li>
+                        <li><a href="https://www.medicinenet.com/mens_health/focus.htm" onclick="wmdTrack('f-phc_16');">Men's Health</a></li>
+                        <li><a href="https://www.medicinenet.com/mental_health/focus.htm" onclick="wmdTrack('f-phc_17');">Mental Health</a></li>
+                        <li><a href="https://www.medicinenet.com/neurology/focus.htm" onclick="wmdTrack('f-phc_18');">Neurology</a></li>
+                        <li><a href="https://www.medicinenet.com/pregnancy/focus.htm" onclick="wmdTrack('f-phc_19');">Pregnancy</a></li>
+                        <li><a href="https://www.medicinenet.com/sexual_health/focus.htm" onclick="wmdTrack('f-phc_20');">Sexual Health</a></li>
+                        <li><a href="https://www.medicinenet.com/skin/focus.htm" onclick="wmdTrack('f-phc_21');">Skin</a></li>
+                        <li><a href="https://www.medicinenet.com/thyroid/focus.htm" onclick="wmdTrack('f-phc_22');">Thyroid</a></li>
+                        <li><a href="https://www.medicinenet.com/womens_health/focus.htm" onclick="wmdTrack('f-phc_23');">Women's Health</a></li>
+                        <li><a href="https://www.medicinenet.com/diseases_and_conditions/article.htm" onclick="wmdTrack('f-phc_24');">More...</a></li>
+                    </ul>
+                </div>
+                <div class="link">
+                    <h4>MedicineNet</h4>
+                    <ul>
+                        <li><a href="https://www.medicinenet.com/script/main/art.asp?articlekey=12507" onclick="wmdTrack('f-about_1');" rel="nofollow">Privacy Policy</a></li>
+                        <li><a href="https://www.medicinenet.com/script/main/art.asp?articlekey=12510" onclick="wmdPageLink('f-about_2');" rel="nofollow" target="_blank">About Us</a></li>
+                        <li><a href="https://data.webmd.com/sdclive/SdcForm.aspx?FormId=MedNetContact" onclick="wmdPageLink('f-about_3');" rel="nofollow" target="_blank">Contact Us</a></li>
+                        <li><a href="https://www.medicinenet.com/site_map/article.htm" onclick="wmdTrack('f-about_4');">Site Map</a></li>
+                        <li><a href="https://www.wbmd.com/" onclick="wmdPageLink('f-about_5');" target="_blank">WebMD Corporate</a></li>
+                        <li><a href="https://www.webmd.com/" onclick="wmdPageLink('f-about_6');" target="_blank">WebMD</a></li>
+                        <li><a class="last" href="https://www.webmd.com/rx/" onclick="wmdPageLink('ftr_4-n');"  target="_blank">WebMDRx</a></li>
+                        <li><a href="https://www.medscape.com/" onclick="wmdPageLink('f-about_7');" target="_blank">Medscape</a></li>
+                        <li><a href="https://reference.medscape.com" onclick="wmdPageLink('f-about_8');" target="_blank">Medscape Reference</a></li>
+                        <li><a href="https://www.emedicinehealth.com/script/main/hp.asp" onclick="wmdPageLink('f-about_9');" target="_blank">eMedicineHealth</a></li>
+                        <li><a href="https://www.rxlist.com/script/main/hp.asp" onclick="wmdPageLink('f-about_10');" target="_blank">RxList</a></li>
+<li><a href="https://www.onhealth.com" onclick="wmdPageLink('f-about_oh');" target="_blank">OnHealth</a></li>
+                        <li><a href="https://www.medscape.fr/" onclick="wmdPageLink('f-about_12');" target="_blank">Medscape France</a></li>
+                        <li><a class="last" href="https://www.medscapemedizin.de/" onclick="wmdPageLink('f-about_13');" target="_blank">Medscape Germany</a></li>
+                    </ul>
+                </div>
+            </nav>            
+        </footer>
+	<!-- Start WSS-->
+    <script language="JavaScript1.2" type="text/javascript">
+        function getDisplayNumber(iNumber) {
+            var sNumber = (iNumber <= 9) ? "0" + iNumber : "" + iNumber;
+            return sNumber;
+        }
+        function doBIScript() {
+            var s = '';
+            var date = new Date();
+            s += getDisplayNumber(date.getFullYear());
+            s += getDisplayNumber(date.getMonth() + 1);
+            s += getDisplayNumber(date.getDate());
+            document.write('<scr' + 'ipt language="javascript1.2" type="text/javascript" src="https://img.webmd.com/bi_common/bi_oocommon.js?d=' + s + '"><\/scr' + 'ipt>');
+        }
+
+        var s_account = "webmdcom";
+var s_pagename = "medicinenet.comhttp://medicinenet.com:80/script/main/notfoundstatic.asp";
+var s_bu = "cns";
+var s_siteclass = "od";
+var s_site = "medicinenet";
+var s_server_type = "MN";
+var s_channel_health = "medicinenet";
+var s_refpath = "medicinenet";
+var s_server_number = "I30";
+var s_asset = "89143";
+var s_template_name = "medicinenet_nonvs_info.htm";
+var s_channel = "404";
+var s_asset_class = "market";
+var s_asset_type = "content";
+var s_articletype = "market";
+var s_pagenum = "1";
+var s_pub = "medicineNet";
+var s_user_group = "unregistered";
+
+        
+
+        doBIScript();
+
+    </script>
+    <!-- Social Buttons -->
+    <!-- start ad 1x1 -->
+<div id="ads2-pos-901" class="ad_placeholder"></div>
+<script>
+webmd.ads2Consumer.defineAd({
+    targets:{pvid: window.s_pageview_id || '',art: '89143',pt: '404',uri: '404%3Bhttp%3A%2F%2Fwww%2Emedicinenet%2Ecom%3A80%2Fscript%2Fmain%2Fnotfoundstatic%2Easp',app: '31',cc: 'market',stick: '1'},blockCodes: '__',
+    id: 'ads2-pos-901',
+    pos: '901',
+    sizes: [1,1] 
+});
+</script>
+<!-- end ad 1x1 -->
+
+
+
+    <!-- WebMD Pixel TOKEN -->
+<script>
+if(typeof _satellite != "undefined"){_satellite.pageBottom();}
+$.xLazyLoader({ js: ['https://tags.crwdcntrl.net/c/932/cc_af.js'] });
+function s_before_pv(){var dtcb=new Date().getTime();
+if (window.location.protocol==='http:'){$.xLazyLoader({image: ['http://b.scorecardresearch.com/b?c1=2&c2=6035829&c3=&c4=&c5=&c6=&c7=' + encodeURIComponent(document.location.href) + '&c9=' + encodeURIComponent(document.referrer) + '&c15=&cv=2.0&cj=1&cb='+dtcb]});}
+if (window.location.protocol==='https:'){$.xLazyLoader({image: ['https://sb.scorecardresearch.com/b?c1=2&c2=6035829&c3=&c4=&c5=&c6=&c7=' + encodeURIComponent(document.location.href) + '&c9=' + encodeURIComponent(document.referrer) + '&c15=&cv=2.0&cj=1&cb='+dtcb]});}
+}s_before_pv();
+webmd.ads2Consumer.display();
+var wot_referrer = ''; var wot_s_Topic = ''; var wot_url = ''; if (typeof s_channel != 'undefined') { wot_s_Topic = s_channel; } if (typeof document.referrer != 'undefined') { wot_referrer = document.referrer; } if (typeof document.location != 'undefined') { wot_url = document.location; } var urlstr = 'https://s.tagsrvcs.com/2/587654/analytics.js?pp=' + wot_referrer + '&sn=' + wot_s_Topic + '&c1=' + wot_url; document.write("<script src='" + urlstr + "' async='true'><\/script>");
+$(function() {if (s_sponsor_program!='') $('.medianet').hide();});
+function insertWebMDVideo(html) {
+return;
+    console.info('insertWebMDVideo called');
+    if (s_articletype.indexOf("-ap")>0) {
+        $(".wrapper .subtitleAP:first").parent().after(html);
+    } else {
+       $('#artPromoCunk').after(html);
+       $('.article-promo').after(html);
+    }
+}
+</script>
+<script>document.write('<img src="https://bi.medscape.com/pi/global/mednet-1x1.gif?'+new Date().getTime()+'" alt="" height="1" width="1" border="0" />')</script>
+<script src="https://images.medicinenet.com/oocommon/js/legacy.js"></script>
+
+<script src="https://images.medicinenet.com/oocommon/js/20180830/legacy.js"></script>
+
+</body>
+</html>

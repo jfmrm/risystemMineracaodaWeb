@@ -1,0 +1,1933 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+<head>
+    <title>Page not found (Error 404) | Stanford Health Care</title>
+    
+            <meta name="description" content="">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="icon" type="image/gif" href="/etc/clientlibs/shc/main/img/favicon.gif"/>
+    
+
+
+
+    <link rel="stylesheet" href="/etc/clientlibs/shc/aem-optimized.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css"/>
+<link rel="stylesheet" href="/etc/clientlibs/shc/all.min.9f16ff4f3ca82b659586835f34a3ad2a.css" type="text/css"/>
+
+
+    
+        
+    
+    <meta name="sp_type" content="error">
+    <meta name="404" content="404" />
+    
+    
+
+
+<script type="text/javascript">s_preLoad = (new Date()).getTime();</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+    var SHC = SHC || {};
+    var GLOBAL_SPURL_OBJECT = "//sp1004f3b2.guided.ss-omtrdc.net";
+    var HOME_PAGE_PATH = "/content/shc/en";
+    var GLOBAL_MICROSITE_SRC = "";
+    var GLOBAL_SEARCH_RESULTS_TEMPLATE = "/apps/shc/templates/searchresults";
+    var DOCTOR_DIRECTORY_PATH = "/content/shc/en/search-results.doctors.html";
+    var DOCTOR_DIRECTORY_PAGE = "search-results.doctors.html";
+    var CLINIC_DIRECTORY_PATH = "/content/shc/en/search-results.clinics.html";
+    var CLINIC_DIRECTORY_PAGE = "search-results.clinics.html";
+    var TRIAL_DIRECTORY_PATH = "/content/shc/en/search-results.trials.html";
+    var TRIAL_DIRECTORY_PAGE = "search-results.trials.html";
+    var CONDITION_DIRECTORY_PATH = "/content/shc/en/search-results.conditions.html";
+    var CONDITION_DIRECTORY_PAGE = "search-results.conditions.html";
+</script>
+
+<script src="//assets.adobedtm.com/78cb508f5cf73aae9f2fe03247c7b77240a88a0b/satelliteLib-b7ed4568546d9bd6ce2b05b772cb152a44e19f76.js"></script>
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="/etc/clientlibs/shc/main/css/ie8.css" />
+<![endif]-->
+<!--[if IE 9 ]>
+<link rel="stylesheet" type="text/css" href="/etc/clientlibs/shc/main/css/ie9.css" />
+<![endif]-->
+<!--[if lte IE 9]>
+<script>
+// if presentation mode in IE9 or less, redirect to presentation mode's path
+function checkForRequestedPresentation(url) {
+    var urlSplit =  url.split('.html');
+    if (urlSplit.length <= 1 || urlSplit[1].length <= 0) {
+        return;
+    }
+    urlSplit = urlSplit[1].split('/presentation-mode');
+    if (urlSplit.length <= 1 || urlSplit[1].length <= 0) {
+        return;
+    }
+    var path = urlSplit[1] + '.html';
+    window.location.replace = path;
+}
+var presentationRawUrl = window.location.href;
+checkForRequestedPresentation(presentationRawUrl);
+</script>
+<![endif]-->
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+<meta name="mail_title" content="Page not found (Error 404)"/>
+<meta name="mail_description" content=""/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+<meta property="og:url" content="https://stanfordhealthcare.org/404.html"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Page not found (Error 404)"/>
+
+
+
+
+
+
+
+<meta property="twitter:domain" content="Stanford Health Care"/><meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@StanfordHealth"/><meta name="twitter:title" content="Page not found (Error 404)"/>
+
+<meta name="twitter:url" content="https://stanfordhealthcare.org/404.html"/>
+
+
+
+
+
+        
+        <link rel="canonical" href="https://stanfordhealthcare.org/404.html"/>
+
+
+
+<script type="text/javascript">
+    // Global var for embedded share component
+          var o = '';
+    var META_DESCRIPTION = encodeURIComponent(o);
+</script>
+    
+    
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "WebSite",
+                "name": "Stanford Health Care",
+                "url": "https://stanfordhealthcare.org",
+                "sameAs": [
+                    "http://facebook.com/stanfordhealthcare",
+                    "http://twitter.com/stanfordhealth",
+                    "https://www.youtube.com/user/StanfordHospital"
+                ]
+            }
+        </script>
+    
+</head>
+
+
+
+
+
+
+
+
+<body>
+    
+
+
+<script type="text/javascript" src="/etc/clientlibs/shc/aem-optimized.min.499d203117a24745a0914d55814afa08.js"></script>
+
+
+    
+
+
+    <script type="text/javascript" src="/etc/clientlibs/shc/all.min.f77d1cbf38b2c98dfc04a0574cb0cbee.js"></script>
+
+    
+
+
+<!-- === base/bodylibs === -->
+
+    <div class="modal-window" id="modal">
+
+
+
+
+<div id="modal-container" aria-hidden="true">
+
+	<div id="modal-close" class="close-modal">
+		<a href="#"></a>
+	</div>
+	<div id="modal-content" data-show-links="false"></div>
+
+</div>
+
+<div id="overlay" class="close-modal">
+    <div class="spinner-container modal-spinner" style="display: none">
+        <div class="floatingBarsG">
+            <div class="blockG rotateG_01"></div>
+            <div class="blockG rotateG_02"></div>
+            <div class="blockG rotateG_03"></div>
+            <div class="blockG rotateG_04"></div>
+            <div class="blockG rotateG_05"></div>
+            <div class="blockG rotateG_06"></div>
+            <div class="blockG rotateG_07"></div>
+            <div class="blockG rotateG_08"></div>
+        </div>
+    </div>
+</div></div>
+
+    
+        
+        
+            
+
+
+
+
+
+<div class="livePersonWrapper">
+    <div id="lpButtonDiv"></div>
+</div>
+
+
+            
+                <div class="share">
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+<div class="share-wrapper no-print noindex">
+    <div class="container">
+        <div class="share-component">
+            <div id="social_actions">
+                <div id="icon_close" class="icon">
+                    <a href="#">Close</a>
+                </div>
+                <div id="icon_open" class="icon hidden">
+                    <a href="#">Open</a>
+                 </div>
+            </div>
+            <div id="social_icons">   
+                <div id="icon_facebook" class="icon">
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://stanfordhealthcare.org/404.html">Share on Facebook</a>
+                </div>
+                <div id="icon_twitter" class="icon">
+                    <a href="https://twitter.com/share?text=Page%20not%20found%20(Error%20404)%20https://stanfordhealthcare.org/404.htmlvia=StanfordHealth">Twitter</a>
+                </div>
+                <div id="icon_google_plus" class="icon">
+                    <a href="https://plus.google.com/share?url=https://stanfordhealthcare.org/404.html">Google+</a>
+                </div>
+                <div id="icon_email" class="icon">
+                    <a href="mailto:?subject=Page not found (Error 404)&body=Page not found (Error 404)%0D - https://stanfordhealthcare.org/404.html">Email</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+            
+        
+    
+    <div id="main" aria-hidden="false" class="row-offcanvas row-offcanvas-left">
+        
+
+
+
+<div id="header" class="noindex">
+    
+    <div class="masthead">
+
+
+
+
+
+
+<div class="external-outage-alert external_outage_alert parbase">
+<div id="external-outage-alert" class="hide-alert">
+    <div class="alert-spacer-div">&nbsp</div>
+    <div class="outage-alert-content">
+        <div class="outage-alert-text">
+            <b class="alert-content-title">Notice: </b> Users may be experiencing issues with displaying some pages on stanfordhealthcare.org. We are working closely with our technical teams to resolve the issue as quickly as possible. Thank you for your patience.  
+        </div>
+        <div class="outage-alert-close">
+            <div class="alert-x-close"></div>
+        </div>
+    </div>
+</div></div>
+
+
+
+<div class="new-emergency-alert new_emergency_alert parbase">
+
+</div>
+
+
+<div class="masthead-affixed hidden-xs affix">
+    <div class="masthead-wrapper">
+        <div class="hamburger-menu-button">
+            <a class="menu-toggle static-menu-toggle" data-toggle="offcanvas" href="#" data-aa-sidebar-links="menu"><span
+                    class="hamburger-icon"></span><span class="hidden-xs">Menu</span></a>
+        </div>
+        <a id="shc-logo" href="https://stanfordhealthcare.org/" style="transform: translateY(8.5px);"/></a>
+        <div class="search-button">
+            <a class="search-toggle" href="#"><span class="hidden-xs">Search</span><span class="icon"></span></a>
+        </div>
+    </div>
+    <div class="leading-shadow"></div>
+</div>
+<div class="masthead-affixed mobile visible-xs">
+    <div class="hamburger-menu-button">
+        <a class="menu-toggle static-menu-toggle" data-toggle="offcanvas" href="#" data-aa-sidebar-links="menu"><span
+                class="hamburger-icon"></span><span class="hidden-xs">Menu</span></a>
+    </div>
+    <a id="shc-logo" href="https://stanfordhealthcare.org/"></a>
+    <div class="search-button">
+        <a class="search-toggle" href="#"><span class="hidden-xs">Search</span><span class="icon"></span></a>
+    </div>
+</div>
+<div id="masthead-wrapper">
+    <div id="masthead" class="hidden-xs">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <ul id="masthead-nav" class="hidden-xs">
+                        <li>
+                            <a href="https://stanfordhealthcare.org/search-results.doctors.html" class="directory-link" data-aa-masthead-links="doctors">Doctors</a>
+                        </li>
+                        <li>
+                            <a href="https://stanfordhealthcare.org/search-results.clinics.html" class="directory-link" data-aa-masthead-links="clinics & locations">Clinics &amp; Locations</a>
+                        </li>
+                        <li>
+                            <a href="https://stanfordhealthcare.org/search-results.conditions.html" data-aa-masthead-links="conditions & treatments">Conditions &amp; Treatments</a>
+                        </li>
+                        <li class="masthead-dropdown">
+                            <a data-toggle="1" href="#" data-aa-masthead-links="patients & visitors">Patients &amp; Visitors<span class="carat"></span></a>
+                            <span class="carat-gray"></span>
+                        </li>
+                        <li class="masthead-dropdown">
+                            <a data-toggle="2" href="#" data-aa-masthead-links="myhealth login">MyHealth Login<span class="carat"></span></a>
+                            <span class="carat-gray my-health-carat-gray"></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="drawers" class="masthead large-only">
+
+    <div class="drawer standard-drawer" id="pv-drawer" data-drawer="1">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-7 border">
+                    <div class="drawer2-top parsys">
+</div>
+
+
+                    <div class="row">
+                        <div class="col-sm-6 leftside">
+                            <div class="drawer2-leftside parsys"><div class="masthead_link_list parbase section">
+
+
+
+
+
+    
+        <ul class="link-list first">
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/for-patients-visitors/billing.html" data-aa-masthead-links="billing">Billing</a>
+                </li>
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/for-patients-visitors/health-insurance-plans.html" data-aa-masthead-links="insurance">Insurance</a>
+                </li>
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/for-patients-visitors/your-hospital-stay/medical-records.html" data-aa-masthead-links="medical records">Medical Records</a>
+                </li>
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/for-patients-visitors/support-groups.html" data-aa-masthead-links="support groups">Support Groups</a>
+                </li>
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/for-patients-visitors/financial-assistance.html" data-aa-masthead-links="financial assistance">Financial Assistance</a>
+                </li>
+            
+        </ul>
+    
+    
+</div>
+
+</div>
+
+                        </div>
+                        <div class="col-sm-6 rightside">
+                            <div class="drawer2-rightside parsys"><div class="masthead_link_list parbase section">
+
+
+
+
+
+    
+        <ul class="link-list first">
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/for-patients-visitors/locations-and-parking.html" data-aa-masthead-links="locations and parking">Locations and Parking</a>
+                </li>
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/for-patients-visitors/visiting-hours.html" data-aa-masthead-links="visiting hours">Visiting Hours</a>
+                </li>
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/for-patients-visitors/your-hospital-stay.html" data-aa-masthead-links="your hospital stay">Your Hospital Stay</a>
+                </li>
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/for-patients-visitors/international-services.html" data-aa-masthead-links="international patients">International Patients</a>
+                </li>
+            
+                
+                <li>
+                    <a href="https://stanfordhealthcare.org/about-us/contact.html" data-aa-masthead-links="contact us">Contact Us</a>
+                </li>
+            
+        </ul>
+    
+    
+</div>
+
+</div>
+
+                        </div>
+                    </div>
+
+                    <div class="drawer2-bottom parsys"><div class="masthead_menu_link parbase section">
+
+
+
+
+
+
+
+    
+
+
+    
+    
+        
+    
+
+
+
+
+<a href="https://stanfordhealthcare.org/for-patients-visitors.html" class="mastheadMenuBold mastheadMenuNoUnderline" data-aa-masthead-links="view all information for patients & visitors">View All Information for Patients & Visitors »</a></div>
+
+</div>
+
+                </div>
+                <div class="col-md-4 col-sm-5">
+                    <div class="drawer2-right parsys"><div class="masthead_contact parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="masthead-contact-container">
+
+    <div class="masthead-contact-title">We are available to assist you 24/7.</div>
+
+    <div class="masthead-contact-phone">
+        <div class="masthead-contact-phone-icon"></div>
+        <div class="masthead-contact-phone-text" data-aa-masthead-links="650-498-3333">650-498-3333</div>
+    </div>
+
+    <div class="masthead-contact-email">
+        <div class="masthead-contact-email-icon"></div>
+        <a class="masthead-contact-email-text" href="mailto:GuestServices@stanfordhealthcare.org" data-aa-masthead-links="guestservices@stanfordhealthcare.org">GuestServices@stanfordhealthcare.org</a>
+    </div>
+</div></div>
+<div class="liveperson parbase section">
+
+
+
+
+
+
+<div id="lpchathead"></div>
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="drawer" id="my-health-drawer" data-drawer="2">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-7">
+                    <div class="drawer1-top parsys"><div class="text parbase section">
+
+
+    <div class ="rte-has-anchor-link">
+        <h2>New to MyHealth?</h2>
+<p><b>Manage Your Care From Anywhere.</b></p>
+<p>Access your health information from any device with MyHealth.  You can message your clinic, view lab results, schedule an appointment, and pay your bill.</p>
+
+    </div>
+
+
+
+</div>
+<div class="myhealth_links parbase section">
+
+
+
+
+<p><a href="https://myhealth.stanfordhealthcare.org/Activation/Lookup" id="my-health-activate" data-aa-masthead-links="activate your account">Activate Your Account</a>
+with an access code or <a href="https://myhealth.stanfordhealthcare.org/Signup/Online" id="my-health-sign-up" data-aa-masthead-links="create a new account">Create a New Account</a></p>
+</div>
+
+</div>
+
+                    <hr/>
+                    <div class="drawer1-bottom parsys"><div class="text parbase section">
+
+
+    <div class ="rte-has-anchor-link">
+        <h2>MyHealth for Mobile</h2>
+<p>The MyHealth mobile app puts all your health information at your fingertips and makes managing your health care simple and quick.  Available for <a href="https://itunes.apple.com/us/app/stanford-health-care-myhealth/id922978966?mt=8">iPhone</a> and <a href="https://play.google.com/store/apps/details?id=org.stanfordhealthcare.myhealth">Android</a>.</p>
+
+    </div>
+
+
+
+</div>
+
+</div>
+
+                </div>
+                <div class="col-md-4 col-sm-5">
+                    <div class="drawer1-right parsys"><div class="myhealth_login parbase section">
+
+
+
+
+
+<div id="my-health-login">
+    <div class="clearfix">
+        <h4>
+            WELCOME BACK
+        </h4>
+        <span class="lock-icon"></span>
+    </div>
+    <form method="POST" action="https://myhealth.stanfordhealthcare.org/">
+        <input type="text" name="id" placeholder="MyHealth ID" />
+        <input type="password" name="password" placeholder="Password" />
+        <input type="submit" value="Sign In" data-aa-masthead-links="sign in"/>
+    </form>
+    <div class="forgot-links">
+        <a href="https://myhealth.stanfordhealthcare.org/Credentials/ForgotUsername" data-aa-masthead-links="forgot id">Forgot ID</a> or <a href="https://myhealth.stanfordhealthcare.org/Credentials/ForgotPassword" data-aa-masthead-links="forgot password">Forgot Password?</a>
+    </div>
+    
+        <a href="https://myhealth.stanfordhealthcare.org/ContactHelpDesk" data-aa-masthead-links="need help?">Need Help?</a>
+    
+</div>
+</div>
+
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+
+    
+    
+
+    <div id="search-inpagenav-wrapper"  >
+        <div id="search-inpagenav">
+            <div class="megasearch parbase">
+
+
+
+<div id="search-container" class="container ">
+    
+            
+    
+
+    <div id="search-row" class="row hidden">
+        
+        <div class="search-right-side">
+            <span id="search-magnifying-glass"></span>
+            <h1 id="shc-search-title"
+                data-page-path="https://stanfordhealthcare.org/404.html"
+                data-page-template="/apps/shc/templates/404">
+            </h1>
+            <div id="search-input-container" style="display:none">
+                <form role="form" id="search-form" autocomplete="off" action="https://stanfordhealthcare.org/search-results.html">
+                    <div id="search-input-wrapper">
+                        <span class="searchbar-magnifying-glass"></span>
+                        <input type="text" disabled="disabled" id="prediction">
+                        <input type="text" id="search-term">
+                        <div id="search-clear"><a href="#"><span class="visible"></span></a><span>Clear</span></div>
+                    </div>
+                    
+                        <div id="search-pulldown" >
+                            <div id="dropdown-tabbar"></div>
+                            <div id="dropdown-filter"></div>
+                            <div id="dropdown-predict"></div>
+                        </div>
+                    
+                </form>
+            </div>
+        </div>
+        
+    </div>
+    <div class="search-container-shadow">
+    </div>
+    <div id="click-screen" style="opacity:0;display:none;" class="modal-backdrop fade in"></div>
+    
+    
+        <h1 class="shc-page-title ">
+            
+                
+                Page not found (Error 404)
+            
+        </h1>
+    
+</div>
+</div>
+
+        </div>
+    </div>
+    
+        
+        
+        
+        
+            <div class="hidden-xs">
+                <div class="inpagenav in_page_nav parbase">
+
+
+
+
+<nav id="in-page-nav-wrapper">
+    <div id="in-page-nav" class="container" style="display:none">
+        <div class="row">
+            <div class="col-sm-12" id="in-page-nav-list-wrapper">
+                <ul class="nav">
+                    
+                    <li class="active">
+                        <a href="#about" class="nav-button">
+                            
+                                
+                                
+                                    About
+                                
+                            
+                        </a>
+                        <a href="#" class="drop-down-button">
+                            <span></span>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="in-page-nav-shadow"></div>
+                </div>
+            </div>
+            <div id="drop-nav-wrapper" class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <ul class="drop-nav">
+                             
+                            <li class="active">
+                                <a href="#about">
+                                    
+                                        
+                                        
+                                            About
+                                        
+                                    
+                                </a>
+                            </li>
+                             
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="in-page-nav-shadow"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav></div>
+
+            </div>
+        
+    
+    
+</div>
+<div id="about_" style="height: 0;"></div>
+        <div id="main-container">
+            
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="content-parsys parsys"><div class="text parbase section">
+
+
+    <div class ="rte-has-anchor-link">
+        <h3><b>Our apologies .</b>..</h3>
+<p>The page you requested has moved or doesn't exist. (Error 404)</p>
+<p> </p>
+<p><b>Suggested actions</b></p>
+<p>Start from the <a adhocenable="false" href="https://stanfordhealthcare.org/">Stanford Health Care homepage</a> or <a adhocenable="false" href="https://stanfordhealthcare.org/search-results.html">conduct a search</a>. </p>
+<p> </p>
+
+    </div>
+
+
+
+</div>
+<div class="text parbase section">
+
+
+    <div class ="rte-has-anchor-link">
+        <h4>Find information on Stanford Health Care</h4>
+
+    </div>
+
+
+
+</div>
+<div class="link_list parbase section">
+
+
+
+
+
+
+<div class="row">
+    <div class="text">
+        <div class="col-sm-12">
+            
+        
+        </div>
+    </div>
+    <div class="link-list">
+        <div class="col-sm-12"><ul><li><a href="https://stanfordhealthcare.org/medical-clinics.html">Clinics</a></li><li><a href="https://stanfordhealthcare.org/doctors.html">Doctors</a></li><li><a href="https://stanfordhealthcare.org/for-patients-visitors.html">For Patients and Visitors</a></li></ul></div>
+
+    </div>
+</div></div>
+
+</div>
+
+        </div>
+    </div>
+</div>
+    
+    
+        
+    
+            
+
+
+<footer class="no-print">
+    <div class="noindex">
+        
+        <div class="fatfooter">
+
+
+
+
+
+
+
+<div id="checkBootStrapXS" class="hidden-xs"></div>
+<div id="checkBootStrapMD" class="hidden-md"></div>
+<div id="placemat" class="container">
+
+    <div class="row">
+        <div class="placemat-main-links col-md-3 col-sm-12 col-xs-12">
+            <div class="footerpar1 parsys"><div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/search-results.doctors.html" data-aa-footer-links="find a doctor">Find a Doctor</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/search-results.conditions.html" data-aa-footer-links="find conditions & treatments">Find Conditions & Treatments</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/search-results.clinics.html" data-aa-footer-links="find a stanford clinic">Find a Stanford clinic</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+
+</div>
+
+        </div>
+
+        <div class="col-md-3 col-sm-4 col-xs-12">
+            <div class="footerpar2 parsys"><div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/for-patients-visitors.html" data-aa-footer-links="for patients & visitors">For Patients & Visitors</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/for-patients-visitors/billing.html" data-aa-footer-links="billing">Billing</a>
+                        
+                    
+
+                </li>
+            
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/for-patients-visitors/health-insurance-plans.html" data-aa-footer-links="insurance">Insurance</a>
+                        
+                    
+
+                </li>
+            
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/for-patients-visitors/your-hospital-stay.html" data-aa-footer-links="your hospital stay">Your Hospital Stay</a>
+                        
+                    
+
+                </li>
+            
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/about-us/contact.html" data-aa-footer-links="contact us">Contact Us</a>
+                        
+                    
+
+                </li>
+            
+        
+        
+            
+                <li><div id='lpLink'></div></li>
+            
+        
+    </ul>
+</div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="http://medicalgiving.stanford.edu/" data-aa-footer-links="make a gift">Make a Gift</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/about-us.html" data-aa-footer-links="about us">About Us</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                            <a href="http://stanfordhealthcarequality.com/" target="_blank" data-aa-footer-links="quality & safety">Quality & Safety</a>
+                        
+                        
+                    
+
+                </li>
+            
+        
+        
+    </ul>
+</div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/stanford-health-now.html" data-aa-footer-links="stanford health now">Stanford Health Now</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+
+</div>
+
+        </div>
+
+        <div class="col-md-3 col-sm-4 col-xs-12">
+            <div class="footerpar3 parsys"><div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/health-care-professionals.html" data-aa-footer-links="for healthcare professionals">For Healthcare Professionals</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/health-care-professionals/referring-physicians.html" data-aa-footer-links="referring physicians">Referring Physicians</a>
+                        
+                    
+
+                </li>
+            
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/health-care-professionals/nursing.html" data-aa-footer-links="nursing">Nursing</a>
+                        
+                    
+
+                </li>
+            
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/health-care-professionals/allied-healthcare.html" data-aa-footer-links="allied healthcare professionals">Allied Healthcare Professionals</a>
+                        
+                    
+
+                </li>
+            
+        
+        
+    </ul>
+</div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/newsroom.html" data-aa-footer-links="newsroom">Newsroom</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="http://www.stanfordhospitalcareers.com/" data-aa-footer-links="careers">Careers</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="https://stanfordhealthcare.org/for-patients-visitors/volunteering.html" data-aa-footer-links="volunteering">Volunteering</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+
+</div>
+
+        </div>
+
+        <div class="col-md-3 col-sm-4 col-xs-12">
+            <div class="footerpar4 parsys"><div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    
+                        
+                        
+                            <a href="http://universityhealthcarealliance.org/" data-aa-footer-links="university healthcare alliance">University HealthCare Alliance</a>
+                        
+                    
+
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+                <li class="footer-list-header">
+                    <a href="http://www.valleycare.com/" data-aa-footer-links="stanford health care – valleycare">Stanford Health Care – ValleyCare</a>
+                </li>
+            
+            
+        
+        
+        
+    </ul>
+</div></div>
+<div class="horizontal_rule parbase section">
+
+
+
+
+
+<div class="horizontal-rule "></div></div>
+<div class="footer-list section">
+
+
+
+
+
+
+
+
+
+
+
+<div class="bucket">
+    <ul>
+        
+            
+            
+                
+            
+        
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="http://med.stanford.edu/" data-aa-footer-links="stanford medicine">Stanford Medicine</a>
+                        
+                    
+
+                </li>
+            
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="http://www.stanfordchildrens.org/" data-aa-footer-links="stanford children's health">Stanford Children's Health</a>
+                        
+                    
+
+                </li>
+            
+        
+            
+            
+            
+                
+
+                <li>
+                    
+                        
+                        
+                            <a href="http://www.stanford.edu/" data-aa-footer-links="stanford university">Stanford University</a>
+                        
+                    
+
+                </li>
+            
+        
+        
+    </ul>
+</div></div>
+
+</div>
+
+            <div id="social" class="clearfix">
+                <a class="facebook" href="http://facebook.com/stanfordhealthcare" data-aa-footer-links="facebook"></a>
+                <a class="twitter" href="http://twitter.com/stanfordhealth" data-aa-footer-links="twitter"></a>
+                <a class="youtube" href="https://www.youtube.com/user/StanfordHospital" data-aa-footer-links="youtube"></a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12">           
+            <div id="copyright" class="clearfix">
+                <div class="logo-wrapper">
+                    <a class="stanford-med-logo" href="http://med.stanford.edu/" data-aa-footer-links="stanford medicine - logo"></a>
+                </div>
+                <ul class="clearfix">
+                    <li>
+                        
+                        <a href="https://stanfordhealthcare.org/about-us/legal-disclaimer.html" data-aa-footer-links="legal">Legal</a>
+                    </li>
+                    <li>
+                        
+                        <a href="https://stanfordhealthcare.org/for-patients-visitors/your-hospital-stay/patient-privacy.html" data-aa-footer-links="privacy">Privacy</a>
+                    </li>
+                    <li>
+                        
+                        <a href="https://stanfordhealthcare.org/about-us/conduct.html" data-aa-footer-links="code of conduct">Code of Conduct</a>
+                    </li>
+                    
+                    <li class="last">
+                         <a href="https://stanfordhealthcare.org/about-us/notice-of-nondiscrimination.html" style="margin-left: -10px !important;" data-aa-footer-links="notice of nondiscrimination">|&nbsp;&nbsp;&nbsp;Notice of Nondiscrimination</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;©2018 Stanford Health Care. All Rights Reserved
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="feedbackmodal parbase">
+
+
+<script type="text/javascript">
+<!--
+$(function () {
+    var initObject = {
+        "thankYouText": "Thank you for submitting your feedback.",
+        "serverDownText": "Sorry. The feedback system is not available at this time. Please send feedback to us directly at <a href='mailto:shcinternal@med.stanford.edu'>shcinternal@med.stanford.edu</a>.",
+        "submitFailedText": "We're experiencing trouble in submitting your feedback. Please send feedback to us directly at <a href='mailto:shcinternal@med.stanford.edu'>shcinternal@med.stanford.edu</a>.",
+        "mainHeader": "Provide Feedback",
+        "modalHeader": "QUESTIONS OR COMMENTS?",
+        "modalBody": "Do you have feedback about a specific page? Please use this form to submit the feedback that you may have."
+    };
+    var feedbackModal = new SHC.ui.FeedbackModal(".open-handlebar-modal", initObject);
+});
+//-->
+</script>
+</div>
+</div>
+
+        
+    </div>
+</footer>
+
+
+    
+
+
+<script type="text/javascript">
+    var GLOBAL_SPURL_OBJECT = "//sp1004f3b2.guided.ss-omtrdc.net";
+</script>
+        </div>
+        <div class="sidebar-offcanvas col-xs-12" id="sidebar" role="navigation">
+        
+        <div class="masthead_menu parbase">
+
+
+
+<div class="container">
+    <div class="row">
+        <div id="menu" class="static-menu">
+            <div class="menu-content">
+                <div class="home-icon-container clearfix">
+                    <a id="menu-home-link" href="https://stanfordhealthcare.org/" data-aa-sidebar-links="home">
+                        <span class="home-icon"></span>
+                        <span class="home-icon-label">Home</span>
+                    </a>
+                </div>
+                <a href="#" class="close-menu">Close</a>
+
+                <div id="menu-main-nav">
+                    
+                        
+                        
+                            
+                                <div class="masthead_menu_link parbase">
+                                    <a href="https://stanfordhealthcare.org/search-results.doctors.html" data-aa-sidebar-links="doctors">Doctors</a>
+                                </div>
+                            
+                            
+                        
+                    
+                        
+                        
+                            
+                                <div class="masthead_menu_link parbase">
+                                    <a href="https://stanfordhealthcare.org/search-results.clinics.html" data-aa-sidebar-links="clinics & locations">Clinics & Locations</a>
+                                </div>
+                            
+                            
+                        
+                    
+                        
+                        
+                            
+                                <div class="masthead_menu_link parbase">
+                                    <a href="https://stanfordhealthcare.org/search-results.conditions.html" data-aa-sidebar-links="conditions & treatments">Conditions & Treatments</a>
+                                </div>
+                            
+                            
+                        
+                    
+                        
+                        
+                            
+                                <div class="masthead_menu_link parbase">
+                                    <a href="https://stanfordhealthcare.org/search-results.trials.html" data-aa-sidebar-links="clinical trials"> Clinical Trials</a>
+                                </div>
+                            
+                            
+                        
+                    
+                        
+                        
+                            
+                            
+                                <div class="masthead_menu_link parbase">
+                                    <a href="https://myhealth.stanfordhealthcare.org/" class="secondary-link" data-aa-sidebar-links="myhealth login">MyHealth Login</a>
+                                </div>
+                            
+                        
+                    
+                    
+                </div>
+                <div class="sidebar-shadow">
+                    <hr>
+                </div>
+                <div id="menu-secondary-nav">
+                    <div>
+                        
+                            
+                            
+                                
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/for-patients-visitors.html" data-aa-sidebar-links="patients & visitors">Patients & Visitors</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox masthead_menu_sub_link">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/for-patients-visitors/billing.html" data-aa-sidebar-links="billing">Billing</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            
+                        
+                            
+                            
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox masthead_menu_sub_link">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/for-patients-visitors/health-insurance-plans.html" data-aa-sidebar-links="insurance">Insurance</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            
+                        
+                            
+                            
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox masthead_menu_sub_link">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/for-patients-visitors/financial-assistance.html" data-aa-sidebar-links="financial assistance">Financial Assistance</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            
+                        
+                            
+                            
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox masthead_menu_sub_link">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/for-patients-visitors/your-hospital-stay/medical-records.html" data-aa-sidebar-links="medical records">Medical Records</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            
+                        
+                            
+                            
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox masthead_menu_sub_link">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/about-us/contact.html" data-aa-sidebar-links="contact us">Contact Us</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            
+                        
+                            
+                            
+                                
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/health-care-professionals.html" data-aa-sidebar-links="healthcare professionals">Healthcare Professionals</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox masthead_menu_sub_link">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/health-care-professionals/referring-physicians.html" data-aa-sidebar-links="referring physicians">Referring Physicians</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            
+                        
+                            
+                            
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox masthead_menu_sub_link">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/health-care-professionals/nursing.html" data-aa-sidebar-links="nursing">Nursing</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            
+                        
+                            
+                            
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox masthead_menu_sub_link">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/health-care-professionals/allied-healthcare.html" data-aa-sidebar-links="allied healthcare">Allied Healthcare</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            
+                        
+                            
+                            
+                                
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/about-us.html" data-aa-sidebar-links="about us">About Us</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox masthead_menu_sub_link">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="http://stanfordhealthcarequality.com/" data-aa-sidebar-links="quality & safety">Quality & Safety</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                
+                            
+                        
+                            
+                            
+                                
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="http://www.stanfordhospitalcareers.com/" data-aa-sidebar-links="careers">Careers</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/newsroom.html" data-aa-sidebar-links="newsroom">Newsroom</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="http://medicalgiving.stanford.edu/" data-aa-sidebar-links="make a donation">Make a Donation</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            
+                        
+                            
+                            
+                                
+                                
+                                    <div class="parbase menu-my-health masthead_menu_revealbox">
+                                        <div class="masthead-menu-revealbox">
+                                            <div class="masthead-menu-revealTitleBar">
+                                                <a href="https://stanfordhealthcare.org/stanford-health-now.html" data-aa-sidebar-links="stanford health now">Stanford Health Now</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                            
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="sidebar-bottom"></div>
+        </div>
+    </div>
+</div></div>
+
+        
+        </div>
+    </div>
+    <div id="presentation-mode" aria-hidden="true">
+        <div class="header">
+            <div class="close-container">
+                <div class="close" tabindex="0">Close</div>
+            </div>
+        </div>
+
+        <div class="presentation-content-wrapper">
+            <div class="presentation-content"></div>
+            <div class="presentation-footer"></div>
+        </div>
+    </div>
+    
+
+
+
+
+
+<!-- Google Tag Manager for Production -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PND43V"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PND43V');</script>
+<!-- End Google Tag Manager for Production -->
+
+    <script type="text/javascript">if (typeof _satellite !== 'undefined') { _satellite.pageBottom(); }</script>
+</body>
+</html>

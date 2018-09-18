@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PBS: Public Broadcasting Service | 404</title>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      /* Universal and small-screen styles */
+      body {
+        margin: 0;
+        background-color: #f3f3f3;
+      }
+      .error-404__page {
+        width: 100%;
+        height: 100vh;
+        background-color: #f3f3f3;
+      }
+      .error-404__container {
+        font-family:'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
+        color: #222222;
+        background-color: #f3f3f3;
+        position: relative;
+        top: 10%;
+        width: 300px;
+        margin: 0 auto;
+      }
+      .error-404__title-text {
+        font-size: 17px;
+        font-weight: 600;
+        position: relative;
+        margin: 0 auto;
+        padding: 5px 10px;
+        overflow: hidden;
+      }
+      .pbs-head {
+        position: relative;
+        width: 30px;
+        height: 30px;
+        top: 9px;
+        padding-right: 9px;
+        margin-right: 5px;
+        border-right: 1px solid #b3b3b3;
+      }
+      .circle {
+        fill: #222222;
+      }
+      .face {
+        fill: #fff;
+      }
+      .error-404__body-text {
+        font-size: 14px;
+        padding-left: 15px;
+      }
+      .home-link {
+        color: #126EB5;
+        text-decoration: none;
+      }
+      .error-404__search-form {
+        position: relative;
+        width: 180px;
+        margin: 0 auto;
+      }
+      .error-404__search-input {
+        font-family:'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        border: 1px solid #707070;
+        border-radius: 2px;
+        -webkit-border-radius: 2px; /* for iOS */
+        -webkit-appearance: none; /* for iOS */
+        padding: 2.5px 20px 2.5px 2.5px;
+        width: 100%;
+      }
+      .btn-search {
+        background-color: transparent;
+        position: absolute;
+        right: 2px;
+        top: 5px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        border: 0;
+      }
+      .visuallyhidden {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+        padding: 0;
+        border: 0;
+        clip: rect(0 0 0 0);
+        overflow: hidden;
+      }
+      .search-icon {
+        width: 12px;
+        height: 13px;
+      }
+      /* Styles specific to screens above 600px wide */
+      @media (min-width: 600px) {
+        .error-404__container {
+          width: 560px;
+          padding: 25px;
+        }
+        .pbs-head {
+          width: 45px;
+          height: 45px;
+          padding-right: 12px;
+        }
+        .error-404__title-text {
+          font-size: 32px;
+        }
+        .error-404__body-text {
+          font-size: 16px;
+          padding-left: 25px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Google Tag Manager -->
+      <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TWTDGH"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+      {'gtm.start': new Date().getTime(),event:'gtm.js'}
+      );var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-TWTDGH');</script>
+    <!-- End Google Tag Manager -->
+
+    <div class="error-404__page">
+      <div class="error-404__container">
+        <h1 class="error-404__title-text">
+          <svg id="pbs-head" class="pbs-head" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="-202 339.8 115.2 115.2">
+            <circle class="circle" cx="-144.4" cy="397.4" r="57.6"/>
+            <path id="face" class="face" d="M-138.5,365.3h-17.4c-14.3,0-26,10-26,24.8c0,12.4,7.5,21.3,18.7,23v17.3h23.2v-16.6h3.2
+              c3.8-0.4,6.3-2.9,6.4-6.4v-9.6h6.3L-138.5,365.3z M-143.1,393.2c-3.1,0-5.7-2.6-5.7-5.7c0-3.1,2.6-5.7,5.7-5.7
+              c3.1,0,5.7,2.6,5.7,5.7C-137.4,390.7-139.9,393.2-143.1,393.2z M-119,365.3h-9.4l14.2,32.5h-6.5v8.6c0,5.2-2.2,7.5-9.3,7.4v16.6h9.3
+              v-16.6h3.1c2.7,0.1,6.4-2.1,6.4-6.4v-9.6h6.3L-119,365.3z"/>
+          </svg>
+          Page Not Found (Error 404)
+        </h1>
+
+        <div class="error-404__body-text">
+          <p>Sorry, we could not find your page. This may be due to:</p>
+          <ul>
+            <li>An out-of-date bookmark/favorite</li>
+            <li>A search engine with an out-of-date listing</li>
+            <li>A mis-typed address</li>
+          </ul>
+          <p>Try visiting our <a href="/" class="home-link">Home Page</a> or searching for your page here:</p>
+        </div>
+
+        <form action="/search/" class="error-404__search-form">
+          <input type="search" class="error-404__search-input" placeholder="Search PBS" name="q" />
+          <button class="btn btn-search">
+            <span class="visuallyhidden">Search</span>
+            <span aria-hidden="true">
+              <svg class="search-icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="32" viewBox="0 0 30 32">
+                <path d="M30 26l-7.785-7.785c1.111-1.814 1.785-3.929 1.785-6.215 0-6.626-5.375-12-12-12s-12 5.374-12 12c0 6.625 5.374 12 12 12 2.286 0 4.4-0.674 6.215-1.781l7.785 7.781c0.547 0.547 1.453 0.543 2 0l2-2c0.547-0.547 0.547-1.453 0-2zM12 20c-4.418 0-8-3.582-8-8s3.582-8 8-8 8 3.582 8 8-3.582 8-8 8z"></path>
+              </svg>
+            </span>
+          </button>
+        </form>
+
+      </div>
+    </div>
+  </body>
+</html>
