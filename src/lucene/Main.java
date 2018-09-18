@@ -35,17 +35,22 @@ public class Main {
 		IndexWriter w;
 		try {
 			w = new IndexWriter(index, config);
-			File[] numOfFiles = new File("./data/obesity").listFiles();
-			for (int i = 0; i < 30; i++) {
-				File f = new File(numOfFiles[i].toString());
-				String title = f.getName();
-				String body = String.join("\n", Files.readAllLines(Paths.get(f.getAbsolutePath())));
-				addDoc(w, title, body);
+			File[] fList = new File("./data").listFiles();
+			for(File file : fList) {
+				if(file.isDirectory()) {
+					File[] files = new File(file.toString()).listFiles();
+					for (int i = 0; i < files.length; i++) {
+						File f = new File(files[i].toString());
+						String title = f.getName();
+						String body = String.join("\n", Files.readAllLines(Paths.get(f.getAbsolutePath())));
+						addDoc(w, title, body);
+					}
+				}
 			}
 			w.close();
 			
 			String queryString = "combater";
-			Query q = new QueryParser("title", analyzer).parse(queryString);
+			Query q = new QueryParser("body", analyzer).parse(queryString);
 			
 			int hitsPerPage = 10;
 	        IndexReader reader = DirectoryReader.open(index);
@@ -55,7 +60,7 @@ public class Main {
 
 	        // 4. display results
 	        System.out.println("Found " + hits.length + " hits.");
-	        for(int i=0;i<hits.length;++i) {
+	        for(int i = 0; i < hits.length; ++i) {
 	            int docId = hits[i].doc;
 	            Document d = searcher.doc(docId);
 	            System.out.println((i + 1) + ". " + "\t" + d.get("title"));
