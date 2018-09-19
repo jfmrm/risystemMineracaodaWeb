@@ -73,7 +73,7 @@ public class Main extends Thread {
 			Query q = new QueryParser("body", analyzer).parse(queryString);
 			System.out.println(q.toString());
 			
-			int hitsPerPage = 100;
+			int hitsPerPage = 10;
 	        IndexReader reader = DirectoryReader.open(index);
 	        IndexSearcher searcher = new IndexSearcher(reader);
 	        TopDocs docs = searcher.search(q, hitsPerPage);
