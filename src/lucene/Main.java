@@ -2,6 +2,7 @@ package lucene;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
@@ -60,7 +61,7 @@ public class Main extends Thread {
 					for (int i = 0; i < files.length; i++) {
 						File f = new File(files[i].toString());
 						String title = f.getName();
-						String body = String.join("\n", Files.readAllLines(Paths.get(f.getAbsolutePath())));
+						String body = String.join("\n", Files.readAllLines(Paths.get(f.getAbsolutePath()), StandardCharsets.ISO_8859_1));
 						addDoc(w, title, body);
 					}
 				}
@@ -71,7 +72,6 @@ public class Main extends Thread {
 			//String queryString = "recommendation algorithms";
 			String queryString = busca;
 			Query q = new QueryParser("body", analyzer).parse(queryString);
-			System.out.println(q.toString());
 			
 			int hitsPerPage = 10;
 	        IndexReader reader = DirectoryReader.open(index);
