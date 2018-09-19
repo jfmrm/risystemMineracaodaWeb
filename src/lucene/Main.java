@@ -5,10 +5,14 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
+import javax.swing.JTextPane;
+
+import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.CharArraySet;
+import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -23,11 +27,25 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 
-import javafx.scene.shape.Path;
-
-public class Main {
-	public static void main(String[] args) {
-		StandardAnalyzer analyzer = new StandardAnalyzer();
+public class Main extends Thread {
+	public void run(boolean stem, boolean stopWords, String busca, JTextPane resultados) {
+		
+		resultados.setText("");
+		/*
+			EnglishAnalyzer possui stemming usando Porter
+			Para eliminar StopWords passar CharArraySet.EMPTY_SET no construtor no Analyzer
+		*/
+		Analyzer analyzer;
+		if(stem && stopWords) {
+			analyzer = new EnglishAnalyzer(CharArraySet.EMPTY_SET);
+		} else if(stem && !stopWords) {
+			analyzer = new EnglishAnalyzer();
+		} else if(stopWords) {
+			analyzer = new StandardAnalyzer(CharArraySet.EMPTY_SET);
+		} else {
+			analyzer = new StandardAnalyzer();
+		}
+		
 		Directory index = new RAMDirectory();
 		
 		IndexWriterConfig config = new IndexWriterConfig(analyzer);
@@ -49,7 +67,9 @@ public class Main {
 			}
 			w.close();
 			
-			String queryString = "combater";
+			//String queryString = "Danger morbid obesity for teenagers";
+			//String queryString = "Neural networks applied on recommendation algorithms";
+			String queryString = busca;
 			Query q = new QueryParser("body", analyzer).parse(queryString);
 			
 			int hitsPerPage = 10;
@@ -59,11 +79,11 @@ public class Main {
 	        ScoreDoc[] hits = docs.scoreDocs;
 
 	        // 4. display results
-	        System.out.println("Found " + hits.length + " hits.");
+	        resultados.setText(resultados.getText() + "Found " + hits.length + " hits.");
 	        for(int i = 0; i < hits.length; ++i) {
 	            int docId = hits[i].doc;
 	            Document d = searcher.doc(docId);
-	            System.out.println((i + 1) + ". " + "\t" + d.get("title"));
+				resultados.setText(resultados.getText() + "\n" + (i + 1) + ". " + "\t" + d.get("title") + '\n');
 	        }
 
 	        // reader can only be closed when there
@@ -80,7 +100,7 @@ public class Main {
 		
 	}
 	
-	private static void addDoc(IndexWriter w, String title, String body) throws IOException {
+	private void addDoc(IndexWriter w, String title, String body) throws IOException {
 		Document doc = new Document();
 		doc.add(new TextField("title", title, Field.Store.YES));
 		doc.add(new TextField("body", body, Field.Store.YES));
