@@ -1,9 +1,0 @@
-<HTML><HEAD>
-<TITLE>Access Denied</TITLE>
-</HEAD><BODY>
-<H1>Access Denied</H1>
- 
-You don't have permission to access "http&#58;&#47;&#47;www&#46;usnews&#46;com&#47;news&#47;health&#45;care&#45;news&#47;articles&#47;2018&#45;09&#45;17&#47;study&#45;household&#45;cleaners&#45;could&#45;lead&#45;to&#45;childhood&#45;obesity&#38;sa&#61;U&#38;ved&#61;0ahUKEwi9&#95;K&#95;hp8XdAhXDjpAKHdo7DIM4MhAWCBQwAA&#38;usg&#61;AOvVaw2s2Oins&#95;lnJa2e3qw8xOB&#95;" on this server.<P>
-Reference&#32;&#35;18&#46;3e9f9fc9&#46;1537299867&#46;1263172
-</BODY>
-</HTML>
