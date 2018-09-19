@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1809.06451] A new lower bound on Hadwiger-Debrunner numbers in the plane</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="A new lower bound on Hadwiger-Debrunner numbers in the plane" />
+<meta name="citation_author" content="Keller, Chaya" />
+<meta name="citation_author" content="Smorodinsky, Shakhar" />
+<meta name="citation_date" content="2018/09/17" />
+<meta name="citation_online_date" content="2018/09/17" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1809.06451" />
+<meta name="citation_arxiv_id" content="1809.06451" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/math/recent">math</a> &gt; arXiv:1809.06451</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1809.06451"
+        dc:identifier="http://arxiv.org/abs/1809.06451"
+        dc:title="A new lower bound on Hadwiger-Debrunner numbers in the plane"
+        trackback:ping="http://arxiv.org/trackback/1809.06451" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1809.06451" accesskey="f">PDF</a></li>
+<li><a href="/ps/1809.06451">PostScript</a></li>
+<li><a href="/format/1809.06451">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">math.CO</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.06451&amp;context=math.CO&amp;function=prev" accesskey="p" title="previous in math.CO (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.06451&amp;context=math.CO&amp;function=next" accesskey="n" title="next in math.CO (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/math.CO/new">new</a>&nbsp;| <a href="/list/math.CO/recent">recent</a>&nbsp;| <a href="/list/math.CO/1809">1809</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1809.06451?context=cs">cs</a><br />
+<span class="subclass"><a href="/abs/1809.06451?context=cs.CG">cs.CG</a></span><br />
+<a href="/abs/1809.06451?context=math">math</a>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1809.06451">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06451%26title%3DA%2520new%2520lower%2520bound%2520on%2520Hadwiger-Debrunner%2520numbers%2520in%2520the%2520plane%26authors%3D&amp;v=24d45efe" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06451%26description%3DA%2520new%2520lower%2520bound%2520on%2520Hadwiger-Debrunner%2520numbers%2520in%2520the%2520plane&amp;v=57ea64fa" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06451&amp;v=cda2333a" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06451%26description%3DA%2520new%2520lower%2520bound%2520on%2520Hadwiger-Debrunner%2520numbers%2520in%2520the%2520plane&amp;v=7849d9c1" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06451%26title%3DA%2520new%2520lower%2520bound%2520on%2520Hadwiger-Debrunner%2520numbers%2520in%2520the%2520plane&amp;v=7a23c109" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06451%26title%3DA%2520new%2520lower%2520bound%2520on%2520Hadwiger-Debrunner%2520numbers%2520in%2520the%2520plane&amp;v=3bc0d62e" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06451&amp;v=3036c80f" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Mathematics > Combinatorics</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+A new lower bound on Hadwiger-Debrunner numbers in the plane</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/math?searchtype=author&query=Keller%2C+C">Chaya Keller</a>, 
+<a href="/search/math?searchtype=author&query=Smorodinsky%2C+S">Shakhar Smorodinsky</a></div>
+<div class="dateline">(Submitted on 17 Sep 2018)</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> A set family $F$ is said to satisfy the $(p,q)$ property if among any $p$
+sets in $F$, some $q$ have a non-empty intersection. Hadwiger and Debrunner
+(1957) conjectured that for any $p \geq q \geq d+1$ there exists $c=c_d(p,q)$,
+such that any family of compact convex sets in $\mathbb{R}^d$ that satisfies
+the $(p,q)$ property, can be pierced by at most $c$ points. In their celebrated
+$(p,q)$ theorem from 1992, Alon and Kleitman proved the conjecture but did not
+obtain effective bounds on $c_d(p,q)$, called `the Hadwiger-Debrunner numbers'.
+Ever since, obtaining such bounds is a major open problem in convexity theory.
+The best currently known asymptotic lower bound on the Hadwiger-Debrunner
+numbers in the plane is $c_2(p,q) = \Omega( \frac{p}{q}\log(\frac{p}{q}))$.
+<br />In this paper we present the significantly stronger lower bound $c_2(p,q)
+\geq p^{1+\Omega(1/q)}$. This bound, obtained by an explicit family of lines,
+is tight for all families that have a bounded VC-dimension. Unlike previous
+bounds on the Hadwiger-Debrunner numbers which mainly used the weak epsilon-net
+theorem, our bound stems from a surprising connection of the $(p,q)$ problem to
+an old problem of Erd\H{o}s on points in general position in the plane. We use
+a novel construction for the Erd\H{o}s' problem, obtained recently by Balogh
+and Solymosi using the hypergraph container method, to get the lower bound on
+$c_2(p,3)$. We then generalize the bound to $c_2(p,q)$ for any $q \geq 3$ with
+a construction based on a subset of the $(2q-2)$-dimensional grid.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Comments:
+</td>
+<td class="tablecell comments mathjax">20 pages</td>
+</tr>
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Combinatorics (math.CO)</span>; Computational Geometry (cs.CG)</td>
+</tr>
+<tr>
+<td class="tablecell label">
+<abbr title="Mathematical Subject Classification">MSC</abbr>&nbsp;classes:
+</td>
+<td class="tablecell msc-classes">52A37, 05D40</td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1809.06451">arXiv:1809.06451</a> [math.CO]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1809.06451v1">arXiv:1809.06451v1</a> [math.CO]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Chaya Keller [<a href="https://arxiv.org/show-email/e2ceff2a/1809.06451">view email</a>]
+<br />
+<b>[v1]</b> Mon, 17 Sep 2018 21:25:59 GMT  (27kb)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1809.06451">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

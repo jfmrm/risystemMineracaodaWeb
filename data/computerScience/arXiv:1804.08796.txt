@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1804.08796] Block-Structure Based Time-Series Models For Graph Sequences</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="Block-Structure Based Time-Series Models For Graph Sequences" />
+<meta name="citation_author" content="Amjadi, Mehrnaz" />
+<meta name="citation_author" content="Tulabandhula, Theja" />
+<meta name="citation_date" content="2018/04/24" />
+<meta name="citation_online_date" content="2018/09/18" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1804.08796" />
+<meta name="citation_arxiv_id" content="1804.08796" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/stat/recent">stat</a> &gt; arXiv:1804.08796</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1804.08796"
+        dc:identifier="http://arxiv.org/abs/1804.08796"
+        dc:title="Block-Structure Based Time-Series Models For Graph Sequences"
+        trackback:ping="http://arxiv.org/trackback/1804.08796" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1804.08796" accesskey="f">PDF</a></li>
+<li><a href="/format/1804.08796">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">stat.ML</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1804.08796&amp;context=stat.ML&amp;function=prev" accesskey="p" title="previous in stat.ML (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1804.08796&amp;context=stat.ML&amp;function=next" accesskey="n" title="next in stat.ML (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/stat.ML/new">new</a>&nbsp;| <a href="/list/stat.ML/recent">recent</a>&nbsp;| <a href="/list/stat.ML/1804">1804</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1804.08796?context=cs">cs</a><br />
+<span class="subclass"><a href="/abs/1804.08796?context=cs.LG">cs.LG</a></span><br />
+<a href="/abs/1804.08796?context=stat">stat</a><br />
+<span class="subclass"><a href="/abs/1804.08796?context=stat.AP">stat.AP</a></span>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1804.08796">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1804.08796%26title%3DBlock-Structure%2520Based%2520Time-Series%2520Models%2520For%2520Graph%2520Sequences%26authors%3D&amp;v=60555312" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1804.08796%26description%3DBlock-Structure%2520Based%2520Time-Series%2520Models%2520For%2520Graph%2520Sequences&amp;v=a35a2f18" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1804.08796&amp;v=d0d8309e" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1804.08796%26description%3DBlock-Structure%2520Based%2520Time-Series%2520Models%2520For%2520Graph%2520Sequences&amp;v=739ab832" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1804.08796%26title%3DBlock-Structure%2520Based%2520Time-Series%2520Models%2520For%2520Graph%2520Sequences&amp;v=07a3d520" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1804.08796%26title%3DBlock-Structure%2520Based%2520Time-Series%2520Models%2520For%2520Graph%2520Sequences&amp;v=2dce4ff1" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1804.08796&amp;v=7407135c" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Statistics > Machine Learning</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+Block-Structure Based Time-Series Models For Graph Sequences</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/stat?searchtype=author&query=Amjadi%2C+M">Mehrnaz Amjadi</a>, 
+<a href="/search/stat?searchtype=author&query=Tulabandhula%2C+T">Theja Tulabandhula</a></div>
+<div class="dateline">(Submitted on 24 Apr 2018 (<a href="/abs/1804.08796v1">v1</a>), last revised 18 Sep 2018 (this version, v2))</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> Although the computational and statistical trade-off for modeling single
+graphs, for instance, using block models is relatively well understood,
+extending such results to sequences of graphs has proven to be difficult. In
+this work, we take a step in this direction by proposing two models for graph
+sequences that capture: (a) link persistence between nodes across time, and (b)
+community persistence of each node across time. In the first model, we assume
+that the latent community of each node does not change over time, and in the
+second model we relax this assumption suitably. For both of these proposed
+models, we provide statistically and computationally efficient inference
+algorithms, whose unique feature is that they leverage community detection
+methods that work on single graphs. We also provide experimental results
+validating the suitability of our models and methods on synthetic and real
+instances.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Comments:
+</td>
+<td class="tablecell comments mathjax">40 pages, 10 figures</td>
+</tr>
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Machine Learning (stat.ML)</span>; Machine Learning (cs.LG); Applications (stat.AP)</td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1804.08796">arXiv:1804.08796</a> [stat.ML]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1804.08796v2">arXiv:1804.08796v2</a> [stat.ML]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Theja Tulabandhula [<a href="https://arxiv.org/show-email/7ea4f6a5/1804.08796">view email</a>]
+<br />
+<b><a href="/abs/1804.08796v1">[v1]</a></b> Tue, 24 Apr 2018 01:14:16 GMT  (197kb,D)<br />
+<b>[v2]</b> Tue, 18 Sep 2018 16:34:31 GMT  (2563kb,D)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1804.08796">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

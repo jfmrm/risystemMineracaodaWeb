@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1803.05652] Relaxed Locally Correctable Codes in Computationally Bounded Channels</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="Relaxed Locally Correctable Codes in Computationally Bounded Channels" />
+<meta name="citation_author" content="Blocki, Jeremiah" />
+<meta name="citation_author" content="Gandikota, Venkata" />
+<meta name="citation_author" content="Grigorescu, Elena" />
+<meta name="citation_author" content="Zhou, Samson" />
+<meta name="citation_date" content="2018/03/15" />
+<meta name="citation_online_date" content="2018/09/17" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1803.05652" />
+<meta name="citation_arxiv_id" content="1803.05652" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/cs/recent">cs</a> &gt; arXiv:1803.05652</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1803.05652"
+        dc:identifier="http://arxiv.org/abs/1803.05652"
+        dc:title="Relaxed Locally Correctable Codes in Computationally Bounded Channels"
+        trackback:ping="http://arxiv.org/trackback/1803.05652" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1803.05652" accesskey="f">PDF</a></li>
+<li><a href="/ps/1803.05652">PostScript</a></li>
+<li><a href="/format/1803.05652">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">cs.DS</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1803.05652&amp;context=cs.DS&amp;function=prev" accesskey="p" title="previous in cs.DS (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1803.05652&amp;context=cs.DS&amp;function=next" accesskey="n" title="next in cs.DS (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/cs.DS/new">new</a>&nbsp;| <a href="/list/cs.DS/recent">recent</a>&nbsp;| <a href="/list/cs.DS/1803">1803</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1803.05652?context=cs">cs</a>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1803.05652">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="dblp">
+<h3><a href="http://www.informatik.uni-trier.de/~ley/db/">DBLP</a> - CS Bibliography</h3><div class="list">
+<a href="http://www.informatik.uni-trier.de/~ley/db/journals/corr/corr1803.html#abs-1803-05652" title="listing on DBLP">listing</a> | <a href="http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1803-05652" title="DBLP bibtex record">bibtex</a>
+</div>
+<div class="list">
+<a href="http://dblp.uni-trier.de/search/author?author=Jeremiah%20Blocki" title="DBLP author search">Jeremiah Blocki</a><br />
+<a href="http://dblp.uni-trier.de/search/author?author=Venkata%20Gandikota" title="DBLP author search">Venkata Gandikota</a><br />
+<a href="http://dblp.uni-trier.de/search/author?author=Elena%20Grigorescu" title="DBLP author search">Elena Grigorescu</a><br />
+<a href="http://dblp.uni-trier.de/search/author?author=Samson%20Zhou" title="DBLP author search">Samson Zhou</a><br />
+</div>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05652%26title%3DRelaxed%2520Locally%2520Correctable%2520Codes%2520in%2520Computationally%2520Bounded%2520Channels%26authors%3D&amp;v=5c9c1cf4" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05652%26description%3DRelaxed%2520Locally%2520Correctable%2520Codes%2520in%2520Computationally%2520Bounded%2520Channels&amp;v=f8b7cd76" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05652&amp;v=961bbe45" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05652%26description%3DRelaxed%2520Locally%2520Correctable%2520Codes%2520in%2520Computationally%2520Bounded%2520Channels&amp;v=4a0c0034" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05652%26title%3DRelaxed%2520Locally%2520Correctable%2520Codes%2520in%2520Computationally%2520Bounded%2520Channels&amp;v=2a7e2c84" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05652%26title%3DRelaxed%2520Locally%2520Correctable%2520Codes%2520in%2520Computationally%2520Bounded%2520Channels&amp;v=7fec5c11" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.05652&amp;v=05e95452" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Computer Science > Data Structures and Algorithms</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+Relaxed Locally Correctable Codes in Computationally Bounded Channels</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/cs?searchtype=author&query=Blocki%2C+J">Jeremiah Blocki</a>, 
+<a href="/search/cs?searchtype=author&query=Gandikota%2C+V">Venkata Gandikota</a>, 
+<a href="/search/cs?searchtype=author&query=Grigorescu%2C+E">Elena Grigorescu</a>, 
+<a href="/search/cs?searchtype=author&query=Zhou%2C+S">Samson Zhou</a></div>
+<div class="dateline">(Submitted on 15 Mar 2018 (<a href="/abs/1803.05652v1">v1</a>), last revised 17 Sep 2018 (this version, v2))</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> Error-correcting codes that admit local decoding and correcting algorithms
+have been the focus of much recent research due to their numerous theoretical
+and practical applications. An important goal is to obtain the best possible
+tradeoffs between the number of queries the algorithm makes to its oracle (the
+locality of the task), and the amount of redundancy in the encoding (the
+information rate).
+<br />In Hamming's classical adversarial channel model, the current tradeoffs are
+dramatic, allowing either small locality, but superpolynomial blocklength, or
+small blocklength, but high locality. However, in the computationally bounded,
+adversarial channel model, proposed by Lipton (STACS 1994), constructions of
+locally decodable codes suddenly exhibit small locality and small blocklength,
+but these constructions require strong trusted setup assumptions e.g.,
+Ostrovsky, Pandey and Sahai (ICALP 2007) construct private locally decodable
+codes in the setting where the sender and receiver already share a symmetric
+key.
+<br />We study variants of locally decodable and locally correctable codes in
+computationally bounded, adversarial channels, in a setting with no public-key
+or private-key cryptographic setup. The only setup assumption we require is the
+selection of the public parameters (seed) for a collision-resistant hash
+function. Specifically, we provide constructions of relaxed locally correctable
+and relaxed locally decodable codes over the binary alphabet, with constant
+information rate, and poly-logarithmic locality.
+<br />Our constructions, which compare favorably with their classical analogues in
+the computationally unbounded Hamming channel, crucially employ
+collision-resistant hash functions and local expander graphs, extending ideas
+from recent cryptographic constructions of memory-hard functions.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Data Structures and Algorithms (cs.DS)</span></td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1803.05652">arXiv:1803.05652</a> [cs.DS]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1803.05652v2">arXiv:1803.05652v2</a> [cs.DS]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Samson Zhou [<a href="https://arxiv.org/show-email/49806921/1803.05652">view email</a>]
+<br />
+<b><a href="/abs/1803.05652v1">[v1]</a></b> Thu, 15 Mar 2018 09:23:58 GMT  (40kb)<br />
+<b>[v2]</b> Mon, 17 Sep 2018 20:45:49 GMT  (48kb)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1803.05652">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1803.06324] Fast approximation and exact computation of negative curvature
+  parameters of graphs</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="Fast approximation and exact computation of negative curvature parameters of graphs" />
+<meta name="citation_author" content="Chalopin, J&#xe9;r&#xe9;mie" />
+<meta name="citation_author" content="Chepoi, Victor" />
+<meta name="citation_author" content="Dragan, Feodor F." />
+<meta name="citation_author" content="Ducoffe, Guillaume" />
+<meta name="citation_author" content="Mohammed, Abdulhakeem" />
+<meta name="citation_author" content="Vax&#xe8;s, Yann" />
+<meta name="citation_date" content="2018/03/16" />
+<meta name="citation_online_date" content="2018/09/18" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1803.06324" />
+<meta name="citation_arxiv_id" content="1803.06324" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/cs/recent">cs</a> &gt; arXiv:1803.06324</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1803.06324"
+        dc:identifier="http://arxiv.org/abs/1803.06324"
+        dc:title="Fast approximation and exact computation of negative curvature
+  parameters of graphs"
+        trackback:ping="http://arxiv.org/trackback/1803.06324" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1803.06324" accesskey="f">PDF</a></li>
+<li><a href="/format/1803.06324">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">cs.DS</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1803.06324&amp;context=cs.DS&amp;function=prev" accesskey="p" title="previous in cs.DS (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1803.06324&amp;context=cs.DS&amp;function=next" accesskey="n" title="next in cs.DS (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/cs.DS/new">new</a>&nbsp;| <a href="/list/cs.DS/recent">recent</a>&nbsp;| <a href="/list/cs.DS/1803">1803</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1803.06324?context=cs">cs</a><br />
+<span class="subclass"><a href="/abs/1803.06324?context=cs.CG">cs.CG</a></span><br />
+<span class="subclass"><a href="/abs/1803.06324?context=cs.DM">cs.DM</a></span><br />
+<a href="/abs/1803.06324?context=math">math</a><br />
+<span class="subclass"><a href="/abs/1803.06324?context=math.CO">math.CO</a></span>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1803.06324">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="dblp">
+<h3><a href="http://www.informatik.uni-trier.de/~ley/db/">DBLP</a> - CS Bibliography</h3><div class="list">
+<a href="http://www.informatik.uni-trier.de/~ley/db/journals/corr/corr1803.html#abs-1803-06324" title="listing on DBLP">listing</a> | <a href="http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1803-06324" title="DBLP bibtex record">bibtex</a>
+</div>
+<div class="list">
+<a href="http://dblp.uni-trier.de/search/author?author=J&#xE9;r&#xE9;mie%20Chalopin" title="DBLP author search">J&#xE9;r&#xE9;mie Chalopin</a><br />
+<a href="http://dblp.uni-trier.de/search/author?author=Victor%20Chepoi" title="DBLP author search">Victor Chepoi</a><br />
+<a href="http://dblp.uni-trier.de/search/author?author=Feodor%20F.%20Dragan" title="DBLP author search">Feodor F. Dragan</a><br />
+<a href="http://dblp.uni-trier.de/search/author?author=Guillaume%20Ducoffe" title="DBLP author search">Guillaume Ducoffe</a><br />
+<a href="http://dblp.uni-trier.de/search/author?author=Abdulhakeem%20Mohammed" title="DBLP author search">Abdulhakeem Mohammed</a><br />
+<div class="list">
+ ... 
+</div>
+</div>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.06324%26title%3DFast%2520approximation%2520and%2520exact%2520computation%2520of%2520negative%2520curvature%250A%2520%2520parameters%2520of%2520graphs%26authors%3D&amp;v=cc1bd1b9" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.06324%26description%3DFast%2520approximation%2520and%2520exact%2520computation%2520of%2520negative%2520curvature%250A%2520%2520parameters%2520of%2520graphs&amp;v=2992ea41" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.06324&amp;v=4d57afbd" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.06324%26description%3DFast%2520approximation%2520and%2520exact%2520computation%2520of%2520negative%2520curvature%250A%2520%2520parameters%2520of%2520graphs&amp;v=912aeca6" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.06324%26title%3DFast%2520approximation%2520and%2520exact%2520computation%2520of%2520negative%2520curvature%250A%2520%2520parameters%2520of%2520graphs&amp;v=855ba393" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.06324%26title%3DFast%2520approximation%2520and%2520exact%2520computation%2520of%2520negative%2520curvature%250A%2520%2520parameters%2520of%2520graphs&amp;v=b9c9592d" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1803.06324&amp;v=06354316" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Computer Science > Data Structures and Algorithms</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+Fast approximation and exact computation of negative curvature  parameters of graphs</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/cs?searchtype=author&query=Chalopin%2C+J">J&#xe9;r&#xe9;mie Chalopin</a>, 
+<a href="/search/cs?searchtype=author&query=Chepoi%2C+V">Victor Chepoi</a>, 
+<a href="/search/cs?searchtype=author&query=Dragan%2C+F+F">Feodor F. Dragan</a>, 
+<a href="/search/cs?searchtype=author&query=Ducoffe%2C+G">Guillaume Ducoffe</a>, 
+<a href="/search/cs?searchtype=author&query=Mohammed%2C+A">Abdulhakeem Mohammed</a>, 
+<a href="/search/cs?searchtype=author&query=Vax%C3%A8s%2C+Y">Yann Vax&#xe8;s</a></div>
+<div class="dateline">(Submitted on 16 Mar 2018 (<a href="/abs/1803.06324v1">v1</a>), last revised 18 Sep 2018 (this version, v2))</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> In this paper, we study Gromov hyperbolicity and related parameters, that
+represent how close (locally) a metric space is to a tree from a metric point
+of view. The study of Gromov hyperbolicity for geodesic metric spaces can be
+reduced to the study of graph hyperbolicity. The main contribution of this
+paper is a new characterization of the hyperbolicity of graphs. This
+characterization has algorithmic implications in the field of large-scale
+network analysis. A sharp estimate of graph hyperbolicity is useful, e.g., in
+embedding an undirected graph into hyperbolic space with minimum distortion
+[Verbeek and Suri, SoCG'14]. The hyperbolicity of a graph can be computed in
+polynomial-time, however it is unlikely that it can be done in subcubic time.
+This makes this parameter difficult to compute or to approximate on large
+graphs. Using our new characterization of graph hyperbolicity, we provide a
+simple factor 8 approximation algorithm for computing the hyperbolicity of an
+$n$-vertex graph $G=(V,E)$ in optimal time $O(n^2)$ (assuming that the input is
+the distance matrix of the graph). This algorithm leads to constant factor
+approximations of other graph-parameters related to hyperbolicity (thinness,
+slimness, and insize). We also present the first efficient algorithms for exact
+computation of these parameters. All of our algorithms can be used to
+approximate the hyperbolicity of a geodesic metric space.
+<br />We also show that a similar characterization of hyperbolicity holds for all
+geodesic metric spaces endowed with a geodesic spanning tree. Along the way, we
+prove that any complete geodesic metric space $(X,d)$ has such a geodesic
+spanning tree. We hope that this fundamental result can be useful in other
+contexts.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Data Structures and Algorithms (cs.DS)</span>; Computational Geometry (cs.CG); Discrete Mathematics (cs.DM); Combinatorics (math.CO)</td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1803.06324">arXiv:1803.06324</a> [cs.DS]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1803.06324v2">arXiv:1803.06324v2</a> [cs.DS]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: J&#xe9;r&#xe9;mie Chalopin [<a href="https://arxiv.org/show-email/336d9999/1803.06324">view email</a>]
+<br />
+<b><a href="/abs/1803.06324v1">[v1]</a></b> Fri, 16 Mar 2018 17:25:06 GMT  (45kb,D)<br />
+<b>[v2]</b> Tue, 18 Sep 2018 11:58:41 GMT  (108kb,D)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1803.06324">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

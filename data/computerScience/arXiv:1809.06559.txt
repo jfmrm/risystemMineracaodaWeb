@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1809.06559] User Information Augmented Semantic Frame Parsing using Coarse-to-Fine
+  Neural Networks</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="User Information Augmented Semantic Frame Parsing using Coarse-to-Fine Neural Networks" />
+<meta name="citation_author" content="Shen, Yilin" />
+<meta name="citation_author" content="Zeng, Xiangyu" />
+<meta name="citation_author" content="Wang, Yu" />
+<meta name="citation_author" content="Jin, Hongxia" />
+<meta name="citation_date" content="2018/09/18" />
+<meta name="citation_online_date" content="2018/09/18" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1809.06559" />
+<meta name="citation_arxiv_id" content="1809.06559" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/cs/recent">cs</a> &gt; arXiv:1809.06559</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1809.06559"
+        dc:identifier="http://arxiv.org/abs/1809.06559"
+        dc:title="User Information Augmented Semantic Frame Parsing using Coarse-to-Fine
+  Neural Networks"
+        trackback:ping="http://arxiv.org/trackback/1809.06559" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1809.06559" accesskey="f">PDF</a></li>
+<li><a href="/format/1809.06559">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">cs.CL</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.06559&amp;context=cs.CL&amp;function=prev" accesskey="p" title="previous in cs.CL (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.06559&amp;context=cs.CL&amp;function=next" accesskey="n" title="next in cs.CL (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/cs.CL/new">new</a>&nbsp;| <a href="/list/cs.CL/recent">recent</a>&nbsp;| <a href="/list/cs.CL/1809">1809</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1809.06559?context=cs">cs</a><br />
+<span class="subclass"><a href="/abs/1809.06559?context=cs.AI">cs.AI</a></span>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1809.06559">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06559%26title%3DUser%2520Information%2520Augmented%2520Semantic%2520Frame%2520Parsing%2520using%2520Coarse-to-Fine%250A%2520%2520Neural%2520Networks%26authors%3D&amp;v=bf27014d" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06559%26description%3DUser%2520Information%2520Augmented%2520Semantic%2520Frame%2520Parsing%2520using%2520Coarse-to-Fine%250A%2520%2520Neural%2520Networks&amp;v=77e704a3" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06559&amp;v=8ab1c934" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06559%26description%3DUser%2520Information%2520Augmented%2520Semantic%2520Frame%2520Parsing%2520using%2520Coarse-to-Fine%250A%2520%2520Neural%2520Networks&amp;v=d8664c5b" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06559%26title%3DUser%2520Information%2520Augmented%2520Semantic%2520Frame%2520Parsing%2520using%2520Coarse-to-Fine%250A%2520%2520Neural%2520Networks&amp;v=6e6f6dd2" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06559%26title%3DUser%2520Information%2520Augmented%2520Semantic%2520Frame%2520Parsing%2520using%2520Coarse-to-Fine%250A%2520%2520Neural%2520Networks&amp;v=be5f7a8d" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06559&amp;v=502d6630" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Computer Science > Computation and Language</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+User Information Augmented Semantic Frame Parsing using Coarse-to-Fine  Neural Networks</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/cs?searchtype=author&query=Shen%2C+Y">Yilin Shen</a>, 
+<a href="/search/cs?searchtype=author&query=Zeng%2C+X">Xiangyu Zeng</a>, 
+<a href="/search/cs?searchtype=author&query=Wang%2C+Y">Yu Wang</a>, 
+<a href="/search/cs?searchtype=author&query=Jin%2C+H">Hongxia Jin</a></div>
+<div class="dateline">(Submitted on 18 Sep 2018)</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> Semantic frame parsing is a crucial component in spoken language
+understanding (SLU) to build spoken dialog systems. It has two main tasks:
+intent detection and slot filling. Although state-of-the-art approaches showed
+good results, they require large annotated training data and long training
+time. In this paper, we aim to alleviate these drawbacks for semantic frame
+parsing by utilizing the ubiquitous user information. We design a novel
+coarse-to-fine deep neural network model to incorporate prior knowledge of user
+information intermediately to better and quickly train a semantic frame parser.
+Due to the lack of benchmark dataset with real user information, we synthesize
+the simplest type of user information (location and time) on ATIS benchmark
+data. The results show that our approach leverages such simple user information
+to outperform state-of-the-art approaches by 0.25% for intent detection and
+0.31% for slot filling using standard training data. When using smaller
+training data, the performance improvement on intent detection and slot filling
+reaches up to 1.35% and 1.20% respectively. We also show that our approach can
+achieve similar performance as state-of-the-art approaches by using less than
+80% annotated training data. Moreover, the training time to achieve the similar
+performance is also reduced by over 60%.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Computation and Language (cs.CL)</span>; Artificial Intelligence (cs.AI)</td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1809.06559">arXiv:1809.06559</a> [cs.CL]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1809.06559v1">arXiv:1809.06559v1</a> [cs.CL]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Yilin Shen [<a href="https://arxiv.org/show-email/55b384e8/1809.06559">view email</a>]
+<br />
+<b>[v1]</b> Tue, 18 Sep 2018 07:08:59 GMT  (5053kb,D)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1809.06559">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>[1809.06557] Image Super-Resolution via Deterministic-Stochastic Synthesis and Local
+  Statistical Rectification</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/arXiv.css?v=20170424" />
+<meta name="citation_title" content="Image Super-Resolution via Deterministic-Stochastic Synthesis and Local Statistical Rectification" />
+<meta name="citation_author" content="Ge, Weifeng" />
+<meta name="citation_author" content="Gong, Bingchen" />
+<meta name="citation_author" content="Yu, Yizhou" />
+<meta name="citation_doi" content="10.1145/3272127.3275060" />
+<meta name="citation_date" content="2018/09/18" />
+<meta name="citation_online_date" content="2018/09/18" />
+<meta name="citation_pdf_url" content="http://arxiv.org/pdf/1809.06557" />
+<meta name="citation_arxiv_id" content="1809.06557" />
+<script src="/js/mathjaxToggle.min.js" type="text/javascript"></script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(["setDomains", ["*.arxiv.org"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function()
+{ var u="//webanalytics.library.cornell.edu/"; _paq.push(['setTrackerUrl', u+'piwik.php']); _paq.push(['setSiteId', 538]); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); }
+)();
+</script>
+<!-- End Piwik Code -->
+
+
+</head>
+<body class="with-cu-identity">
+
+<noscript><img src="//webanalytics.library.cornell.edu/piwik.php?idsite=538&rec=1" style="border:0;" alt="" /></noscript>
+
+<div id="cu-identity">
+<div id="cu-logo">
+<a id="insignia-link" href="http://www.cornell.edu/"><img src="/icons/cu/cul_signature_unstyled.gif" alt="Cornell University" width="283" height="76" border="0" /></a>
+<div id="unit-signature-links">
+<a id="cornell-link" href="http://www.cornell.edu/">Cornell University</a>
+<a id="unit-link" href="http://www.library.cornell.edu/">Library</a>
+</div>
+</div>
+<div id="support-ack">
+<a href="https://confluence.cornell.edu/x/ALlRF">We gratefully acknowledge support from<br />the Simons Foundation<br /> and member institutions</a>
+</div>
+</div>
+<div id="header">
+<h1><a href="/">arXiv.org</a> &gt; <a href="/list/cs/recent">cs</a> &gt; arXiv:1809.06557</h1>
+<div id="search">
+<form id="search-arxiv" method="GET" action="/search">
+                
+<div class="wrapper-search-arxiv">
+<input class="keyword-field" type="text" name="query" placeholder="Search or Article ID"/>
+
+<div class="filter-field">
+<select name="searchtype">
+<option value="all">All fields</option>
+<option value="title">Title</option>
+<option value="author">Author(s)</option>
+<option value="abstract">Abstract</option>
+<option value="comments">Comments</option>
+<option value="journal_ref">Journal reference</option>
+<option value="acm_class">ACM classification</option>
+<option value="msc_class">MSC classification</option>
+<option value="report_num">Report number</option>
+<option value="paper_id">arXiv identifier</option>
+<option value="doi">DOI</option>
+<option value="orcid">ORCID</option>
+<option value="author_id">arXiv author ID</option>
+<option value="help">Help pages</option>
+<option value="full_text">Full text</option></select>
+</div>
+<input class="btn-search-arxiv" value="" type="submit">
+<div class="links">(<a href="/help">Help</a> | <a href="/search/advanced">Advanced search</a>)</div>
+</div>
+<input type="hidden" name="source" value="header">
+</form>
+</div>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/1809.06557"
+        dc:identifier="http://arxiv.org/abs/1809.06557"
+        dc:title="Image Super-Resolution via Deterministic-Stochastic Synthesis and Local
+  Statistical Rectification"
+        trackback:ping="http://arxiv.org/trackback/1809.06557" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/pdf/1809.06557" accesskey="f">PDF</a></li>
+<li><a href="/format/1809.06557">Other formats</a></li>
+</ul>
+<div class="abs-license">(<a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/" title="Rights to this article">license</a>)</div>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">cs.CV</div>
+<div class="prevnext"><span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.06557&amp;context=cs.CV&amp;function=prev" accesskey="p" title="previous in cs.CV (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="http://arxiv.org/prevnext?site=arxiv.org&amp;id=1809.06557&amp;context=cs.CV&amp;function=next" accesskey="n" title="next in cs.CV (accesskey n)">next&nbsp;&gt;</a></span>
+<br /></div>
+<div class="list"><a href="/list/cs.CV/new">new</a>&nbsp;| <a href="/list/cs.CV/recent">recent</a>&nbsp;| <a href="/list/cs.CV/1809">1809</a></div><h3>Change to browse by:</h3><div class="switch">
+<a href="/abs/1809.06557?context=cs">cs</a>
+</div>
+
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1809.06557">NASA ADS</a></li>
+</ul>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06557%26title%3DImage%2520Super-Resolution%2520via%2520Deterministic-Stochastic%2520Synthesis%2520and%2520Local%250A%2520%2520Statistical%2520Rectification%26authors%3D&amp;v=c8ead4ac" title="Bookmark on CiteULike"><img src="//static.arxiv.org/icons/social/citeulike.png" alt="CiteULike logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06557%26description%3DImage%2520Super-Resolution%2520via%2520Deterministic-Stochastic%2520Synthesis%2520and%2520Local%250A%2520%2520Statistical%2520Rectification&amp;v=df730284" title="Bookmark on BibSonomy"><img src="//static.arxiv.org/icons/social/bibsonomy.png" alt="BibSonomy logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06557&amp;v=75fb99e7" title="Bookmark on Mendeley"><img src="//static.arxiv.org/icons/social/mendeley.png" alt="Mendeley logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06557%26description%3DImage%2520Super-Resolution%2520via%2520Deterministic-Stochastic%2520Synthesis%2520and%2520Local%250A%2520%2520Statistical%2520Rectification&amp;v=ba97c882" title="Bookmark on del.icio.us"><img src="//static.arxiv.org/icons/social/delicious.png" alt="del.icio.us logo" /></a>
+<a href="/ct?url=https%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06557%26title%3DImage%2520Super-Resolution%2520via%2520Deterministic-Stochastic%2520Synthesis%2520and%2520Local%250A%2520%2520Statistical%2520Rectification&amp;v=d6b7fd4f" title="Bookmark on Digg"><img src="//static.arxiv.org/icons/social/digg.png" alt="Digg logo" /></a>
+<a href="/ct?url=https%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06557%26title%3DImage%2520Super-Resolution%2520via%2520Deterministic-Stochastic%2520Synthesis%2520and%2520Local%250A%2520%2520Statistical%2520Rectification&amp;v=95e7e008" title="Bookmark on Reddit"><img src="//static.arxiv.org/icons/social/reddit.png" alt="Reddit logo" /></a>
+<a href="/ct?url=http%3A%2F%2Fsciencewise.info%2Fbookmarks%2Fadd%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2F1809.06557&amp;v=b54a72b2" title="Bookmark on ScienceWISE"><img src="//static.arxiv.org/icons/social/sciencewise.png" alt="ScienceWISE logo" /></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Computer Science > Computer Vision and Pattern Recognition</h1>
+</div>
+<h1 class="title mathjax"><span class="descriptor">Title:</span>
+Image Super-Resolution via Deterministic-Stochastic Synthesis and Local  Statistical Rectification</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/search/cs?searchtype=author&query=Ge%2C+W">Weifeng Ge</a>, 
+<a href="/search/cs?searchtype=author&query=Gong%2C+B">Bingchen Gong</a>, 
+<a href="/search/cs?searchtype=author&query=Yu%2C+Y">Yizhou Yu</a></div>
+<div class="dateline">(Submitted on 18 Sep 2018)</div>
+<blockquote class="abstract mathjax">
+<span class="descriptor">Abstract:</span> Single image superresolution has been a popular research topic in the last
+two decades and has recently received a new wave of interest due to deep neural
+networks. In this paper, we approach this problem from a different perspective.
+With respect to a downsampled low resolution image, we model a high resolution
+image as a combination of two components, a deterministic component and a
+stochastic component. The deterministic component can be recovered from the
+low-frequency signals in the downsampled image. The stochastic component, on
+the other hand, contains the signals that have little correlation with the low
+resolution image. We adopt two complementary methods for generating these two
+components. While generative adversarial networks are used for the stochastic
+component, deterministic component reconstruction is formulated as a regression
+problem solved using deep neural networks. Since the deterministic component
+exhibits clearer local orientations, we design novel loss functions tailored
+for such properties for training the deep regression network. These two methods
+are first applied to the entire input image to produce two distinct
+high-resolution images. Afterwards, these two images are fused together using
+another deep neural network that also performs local statistical rectification,
+which tries to make the local statistics of the fused image match the same
+local statistics of the groundtruth image. Quantitative results and a user
+study indicate that the proposed method outperforms existing state-of-the-art
+algorithms with a clear margin.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Comments:
+</td>
+<td class="tablecell comments mathjax">to appear in SIGGRAPH Asia 2018</td>
+</tr>
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Computer Vision and Pattern Recognition (cs.CV)</span></td>
+</tr>
+<tr>
+<td class="tablecell label">
+<abbr title="Digital Object Identifier">DOI</abbr>:
+</td>
+<td class="tablecell doi"><a href="/ct?url=http%3A%2F%2Fdx.doi.org%2F10%252E1145%2F3272127%252E3275060&amp;v=5e6f64ca">10.1145/3272127.3275060</a></td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/abs/1809.06557">arXiv:1809.06557</a> [cs.CV]</td>
+</tr>
+<tr>
+<td class="tablecell label">&nbsp;</td>
+<td class="tablecell arxividv">(or <span class="arxivid"><a href="/abs/1809.06557v1">arXiv:1809.06557v1</a> [cs.CV]</span> for this version)</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Bingchen Gong [<a href="https://arxiv.org/show-email/fef66702/1809.06557">view email</a>]
+<br />
+<b>[v1]</b> Tue, 18 Sep 2018 06:50:56 GMT  (9236kb,D)<br />
+</div>
+<div class="endorsers"><a href="http://arxiv.org/auth/show-endorsers/1809.06557">Which authors of this paper are endorsers?</a> | <a id="mathjax_toggle" href="javascript:setMathjaxCookie()">Disable MathJax</a> (<a href="/help/mathjax/">What is MathJax?</a>)</div><script type="text/javascript" language="javascript">mathjaxToggle();</script>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<div class="footer-text">
+<p>Link back to: <a href="http://arxiv.org/">arXiv</a>, <a href="/form">form interface</a>, <a href="/help/contact">contact</a>.</p>
+</div>
+<div class="social"><a href="https://twitter.com/arxiv"><img src="//static.arxiv.org/icons/twitter_logo_blue.png" alt="Twitter" title="Follow arXiv on Twitter"></a></div>
+</div>
+</body>
+</html>

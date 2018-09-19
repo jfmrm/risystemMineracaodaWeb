@@ -68,7 +68,7 @@ public class Main extends Thread {
 			w.close();
 			
 			//String queryString = "Danger morbid obesity for teenagers";
-			//String queryString = "Neural networks applied on recommendation algorithms";
+			//String queryString = "recommendation algorithms";
 			String queryString = busca;
 			Query q = new QueryParser("body", analyzer).parse(queryString);
 			System.out.println(q.toString());
