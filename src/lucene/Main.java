@@ -68,8 +68,8 @@ public class Main extends Thread {
 			}
 			w.close();
 			
-			//String queryString = "Danger morbid obesity for teenagers";
-			//String queryString = "recommendation algorithms";
+			//String queryString = "morbid obesity";
+			//String queryString = "neural networks";
 			String queryString = busca;
 			Query q = new QueryParser("body", analyzer).parse(queryString);
 			
