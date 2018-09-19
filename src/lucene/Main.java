@@ -37,13 +37,13 @@ public class Main extends Thread {
 		*/
 		Analyzer analyzer;
 		if(stem && stopWords) {
-			analyzer = new EnglishAnalyzer(CharArraySet.EMPTY_SET);
-		} else if(stem && !stopWords) {
 			analyzer = new EnglishAnalyzer();
+		} else if(stem && !stopWords) {
+			analyzer = new EnglishAnalyzer(CharArraySet.EMPTY_SET);
 		} else if(stopWords) {
-			analyzer = new StandardAnalyzer(CharArraySet.EMPTY_SET);
-		} else {
 			analyzer = new StandardAnalyzer();
+		} else {
+			analyzer = new StandardAnalyzer(CharArraySet.EMPTY_SET);
 		}
 		
 		Directory index = new RAMDirectory();
@@ -71,8 +71,9 @@ public class Main extends Thread {
 			//String queryString = "Neural networks applied on recommendation algorithms";
 			String queryString = busca;
 			Query q = new QueryParser("body", analyzer).parse(queryString);
+			System.out.println(q.toString());
 			
-			int hitsPerPage = 10;
+			int hitsPerPage = 100;
 	        IndexReader reader = DirectoryReader.open(index);
 	        IndexSearcher searcher = new IndexSearcher(reader);
 	        TopDocs docs = searcher.search(q, hitsPerPage);
